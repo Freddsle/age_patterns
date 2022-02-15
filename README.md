@@ -23,6 +23,6 @@ poetry install
 # Run
 poetry run python code/file.py
 
-## or for run .ipynb files
+# or for run .ipynb files
 poetry run jupyter notebook
 ```
