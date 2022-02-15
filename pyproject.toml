@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "age_patterns"
+version = "0.1"
+description = "Age Patterns Project."
+repository = "https://github.com/Freddsle/age_patterns/"
+authors = ["Yuliya Burankova"]
+
+[tool.poetry.dependencies]
+python = ">3.10"
+networkx = {extras = ["default"], version = "^2.6.3"}
+
+
+
+[tool.poetry.dev-dependencies]
+jupyter = "^1.0.0"
