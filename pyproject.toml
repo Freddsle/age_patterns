@@ -6,8 +6,12 @@ repository = "https://github.com/Freddsle/age_patterns/"
 authors = ["Yuliya Burankova"]
 
 [tool.poetry.dependencies]
-python = ">3.10"
+python = ">3.10,<3.11"
 networkx = {extras = ["default"], version = "^2.6.3"}
+pandas = "^1.4.1"
+igraph = "^0.9.9"
+community = "^1.0.0-beta.1"
+matplotlib = "^3.5.1"
 
 
 
