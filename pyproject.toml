@@ -12,6 +12,8 @@ pandas = "^1.4.1"
 igraph = "^0.9.9"
 community = "^1.0.0-beta.1"
 matplotlib = "^3.5.1"
+biopython = "^1.79"
+seaborn = "^0.11.2"
 
 
 
