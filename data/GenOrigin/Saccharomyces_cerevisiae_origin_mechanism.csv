@@ -1,0 +1,3936 @@
+gene,origin_mechanism,parental_gene
+YDR342C,DNA-based duplication,YMR011W
+YDR342C,DNA-based duplication,YDL245C
+YDR342C,DNA-based duplication,YHR096C
+YDR342C,DNA-based duplication,YLR081W
+YDR342C,DNA-based duplication,YHR094C
+YDR342C,DNA-based duplication,YJL214W
+YDR342C,DNA-based duplication,YOL156W
+YDR342C,DNA-based duplication,YHR092C
+YDR342C,DNA-based duplication,YFL011W
+YDR342C,DNA-based duplication,YDR343C
+YDR342C,DNA-based duplication,YJL219W
+YDR342C,DNA-based duplication,YEL069C
+YDR342C,DNA-based duplication,YDR345C
+YDR342C,DNA-based duplication,YJR158W
+YDR343C,DNA-based duplication,YMR011W
+YDR343C,DNA-based duplication,YDL245C
+YDR343C,DNA-based duplication,YDR342C
+YDR343C,DNA-based duplication,YHR096C
+YDR343C,DNA-based duplication,YLR081W
+YDR343C,DNA-based duplication,YHR094C
+YDR343C,DNA-based duplication,YJL214W
+YDR343C,DNA-based duplication,YOL156W
+YDR343C,DNA-based duplication,YHR092C
+YDR343C,DNA-based duplication,YFL011W
+YDR343C,DNA-based duplication,YJL219W
+YDR343C,DNA-based duplication,YEL069C
+YDR343C,DNA-based duplication,YDR345C
+YDR343C,DNA-based duplication,YJR158W
+YBR145W,DNA-based duplication,YMR083W
+YBR145W,DNA-based duplication,YOL086C
+YBR145W,DNA-based duplication,YMR303C
+YBR157C,de novo origination,YBR157C
+YBR169C,DNA-based duplication like,YBL075C
+YBR169C,DNA-based duplication,YPL106C
+YBR169C,DNA-based duplication like,YNL209W
+YBR172C,DNA-based duplication like,YPL105C
+YBR197C,de novo origination,YBR197C
+YBR210W,DNA-based duplication,YGL054C
+YOR028C,DNA-based duplication like,YDR259C
+YOR062C,DNA-based duplication like,YKR075C
+YOR072W-B,DNA-based duplication like,YOL013W-A
+YOL013W-A,DNA-based duplication,YOR072W-B
+YOR097C,de novo origination,YOR097C
+YOR134W,DNA-based duplication like,YDR389W
+YOR137C,DNA-based duplication like,YLR361C
+YNR055C,de novo origination,YNR055C
+YNR056C,de novo origination,YNR056C
+YNR057C,de novo origination,YNR057C
+YNR058W,de novo origination,YNR058W
+YNR059W,DNA-based duplication like,YGL257C
+YNR059W,DNA-based duplication like,YIL014W
+YNR059W,DNA-based duplication like,YER001W
+YNR060W,DNA-based duplication,YOR381W
+YNR060W,DNA-based duplication like,YOR384W
+YNR060W,DNA-based duplication,YKL220C
+YNR060W,DNA-based duplication like,YLR214W
+YNR060W,DNA-based duplication like,YLL051C
+YNR062C,de novo origination,YNR062C
+YNR063W,de novo origination,YNR063W
+YNR064C,de novo origination,YNR064C
+YNR066C,DNA-based duplication,YCR101C
+YNR066C,DNA-based duplication like,YCR100C
+YNR067C,DNA-based duplication like,YLR144C
+YNR068C,DNA-based duplication like,YMR275C
+YNR068C,DNA-based duplication like,YNR069C
+YNR068C,DNA-based duplication like,YML111W
+YNR069C,DNA-based duplication like,YMR275C
+YNR069C,DNA-based duplication like,YNR068C
+YNR069C,DNA-based duplication like,YML111W
+YNR071C,DNA-based duplication,YHR210C
+YNR072W,DNA-based duplication like,YDL138W
+YNR072W,DNA-based duplication like,YDL194W
+YNR072W,DNA-based duplication like,YNL318C
+YNR073C,DNA-based duplication,YEL070W
+YNR074C,de novo origination,YNR074C
+YNR075W,DNA-based duplication like,YDL248W
+YNR075W,DNA-based duplication like,YML132W
+YNR075W,DNA-based duplication like,YBR302C
+YNR075W,DNA-based duplication like,YGL263W
+YNR075W,DNA-based duplication like,YHL048W
+YNR075W,DNA-based duplication like,YJR161C
+YNR075W,DNA-based duplication like,YGR295C
+YNR075W,DNA-based duplication like,YHL043W
+YNR075W,DNA-based duplication like,YNL336W
+YNR075W,DNA-based duplication like,YFL062W
+YNR075W,DNA-based duplication like,YHL042W
+YNR075W,DNA-based duplication like,YKL219W
+YNR075C-A,DNA-based duplication like,YJL222W-B
+YNR075C-A,DNA-based duplication like,YJL222W-A
+YNR075C-A,DNA-based duplication like,YBL108W
+YNR075C-A,DNA-based duplication like,YAL067W-A
+YNR075C-A,DNA-based duplication like,YIR040C
+YNR075C-A,DNA-based duplication like,YKL223W
+YNR075C-A,DNA-based duplication like,YGL260W
+YNR076W,DNA-based duplication,YLR461W
+YNR076W,DNA-based duplication,YMR325W
+YNR076W,DNA-based duplication,YLR037C
+YNR076W,DNA-based duplication,YIR041W
+YNR076W,DNA-based duplication,YGR294W
+YNR076W,DNA-based duplication,YIL176C
+YNR076W,DNA-based duplication,YEL049W
+YNR076W,DNA-based duplication,YLL064C
+YNR076W,DNA-based duplication,YKL224C
+YNR076W,DNA-based duplication,YDR542W
+YNR076W,DNA-based duplication like,YJR151C
+YNR076W,DNA-based duplication like,YJR150C
+YNR076W,DNA-based duplication,YHL046C
+YNR076W,DNA-based duplication,YPL282C
+YNR076W,DNA-based duplication,YBR301W
+YNR076W,DNA-based duplication,YFL020C
+YNR076W,DNA-based duplication,YAR020C
+YNR076W,DNA-based duplication,YLL025W
+YNR076W,DNA-based duplication,YBL108C-A
+YNR076W,DNA-based duplication,YJL223C
+YNR076W,DNA-based duplication,YCR104W
+YNR076W,DNA-based duplication,YOL161C
+YNR076W,DNA-based duplication,YOR394W
+YNR076W,DNA-based duplication,YAL068C
+YNR076W,DNA-based duplication,YGL261C
+YNR077C,DNA-based duplication,YDR543C
+YNR077C,DNA-based duplication,YER188C-A
+YNR077C,DNA-based duplication,YJR162C
+YNR077C,DNA-based duplication,YOL166W-A
+YNR077C,DNA-based duplication,YAL068W-A
+YNR077C,DNA-based duplication,YNL337W
+YNR077C,DNA-based duplication like,YFL063W
+YNR077C,DNA-based duplication,YMR326C
+YNR077C,DNA-based duplication,YLL065W
+YNR077C,DNA-based duplication,YKL225W
+YOL166W-A,DNA-based duplication like,YDR543C
+YOL166W-A,DNA-based duplication like,YER188C-A
+YOL166W-A,DNA-based duplication like,YJR162C
+YOL166W-A,DNA-based duplication like,YAL068W-A
+YOL166W-A,DNA-based duplication like,YNR077C
+YOL166W-A,DNA-based duplication like,YNL337W
+YOL166W-A,DNA-based duplication like,YFL063W
+YOL166W-A,DNA-based duplication like,YMR326C
+YOL166W-A,DNA-based duplication like,YLL065W
+YOL166W-A,DNA-based duplication like,YKL225W
+YOL165C,de novo origination,YOL165C
+YOL164W,de novo origination,YOL164W
+YOL163W,DNA-based duplication like,YOL162W
+YOL163W,DNA-based duplication like,YIL166C
+YOL162W,DNA-based duplication like,YOL163W
+YOL162W,DNA-based duplication like,YIL166C
+YOL161C,DNA-based duplication,YLR461W
+YOL161C,DNA-based duplication,YMR325W
+YOL161C,DNA-based duplication,YLR037C
+YOL161C,DNA-based duplication,YIR041W
+YOL161C,DNA-based duplication,YGR294W
+YOL161C,DNA-based duplication,YIL176C
+YOL161C,DNA-based duplication,YEL049W
+YOL161C,DNA-based duplication,YLL064C
+YOL161C,DNA-based duplication,YKL224C
+YOL161C,DNA-based duplication,YDR542W
+YOL161C,DNA-based duplication like,YJR151C
+YOL161C,DNA-based duplication like,YJR150C
+YOL161C,DNA-based duplication,YHL046C
+YOL161C,DNA-based duplication,YPL282C
+YOL161C,DNA-based duplication,YBR301W
+YOL161C,DNA-based duplication,YFL020C
+YOL161C,DNA-based duplication,YAR020C
+YOL161C,DNA-based duplication,YLL025W
+YOL161C,DNA-based duplication,YBL108C-A
+YOL161C,DNA-based duplication,YJL223C
+YOL161C,DNA-based duplication,YCR104W
+YOL161C,DNA-based duplication,YNR076W
+YOL161C,DNA-based duplication,YOR394W
+YOL161C,DNA-based duplication,YAL068C
+YOL161C,DNA-based duplication,YGL261C
+YOL158C,DNA-based duplication like,YEL065W
+YOL158C,DNA-based duplication like,YHL040C
+YOL158C,DNA-based duplication like,YCL073C
+YOL158C,DNA-based duplication like,YKR106W
+YOL158C,DNA-based duplication like,YHL047C
+YOL157C,DNA-based duplication,YIL172C
+YOL157C,DNA-based duplication,YJL216C
+YOL157C,DNA-based duplication,YBR299W
+YOL157C,DNA-based duplication,YGR292W
+YOL157C,DNA-based duplication,YGR287C
+YOL155C,DNA-based duplication,YAR066W
+YOL155C,DNA-based duplication,YHR214W
+YOL155C,DNA-based duplication,YIL169C
+YOL154W,de novo origination,YOL154W
+YOL152W,de novo origination,YOL152W
+YOL128C,DNA-based duplication like,YNL307C
+YOL128C,DNA-based duplication like,YMR139W
+YOL128C,retroposition like,YDL079C
+YOL128C,DNA-based duplication like,YLR113W
+YOL128C,DNA-based duplication like,YPR054W
+YOL113W,DNA-based duplication like,YNL298W
+YOL113W,DNA-based duplication like,YHL007C
+YOL106W,DNA-based duplication,YGR122C-A
+YOL106W,DNA-based duplication like,YLR334C
+YOL106W,DNA-based duplication,YPR002C-A
+YOL106W,DNA-based duplication,YCR018C-A
+YOL106W,DNA-based duplication,YDR034C-A
+YOL106W,DNA-based duplication,YMR046W-A
+YOL101C,de novo origination,YOL101C
+YCR097W-A,DNA-based duplication,YCR041W
+YCR097W-A,DNA-based duplication,YCL065W
+YCR098C,de novo origination,YCR098C
+YCR100C,DNA-based duplication like,YCR101C
+YCR100C,DNA-based duplication like,YNR066C
+YCR101C,DNA-based duplication like,YNR066C
+YCR101C,DNA-based duplication like,YCR100C
+YCR104W,DNA-based duplication,YLR461W
+YCR104W,DNA-based duplication,YMR325W
+YCR104W,DNA-based duplication,YIR041W
+YCR104W,DNA-based duplication,YLR037C
+YCR104W,DNA-based duplication,YGR294W
+YCR104W,DNA-based duplication,YIL176C
+YCR104W,DNA-based duplication,YEL049W
+YCR104W,DNA-based duplication,YLL064C
+YCR104W,DNA-based duplication,YKL224C
+YCR104W,DNA-based duplication,YDR542W
+YCR104W,DNA-based duplication like,YJR151C
+YCR104W,DNA-based duplication like,YJR150C
+YCR104W,DNA-based duplication,YHL046C
+YCR104W,DNA-based duplication,YPL282C
+YCR104W,DNA-based duplication,YBR301W
+YCR104W,DNA-based duplication,YFL020C
+YCR104W,DNA-based duplication,YBL108C-A
+YCR104W,DNA-based duplication,YLL025W
+YCR104W,DNA-based duplication,YAR020C
+YCR104W,DNA-based duplication,YJL223C
+YCR104W,DNA-based duplication,YNR076W
+YCR104W,DNA-based duplication,YOL161C
+YCR104W,DNA-based duplication,YOR394W
+YCR104W,DNA-based duplication,YAL068C
+YCR104W,DNA-based duplication,YGL261C
+YCR106W,DNA-based duplication like,YOR363C
+YCR106W,DNA-based duplication like,YLL054C
+YCR106W,DNA-based duplication like,YAL051W
+YCR107W,DNA-based duplication,YNL331C
+YCR107W,DNA-based duplication,YDL243C
+YCR107W,DNA-based duplication,YJR155W
+YDL248W,DNA-based duplication,YML132W
+YDL248W,DNA-based duplication,YBR302C
+YDL248W,DNA-based duplication,YHL048W
+YDL248W,DNA-based duplication,YGR295C
+YDL248W,DNA-based duplication like,YHL043W
+YDL248W,DNA-based duplication,YJR161C
+YDL248W,DNA-based duplication,YNL336W
+YDL248W,DNA-based duplication like,YNR075W
+YDL248W,DNA-based duplication,YFL062W
+YDL248W,DNA-based duplication like,YHL042W
+YDL248W,DNA-based duplication,YKL219W
+YDL248W,DNA-based duplication like,YGL263W
+YDL247W,de novo origination,YDL247W
+YDL246C,DNA-based duplication,YLR070C
+YDL246C,DNA-based duplication,YJR159W
+YDL245C,DNA-based duplication,YMR011W
+YDL245C,DNA-based duplication like,YHR096C
+YDL245C,DNA-based duplication,YDR342C
+YDL245C,DNA-based duplication,YLR081W
+YDL245C,DNA-based duplication,YHR094C
+YDL245C,DNA-based duplication,YJL214W
+YDL245C,DNA-based duplication,YOL156W
+YDL245C,DNA-based duplication,YHR092C
+YDL245C,DNA-based duplication,YFL011W
+YDL245C,DNA-based duplication,YDR343C
+YDL245C,DNA-based duplication,YJL219W
+YDL245C,DNA-based duplication,YEL069C
+YDL245C,DNA-based duplication,YDR345C
+YDL245C,DNA-based duplication,YJR158W
+YDL243C,DNA-based duplication,YNL331C
+YDL243C,DNA-based duplication,YCR107W
+YDL243C,DNA-based duplication,YJR155W
+YDL228C,DNA-based duplication like,YAL004W
+YDL218W,de novo origination,YDL218W
+YDL211C,DNA-based duplication like,YNL176C
+YDL199C,de novo origination,YDL199C
+YDL184C,DNA-based duplication,YDL133C-A
+YDL133C-A,DNA-based duplication,YDL184C
+YDL170W,de novo origination,YDL170W
+YDL070W,DNA-based duplication like,YLR399C
+YDL057W,de novo origination,YDL057W
+YPL095C,DNA-based duplication,YBR177C
+YPL095C,DNA-based duplication like,YMR210W
+YPL017C,DNA-based duplication like,YFL018C
+YPL017C,DNA-based duplication like,YPL091W
+YPL053C,de novo origination,YPL053C
+YPL021W,DNA-based duplication like,YCR018C
+YCR018C,DNA-based duplication like,YPL021W
+YPL019C,DNA-based duplication,YFL004W
+YPL019C,DNA-based duplication like,YJL012C
+YPR002C-A,DNA-based duplication,YGR122C-A
+YPR002C-A,DNA-based duplication like,YLR334C
+YPR002C-A,DNA-based duplication like,YOL106W
+YPR002C-A,DNA-based duplication,YCR018C-A
+YPR002C-A,DNA-based duplication,YDR034C-A
+YPR002C-A,DNA-based duplication,YMR046W-A
+YCR007C,DNA-based duplication like,YAR033W
+YCR007C,DNA-based duplication like,YAR028W
+YCR007C,DNA-based duplication like,YHL044W
+YCR007C,DNA-based duplication like,YAR031W
+YCR007C,DNA-based duplication like,YAR027W
+YCR007C,DNA-based duplication like,YAR023C
+YCR007C,DNA-based duplication like,YGL053W
+YCR007C,DNA-based duplication like,YGL051W
+YCR013C,de novo origination,YCR013C
+YCR041W,DNA-based duplication,YCR097W-A
+YCR041W,DNA-based duplication,YCL065W
+YCL065W,DNA-based duplication,YCR041W
+YCL065W,DNA-based duplication,YCR097W-A
+YCR073C,DNA-based duplication like,YAR019C
+YCR073C,DNA-based duplication like,YNR031C
+YCR089W,de novo origination,YCR089W
+YHR182C-A,de novo origination,YHR182C-A
+YHR195W,de novo origination,YHR195W
+YHR209W,DNA-based duplication like,YER175C
+YHR210C,DNA-based duplication,YNR071C
+YHR211W,DNA-based duplication,YAL064C-A
+YHR211W,DNA-based duplication,YHR213W
+YHR211W,DNA-based duplication like,YKR102W
+YHR211W,DNA-based duplication,YAR050W
+YHR211W,DNA-based duplication,YAL063C
+YHR211W,DNA-based duplication like,YFL051C
+YHR211W,DNA-based duplication,YHR212W-A
+YHR212C,DNA-based duplication,YAR060C
+YAR060C,DNA-based duplication,YHR212C
+YHR212W-A,DNA-based duplication like,YHR211W
+YHR212W-A,DNA-based duplication like,YAL064C-A
+YHR212W-A,DNA-based duplication like,YHR213W
+YHR212W-A,DNA-based duplication like,YKR102W
+YHR212W-A,DNA-based duplication like,YAR050W
+YHR212W-A,DNA-based duplication like,YAL063C
+YHR212W-A,DNA-based duplication like,YFL051C
+YHR213W,DNA-based duplication like,YHR211W
+YHR213W,DNA-based duplication,YAL064C-A
+YHR213W,DNA-based duplication like,YKR102W
+YHR213W,DNA-based duplication like,YAR050W
+YHR213W,DNA-based duplication like,YAL063C
+YHR213W,DNA-based duplication like,YFL051C
+YHR213W,DNA-based duplication like,YHR212W-A
+YHR213W-B,DNA-based duplication,YAR064W
+YAR064W,DNA-based duplication,YHR213W-B
+YHR214W,DNA-based duplication,YAR066W
+YHR214W,DNA-based duplication like,YOL155C
+YHR214W,DNA-based duplication like,YIL169C
+YAR066W,DNA-based duplication,YHR214W
+YAR066W,DNA-based duplication like,YOL155C
+YAR066W,DNA-based duplication like,YIL169C
+YHR214W-A,DNA-based duplication,YAR068W
+YAR068W,DNA-based duplication,YHR214W-A
+YHR214C-D,DNA-based duplication,YAR069C
+YAR069C,DNA-based duplication,YHR214C-D
+YHR214C-E,DNA-based duplication,YAR070C
+YAR070C,DNA-based duplication,YHR214C-E
+YHR215W,DNA-based duplication,YAR071W
+YHR215W,DNA-based duplication,YBR093C
+YHR215W,DNA-based duplication,YDL024C
+YHR215W,DNA-based duplication,YBR092C
+YHR217C,DNA-based duplication,YBL109W
+YHR217C,DNA-based duplication,YDR544C
+YHR218W,DNA-based duplication like,YIL177C
+YHR218W,DNA-based duplication like,YLR462W
+YHR218W,DNA-based duplication like,YHL050C
+YHR218W,DNA-based duplication like,YDR545W
+YHR218W,DNA-based duplication like,YHR219W
+YHR218W,DNA-based duplication like,YBL112C
+YHR218W,DNA-based duplication like,YEL077C
+YHR218W,DNA-based duplication,YFL066C
+YHR218W,DNA-based duplication like,YHR218W-A
+YHR218W,DNA-based duplication like,YLL066C
+YHR218W,DNA-based duplication,YBL111C
+YHR218W,DNA-based duplication like,YER190W
+YHR218W,DNA-based duplication like,YML133C
+YHR218W,DNA-based duplication like,YJL225C
+YHR218W,DNA-based duplication like,YLR467W
+YHR218W,DNA-based duplication like,YPL283C
+YHR218W,DNA-based duplication like,YPR204W
+YHR218W,DNA-based duplication like,YBL113C
+YHR218W,DNA-based duplication like,YLR466W
+YHR218W,DNA-based duplication like,YOR396W
+YHR218W,DNA-based duplication like,YGR296W
+YHR218W,DNA-based duplication like,YLL067C
+YHR218W,DNA-based duplication like,YNL339C
+YHR218W-A,retroposition like,YIL177C
+YHR218W-A,DNA-based duplication like,YLR462W
+YHR218W-A,retroposition like,YHL050C
+YHR218W-A,DNA-based duplication like,YDR545W
+YHR218W-A,DNA-based duplication like,YHR219W
+YHR218W-A,DNA-based duplication,YBL112C
+YHR218W-A,DNA-based duplication like,YEL077C
+YHR218W-A,DNA-based duplication like,YFL066C
+YHR218W-A,retroposition like,YLL066C
+YHR218W-A,retroposition like,YBL111C
+YHR218W-A,DNA-based duplication like,YER190W
+YHR218W-A,retroposition like,YML133C
+YHR218W-A,retroposition like,YJL225C
+YHR218W-A,DNA-based duplication like,YLR467W
+YHR218W-A,retroposition like,YPL283C
+YHR218W-A,DNA-based duplication like,YPR204W
+YHR218W-A,DNA-based duplication like,YBL113C
+YHR218W-A,DNA-based duplication like,YLR466W
+YHR218W-A,DNA-based duplication like,YOR396W
+YHR218W-A,retroposition like,YGR296W
+YHR218W-A,retroposition like,YLL067C
+YHR218W-A,retroposition like,YNL339C
+YHR218W-A,retroposition like,YHR218W
+YHR219W,retroposition like,YIL177C
+YHR219W,DNA-based duplication like,YLR462W
+YHR219W,retroposition,YHL050C
+YHR219W,DNA-based duplication like,YDR545W
+YHR219W,DNA-based duplication like,YBL112C
+YHR219W,DNA-based duplication like,YEL077C
+YHR219W,DNA-based duplication like,YFL066C
+YHR219W,DNA-based duplication like,YHR218W-A
+YHR219W,retroposition,YLL066C
+YHR219W,retroposition like,YBL111C
+YHR219W,DNA-based duplication like,YER190W
+YHR219W,retroposition like,YML133C
+YHR219W,retroposition like,YJL225C
+YHR219W,DNA-based duplication like,YLR467W
+YHR219W,retroposition like,YPL283C
+YHR219W,DNA-based duplication,YPR204W
+YHR219W,DNA-based duplication,YBL113C
+YHR219W,DNA-based duplication like,YLR466W
+YHR219W,DNA-based duplication like,YOR396W
+YHR219W,retroposition like,YGR296W
+YHR219W,retroposition like,YLL067C
+YHR219W,retroposition like,YNL339C
+YHR219W,retroposition like,YHR218W
+YHR219C-A,DNA-based duplication,YFL068W
+YHR219C-A,DNA-based duplication,YGR296C-B
+YHR219C-A,DNA-based duplication,YLR466C-A
+YHR219C-A,DNA-based duplication,YLL067W-A
+YHR219C-A,DNA-based duplication,YJL225W-A
+YHR219C-A,DNA-based duplication,YOR396C-A
+YHR219C-A,DNA-based duplication,YLR467C-A
+YHR219C-A,DNA-based duplication,YDR545C-A
+YHR219C-A,DNA-based duplication,YBL113W-A
+YHR219C-A,DNA-based duplication,YHL050W-A
+YHR219C-A,DNA-based duplication,YML133W-B
+YHR219C-A,DNA-based duplication,YLL066W-A
+YHR219C-A,DNA-based duplication,YPL283W-B
+YHR219C-A,DNA-based duplication,YER190C-B
+YHR219C-A,DNA-based duplication,YNL339W-B
+YHR219C-A,DNA-based duplication,YEL077W-A
+YHR219C-A,DNA-based duplication,YPR204C-A
+YHR219C-A,DNA-based duplication,YIL177W-A
+YIL177C,DNA-based duplication like,YLR462W
+YIL177C,DNA-based duplication,YHL050C
+YIL177C,DNA-based duplication,YDR545W
+YIL177C,DNA-based duplication,YHR219W
+YIL177C,DNA-based duplication,YBL112C
+YIL177C,DNA-based duplication,YEL077C
+YIL177C,DNA-based duplication,YFL066C
+YIL177C,DNA-based duplication,YHR218W-A
+YIL177C,DNA-based duplication,YLL066C
+YIL177C,DNA-based duplication,YBL111C
+YIL177C,DNA-based duplication,YER190W
+YIL177C,DNA-based duplication,YML133C
+YIL177C,DNA-based duplication,YJL225C
+YIL177C,DNA-based duplication,YLR467W
+YIL177C,DNA-based duplication,YPL283C
+YIL177C,DNA-based duplication,YPR204W
+YIL177C,DNA-based duplication,YBL113C
+YIL177C,DNA-based duplication,YLR466W
+YIL177C,DNA-based duplication,YOR396W
+YIL177C,DNA-based duplication,YGR296W
+YIL177C,DNA-based duplication,YLL067C
+YIL177C,DNA-based duplication,YNL339C
+YIL177C,DNA-based duplication,YHR218W
+YIL177W-A,DNA-based duplication,YFL068W
+YIL177W-A,DNA-based duplication,YHR219C-A
+YIL177W-A,DNA-based duplication,YGR296C-B
+YIL177W-A,DNA-based duplication,YLR466C-A
+YIL177W-A,DNA-based duplication,YLL067W-A
+YIL177W-A,DNA-based duplication,YJL225W-A
+YIL177W-A,DNA-based duplication,YOR396C-A
+YIL177W-A,DNA-based duplication,YLR467C-A
+YIL177W-A,DNA-based duplication,YDR545C-A
+YIL177W-A,DNA-based duplication,YBL113W-A
+YIL177W-A,DNA-based duplication,YHL050W-A
+YIL177W-A,DNA-based duplication,YML133W-B
+YIL177W-A,DNA-based duplication,YLL066W-A
+YIL177W-A,DNA-based duplication,YPL283W-B
+YIL177W-A,DNA-based duplication,YER190C-B
+YIL177W-A,DNA-based duplication,YNL339W-B
+YIL177W-A,DNA-based duplication,YEL077W-A
+YIL177W-A,DNA-based duplication,YPR204C-A
+YIL176C,DNA-based duplication,YLR461W
+YIL176C,DNA-based duplication,YMR325W
+YIL176C,DNA-based duplication,YIR041W
+YIL176C,DNA-based duplication,YLR037C
+YIL176C,DNA-based duplication,YGR294W
+YIL176C,DNA-based duplication,YEL049W
+YIL176C,DNA-based duplication,YLL064C
+YIL176C,DNA-based duplication,YKL224C
+YIL176C,DNA-based duplication,YDR542W
+YIL176C,DNA-based duplication like,YJR151C
+YIL176C,DNA-based duplication like,YJR150C
+YIL176C,DNA-based duplication,YHL046C
+YIL176C,DNA-based duplication,YPL282C
+YIL176C,DNA-based duplication,YBR301W
+YIL176C,DNA-based duplication,YFL020C
+YIL176C,DNA-based duplication,YAR020C
+YIL176C,DNA-based duplication,YLL025W
+YIL176C,DNA-based duplication,YBL108C-A
+YIL176C,DNA-based duplication,YJL223C
+YIL176C,DNA-based duplication,YCR104W
+YIL176C,DNA-based duplication,YNR076W
+YIL176C,DNA-based duplication,YOL161C
+YIL176C,DNA-based duplication,YOR394W
+YIL176C,DNA-based duplication,YAL068C
+YIL176C,DNA-based duplication,YGL261C
+YIL172C,DNA-based duplication,YJL216C
+YIL172C,DNA-based duplication,YBR299W
+YIL172C,DNA-based duplication,YGR292W
+YIL172C,DNA-based duplication,YGR287C
+YIL172C,DNA-based duplication,YOL157C
+YIL171W-A,DNA-based duplication,YJL220W
+YIL169C,DNA-based duplication,YAR066W
+YIL169C,DNA-based duplication,YHR214W
+YIL169C,DNA-based duplication,YOL155C
+YIL166C,DNA-based duplication like,YOL163W
+YIL166C,DNA-based duplication like,YOL162W
+YIL164C,de novo origination,YIL164C
+YIL158W,DNA-based duplication like,YKR100C
+YDR085C,DNA-based duplication like,YER158C
+YDR119W,de novo origination,YDR119W
+YDR119W-A,de novo origination,YDR119W-A
+YDL039C,DNA-based duplication like,YDL037C
+YDL037C,DNA-based duplication like,YDL039C
+YDL024C,DNA-based duplication,YAR071W
+YDL024C,DNA-based duplication,YBR093C
+YDL024C,DNA-based duplication,YHR215W
+YDL024C,DNA-based duplication,YBR092C
+YDL012C,DNA-based duplication like,YBR016W
+YDR034C-A,DNA-based duplication,YGR122C-A
+YDR034C-A,DNA-based duplication like,YLR334C
+YDR034C-A,DNA-based duplication like,YOL106W
+YDR034C-A,DNA-based duplication,YPR002C-A
+YDR034C-A,DNA-based duplication like,YCR018C-A
+YDR034C-A,DNA-based duplication,YMR046W-A
+YCR018C-A,DNA-based duplication,YGR122C-A
+YCR018C-A,DNA-based duplication like,YLR334C
+YCR018C-A,DNA-based duplication,YOL106W
+YCR018C-A,DNA-based duplication,YPR002C-A
+YCR018C-A,DNA-based duplication,YDR034C-A
+YCR018C-A,DNA-based duplication,YMR046W-A
+YDR038C,DNA-based duplication,YDR039C
+YDR039C,DNA-based duplication,YDR038C
+YDR059C,DNA-based duplication like,YDR092W
+YDR059C,DNA-based duplication,YBR082C
+YBR042C,DNA-based duplication like,YBR180W
+YBR042C,DNA-based duplication like,YBR043C
+YBR043C,DNA-based duplication like,YBR180W
+YBR043C,DNA-based duplication like,YBR042C
+YBR052C,DNA-based duplication like,YCR004C
+YBR052C,DNA-based duplication,YDR032C
+YBR067C,DNA-based duplication like,YER011W
+YBR067C,DNA-based duplication like,YOR009W
+YBR067C,DNA-based duplication like,YIL011W
+YBR067C,DNA-based duplication like,YOR010C
+YBR069C,DNA-based duplication like,YCL025C
+YBR069C,DNA-based duplication like,YLL061W
+YBR069C,DNA-based duplication like,YBR068C
+YBR069C,DNA-based duplication like,YDR508C
+YBR069C,DNA-based duplication like,YDR046C
+YBR069C,DNA-based duplication like,YPL274W
+YBR069C,DNA-based duplication like,YOL020W
+YBR092C,DNA-based duplication,YAR071W
+YBR092C,DNA-based duplication,YBR093C
+YBR092C,DNA-based duplication,YHR215W
+YBR092C,DNA-based duplication,YDL024C
+YBR093C,DNA-based duplication,YAR071W
+YBR093C,DNA-based duplication,YHR215W
+YBR093C,DNA-based duplication,YDL024C
+YBR093C,DNA-based duplication,YBR092C
+YIL040W,de novo origination,YIL040W
+YIL011W,DNA-based duplication like,YER011W
+YIL011W,DNA-based duplication like,YBR067C
+YIL011W,DNA-based duplication like,YOR009W
+YIL011W,DNA-based duplication like,YOR010C
+YIR021W,de novo origination,YIR021W
+YIR036C,DNA-based duplication,YIR035C
+YIR040C,DNA-based duplication,YJL222W-B
+YIR040C,DNA-based duplication,YJL222W-A
+YIR040C,DNA-based duplication,YNR075C-A
+YIR040C,DNA-based duplication,YBL108W
+YIR040C,DNA-based duplication,YAL067W-A
+YIR040C,DNA-based duplication,YKL223W
+YIR040C,DNA-based duplication,YGL260W
+YIR041W,DNA-based duplication,YLR461W
+YIR041W,DNA-based duplication,YMR325W
+YIR041W,DNA-based duplication,YLR037C
+YIR041W,DNA-based duplication,YGR294W
+YIR041W,DNA-based duplication,YIL176C
+YIR041W,DNA-based duplication,YEL049W
+YIR041W,DNA-based duplication,YLL064C
+YIR041W,DNA-based duplication,YKL224C
+YIR041W,DNA-based duplication,YDR542W
+YIR041W,DNA-based duplication like,YJR151C
+YIR041W,DNA-based duplication like,YJR150C
+YIR041W,DNA-based duplication,YHL046C
+YIR041W,DNA-based duplication,YPL282C
+YIR041W,DNA-based duplication,YBR301W
+YIR041W,DNA-based duplication,YFL020C
+YIR041W,DNA-based duplication,YAR020C
+YIR041W,DNA-based duplication,YLL025W
+YIR041W,DNA-based duplication,YBL108C-A
+YIR041W,DNA-based duplication,YJL223C
+YIR041W,DNA-based duplication,YCR104W
+YIR041W,DNA-based duplication,YNR076W
+YIR041W,DNA-based duplication,YOL161C
+YIR041W,DNA-based duplication,YOR394W
+YIR041W,DNA-based duplication,YAL068C
+YIR041W,DNA-based duplication,YGL261C
+YIR042C,de novo origination,YIR042C
+YJL225C,DNA-based duplication,YIL177C
+YJL225C,DNA-based duplication like,YLR462W
+YJL225C,DNA-based duplication,YHL050C
+YJL225C,DNA-based duplication,YDR545W
+YJL225C,DNA-based duplication,YHR219W
+YJL225C,DNA-based duplication,YBL112C
+YJL225C,DNA-based duplication,YEL077C
+YJL225C,DNA-based duplication,YFL066C
+YJL225C,DNA-based duplication,YHR218W-A
+YJL225C,DNA-based duplication,YLL066C
+YJL225C,DNA-based duplication,YBL111C
+YJL225C,DNA-based duplication,YER190W
+YJL225C,DNA-based duplication,YML133C
+YJL225C,DNA-based duplication,YLR467W
+YJL225C,DNA-based duplication,YPL283C
+YJL225C,DNA-based duplication,YPR204W
+YJL225C,DNA-based duplication,YBL113C
+YJL225C,DNA-based duplication,YLR466W
+YJL225C,DNA-based duplication,YOR396W
+YJL225C,DNA-based duplication,YGR296W
+YJL225C,DNA-based duplication,YLL067C
+YJL225C,DNA-based duplication,YNL339C
+YJL225C,DNA-based duplication,YHR218W
+YJL225W-A,DNA-based duplication,YFL068W
+YJL225W-A,DNA-based duplication,YHR219C-A
+YJL225W-A,DNA-based duplication,YGR296C-B
+YJL225W-A,DNA-based duplication,YLR466C-A
+YJL225W-A,DNA-based duplication,YLL067W-A
+YJL225W-A,DNA-based duplication,YOR396C-A
+YJL225W-A,DNA-based duplication,YLR467C-A
+YJL225W-A,DNA-based duplication,YDR545C-A
+YJL225W-A,DNA-based duplication,YBL113W-A
+YJL225W-A,DNA-based duplication,YHL050W-A
+YJL225W-A,DNA-based duplication,YML133W-B
+YJL225W-A,DNA-based duplication,YLL066W-A
+YJL225W-A,DNA-based duplication,YPL283W-B
+YJL225W-A,DNA-based duplication,YER190C-B
+YJL225W-A,DNA-based duplication,YNL339W-B
+YJL225W-A,DNA-based duplication,YEL077W-A
+YJL225W-A,DNA-based duplication,YPR204C-A
+YJL225W-A,DNA-based duplication,YIL177W-A
+YJL223C,DNA-based duplication,YLR461W
+YJL223C,DNA-based duplication,YMR325W
+YJL223C,DNA-based duplication,YIR041W
+YJL223C,DNA-based duplication,YLR037C
+YJL223C,DNA-based duplication,YGR294W
+YJL223C,DNA-based duplication,YIL176C
+YJL223C,DNA-based duplication,YEL049W
+YJL223C,DNA-based duplication,YLL064C
+YJL223C,DNA-based duplication,YKL224C
+YJL223C,DNA-based duplication,YDR542W
+YJL223C,DNA-based duplication like,YJR151C
+YJL223C,DNA-based duplication like,YJR150C
+YJL223C,DNA-based duplication,YHL046C
+YJL223C,DNA-based duplication,YPL282C
+YJL223C,DNA-based duplication,YBR301W
+YJL223C,DNA-based duplication,YFL020C
+YJL223C,DNA-based duplication,YAR020C
+YJL223C,DNA-based duplication,YBL108C-A
+YJL223C,DNA-based duplication,YLL025W
+YJL223C,DNA-based duplication,YCR104W
+YJL223C,DNA-based duplication,YNR076W
+YJL223C,DNA-based duplication,YOL161C
+YJL223C,DNA-based duplication,YOR394W
+YJL223C,DNA-based duplication,YAL068C
+YJL223C,DNA-based duplication,YGL261C
+YJL222W-B,DNA-based duplication like,YJL222W-A
+YJL222W-B,DNA-based duplication like,YNR075C-A
+YJL222W-B,DNA-based duplication like,YBL108W
+YJL222W-B,DNA-based duplication like,YIR040C
+YJL222W-B,DNA-based duplication like,YAL067W-A
+YJL222W-B,DNA-based duplication like,YKL223W
+YJL222W-B,DNA-based duplication like,YGL260W
+YJL222W-A,DNA-based duplication like,YJL222W-B
+YJL222W-A,DNA-based duplication,YNR075C-A
+YJL222W-A,DNA-based duplication like,YBL108W
+YJL222W-A,DNA-based duplication,YIR040C
+YJL222W-A,DNA-based duplication,YAL067W-A
+YJL222W-A,DNA-based duplication,YKL223W
+YJL222W-A,DNA-based duplication like,YGL260W
+YJL221C,de novo origination,YJL221C
+YJL220W,DNA-based duplication,YIL171W-A
+YJL214W,DNA-based duplication,YMR011W
+YJL214W,DNA-based duplication,YHR096C
+YJL214W,DNA-based duplication,YDR342C
+YJL214W,DNA-based duplication,YDL245C
+YJL214W,DNA-based duplication,YLR081W
+YJL214W,DNA-based duplication,YDR345C
+YJL214W,DNA-based duplication,YHR094C
+YJL214W,DNA-based duplication,YOL156W
+YJL214W,DNA-based duplication,YFL011W
+YJL214W,DNA-based duplication,YDR343C
+YJL214W,DNA-based duplication,YJL219W
+YJL214W,DNA-based duplication,YEL069C
+YJL214W,DNA-based duplication,YHR092C
+YJL214W,DNA-based duplication,YJR158W
+YJL218W,de novo origination,YJL218W
+YJL217W,de novo origination,YJL217W
+YJL216C,DNA-based duplication,YIL172C
+YJL216C,DNA-based duplication,YBR299W
+YJL216C,DNA-based duplication,YGR292W
+YJL216C,DNA-based duplication,YGR287C
+YJL216C,DNA-based duplication,YOL157C
+YJL213W,de novo origination,YJL213W
+YJL205C,de novo origination,YJL205C
+YAL068C,DNA-based duplication,YLR461W
+YAL068C,DNA-based duplication,YMR325W
+YAL068C,DNA-based duplication,YIR041W
+YAL068C,DNA-based duplication,YLR037C
+YAL068C,DNA-based duplication,YGR294W
+YAL068C,DNA-based duplication,YIL176C
+YAL068C,DNA-based duplication,YEL049W
+YAL068C,DNA-based duplication,YLL064C
+YAL068C,DNA-based duplication,YKL224C
+YAL068C,DNA-based duplication,YDR542W
+YAL068C,DNA-based duplication like,YJR151C
+YAL068C,DNA-based duplication like,YJR150C
+YAL068C,DNA-based duplication,YHL046C
+YAL068C,DNA-based duplication,YPL282C
+YAL068C,DNA-based duplication,YBR301W
+YAL068C,DNA-based duplication,YFL020C
+YAL068C,DNA-based duplication,YAR020C
+YAL068C,DNA-based duplication,YLL025W
+YAL068C,DNA-based duplication,YBL108C-A
+YAL068C,DNA-based duplication,YJL223C
+YAL068C,DNA-based duplication,YCR104W
+YAL068C,DNA-based duplication,YNR076W
+YAL068C,DNA-based duplication,YOL161C
+YAL068C,DNA-based duplication,YOR394W
+YAL068C,DNA-based duplication,YGL261C
+YAL064C-A,DNA-based duplication like,YHR211W
+YAL064C-A,DNA-based duplication,YHR213W
+YAL064C-A,DNA-based duplication like,YKR102W
+YAL064C-A,DNA-based duplication like,YAR050W
+YAL064C-A,DNA-based duplication like,YAL063C
+YAL064C-A,DNA-based duplication like,YFL051C
+YAL064C-A,DNA-based duplication like,YHR212W-A
+YAL063C,DNA-based duplication,YHR211W
+YAL063C,DNA-based duplication,YAL064C-A
+YAL063C,DNA-based duplication,YHR213W
+YAL063C,DNA-based duplication like,YKR102W
+YAL063C,DNA-based duplication,YAR050W
+YAL063C,DNA-based duplication like,YFL051C
+YAL063C,DNA-based duplication,YHR212W-A
+YAL061W,DNA-based duplication,YAL060W
+YAL029C,DNA-based duplication like,YHR023W
+YAL029C,DNA-based duplication like,YOR326W
+YAL004W,DNA-based duplication like,YDL228C
+YAR020C,DNA-based duplication like,YLR461W
+YAR020C,DNA-based duplication like,YMR325W
+YAR020C,DNA-based duplication like,YIR041W
+YAR020C,DNA-based duplication like,YLR037C
+YAR020C,DNA-based duplication like,YGR294W
+YAR020C,DNA-based duplication like,YIL176C
+YAR020C,DNA-based duplication like,YEL049W
+YAR020C,DNA-based duplication like,YLL064C
+YAR020C,DNA-based duplication like,YKL224C
+YAR020C,DNA-based duplication like,YDR542W
+YAR020C,DNA-based duplication like,YJR151C
+YAR020C,DNA-based duplication like,YJR150C
+YAR020C,DNA-based duplication like,YHL046C
+YAR020C,DNA-based duplication like,YPL282C
+YAR020C,DNA-based duplication like,YBR301W
+YAR020C,DNA-based duplication like,YFL020C
+YAR020C,DNA-based duplication like,YBL108C-A
+YAR020C,DNA-based duplication like,YLL025W
+YAR020C,DNA-based duplication like,YJL223C
+YAR020C,DNA-based duplication like,YCR104W
+YAR020C,DNA-based duplication like,YNR076W
+YAR020C,DNA-based duplication like,YOL161C
+YAR020C,DNA-based duplication like,YOR394W
+YAR020C,DNA-based duplication like,YAL068C
+YAR020C,DNA-based duplication like,YGL261C
+YAR023C,DNA-based duplication like,YAR033W
+YAR023C,DNA-based duplication like,YCR007C
+YAR023C,DNA-based duplication like,YAR028W
+YAR023C,DNA-based duplication like,YHL044W
+YAR023C,DNA-based duplication like,YAR031W
+YAR023C,DNA-based duplication like,YAR027W
+YAR023C,DNA-based duplication like,YGL053W
+YAR023C,DNA-based duplication like,YGL051W
+YAR027W,DNA-based duplication like,YAR033W
+YAR027W,DNA-based duplication like,YCR007C
+YAR027W,DNA-based duplication,YAR028W
+YAR027W,DNA-based duplication like,YHL044W
+YAR027W,DNA-based duplication like,YAR031W
+YAR027W,DNA-based duplication like,YAR023C
+YAR027W,DNA-based duplication like,YGL053W
+YAR027W,DNA-based duplication like,YGL051W
+YAR028W,DNA-based duplication like,YAR033W
+YAR028W,DNA-based duplication like,YCR007C
+YAR028W,DNA-based duplication like,YHL044W
+YAR028W,DNA-based duplication like,YAR031W
+YAR028W,DNA-based duplication,YAR027W
+YAR028W,DNA-based duplication like,YAR023C
+YAR028W,DNA-based duplication like,YGL053W
+YAR028W,DNA-based duplication like,YGL051W
+YAR031W,DNA-based duplication,YAR033W
+YAR031W,DNA-based duplication like,YCR007C
+YAR031W,DNA-based duplication like,YAR028W
+YAR031W,DNA-based duplication like,YHL044W
+YAR031W,DNA-based duplication like,YAR027W
+YAR031W,DNA-based duplication like,YAR023C
+YAR031W,DNA-based duplication,YGL053W
+YAR031W,DNA-based duplication,YGL051W
+YAR033W,DNA-based duplication like,YCR007C
+YAR033W,DNA-based duplication like,YAR028W
+YAR033W,DNA-based duplication like,YHL044W
+YAR033W,DNA-based duplication like,YAR031W
+YAR033W,DNA-based duplication like,YAR027W
+YAR033W,DNA-based duplication like,YAR023C
+YAR033W,DNA-based duplication,YGL053W
+YAR033W,DNA-based duplication,YGL051W
+YAR050W,DNA-based duplication,YHR211W
+YAR050W,DNA-based duplication,YAL064C-A
+YAR050W,DNA-based duplication,YHR213W
+YAR050W,DNA-based duplication like,YKR102W
+YAR050W,DNA-based duplication,YAL063C
+YAR050W,DNA-based duplication like,YFL051C
+YAR050W,DNA-based duplication,YHR212W-A
+YAR071W,DNA-based duplication,YBR093C
+YAR071W,DNA-based duplication,YDL024C
+YAR071W,DNA-based duplication,YHR215W
+YAR071W,DNA-based duplication,YBR092C
+YBL113C,retroposition like,YIL177C
+YBL113C,DNA-based duplication like,YLR462W
+YBL113C,retroposition,YHL050C
+YBL113C,DNA-based duplication like,YDR545W
+YBL113C,DNA-based duplication,YHR219W
+YBL113C,DNA-based duplication like,YBL112C
+YBL113C,DNA-based duplication like,YEL077C
+YBL113C,DNA-based duplication like,YFL066C
+YBL113C,DNA-based duplication like,YHR218W-A
+YBL113C,retroposition like,YLL066C
+YBL113C,retroposition like,YBL111C
+YBL113C,DNA-based duplication like,YER190W
+YBL113C,retroposition like,YML133C
+YBL113C,retroposition like,YJL225C
+YBL113C,DNA-based duplication like,YLR467W
+YBL113C,retroposition like,YPL283C
+YBL113C,DNA-based duplication,YPR204W
+YBL113C,DNA-based duplication like,YLR466W
+YBL113C,DNA-based duplication like,YOR396W
+YBL113C,retroposition like,YGR296W
+YBL113C,retroposition like,YLL067C
+YBL113C,retroposition like,YNL339C
+YBL113C,retroposition like,YHR218W
+YBL111C,DNA-based duplication like,YIL177C
+YBL111C,DNA-based duplication like,YLR462W
+YBL111C,DNA-based duplication like,YHL050C
+YBL111C,DNA-based duplication like,YDR545W
+YBL111C,DNA-based duplication like,YHR219W
+YBL111C,DNA-based duplication like,YBL112C
+YBL111C,DNA-based duplication like,YEL077C
+YBL111C,DNA-based duplication,YFL066C
+YBL111C,DNA-based duplication like,YHR218W-A
+YBL111C,DNA-based duplication like,YLL066C
+YBL111C,DNA-based duplication like,YER190W
+YBL111C,DNA-based duplication like,YML133C
+YBL111C,DNA-based duplication like,YJL225C
+YBL111C,DNA-based duplication like,YLR467W
+YBL111C,DNA-based duplication like,YPL283C
+YBL111C,DNA-based duplication like,YPR204W
+YBL111C,DNA-based duplication like,YBL113C
+YBL111C,DNA-based duplication like,YLR466W
+YBL111C,DNA-based duplication like,YOR396W
+YBL111C,DNA-based duplication like,YGR296W
+YBL111C,DNA-based duplication like,YLL067C
+YBL111C,DNA-based duplication like,YNL339C
+YBL111C,DNA-based duplication,YHR218W
+YBL112C,retroposition like,YIL177C
+YBL112C,DNA-based duplication like,YLR462W
+YBL112C,retroposition like,YHL050C
+YBL112C,DNA-based duplication like,YDR545W
+YBL112C,DNA-based duplication like,YHR219W
+YBL112C,DNA-based duplication like,YEL077C
+YBL112C,DNA-based duplication like,YFL066C
+YBL112C,DNA-based duplication,YHR218W-A
+YBL112C,retroposition like,YLL066C
+YBL112C,retroposition like,YBL111C
+YBL112C,DNA-based duplication like,YER190W
+YBL112C,retroposition like,YML133C
+YBL112C,retroposition like,YJL225C
+YBL112C,DNA-based duplication like,YLR467W
+YBL112C,retroposition like,YPL283C
+YBL112C,DNA-based duplication like,YPR204W
+YBL112C,DNA-based duplication like,YBL113C
+YBL112C,DNA-based duplication like,YLR466W
+YBL112C,DNA-based duplication like,YOR396W
+YBL112C,retroposition like,YGR296W
+YBL112C,retroposition like,YLL067C
+YBL112C,retroposition like,YNL339C
+YBL112C,retroposition like,YHR218W
+YBL108C-A,DNA-based duplication like,YLR461W
+YBL108C-A,DNA-based duplication like,YMR325W
+YBL108C-A,DNA-based duplication like,YIR041W
+YBL108C-A,DNA-based duplication like,YLR037C
+YBL108C-A,DNA-based duplication like,YGR294W
+YBL108C-A,DNA-based duplication like,YIL176C
+YBL108C-A,DNA-based duplication like,YEL049W
+YBL108C-A,DNA-based duplication like,YLL064C
+YBL108C-A,DNA-based duplication like,YKL224C
+YBL108C-A,DNA-based duplication like,YDR542W
+YBL108C-A,DNA-based duplication like,YJR151C
+YBL108C-A,DNA-based duplication like,YJR150C
+YBL108C-A,DNA-based duplication like,YHL046C
+YBL108C-A,DNA-based duplication like,YPL282C
+YBL108C-A,DNA-based duplication like,YBR301W
+YBL108C-A,DNA-based duplication like,YFL020C
+YBL108C-A,DNA-based duplication like,YAR020C
+YBL108C-A,DNA-based duplication like,YLL025W
+YBL108C-A,DNA-based duplication like,YJL223C
+YBL108C-A,DNA-based duplication like,YCR104W
+YBL108C-A,DNA-based duplication like,YNR076W
+YBL108C-A,DNA-based duplication like,YOL161C
+YBL108C-A,DNA-based duplication like,YOR394W
+YBL108C-A,DNA-based duplication like,YAL068C
+YBL108C-A,DNA-based duplication like,YGL261C
+YBL108W,DNA-based duplication,YJL222W-B
+YBL108W,DNA-based duplication,YJL222W-A
+YBL108W,DNA-based duplication,YNR075C-A
+YBL108W,DNA-based duplication,YIR040C
+YBL108W,DNA-based duplication like,YAL067W-A
+YBL108W,DNA-based duplication,YKL223W
+YBL108W,DNA-based duplication,YGL260W
+YAL067W-A,DNA-based duplication like,YJL222W-B
+YAL067W-A,DNA-based duplication,YJL222W-A
+YAL067W-A,DNA-based duplication,YNR075C-A
+YAL067W-A,DNA-based duplication like,YBL108W
+YAL067W-A,DNA-based duplication,YIR040C
+YAL067W-A,DNA-based duplication,YKL223W
+YAL067W-A,DNA-based duplication like,YGL260W
+YDR423C,de novo origination,YDR423C
+YDR441C,DNA-based duplication,YML022W
+YDR451C,DNA-based duplication like,YML027W
+YDR461W,DNA-based duplication,YNL145W
+YDR461C-A,de novo origination,YDR461C-A
+YDR480W,de novo origination,YDR480W
+YFR055W,DNA-based duplication like,YHR112C
+YFR055W,DNA-based duplication like,YLR303W
+YGL263W,DNA-based duplication like,YML132W
+YGL263W,DNA-based duplication like,YBR302C
+YGL263W,DNA-based duplication like,YHL048W
+YGL263W,DNA-based duplication like,YGR295C
+YGL263W,DNA-based duplication like,YHL043W
+YGL263W,DNA-based duplication like,YJR161C
+YGL263W,DNA-based duplication like,YNL336W
+YGL263W,DNA-based duplication like,YNR075W
+YGL263W,DNA-based duplication like,YFL062W
+YGL263W,DNA-based duplication like,YHL042W
+YGL263W,DNA-based duplication like,YKL219W
+YGL263W,DNA-based duplication like,YDL248W
+YGL262W,DNA-based duplication like,YER187W
+YGL261C,DNA-based duplication,YLR461W
+YGL261C,DNA-based duplication,YMR325W
+YGL261C,DNA-based duplication,YIR041W
+YGL261C,DNA-based duplication,YLR037C
+YGL261C,DNA-based duplication,YGR294W
+YGL261C,DNA-based duplication,YIL176C
+YGL261C,DNA-based duplication,YEL049W
+YGL261C,DNA-based duplication,YLL064C
+YGL261C,DNA-based duplication,YKL224C
+YGL261C,DNA-based duplication,YDR542W
+YGL261C,DNA-based duplication like,YJR151C
+YGL261C,DNA-based duplication like,YJR150C
+YGL261C,DNA-based duplication,YHL046C
+YGL261C,DNA-based duplication,YPL282C
+YGL261C,DNA-based duplication,YBR301W
+YGL261C,DNA-based duplication,YFL020C
+YGL261C,DNA-based duplication,YAR020C
+YGL261C,DNA-based duplication,YLL025W
+YGL261C,DNA-based duplication,YBL108C-A
+YGL261C,DNA-based duplication,YJL223C
+YGL261C,DNA-based duplication,YCR104W
+YGL261C,DNA-based duplication,YNR076W
+YGL261C,DNA-based duplication,YOL161C
+YGL261C,DNA-based duplication,YOR394W
+YGL261C,DNA-based duplication,YAL068C
+YGL260W,DNA-based duplication,YJL222W-B
+YGL260W,DNA-based duplication like,YJL222W-A
+YGL260W,DNA-based duplication,YNR075C-A
+YGL260W,DNA-based duplication,YBL108W
+YGL260W,DNA-based duplication,YIR040C
+YGL260W,DNA-based duplication like,YAL067W-A
+YGL260W,DNA-based duplication,YKL223W
+YGL258W,DNA-based duplication,YOR387C
+YGL257C,DNA-based duplication like,YNR059W
+YGL257C,DNA-based duplication like,YIL014W
+YGL257C,DNA-based duplication like,YER001W
+YGL256W,de novo origination,YGL256W
+YGL255W,DNA-based duplication like,YLR130C
+YGL254W,DNA-based duplication like,YPR186C
+YGL254W,DNA-based duplication like,YOR113W
+YGL237C,de novo origination,YGL237C
+YGL184C,DNA-based duplication like,YAL012W
+YGL176C,de novo origination,YGL176C
+YGL166W,DNA-based duplication like,YPR008W
+YGL158W,DNA-based duplication like,YLR248W
+YGL158W,DNA-based duplication like,YDL101C
+YOR295W,DNA-based duplication like,YMR233W
+YOR304C-A,de novo origination,YOR304C-A
+YOR324C,DNA-based duplication like,YAL028W
+YOR365C,DNA-based duplication like,YAL053W
+YOR365C,DNA-based duplication like,YPL221W
+YOR365C,DNA-based duplication like,YGL139W
+YNL106C,DNA-based duplication,YOR109W
+YNL106C,DNA-based duplication like,YIL002C
+YNL093W,DNA-based duplication like,YBR264C
+YNL093W,DNA-based duplication like,YLR262C
+YNL208W,de novo origination,YNL208W
+YNL204C,de novo origination,YNL204C
+YNL195C,de novo origination,YNL195C
+YNL192W,DNA-based duplication like,YNL191W
+YPR134W,de novo origination,YPR134W
+YPR169W-A,retroposition,YPR170W-B
+YPR193C,DNA-based duplication like,YEL066W
+YPR196W,DNA-based duplication,YFL052W
+YPR196W,DNA-based duplication,YBR297W
+YPR196W,DNA-based duplication,YGR288W
+YPR198W,DNA-based duplication like,YGR224W
+YPR198W,DNA-based duplication like,YKR105C
+YPR198W,DNA-based duplication like,YCL069W
+YPR199C,de novo origination,YPR199C
+YPR200C,de novo origination,YPR200C
+YPR202W,DNA-based duplication,YEL075C
+YPR202W,DNA-based duplication like,YFL065C
+YPR202W,DNA-based duplication,YFL064C
+YPR202W,DNA-based duplication,YHL049C
+YPR202W,DNA-based duplication like,YPR203W
+YPR202W,DNA-based duplication,YER189W
+YPR202W,DNA-based duplication like,YEL076C
+YPR203W,DNA-based duplication like,YEL075C
+YPR203W,DNA-based duplication,YFL065C
+YPR203W,DNA-based duplication like,YFL064C
+YPR203W,DNA-based duplication like,YHL049C
+YPR203W,retroposition like,YPR202W
+YPR203W,DNA-based duplication like,YEL076C
+YPR203W,DNA-based duplication like,YER189W
+YPR204W,retroposition,YIL177C
+YPR204W,DNA-based duplication like,YLR462W
+YPR204W,retroposition,YHL050C
+YPR204W,DNA-based duplication,YDR545W
+YPR204W,DNA-based duplication,YHR219W
+YPR204W,DNA-based duplication,YBL112C
+YPR204W,DNA-based duplication,YEL077C
+YPR204W,DNA-based duplication,YFL066C
+YPR204W,DNA-based duplication,YHR218W-A
+YPR204W,retroposition,YLL066C
+YPR204W,retroposition like,YBL111C
+YPR204W,DNA-based duplication,YER190W
+YPR204W,retroposition,YML133C
+YPR204W,retroposition,YJL225C
+YPR204W,DNA-based duplication,YLR467W
+YPR204W,retroposition,YPL283C
+YPR204W,DNA-based duplication,YBL113C
+YPR204W,DNA-based duplication,YLR466W
+YPR204W,DNA-based duplication,YOR396W
+YPR204W,retroposition,YGR296W
+YPR204W,retroposition,YLL067C
+YPR204W,retroposition,YNL339C
+YPR204W,retroposition like,YHR218W
+YPR204C-A,DNA-based duplication,YFL068W
+YPR204C-A,DNA-based duplication,YHR219C-A
+YPR204C-A,DNA-based duplication,YGR296C-B
+YPR204C-A,DNA-based duplication,YLR466C-A
+YPR204C-A,DNA-based duplication,YOR396C-A
+YPR204C-A,DNA-based duplication,YLL067W-A
+YPR204C-A,DNA-based duplication,YJL225W-A
+YPR204C-A,DNA-based duplication,YLR467C-A
+YPR204C-A,DNA-based duplication,YPL283W-B
+YPR204C-A,DNA-based duplication,YDR545C-A
+YPR204C-A,DNA-based duplication,YHL050W-A
+YPR204C-A,DNA-based duplication,YML133W-B
+YPR204C-A,DNA-based duplication,YLL066W-A
+YPR204C-A,DNA-based duplication,YBL113W-A
+YPR204C-A,DNA-based duplication,YER190C-B
+YPR204C-A,DNA-based duplication,YNL339W-B
+YPR204C-A,DNA-based duplication,YEL077W-A
+YPR204C-A,DNA-based duplication,YIL177W-A
+Q0045,DNA-based duplication,Q0070
+Q0045,DNA-based duplication,Q0065
+Q0060,de novo origination,Q0060
+Q0055,DNA-based duplication like,Q0050
+Q0050,retroposition like,Q0055
+Q0070,DNA-based duplication,Q0045
+Q0070,DNA-based duplication like,Q0065
+Q0065,DNA-based duplication,Q0045
+Q0065,DNA-based duplication like,Q0070
+Q0075,de novo origination,Q0075
+Q0080,de novo origination,Q0080
+Q0085,de novo origination,Q0085
+Q0120,DNA-based duplication,Q0105
+Q0120,DNA-based duplication like,Q0115
+Q0105,DNA-based duplication like,Q0120
+Q0105,DNA-based duplication like,Q0115
+Q0115,DNA-based duplication,Q0105
+Q0115,DNA-based duplication like,Q0120
+Q0110,de novo origination,Q0110
+Q0130,de novo origination,Q0130
+Q0140,de novo origination,Q0140
+Q0160,de novo origination,Q0160
+Q0250,de novo origination,Q0250
+Q0255,de novo origination,Q0255
+Q0275,de novo origination,Q0275
+YAR029W,de novo origination,YAR029W
+YBL091C-A,de novo origination,YBL091C-A
+YCR099C,de novo origination,YCR099C
+YCR102W-A,de novo origination,YCR102W-A
+YDR273W,de novo origination,YDR273W
+YEL053W-A,de novo origination,YEL053W-A
+YDR417C,de novo origination,YDR417C
+YER066W,de novo origination,YER066W
+YBL107W-A,de novo origination,YBL107W-A
+YFL067W,de novo origination,YFL067W
+YIL165C,de novo origination,YIL165C
+YJL058C,DNA-based duplication like,YBR270C
+YJL048C,DNA-based duplication like,YBR273C
+YJL038C,DNA-based duplication like,YJL037W
+YJL037W,DNA-based duplication like,YJL038C
+YJL026C-A,de novo origination,YJL026C-A
+YJR005C-A,DNA-based duplication,YGR169C-A
+YKR005C,de novo origination,YKR005C
+YKR015C,DNA-based duplication like,YJL043W
+YJL043W,DNA-based duplication like,YKR015C
+YKR036C,DNA-based duplication like,YJL112W
+YKR059W,DNA-based duplication,YJL138C
+YKR059W,DNA-based duplication like,YOR046C
+YKR059W,DNA-based duplication like,YGL171W
+YMR081C,de novo origination,YMR081C
+YMR084W,DNA-based duplication like,YMR085W
+YMR084W,DNA-based duplication like,YKL104C
+YMR085W,DNA-based duplication like,YMR084W
+YMR085W,DNA-based duplication like,YKL104C
+YMR147W,de novo origination,YMR147W
+YMR158C-A,DNA-based duplication like,YDR340W
+YDR340W,DNA-based duplication,YMR158C-A
+YOR151C,DNA-based duplication like,YPR010C
+YOR151C,DNA-based duplication like,YOR207C
+YOR179C,de novo origination,YOR179C
+YOR192C-C,DNA-based duplication like,YIL060W
+YOR192C-C,DNA-based duplication like,YHR145C
+YOR192C-C,DNA-based duplication,YER138W-A
+YOR207C,DNA-based duplication like,YPR010C
+YOR207C,DNA-based duplication like,YOR151C
+YOR247W,de novo origination,YOR247W
+YBL075C,DNA-based duplication like,YPL106C
+YBL075C,DNA-based duplication,YNL209W
+YBL075C,DNA-based duplication like,YBR169C
+YBL059W,de novo origination,YBL059W
+YBL054W,DNA-based duplication like,YER088C
+YBL043W,de novo origination,YBL043W
+YBR012C,de novo origination,YBR012C
+YMR321C,DNA-based duplication like,YPL273W
+YMR321C,DNA-based duplication like,YLL062C
+YMR323W,DNA-based duplication,YGR254W
+YMR323W,DNA-based duplication,YHR174W
+YMR323W,DNA-based duplication,YPL281C
+YMR323W,DNA-based duplication,YOR393W
+YMR324C,DNA-based duplication like,YHL045W
+YHL045W,DNA-based duplication,YMR324C
+YMR325W,DNA-based duplication,YLR461W
+YMR325W,DNA-based duplication,YLR037C
+YMR325W,DNA-based duplication,YIR041W
+YMR325W,DNA-based duplication,YGR294W
+YMR325W,DNA-based duplication,YIL176C
+YMR325W,DNA-based duplication,YEL049W
+YMR325W,DNA-based duplication,YLL064C
+YMR325W,DNA-based duplication,YKL224C
+YMR325W,DNA-based duplication,YDR542W
+YMR325W,DNA-based duplication like,YJR151C
+YMR325W,DNA-based duplication like,YJR150C
+YMR325W,DNA-based duplication,YHL046C
+YMR325W,DNA-based duplication,YPL282C
+YMR325W,DNA-based duplication,YBR301W
+YMR325W,DNA-based duplication,YFL020C
+YMR325W,DNA-based duplication,YAR020C
+YMR325W,DNA-based duplication,YJL223C
+YMR325W,DNA-based duplication,YBL108C-A
+YMR325W,DNA-based duplication,YLL025W
+YMR325W,DNA-based duplication,YCR104W
+YMR325W,DNA-based duplication,YNR076W
+YMR325W,DNA-based duplication,YOL161C
+YMR325W,DNA-based duplication,YOR394W
+YMR325W,DNA-based duplication,YAL068C
+YMR325W,DNA-based duplication,YGL261C
+YMR326C,DNA-based duplication,YDR543C
+YMR326C,DNA-based duplication,YER188C-A
+YMR326C,DNA-based duplication like,YJR162C
+YMR326C,DNA-based duplication,YOL166W-A
+YMR326C,DNA-based duplication,YAL068W-A
+YMR326C,DNA-based duplication,YNR077C
+YMR326C,DNA-based duplication,YNL337W
+YMR326C,DNA-based duplication like,YFL063W
+YMR326C,DNA-based duplication like,YLL065W
+YMR326C,DNA-based duplication like,YKL225W
+YNL339C,DNA-based duplication,YIL177C
+YNL339C,DNA-based duplication like,YLR462W
+YNL339C,DNA-based duplication,YHL050C
+YNL339C,DNA-based duplication,YDR545W
+YNL339C,DNA-based duplication,YHR219W
+YNL339C,DNA-based duplication,YBL112C
+YNL339C,DNA-based duplication,YEL077C
+YNL339C,DNA-based duplication,YFL066C
+YNL339C,DNA-based duplication,YHR218W-A
+YNL339C,DNA-based duplication,YLL066C
+YNL339C,DNA-based duplication,YBL111C
+YNL339C,DNA-based duplication,YER190W
+YNL339C,DNA-based duplication,YML133C
+YNL339C,DNA-based duplication,YJL225C
+YNL339C,DNA-based duplication,YLR467W
+YNL339C,DNA-based duplication,YPL283C
+YNL339C,DNA-based duplication,YPR204W
+YNL339C,DNA-based duplication,YBL113C
+YNL339C,DNA-based duplication,YLR466W
+YNL339C,DNA-based duplication,YOR396W
+YNL339C,DNA-based duplication,YGR296W
+YNL339C,DNA-based duplication,YLL067C
+YNL339C,DNA-based duplication,YHR218W
+YNL339W-B,DNA-based duplication,YFL068W
+YNL339W-B,DNA-based duplication,YHR219C-A
+YNL339W-B,DNA-based duplication,YGR296C-B
+YNL339W-B,DNA-based duplication,YLR466C-A
+YNL339W-B,DNA-based duplication,YLL067W-A
+YNL339W-B,DNA-based duplication,YJL225W-A
+YNL339W-B,DNA-based duplication,YOR396C-A
+YNL339W-B,DNA-based duplication,YER190C-B
+YNL339W-B,DNA-based duplication,YLR467C-A
+YNL339W-B,DNA-based duplication,YDR545C-A
+YNL339W-B,DNA-based duplication,YBL113W-A
+YNL339W-B,DNA-based duplication,YHL050W-A
+YNL339W-B,DNA-based duplication,YML133W-B
+YNL339W-B,DNA-based duplication,YPL283W-B
+YNL339W-B,DNA-based duplication,YLL066W-A
+YNL339W-B,DNA-based duplication,YEL077W-A
+YNL339W-B,DNA-based duplication,YPR204C-A
+YNL339W-B,DNA-based duplication,YIL177W-A
+YNL339W-A,DNA-based duplication,YER190C-A
+YNL339W-A,DNA-based duplication,YGR296C-A
+YNL339W-A,DNA-based duplication,YPL283W-A
+YNL339W-A,DNA-based duplication,YML133W-A
+YNL337W,DNA-based duplication,YDR543C
+YNL337W,DNA-based duplication,YER188C-A
+YNL337W,DNA-based duplication,YJR162C
+YNL337W,DNA-based duplication,YOL166W-A
+YNL337W,DNA-based duplication,YAL068W-A
+YNL337W,DNA-based duplication,YNR077C
+YNL337W,DNA-based duplication,YFL063W
+YNL337W,DNA-based duplication,YMR326C
+YNL337W,DNA-based duplication,YLL065W
+YNL337W,DNA-based duplication,YKL225W
+YNL336W,DNA-based duplication,YML132W
+YNL336W,DNA-based duplication,YBR302C
+YNL336W,DNA-based duplication like,YGL263W
+YNL336W,DNA-based duplication,YHL048W
+YNL336W,DNA-based duplication,YGR295C
+YNL336W,DNA-based duplication,YJR161C
+YNL336W,DNA-based duplication like,YHL043W
+YNL336W,DNA-based duplication like,YNR075W
+YNL336W,DNA-based duplication,YFL062W
+YNL336W,DNA-based duplication like,YHL042W
+YNL336W,DNA-based duplication,YKL219W
+YNL336W,DNA-based duplication,YDL248W
+YNL335W,DNA-based duplication,YFL061W
+YNL331C,DNA-based duplication,YCR107W
+YNL331C,DNA-based duplication,YDL243C
+YNL331C,DNA-based duplication,YJR155W
+YKR098C,DNA-based duplication like,YIL156W
+YKR101W,de novo origination,YKR101W
+YKR102W,DNA-based duplication like,YHR211W
+YKR102W,DNA-based duplication,YAL064C-A
+YKR102W,DNA-based duplication,YHR213W
+YKR102W,DNA-based duplication like,YAR050W
+YKR102W,DNA-based duplication like,YAL063C
+YKR102W,DNA-based duplication like,YFL051C
+YKR102W,DNA-based duplication,YHR212W-A
+YKR103W,DNA-based duplication like,YKR104W
+YKR104W,DNA-based duplication like,YKR103W
+YKR105C,DNA-based duplication like,YGR224W
+YKR105C,DNA-based duplication,YCL069W
+YKR105C,DNA-based duplication like,YPR198W
+YKR106W,DNA-based duplication like,YEL065W
+YKR106W,DNA-based duplication like,YHL040C
+YKR106W,DNA-based duplication,YCL073C
+YKR106W,DNA-based duplication like,YOL158C
+YKR106W,DNA-based duplication like,YHL047C
+YLL067C,DNA-based duplication,YIL177C
+YLL067C,DNA-based duplication like,YLR462W
+YLL067C,DNA-based duplication,YHL050C
+YLL067C,DNA-based duplication,YDR545W
+YLL067C,DNA-based duplication,YHR219W
+YLL067C,DNA-based duplication,YBL112C
+YLL067C,DNA-based duplication,YEL077C
+YLL067C,DNA-based duplication,YFL066C
+YLL067C,DNA-based duplication,YHR218W-A
+YLL067C,DNA-based duplication,YLL066C
+YLL067C,DNA-based duplication,YBL111C
+YLL067C,DNA-based duplication,YER190W
+YLL067C,DNA-based duplication,YML133C
+YLL067C,DNA-based duplication,YJL225C
+YLL067C,DNA-based duplication,YLR467W
+YLL067C,DNA-based duplication,YPL283C
+YLL067C,DNA-based duplication,YPR204W
+YLL067C,DNA-based duplication,YBL113C
+YLL067C,DNA-based duplication,YLR466W
+YLL067C,DNA-based duplication,YOR396W
+YLL067C,DNA-based duplication,YGR296W
+YLL067C,DNA-based duplication,YNL339C
+YLL067C,DNA-based duplication,YHR218W
+YLL066C,DNA-based duplication,YIL177C
+YLL066C,DNA-based duplication like,YLR462W
+YLL066C,DNA-based duplication,YHL050C
+YLL066C,DNA-based duplication,YDR545W
+YLL066C,DNA-based duplication,YHR219W
+YLL066C,DNA-based duplication,YBL112C
+YLL066C,DNA-based duplication,YEL077C
+YLL066C,DNA-based duplication,YFL066C
+YLL066C,DNA-based duplication,YHR218W-A
+YLL066C,DNA-based duplication,YBL111C
+YLL066C,DNA-based duplication,YER190W
+YLL066C,DNA-based duplication,YML133C
+YLL066C,DNA-based duplication,YJL225C
+YLL066C,DNA-based duplication,YLR467W
+YLL066C,DNA-based duplication,YPL283C
+YLL066C,DNA-based duplication,YPR204W
+YLL066C,DNA-based duplication,YBL113C
+YLL066C,DNA-based duplication,YLR466W
+YLL066C,DNA-based duplication,YOR396W
+YLL066C,DNA-based duplication,YGR296W
+YLL066C,DNA-based duplication,YLL067C
+YLL066C,DNA-based duplication,YNL339C
+YLL066C,DNA-based duplication,YHR218W
+YLL067W-A,DNA-based duplication,YFL068W
+YLL067W-A,DNA-based duplication,YHR219C-A
+YLL067W-A,DNA-based duplication,YGR296C-B
+YLL067W-A,DNA-based duplication,YLR466C-A
+YLL067W-A,DNA-based duplication,YOR396C-A
+YLL067W-A,DNA-based duplication,YJL225W-A
+YLL067W-A,DNA-based duplication,YER190C-B
+YLL067W-A,DNA-based duplication,YLR467C-A
+YLL067W-A,DNA-based duplication,YDR545C-A
+YLL067W-A,DNA-based duplication,YBL113W-A
+YLL067W-A,DNA-based duplication,YHL050W-A
+YLL067W-A,DNA-based duplication,YML133W-B
+YLL067W-A,DNA-based duplication,YPL283W-B
+YLL067W-A,DNA-based duplication,YLL066W-A
+YLL067W-A,DNA-based duplication,YNL339W-B
+YLL067W-A,DNA-based duplication,YEL077W-A
+YLL067W-A,DNA-based duplication,YPR204C-A
+YLL067W-A,DNA-based duplication,YIL177W-A
+YLL066W-A,DNA-based duplication,YFL068W
+YLL066W-A,DNA-based duplication,YHR219C-A
+YLL066W-A,DNA-based duplication,YGR296C-B
+YLL066W-A,DNA-based duplication,YLR466C-A
+YLL066W-A,DNA-based duplication,YLL067W-A
+YLL066W-A,DNA-based duplication,YJL225W-A
+YLL066W-A,DNA-based duplication,YOR396C-A
+YLL066W-A,DNA-based duplication,YLR467C-A
+YLL066W-A,DNA-based duplication,YDR545C-A
+YLL066W-A,DNA-based duplication,YBL113W-A
+YLL066W-A,DNA-based duplication,YHL050W-A
+YLL066W-A,DNA-based duplication,YML133W-B
+YLL066W-A,DNA-based duplication,YPL283W-B
+YLL066W-A,DNA-based duplication,YER190C-B
+YLL066W-A,DNA-based duplication,YNL339W-B
+YLL066W-A,DNA-based duplication,YEL077W-A
+YLL066W-A,DNA-based duplication,YPR204C-A
+YLL066W-A,DNA-based duplication,YIL177W-A
+YLL065W,DNA-based duplication,YDR543C
+YLL065W,DNA-based duplication,YER188C-A
+YLL065W,DNA-based duplication,YJR162C
+YLL065W,DNA-based duplication,YOL166W-A
+YLL065W,DNA-based duplication,YAL068W-A
+YLL065W,DNA-based duplication,YNR077C
+YLL065W,DNA-based duplication,YNL337W
+YLL065W,DNA-based duplication like,YFL063W
+YLL065W,DNA-based duplication,YMR326C
+YLL065W,DNA-based duplication,YKL225W
+YLL064C,DNA-based duplication,YLR461W
+YLL064C,DNA-based duplication,YMR325W
+YLL064C,DNA-based duplication,YIR041W
+YLL064C,DNA-based duplication,YLR037C
+YLL064C,DNA-based duplication,YGR294W
+YLL064C,DNA-based duplication,YIL176C
+YLL064C,DNA-based duplication,YEL049W
+YLL064C,DNA-based duplication,YKL224C
+YLL064C,DNA-based duplication,YDR542W
+YLL064C,DNA-based duplication like,YJR151C
+YLL064C,DNA-based duplication like,YJR150C
+YLL064C,DNA-based duplication,YHL046C
+YLL064C,DNA-based duplication,YPL282C
+YLL064C,DNA-based duplication,YBR301W
+YLL064C,DNA-based duplication,YFL020C
+YLL064C,DNA-based duplication,YAR020C
+YLL064C,DNA-based duplication,YLL025W
+YLL064C,DNA-based duplication,YBL108C-A
+YLL064C,DNA-based duplication,YJL223C
+YLL064C,DNA-based duplication,YCR104W
+YLL064C,DNA-based duplication,YNR076W
+YLL064C,DNA-based duplication,YOL161C
+YLL064C,DNA-based duplication,YOR394W
+YLL064C,DNA-based duplication,YAL068C
+YLL064C,DNA-based duplication,YGL261C
+YLL025W,DNA-based duplication,YLR461W
+YLL025W,DNA-based duplication,YMR325W
+YLL025W,DNA-based duplication,YIR041W
+YLL025W,DNA-based duplication,YLR037C
+YLL025W,DNA-based duplication,YGR294W
+YLL025W,DNA-based duplication,YIL176C
+YLL025W,DNA-based duplication,YEL049W
+YLL025W,DNA-based duplication,YLL064C
+YLL025W,DNA-based duplication,YKL224C
+YLL025W,DNA-based duplication,YDR542W
+YLL025W,DNA-based duplication like,YJR151C
+YLL025W,DNA-based duplication like,YJR150C
+YLL025W,DNA-based duplication,YHL046C
+YLL025W,DNA-based duplication,YPL282C
+YLL025W,DNA-based duplication,YBR301W
+YLL025W,DNA-based duplication,YFL020C
+YLL025W,DNA-based duplication,YAR020C
+YLL025W,DNA-based duplication,YBL108C-A
+YLL025W,DNA-based duplication,YJL223C
+YLL025W,DNA-based duplication,YCR104W
+YLL025W,DNA-based duplication,YNR076W
+YLL025W,DNA-based duplication,YOL161C
+YLL025W,DNA-based duplication,YOR394W
+YLL025W,DNA-based duplication,YAL068C
+YLL025W,DNA-based duplication,YGL261C
+YLL063C,de novo origination,YLL063C
+YLL058W,DNA-based duplication like,YJR130C
+YLL058W,DNA-based duplication like,YML082W
+YLL057C,de novo origination,YLL057C
+YLL056C,de novo origination,YLL056C
+YLL054C,DNA-based duplication like,YOR363C
+YLL054C,DNA-based duplication like,YAL051W
+YLL054C,DNA-based duplication like,YCR106W
+YLL053C,de novo origination,YLL053C
+YLL049W,de novo origination,YLL049W
+YLL048C,de novo origination,YLL048C
+YLL046C,DNA-based duplication like,YHL034C
+YLR011W,de novo origination,YLR011W
+YLR012C,de novo origination,YLR012C
+YLR013W,DNA-based duplication like,YIR013C
+YIR013C,DNA-based duplication like,YLR013W
+YLR254C,de novo origination,YLR254C
+YLR273C,DNA-based duplication like,YOR178C
+YLR312C,de novo origination,YLR312C
+YLR334C,DNA-based duplication,YGR122C-A
+YLR334C,DNA-based duplication like,YOL106W
+YLR334C,DNA-based duplication,YPR002C-A
+YLR334C,DNA-based duplication,YCR018C-A
+YLR334C,DNA-based duplication,YDR034C-A
+YLR334C,DNA-based duplication,YMR046W-A
+YLR339C,de novo origination,YLR339C
+YJR149W,de novo origination,YJR149W
+YJR150C,DNA-based duplication,YLR461W
+YJR150C,DNA-based duplication,YMR325W
+YJR150C,DNA-based duplication,YIR041W
+YJR150C,DNA-based duplication,YLR037C
+YJR150C,DNA-based duplication,YGR294W
+YJR150C,DNA-based duplication,YIL176C
+YJR150C,DNA-based duplication,YEL049W
+YJR150C,DNA-based duplication,YLL064C
+YJR150C,DNA-based duplication,YKL224C
+YJR150C,DNA-based duplication,YDR542W
+YJR150C,DNA-based duplication like,YJR151C
+YJR150C,DNA-based duplication,YHL046C
+YJR150C,DNA-based duplication like,YPL282C
+YJR150C,DNA-based duplication,YBR301W
+YJR150C,DNA-based duplication,YFL020C
+YJR150C,DNA-based duplication,YAR020C
+YJR150C,DNA-based duplication,YLL025W
+YJR150C,DNA-based duplication,YBL108C-A
+YJR150C,DNA-based duplication,YJL223C
+YJR150C,DNA-based duplication,YCR104W
+YJR150C,DNA-based duplication,YNR076W
+YJR150C,DNA-based duplication,YOL161C
+YJR150C,DNA-based duplication like,YOR394W
+YJR150C,DNA-based duplication,YAL068C
+YJR150C,DNA-based duplication,YGL261C
+YJR151C,DNA-based duplication,YLR461W
+YJR151C,DNA-based duplication,YMR325W
+YJR151C,DNA-based duplication,YIR041W
+YJR151C,DNA-based duplication,YLR037C
+YJR151C,DNA-based duplication,YGR294W
+YJR151C,DNA-based duplication,YIL176C
+YJR151C,DNA-based duplication,YEL049W
+YJR151C,DNA-based duplication,YLL064C
+YJR151C,DNA-based duplication,YKL224C
+YJR151C,DNA-based duplication,YDR542W
+YJR151C,DNA-based duplication like,YJR150C
+YJR151C,DNA-based duplication,YHL046C
+YJR151C,DNA-based duplication,YPL282C
+YJR151C,DNA-based duplication,YBR301W
+YJR151C,DNA-based duplication,YFL020C
+YJR151C,DNA-based duplication,YAR020C
+YJR151C,DNA-based duplication,YLL025W
+YJR151C,DNA-based duplication,YBL108C-A
+YJR151C,DNA-based duplication,YJL223C
+YJR151C,DNA-based duplication,YCR104W
+YJR151C,DNA-based duplication,YNR076W
+YJR151C,DNA-based duplication,YOL161C
+YJR151C,DNA-based duplication,YOR394W
+YJR151C,DNA-based duplication,YAL068C
+YJR151C,DNA-based duplication,YGL261C
+YJR153W,de novo origination,YJR153W
+YJR154W,de novo origination,YJR154W
+YJR155W,DNA-based duplication,YNL331C
+YJR155W,DNA-based duplication,YCR107W
+YJR155W,DNA-based duplication,YDL243C
+YJR158W,DNA-based duplication,YMR011W
+YJR158W,DNA-based duplication,YDL245C
+YJR158W,DNA-based duplication,YDR342C
+YJR158W,DNA-based duplication like,YHR096C
+YJR158W,DNA-based duplication,YLR081W
+YJR158W,DNA-based duplication,YHR094C
+YJR158W,DNA-based duplication,YJL214W
+YJR158W,DNA-based duplication,YOL156W
+YJR158W,DNA-based duplication,YHR092C
+YJR158W,DNA-based duplication,YFL011W
+YJR158W,DNA-based duplication,YDR343C
+YJR158W,DNA-based duplication,YJL219W
+YJR158W,DNA-based duplication,YEL069C
+YJR158W,DNA-based duplication,YDR345C
+YJR159W,DNA-based duplication,YDL246C
+YJR159W,DNA-based duplication,YLR070C
+YJR160C,DNA-based duplication,YGR289C
+YJR160C,DNA-based duplication,YBR298C
+YJR161C,DNA-based duplication,YML132W
+YJR161C,DNA-based duplication,YBR302C
+YJR161C,DNA-based duplication like,YGL263W
+YJR161C,DNA-based duplication,YHL048W
+YJR161C,DNA-based duplication,YGR295C
+YJR161C,DNA-based duplication like,YHL043W
+YJR161C,DNA-based duplication like,YNR075W
+YJR161C,DNA-based duplication,YNL336W
+YJR161C,DNA-based duplication,YFL062W
+YJR161C,DNA-based duplication like,YHL042W
+YJR161C,DNA-based duplication,YKL219W
+YJR161C,DNA-based duplication,YDL248W
+YJR162C,DNA-based duplication,YDR543C
+YJR162C,DNA-based duplication,YER188C-A
+YJR162C,DNA-based duplication,YOL166W-A
+YJR162C,DNA-based duplication,YAL068W-A
+YJR162C,DNA-based duplication,YNR077C
+YJR162C,DNA-based duplication,YNL337W
+YJR162C,DNA-based duplication,YFL063W
+YJR162C,DNA-based duplication,YMR326C
+YJR162C,DNA-based duplication,YLL065W
+YJR162C,DNA-based duplication,YKL225W
+YKL225W,DNA-based duplication,YDR543C
+YKL225W,DNA-based duplication,YJR162C
+YKL225W,DNA-based duplication,YER188C-A
+YKL225W,DNA-based duplication,YOL166W-A
+YKL225W,DNA-based duplication,YAL068W-A
+YKL225W,DNA-based duplication,YNR077C
+YKL225W,DNA-based duplication,YNL337W
+YKL225W,DNA-based duplication like,YFL063W
+YKL225W,DNA-based duplication,YMR326C
+YKL225W,DNA-based duplication,YLL065W
+YKL224C,DNA-based duplication,YLR461W
+YKL224C,DNA-based duplication,YMR325W
+YKL224C,DNA-based duplication,YIR041W
+YKL224C,DNA-based duplication,YLR037C
+YKL224C,DNA-based duplication,YGR294W
+YKL224C,DNA-based duplication,YIL176C
+YKL224C,DNA-based duplication,YEL049W
+YKL224C,DNA-based duplication,YLL064C
+YKL224C,DNA-based duplication,YDR542W
+YKL224C,DNA-based duplication like,YJR151C
+YKL224C,DNA-based duplication like,YJR150C
+YKL224C,DNA-based duplication,YHL046C
+YKL224C,DNA-based duplication,YPL282C
+YKL224C,DNA-based duplication,YBR301W
+YKL224C,DNA-based duplication,YFL020C
+YKL224C,DNA-based duplication,YAR020C
+YKL224C,DNA-based duplication,YLL025W
+YKL224C,DNA-based duplication,YBL108C-A
+YKL224C,DNA-based duplication,YJL223C
+YKL224C,DNA-based duplication,YCR104W
+YKL224C,DNA-based duplication,YNR076W
+YKL224C,DNA-based duplication,YOL161C
+YKL224C,DNA-based duplication,YOR394W
+YKL224C,DNA-based duplication,YAL068C
+YKL224C,DNA-based duplication,YGL261C
+YKL223W,DNA-based duplication,YJL222W-B
+YKL223W,DNA-based duplication,YJL222W-A
+YKL223W,DNA-based duplication,YNR075C-A
+YKL223W,DNA-based duplication,YBL108W
+YKL223W,DNA-based duplication,YIR040C
+YKL223W,DNA-based duplication,YAL067W-A
+YKL223W,DNA-based duplication,YGL260W
+YKL222C,DNA-based duplication like,YOR172W
+YKL222C,DNA-based duplication like,YOR162C
+YKL222C,DNA-based duplication like,YLR266C
+YKL221W,DNA-based duplication like,YNL125C
+YKL220C,DNA-based duplication,YNR060W
+YKL220C,DNA-based duplication,YOR381W
+YKL220C,DNA-based duplication like,YOR384W
+YKL220C,DNA-based duplication like,YLR214W
+YKL220C,DNA-based duplication like,YLL051C
+YKL219W,DNA-based duplication,YML132W
+YKL219W,DNA-based duplication,YBR302C
+YKL219W,DNA-based duplication like,YGL263W
+YKL219W,DNA-based duplication,YHL048W
+YKL219W,DNA-based duplication,YJR161C
+YKL219W,DNA-based duplication,YGR295C
+YKL219W,DNA-based duplication like,YHL043W
+YKL219W,DNA-based duplication,YNL336W
+YKL219W,DNA-based duplication like,YNR075W
+YKL219W,DNA-based duplication,YFL062W
+YKL219W,DNA-based duplication like,YHL042W
+YKL219W,DNA-based duplication,YDL248W
+YKL218C,DNA-based duplication like,YER086W
+YKL217W,de novo origination,YKL217W
+YKL161C,DNA-based duplication like,YHR030C
+YKL161C,DNA-based duplication like,YBL016W
+YKL161C,DNA-based duplication like,YGR040W
+YJL185C,de novo origination,YJL185C
+YJL164C,DNA-based duplication,YPL203W
+YJL164C,DNA-based duplication,YKL166C
+YJL161W,de novo origination,YJL161W
+YJL160C,DNA-based duplication like,YKL163W
+YJL160C,DNA-based duplication like,YKL164C
+YJL160C,DNA-based duplication like,YJL159W
+YJL160C,DNA-based duplication,YJL158C
+YJL138C,DNA-based duplication,YKR059W
+YJL138C,DNA-based duplication like,YOR046C
+YJL138C,DNA-based duplication like,YGL171W
+YJL133C-A,de novo origination,YJL133C-A
+YJL107C,de novo origination,YJL107C
+YMR192W,de novo origination,YMR192W
+YMR206W,de novo origination,YMR206W
+YMR207C,DNA-based duplication like,YBR218C
+YMR207C,DNA-based duplication,YNR016C
+YMR207C,DNA-based duplication like,YGL062W
+YMR237W,DNA-based duplication like,YKR027W
+YMR237W,DNA-based duplication like,YJL099W
+YMR237W,DNA-based duplication,YOR299W
+YPL202C,DNA-based duplication like,YGL071W
+YPL197C,de novo origination,YPL197C
+YPL191C,DNA-based duplication like,YGL082W
+YPL163C,de novo origination,YPL163C
+YPL142C,de novo origination,YPL142C
+YLR461W,DNA-based duplication,YMR325W
+YLR461W,DNA-based duplication,YLR037C
+YLR461W,DNA-based duplication,YIR041W
+YLR461W,DNA-based duplication,YGR294W
+YLR461W,DNA-based duplication,YIL176C
+YLR461W,DNA-based duplication,YEL049W
+YLR461W,DNA-based duplication,YLL064C
+YLR461W,DNA-based duplication,YKL224C
+YLR461W,DNA-based duplication,YDR542W
+YLR461W,DNA-based duplication like,YJR151C
+YLR461W,DNA-based duplication like,YJR150C
+YLR461W,DNA-based duplication,YHL046C
+YLR461W,DNA-based duplication,YPL282C
+YLR461W,DNA-based duplication,YBR301W
+YLR461W,DNA-based duplication,YFL020C
+YLR461W,DNA-based duplication,YAR020C
+YLR461W,DNA-based duplication,YLL025W
+YLR461W,DNA-based duplication,YBL108C-A
+YLR461W,DNA-based duplication,YJL223C
+YLR461W,DNA-based duplication,YCR104W
+YLR461W,DNA-based duplication,YNR076W
+YLR461W,DNA-based duplication,YOL161C
+YLR461W,DNA-based duplication,YOR394W
+YLR461W,DNA-based duplication,YAL068C
+YLR461W,DNA-based duplication,YGL261C
+YLR463C,DNA-based duplication,YEL075W-A
+YEL075W-A,DNA-based duplication,YLR463C
+YLR464W,DNA-based duplication,YEL076C-A
+YEL076C-A,DNA-based duplication,YLR464W
+YLR466W,retroposition,YIL177C
+YLR466W,DNA-based duplication like,YLR462W
+YLR466W,retroposition,YHL050C
+YLR466W,DNA-based duplication,YDR545W
+YLR466W,DNA-based duplication,YHR219W
+YLR466W,DNA-based duplication,YBL112C
+YLR466W,DNA-based duplication,YEL077C
+YLR466W,DNA-based duplication,YFL066C
+YLR466W,DNA-based duplication,YHR218W-A
+YLR466W,retroposition,YLL066C
+YLR466W,retroposition,YBL111C
+YLR466W,DNA-based duplication,YER190W
+YLR466W,retroposition,YML133C
+YLR466W,retroposition,YJL225C
+YLR466W,DNA-based duplication,YLR467W
+YLR466W,retroposition,YPL283C
+YLR466W,DNA-based duplication,YPR204W
+YLR466W,DNA-based duplication,YBL113C
+YLR466W,DNA-based duplication,YOR396W
+YLR466W,retroposition,YGR296W
+YLR466W,retroposition,YLL067C
+YLR466W,retroposition,YNL339C
+YLR466W,retroposition,YHR218W
+YLR466C-A,DNA-based duplication,YFL068W
+YLR466C-A,DNA-based duplication,YHR219C-A
+YLR466C-A,DNA-based duplication,YGR296C-B
+YLR466C-A,DNA-based duplication,YLL067W-A
+YLR466C-A,DNA-based duplication,YJL225W-A
+YLR466C-A,DNA-based duplication,YOR396C-A
+YLR466C-A,DNA-based duplication,YER190C-B
+YLR466C-A,DNA-based duplication,YLR467C-A
+YLR466C-A,DNA-based duplication,YDR545C-A
+YLR466C-A,DNA-based duplication,YBL113W-A
+YLR466C-A,DNA-based duplication,YHL050W-A
+YLR466C-A,DNA-based duplication,YML133W-B
+YLR466C-A,DNA-based duplication,YPL283W-B
+YLR466C-A,DNA-based duplication,YLL066W-A
+YLR466C-A,DNA-based duplication,YNL339W-B
+YLR466C-A,DNA-based duplication,YEL077W-A
+YLR466C-A,DNA-based duplication,YPR204C-A
+YLR466C-A,DNA-based duplication,YIL177W-A
+YLR466C-B,DNA-based duplication,YLL066W-B
+YLL066W-B,DNA-based duplication,YLR466C-B
+YLR467W,retroposition,YIL177C
+YLR467W,DNA-based duplication like,YLR462W
+YLR467W,retroposition,YHL050C
+YLR467W,DNA-based duplication,YDR545W
+YLR467W,DNA-based duplication,YHR219W
+YLR467W,DNA-based duplication,YBL112C
+YLR467W,DNA-based duplication,YEL077C
+YLR467W,DNA-based duplication,YFL066C
+YLR467W,DNA-based duplication,YHR218W-A
+YLR467W,retroposition,YLL066C
+YLR467W,retroposition,YBL111C
+YLR467W,DNA-based duplication,YER190W
+YLR467W,retroposition,YML133C
+YLR467W,retroposition,YJL225C
+YLR467W,retroposition,YPL283C
+YLR467W,DNA-based duplication,YPR204W
+YLR467W,DNA-based duplication,YBL113C
+YLR467W,DNA-based duplication,YLR466W
+YLR467W,DNA-based duplication,YOR396W
+YLR467W,retroposition,YGR296W
+YLR467W,retroposition,YLL067C
+YLR467W,retroposition,YNL339C
+YLR467W,retroposition,YHR218W
+YLR467C-A,DNA-based duplication,YFL068W
+YLR467C-A,DNA-based duplication,YHR219C-A
+YLR467C-A,DNA-based duplication,YGR296C-B
+YLR467C-A,DNA-based duplication,YLR466C-A
+YLR467C-A,DNA-based duplication,YLL067W-A
+YLR467C-A,DNA-based duplication,YJL225W-A
+YLR467C-A,DNA-based duplication,YOR396C-A
+YLR467C-A,DNA-based duplication,YER190C-B
+YLR467C-A,DNA-based duplication,YDR545C-A
+YLR467C-A,DNA-based duplication,YBL113W-A
+YLR467C-A,DNA-based duplication,YHL050W-A
+YLR467C-A,DNA-based duplication,YML133W-B
+YLR467C-A,DNA-based duplication,YPL283W-B
+YLR467C-A,DNA-based duplication,YLL066W-A
+YLR467C-A,DNA-based duplication,YNL339W-B
+YLR467C-A,DNA-based duplication,YEL077W-A
+YLR467C-A,DNA-based duplication,YPR204C-A
+YLR467C-A,DNA-based duplication,YIL177W-A
+YML133C,DNA-based duplication,YIL177C
+YML133C,DNA-based duplication like,YLR462W
+YML133C,DNA-based duplication,YHL050C
+YML133C,DNA-based duplication,YDR545W
+YML133C,DNA-based duplication,YHR219W
+YML133C,DNA-based duplication,YBL112C
+YML133C,DNA-based duplication,YEL077C
+YML133C,DNA-based duplication,YFL066C
+YML133C,DNA-based duplication,YHR218W-A
+YML133C,DNA-based duplication,YLL066C
+YML133C,DNA-based duplication,YBL111C
+YML133C,DNA-based duplication,YER190W
+YML133C,DNA-based duplication,YJL225C
+YML133C,DNA-based duplication,YLR467W
+YML133C,DNA-based duplication,YPL283C
+YML133C,DNA-based duplication,YPR204W
+YML133C,DNA-based duplication,YBL113C
+YML133C,DNA-based duplication,YLR466W
+YML133C,DNA-based duplication,YOR396W
+YML133C,DNA-based duplication,YGR296W
+YML133C,DNA-based duplication,YLL067C
+YML133C,DNA-based duplication,YNL339C
+YML133C,DNA-based duplication,YHR218W
+YML133W-B,DNA-based duplication,YFL068W
+YML133W-B,DNA-based duplication,YHR219C-A
+YML133W-B,DNA-based duplication,YGR296C-B
+YML133W-B,DNA-based duplication,YLR466C-A
+YML133W-B,DNA-based duplication,YLL067W-A
+YML133W-B,DNA-based duplication,YJL225W-A
+YML133W-B,DNA-based duplication,YOR396C-A
+YML133W-B,DNA-based duplication,YER190C-B
+YML133W-B,DNA-based duplication,YLR467C-A
+YML133W-B,DNA-based duplication,YDR545C-A
+YML133W-B,DNA-based duplication,YBL113W-A
+YML133W-B,DNA-based duplication,YHL050W-A
+YML133W-B,DNA-based duplication,YPL283W-B
+YML133W-B,DNA-based duplication,YLL066W-A
+YML133W-B,DNA-based duplication,YNL339W-B
+YML133W-B,DNA-based duplication,YEL077W-A
+YML133W-B,DNA-based duplication,YPR204C-A
+YML133W-B,DNA-based duplication,YIL177W-A
+YML133W-A,DNA-based duplication,YER190C-A
+YML133W-A,DNA-based duplication,YGR296C-A
+YML133W-A,DNA-based duplication,YNL339W-A
+YML133W-A,DNA-based duplication,YPL283W-A
+YML132W,DNA-based duplication,YBR302C
+YML132W,DNA-based duplication like,YGL263W
+YML132W,DNA-based duplication,YHL048W
+YML132W,DNA-based duplication,YJR161C
+YML132W,DNA-based duplication,YGR295C
+YML132W,DNA-based duplication like,YHL043W
+YML132W,DNA-based duplication,YNL336W
+YML132W,DNA-based duplication like,YNR075W
+YML132W,DNA-based duplication,YFL062W
+YML132W,DNA-based duplication like,YHL042W
+YML132W,DNA-based duplication,YKL219W
+YML132W,DNA-based duplication,YDL248W
+YML118W,DNA-based duplication like,YMR285C
+YML111W,DNA-based duplication like,YMR275C
+YML111W,DNA-based duplication like,YNR068C
+YML111W,DNA-based duplication like,YNR069C
+YML083C,de novo origination,YML083C
+YML058W,de novo origination,YML058W
+YBR284W,DNA-based duplication like,YML035C
+YBR284W,DNA-based duplication like,YJL070C
+YBR293W,DNA-based duplication like,YMR088C
+YBR295W,de novo origination,YBR295W
+YBR296C,de novo origination,YBR296C
+YBR298C,DNA-based duplication,YGR289C
+YBR298C,DNA-based duplication,YJR160C
+YBR299W,DNA-based duplication,YIL172C
+YBR299W,DNA-based duplication,YJL216C
+YBR299W,DNA-based duplication,YGR292W
+YBR299W,DNA-based duplication,YGR287C
+YBR299W,DNA-based duplication,YOL157C
+YBR301W,DNA-based duplication,YLR461W
+YBR301W,DNA-based duplication,YMR325W
+YBR301W,DNA-based duplication,YIR041W
+YBR301W,DNA-based duplication,YLR037C
+YBR301W,DNA-based duplication,YGR294W
+YBR301W,DNA-based duplication,YIL176C
+YBR301W,DNA-based duplication,YEL049W
+YBR301W,DNA-based duplication,YLL064C
+YBR301W,DNA-based duplication,YKL224C
+YBR301W,DNA-based duplication,YDR542W
+YBR301W,DNA-based duplication like,YJR151C
+YBR301W,DNA-based duplication like,YJR150C
+YBR301W,DNA-based duplication,YHL046C
+YBR301W,DNA-based duplication,YPL282C
+YBR301W,DNA-based duplication,YFL020C
+YBR301W,DNA-based duplication,YBL108C-A
+YBR301W,DNA-based duplication,YLL025W
+YBR301W,DNA-based duplication,YAR020C
+YBR301W,DNA-based duplication,YJL223C
+YBR301W,DNA-based duplication,YCR104W
+YBR301W,DNA-based duplication,YNR076W
+YBR301W,DNA-based duplication,YOL161C
+YBR301W,DNA-based duplication,YOR394W
+YBR301W,DNA-based duplication,YAL068C
+YBR301W,DNA-based duplication,YGL261C
+YBR302C,DNA-based duplication,YDL248W
+YBR302C,DNA-based duplication,YML132W
+YBR302C,DNA-based duplication,YHL048W
+YBR302C,DNA-based duplication,YGR295C
+YBR302C,DNA-based duplication like,YHL043W
+YBR302C,DNA-based duplication,YJR161C
+YBR302C,DNA-based duplication,YNL336W
+YBR302C,DNA-based duplication like,YNR075W
+YBR302C,DNA-based duplication,YFL062W
+YBR302C,DNA-based duplication like,YHL042W
+YBR302C,DNA-based duplication,YKL219W
+YBR302C,DNA-based duplication like,YGL263W
+YCL073C,DNA-based duplication like,YEL065W
+YCL073C,DNA-based duplication like,YHL040C
+YCL073C,DNA-based duplication like,YOL158C
+YCL073C,DNA-based duplication,YKR106W
+YCL073C,DNA-based duplication like,YHL047C
+YCL069W,DNA-based duplication like,YGR224W
+YCL069W,DNA-based duplication,YKR105C
+YCL069W,DNA-based duplication like,YPR198W
+YCL058W-A,de novo origination,YCL058W-A
+YCL051W,DNA-based duplication like,YDR528W
+YCL026C-A,DNA-based duplication,YCL026C-B
+YDR222W,DNA-based duplication like,YLR225C
+YDR222W,DNA-based duplication like,YDR346C
+YDR223W,DNA-based duplication like,YLR223C
+YDR242W,de novo origination,YDR242W
+YLR361C-A,de novo origination,YLR361C-A
+YLR373C,DNA-based duplication like,YGR071C
+YLR411W,de novo origination,YLR411W
+YLR442C,DNA-based duplication like,YML065W
+YLR442C,DNA-based duplication like,YJL194W
+YOR377W,DNA-based duplication like,YGR177C
+YOR378W,DNA-based duplication like,YMR279C
+YOR378W,DNA-based duplication like,YML116W
+YOR380W,de novo origination,YOR380W
+YOR381W,DNA-based duplication,YNR060W
+YOR381W,DNA-based duplication like,YOR384W
+YOR381W,DNA-based duplication,YKL220C
+YOR381W,DNA-based duplication like,YLR214W
+YOR381W,DNA-based duplication like,YLL051C
+YOR382W,de novo origination,YOR382W
+YOR383C,DNA-based duplication like,YDR534C
+YDR534C,DNA-based duplication,YOR383C
+YOR384W,DNA-based duplication like,YNR060W
+YOR384W,DNA-based duplication like,YOR381W
+YOR384W,DNA-based duplication like,YKL220C
+YOR384W,DNA-based duplication like,YLR214W
+YOR384W,DNA-based duplication like,YLL051C
+YOR385W,DNA-based duplication like,YMR316W
+YOR387C,DNA-based duplication,YGL258W
+YOR388C,de novo origination,YOR388C
+YOR393W,DNA-based duplication,YGR254W
+YOR393W,DNA-based duplication,YMR323W
+YOR393W,DNA-based duplication,YHR174W
+YOR393W,DNA-based duplication,YPL281C
+YOR394W,DNA-based duplication,YLR461W
+YOR394W,DNA-based duplication,YMR325W
+YOR394W,DNA-based duplication,YIR041W
+YOR394W,DNA-based duplication,YLR037C
+YOR394W,DNA-based duplication,YGR294W
+YOR394W,DNA-based duplication,YIL176C
+YOR394W,DNA-based duplication,YEL049W
+YOR394W,DNA-based duplication,YLL064C
+YOR394W,DNA-based duplication,YKL224C
+YOR394W,DNA-based duplication,YDR542W
+YOR394W,DNA-based duplication like,YJR151C
+YOR394W,DNA-based duplication like,YJR150C
+YOR394W,DNA-based duplication,YHL046C
+YOR394W,DNA-based duplication,YPL282C
+YOR394W,DNA-based duplication,YBR301W
+YOR394W,DNA-based duplication,YFL020C
+YOR394W,DNA-based duplication,YBL108C-A
+YOR394W,DNA-based duplication,YJL223C
+YOR394W,DNA-based duplication,YLL025W
+YOR394W,DNA-based duplication,YAR020C
+YOR394W,DNA-based duplication,YCR104W
+YOR394W,DNA-based duplication,YOL161C
+YOR394W,DNA-based duplication,YNR076W
+YOR394W,DNA-based duplication,YAL068C
+YOR394W,DNA-based duplication,YGL261C
+YOR396W,retroposition,YIL177C
+YOR396W,DNA-based duplication like,YLR462W
+YOR396W,retroposition,YHL050C
+YOR396W,DNA-based duplication,YDR545W
+YOR396W,DNA-based duplication,YHR219W
+YOR396W,DNA-based duplication,YBL112C
+YOR396W,DNA-based duplication,YEL077C
+YOR396W,DNA-based duplication,YFL066C
+YOR396W,DNA-based duplication,YHR218W-A
+YOR396W,retroposition,YLL066C
+YOR396W,retroposition,YBL111C
+YOR396W,DNA-based duplication,YER190W
+YOR396W,retroposition,YML133C
+YOR396W,retroposition,YJL225C
+YOR396W,DNA-based duplication,YLR467W
+YOR396W,retroposition,YPL283C
+YOR396W,DNA-based duplication,YPR204W
+YOR396W,DNA-based duplication,YBL113C
+YOR396W,DNA-based duplication,YLR466W
+YOR396W,retroposition,YGR296W
+YOR396W,retroposition,YLL067C
+YOR396W,retroposition,YNL339C
+YOR396W,retroposition,YHR218W
+YOR396C-A,DNA-based duplication,YFL068W
+YOR396C-A,DNA-based duplication,YHR219C-A
+YOR396C-A,DNA-based duplication,YGR296C-B
+YOR396C-A,DNA-based duplication,YLR466C-A
+YOR396C-A,DNA-based duplication,YLL067W-A
+YOR396C-A,DNA-based duplication,YJL225W-A
+YOR396C-A,DNA-based duplication,YER190C-B
+YOR396C-A,DNA-based duplication,YLR467C-A
+YOR396C-A,DNA-based duplication,YDR545C-A
+YOR396C-A,DNA-based duplication,YBL113W-A
+YOR396C-A,DNA-based duplication,YHL050W-A
+YOR396C-A,DNA-based duplication,YML133W-B
+YOR396C-A,DNA-based duplication,YPL283W-B
+YOR396C-A,DNA-based duplication,YLL066W-A
+YOR396C-A,DNA-based duplication,YNL339W-B
+YOR396C-A,DNA-based duplication,YEL077W-A
+YOR396C-A,DNA-based duplication,YPR204C-A
+YOR396C-A,DNA-based duplication,YIL177W-A
+YPL283C,DNA-based duplication,YIL177C
+YPL283C,DNA-based duplication like,YLR462W
+YPL283C,DNA-based duplication,YHL050C
+YPL283C,DNA-based duplication,YDR545W
+YPL283C,DNA-based duplication,YHR219W
+YPL283C,DNA-based duplication,YBL112C
+YPL283C,DNA-based duplication,YEL077C
+YPL283C,DNA-based duplication,YFL066C
+YPL283C,DNA-based duplication,YHR218W-A
+YPL283C,DNA-based duplication,YLL066C
+YPL283C,DNA-based duplication,YBL111C
+YPL283C,DNA-based duplication,YER190W
+YPL283C,DNA-based duplication,YML133C
+YPL283C,DNA-based duplication,YJL225C
+YPL283C,DNA-based duplication,YLR467W
+YPL283C,DNA-based duplication,YPR204W
+YPL283C,DNA-based duplication,YBL113C
+YPL283C,DNA-based duplication,YLR466W
+YPL283C,DNA-based duplication,YOR396W
+YPL283C,DNA-based duplication,YGR296W
+YPL283C,DNA-based duplication,YLL067C
+YPL283C,DNA-based duplication,YNL339C
+YPL283C,DNA-based duplication,YHR218W
+YPL283W-B,DNA-based duplication,YFL068W
+YPL283W-B,DNA-based duplication,YHR219C-A
+YPL283W-B,DNA-based duplication,YGR296C-B
+YPL283W-B,DNA-based duplication,YLR466C-A
+YPL283W-B,DNA-based duplication,YOR396C-A
+YPL283W-B,DNA-based duplication,YLL067W-A
+YPL283W-B,DNA-based duplication,YJL225W-A
+YPL283W-B,DNA-based duplication,YLR467C-A
+YPL283W-B,DNA-based duplication,YDR545C-A
+YPL283W-B,DNA-based duplication,YBL113W-A
+YPL283W-B,DNA-based duplication,YHL050W-A
+YPL283W-B,DNA-based duplication,YML133W-B
+YPL283W-B,DNA-based duplication,YLL066W-A
+YPL283W-B,DNA-based duplication,YER190C-B
+YPL283W-B,DNA-based duplication,YNL339W-B
+YPL283W-B,DNA-based duplication,YEL077W-A
+YPL283W-B,DNA-based duplication,YPR204C-A
+YPL283W-B,DNA-based duplication,YIL177W-A
+YPL283W-A,DNA-based duplication,YER190C-A
+YPL283W-A,DNA-based duplication,YGR296C-A
+YPL283W-A,DNA-based duplication,YNL339W-A
+YPL283W-A,DNA-based duplication,YML133W-A
+YPL282C,DNA-based duplication,YLR461W
+YPL282C,DNA-based duplication,YMR325W
+YPL282C,DNA-based duplication,YIR041W
+YPL282C,DNA-based duplication,YLR037C
+YPL282C,DNA-based duplication,YGR294W
+YPL282C,DNA-based duplication,YIL176C
+YPL282C,DNA-based duplication,YEL049W
+YPL282C,DNA-based duplication,YLL064C
+YPL282C,DNA-based duplication,YKL224C
+YPL282C,DNA-based duplication,YDR542W
+YPL282C,DNA-based duplication like,YJR151C
+YPL282C,DNA-based duplication like,YJR150C
+YPL282C,DNA-based duplication,YHL046C
+YPL282C,DNA-based duplication,YBR301W
+YPL282C,DNA-based duplication,YFL020C
+YPL282C,DNA-based duplication,YBL108C-A
+YPL282C,DNA-based duplication,YJL223C
+YPL282C,DNA-based duplication,YLL025W
+YPL282C,DNA-based duplication,YAR020C
+YPL282C,DNA-based duplication,YCR104W
+YPL282C,DNA-based duplication,YOL161C
+YPL282C,DNA-based duplication,YNR076W
+YPL282C,DNA-based duplication,YOR394W
+YPL282C,DNA-based duplication,YAL068C
+YPL282C,DNA-based duplication,YGL261C
+YPL281C,DNA-based duplication,YGR254W
+YPL281C,DNA-based duplication,YMR323W
+YPL281C,DNA-based duplication,YHR174W
+YPL281C,DNA-based duplication,YOR393W
+YPL257W,DNA-based duplication like,YIL029C
+YPL257W,DNA-based duplication like,YPR071W
+YIL029C,DNA-based duplication like,YPL257W
+YIL029C,DNA-based duplication like,YPR071W
+YPL253C,DNA-based duplication like,YMR198W
+YPL216W,DNA-based duplication like,YGL133W
+YGR296W,DNA-based duplication,YIL177C
+YGR296W,DNA-based duplication like,YLR462W
+YGR296W,DNA-based duplication,YHL050C
+YGR296W,DNA-based duplication,YDR545W
+YGR296W,DNA-based duplication,YHR219W
+YGR296W,DNA-based duplication,YBL112C
+YGR296W,DNA-based duplication,YEL077C
+YGR296W,DNA-based duplication,YFL066C
+YGR296W,DNA-based duplication,YHR218W-A
+YGR296W,DNA-based duplication,YLL066C
+YGR296W,DNA-based duplication,YBL111C
+YGR296W,DNA-based duplication,YER190W
+YGR296W,DNA-based duplication,YML133C
+YGR296W,DNA-based duplication,YJL225C
+YGR296W,DNA-based duplication,YLR467W
+YGR296W,DNA-based duplication,YPL283C
+YGR296W,DNA-based duplication,YPR204W
+YGR296W,DNA-based duplication,YBL113C
+YGR296W,DNA-based duplication,YLR466W
+YGR296W,DNA-based duplication,YOR396W
+YGR296W,DNA-based duplication,YLL067C
+YGR296W,DNA-based duplication,YNL339C
+YGR296W,DNA-based duplication,YHR218W
+YGR296C-A,DNA-based duplication,YER190C-A
+YGR296C-A,DNA-based duplication,YNL339W-A
+YGR296C-A,DNA-based duplication,YPL283W-A
+YGR296C-A,DNA-based duplication,YML133W-A
+YER190C-A,DNA-based duplication,YGR296C-A
+YER190C-A,DNA-based duplication,YNL339W-A
+YER190C-A,DNA-based duplication,YPL283W-A
+YER190C-A,DNA-based duplication,YML133W-A
+YGR296C-B,DNA-based duplication,YFL068W
+YGR296C-B,DNA-based duplication,YHR219C-A
+YGR296C-B,DNA-based duplication,YLR466C-A
+YGR296C-B,DNA-based duplication,YLL067W-A
+YGR296C-B,DNA-based duplication,YJL225W-A
+YGR296C-B,DNA-based duplication,YOR396C-A
+YGR296C-B,DNA-based duplication,YLR467C-A
+YGR296C-B,DNA-based duplication,YDR545C-A
+YGR296C-B,DNA-based duplication,YBL113W-A
+YGR296C-B,DNA-based duplication,YHL050W-A
+YGR296C-B,DNA-based duplication,YML133W-B
+YGR296C-B,DNA-based duplication,YLL066W-A
+YGR296C-B,DNA-based duplication,YPL283W-B
+YGR296C-B,DNA-based duplication,YER190C-B
+YGR296C-B,DNA-based duplication,YNL339W-B
+YGR296C-B,DNA-based duplication,YEL077W-A
+YGR296C-B,DNA-based duplication,YPR204C-A
+YGR296C-B,DNA-based duplication,YIL177W-A
+YHL050C,DNA-based duplication like,YIL177C
+YHL050C,DNA-based duplication like,YLR462W
+YHL050C,DNA-based duplication like,YDR545W
+YHL050C,DNA-based duplication,YHR219W
+YHL050C,DNA-based duplication like,YBL112C
+YHL050C,DNA-based duplication like,YEL077C
+YHL050C,DNA-based duplication,YFL066C
+YHL050C,DNA-based duplication like,YHR218W-A
+YHL050C,DNA-based duplication,YLL066C
+YHL050C,DNA-based duplication like,YBL111C
+YHL050C,DNA-based duplication like,YER190W
+YHL050C,DNA-based duplication like,YML133C
+YHL050C,DNA-based duplication like,YJL225C
+YHL050C,DNA-based duplication like,YLR467W
+YHL050C,DNA-based duplication like,YPL283C
+YHL050C,DNA-based duplication,YPR204W
+YHL050C,DNA-based duplication,YBL113C
+YHL050C,DNA-based duplication like,YLR466W
+YHL050C,DNA-based duplication like,YOR396W
+YHL050C,DNA-based duplication like,YGR296W
+YHL050C,DNA-based duplication like,YLL067C
+YHL050C,DNA-based duplication like,YNL339C
+YHL050C,DNA-based duplication like,YHR218W
+YHL050W-A,DNA-based duplication,YFL068W
+YHL050W-A,DNA-based duplication,YHR219C-A
+YHL050W-A,DNA-based duplication,YGR296C-B
+YHL050W-A,DNA-based duplication,YLR466C-A
+YHL050W-A,DNA-based duplication,YLL067W-A
+YHL050W-A,DNA-based duplication,YJL225W-A
+YHL050W-A,DNA-based duplication,YOR396C-A
+YHL050W-A,DNA-based duplication,YLR467C-A
+YHL050W-A,DNA-based duplication,YDR545C-A
+YHL050W-A,DNA-based duplication,YBL113W-A
+YHL050W-A,DNA-based duplication,YPL283W-B
+YHL050W-A,DNA-based duplication,YML133W-B
+YHL050W-A,DNA-based duplication,YLL066W-A
+YHL050W-A,DNA-based duplication,YER190C-B
+YHL050W-A,DNA-based duplication,YNL339W-B
+YHL050W-A,DNA-based duplication,YEL077W-A
+YHL050W-A,DNA-based duplication,YPR204C-A
+YHL050W-A,DNA-based duplication,YIL177W-A
+YHL049C,DNA-based duplication,YEL075C
+YHL049C,DNA-based duplication,YFL065C
+YHL049C,DNA-based duplication,YFL064C
+YHL049C,DNA-based duplication,YPR203W
+YHL049C,retroposition,YPR202W
+YHL049C,DNA-based duplication like,YEL076C
+YHL049C,DNA-based duplication,YER189W
+YHL048W,DNA-based duplication,YDL248W
+YHL048W,DNA-based duplication,YML132W
+YHL048W,DNA-based duplication,YBR302C
+YHL048W,DNA-based duplication,YGR295C
+YHL048W,DNA-based duplication like,YHL043W
+YHL048W,DNA-based duplication,YJR161C
+YHL048W,DNA-based duplication like,YNR075W
+YHL048W,DNA-based duplication,YNL336W
+YHL048W,DNA-based duplication,YFL062W
+YHL048W,DNA-based duplication like,YHL042W
+YHL048W,DNA-based duplication,YKL219W
+YHL048W,DNA-based duplication like,YGL263W
+YHL043W,DNA-based duplication like,YDL248W
+YHL043W,DNA-based duplication like,YML132W
+YHL043W,DNA-based duplication like,YBR302C
+YHL043W,DNA-based duplication like,YHL048W
+YHL043W,DNA-based duplication like,YGR295C
+YHL043W,DNA-based duplication like,YJR161C
+YHL043W,DNA-based duplication like,YNR075W
+YHL043W,DNA-based duplication like,YNL336W
+YHL043W,DNA-based duplication like,YFL062W
+YHL043W,DNA-based duplication like,YHL042W
+YHL043W,DNA-based duplication like,YKL219W
+YHL043W,DNA-based duplication like,YGL263W
+YHL042W,DNA-based duplication like,YDL248W
+YHL042W,DNA-based duplication like,YML132W
+YHL042W,DNA-based duplication like,YBR302C
+YHL042W,DNA-based duplication like,YHL048W
+YHL042W,DNA-based duplication like,YHL043W
+YHL042W,DNA-based duplication like,YGR295C
+YHL042W,DNA-based duplication like,YJR161C
+YHL042W,DNA-based duplication like,YNL336W
+YHL042W,DNA-based duplication like,YNR075W
+YHL042W,DNA-based duplication like,YFL062W
+YHL042W,DNA-based duplication like,YKL219W
+YHL042W,DNA-based duplication like,YGL263W
+YHL047C,DNA-based duplication like,YEL065W
+YHL047C,DNA-based duplication,YHL040C
+YHL047C,DNA-based duplication like,YCL073C
+YHL047C,DNA-based duplication like,YOL158C
+YHL047C,DNA-based duplication like,YKR106W
+YHL046C,DNA-based duplication,YLR461W
+YHL046C,DNA-based duplication,YMR325W
+YHL046C,DNA-based duplication,YIR041W
+YHL046C,DNA-based duplication,YLR037C
+YHL046C,DNA-based duplication,YGR294W
+YHL046C,DNA-based duplication,YIL176C
+YHL046C,DNA-based duplication,YEL049W
+YHL046C,DNA-based duplication,YLL064C
+YHL046C,DNA-based duplication,YKL224C
+YHL046C,DNA-based duplication,YDR542W
+YHL046C,DNA-based duplication like,YJR151C
+YHL046C,DNA-based duplication like,YJR150C
+YHL046C,DNA-based duplication,YPL282C
+YHL046C,DNA-based duplication,YBR301W
+YHL046C,DNA-based duplication,YFL020C
+YHL046C,DNA-based duplication,YAR020C
+YHL046C,DNA-based duplication,YLL025W
+YHL046C,DNA-based duplication,YBL108C-A
+YHL046C,DNA-based duplication,YJL223C
+YHL046C,DNA-based duplication,YCR104W
+YHL046C,DNA-based duplication,YNR076W
+YHL046C,DNA-based duplication,YOL161C
+YHL046C,DNA-based duplication,YOR394W
+YHL046C,DNA-based duplication,YAL068C
+YHL046C,DNA-based duplication,YGL261C
+YHL044W,DNA-based duplication like,YAR033W
+YHL044W,DNA-based duplication like,YCR007C
+YHL044W,DNA-based duplication like,YAR028W
+YHL044W,DNA-based duplication like,YAR031W
+YHL044W,DNA-based duplication like,YAR027W
+YHL044W,DNA-based duplication like,YAR023C
+YHL044W,DNA-based duplication like,YGL053W
+YHL044W,DNA-based duplication like,YGL051W
+YHL017W,DNA-based duplication like,YKL039W
+YHL012W,DNA-based duplication like,YKL035W
+YLR154W-A,DNA-based duplication,YLR162W-A
+YLR154W-B,de novo origination,YLR154W-B
+YLR154W-C,de novo origination,YLR154W-C
+YLR154W-E,de novo origination,YLR154W-E
+YLR154C-H,DNA-based duplication,YLR159C-A
+YLR154C-H,DNA-based duplication,YLR156C-A
+YLR154C-H,DNA-based duplication,YLR157C-C
+YLR155C,DNA-based duplication,YLR157C
+YLR155C,DNA-based duplication,YLR160C
+YLR155C,DNA-based duplication like,YDR321W
+YLR155C,DNA-based duplication,YLR158C
+YLR156C-A,DNA-based duplication,YLR159C-A
+YLR156C-A,DNA-based duplication,YLR157C-C
+YLR156C-A,DNA-based duplication,YLR154C-H
+YLR157C,DNA-based duplication,YLR155C
+YLR157C,DNA-based duplication,YLR160C
+YLR157C,DNA-based duplication like,YDR321W
+YLR157C,DNA-based duplication,YLR158C
+YLR157W-D,DNA-based duplication,YLR156W
+YLR157W-D,DNA-based duplication,YLR161W
+YLR157W-D,DNA-based duplication,YLR159W
+YLR157W-D,DNA-based duplication like,YLR157W-E
+YLR156W,DNA-based duplication,YLR157W-D
+YLR156W,DNA-based duplication,YLR161W
+YLR156W,DNA-based duplication,YLR159W
+YLR156W,DNA-based duplication,YLR157W-E
+YLR157W-E,DNA-based duplication like,YLR157W-D
+YLR157W-E,DNA-based duplication like,YLR156W
+YLR157W-E,DNA-based duplication like,YLR161W
+YLR157W-E,DNA-based duplication like,YLR159W
+YLR157C-C,DNA-based duplication,YLR159C-A
+YLR157C-C,DNA-based duplication,YLR156C-A
+YLR157C-C,DNA-based duplication,YLR154C-H
+YLR158C,DNA-based duplication,YLR155C
+YLR158C,DNA-based duplication,YLR157C
+YLR158C,DNA-based duplication,YLR160C
+YLR158C,DNA-based duplication like,YDR321W
+YLR159W,DNA-based duplication,YLR157W-D
+YLR159W,DNA-based duplication,YLR156W
+YLR159W,DNA-based duplication,YLR161W
+YLR159W,DNA-based duplication,YLR157W-E
+YLR159C-A,DNA-based duplication,YLR154C-H
+YLR159C-A,DNA-based duplication,YLR156C-A
+YLR159C-A,DNA-based duplication,YLR157C-C
+YLR160C,DNA-based duplication,YLR155C
+YLR160C,DNA-based duplication,YLR157C
+YLR160C,DNA-based duplication like,YDR321W
+YLR160C,DNA-based duplication,YLR158C
+YLR161W,DNA-based duplication,YLR157W-D
+YLR161W,DNA-based duplication,YLR156W
+YLR161W,DNA-based duplication,YLR159W
+YLR161W,DNA-based duplication,YLR157W-E
+YLR162W-A,DNA-based duplication,YLR154W-A
+YLR194C,de novo origination,YLR194C
+YMR017W,DNA-based duplication like,YGR009C
+YMR018W,DNA-based duplication like,YDR244W
+YMR019W,de novo origination,YMR019W
+YMR046W-A,DNA-based duplication,YGR122C-A
+YMR046W-A,DNA-based duplication like,YLR334C
+YMR046W-A,DNA-based duplication like,YOL106W
+YMR046W-A,DNA-based duplication,YPR002C-A
+YMR046W-A,DNA-based duplication,YCR018C-A
+YMR046W-A,DNA-based duplication,YDR034C-A
+YOL083W,DNA-based duplication like,YOL082W
+YOL082W,DNA-based duplication like,YOL083W
+YOL017W,DNA-based duplication like,YFR013W
+YOR009W,DNA-based duplication,YER011W
+YOR009W,DNA-based duplication like,YBR067C
+YOR009W,DNA-based duplication like,YIL011W
+YOR009W,DNA-based duplication,YOR010C
+YOR010C,DNA-based duplication,YER011W
+YOR010C,DNA-based duplication like,YBR067C
+YOR010C,DNA-based duplication like,YIL011W
+YOR010C,DNA-based duplication like,YOR009W
+YFL054C,de novo origination,YFL054C
+YFL053W,DNA-based duplication like,YML070W
+YFL052W,DNA-based duplication,YPR196W
+YFL052W,DNA-based duplication,YBR297W
+YFL052W,DNA-based duplication,YGR288W
+YBR297W,DNA-based duplication,YPR196W
+YBR297W,DNA-based duplication,YFL052W
+YBR297W,DNA-based duplication,YGR288W
+YFL051C,DNA-based duplication like,YHR211W
+YFL051C,DNA-based duplication like,YAL064C-A
+YFL051C,DNA-based duplication like,YHR213W
+YFL051C,DNA-based duplication like,YKR102W
+YFL051C,DNA-based duplication like,YAR050W
+YFL051C,DNA-based duplication like,YAL063C
+YFL051C,DNA-based duplication like,YHR212W-A
+YFL020C,DNA-based duplication,YLR461W
+YFL020C,DNA-based duplication,YMR325W
+YFL020C,DNA-based duplication,YIR041W
+YFL020C,DNA-based duplication,YLR037C
+YFL020C,DNA-based duplication,YGR294W
+YFL020C,DNA-based duplication,YIL176C
+YFL020C,DNA-based duplication,YEL049W
+YFL020C,DNA-based duplication,YLL064C
+YFL020C,DNA-based duplication,YKL224C
+YFL020C,DNA-based duplication,YDR542W
+YFL020C,DNA-based duplication like,YJR151C
+YFL020C,DNA-based duplication like,YJR150C
+YFL020C,DNA-based duplication,YHL046C
+YFL020C,DNA-based duplication,YPL282C
+YFL020C,DNA-based duplication,YBR301W
+YFL020C,DNA-based duplication,YBL108C-A
+YFL020C,DNA-based duplication,YLL025W
+YFL020C,DNA-based duplication,YAR020C
+YFL020C,DNA-based duplication,YJL223C
+YFL020C,DNA-based duplication,YCR104W
+YFL020C,DNA-based duplication,YNR076W
+YFL020C,DNA-based duplication,YOL161C
+YFL020C,DNA-based duplication,YOR394W
+YFL020C,DNA-based duplication,YAL068C
+YFL020C,DNA-based duplication,YGL261C
+YFR012W-A,DNA-based duplication like,YFR012W
+YFR012W,DNA-based duplication like,YFR012W-A
+YFR017C,de novo origination,YFR017C
+YFR039C,DNA-based duplication like,YGL228W
+YHR054W-A,DNA-based duplication,YHR052W-A
+YHR052W-A,DNA-based duplication,YHR054W-A
+YHR055C,DNA-based duplication,YHR053C
+YHR053C,DNA-based duplication,YHR055C
+YHR061C,DNA-based duplication like,YDR309C
+YHR091C,DNA-based duplication,YDR341C
+YHR092C,DNA-based duplication,YMR011W
+YHR092C,DNA-based duplication,YDL245C
+YHR092C,DNA-based duplication,YDR342C
+YHR092C,DNA-based duplication,YHR096C
+YHR092C,DNA-based duplication,YLR081W
+YHR092C,DNA-based duplication,YHR094C
+YHR092C,DNA-based duplication,YJL214W
+YHR092C,DNA-based duplication,YOL156W
+YHR092C,DNA-based duplication,YFL011W
+YHR092C,DNA-based duplication,YDR343C
+YHR092C,DNA-based duplication,YJL219W
+YHR092C,DNA-based duplication,YEL069C
+YHR092C,DNA-based duplication,YDR345C
+YHR092C,DNA-based duplication,YJR158W
+YHR117W,DNA-based duplication like,YNL121C
+YHR133C,DNA-based duplication like,YNL156C
+YHR145C,DNA-based duplication,YOR192C-C
+YHR145C,DNA-based duplication like,YIL060W
+YHR145C,DNA-based duplication,YER138W-A
+YER138W-A,DNA-based duplication like,YIL060W
+YER138W-A,DNA-based duplication like,YHR145C
+YER138W-A,DNA-based duplication like,YOR192C-C
+YGR191W,DNA-based duplication like,YKR039W
+YGR248W,DNA-based duplication like,YCR073W-A
+YGR248W,DNA-based duplication like,YHR163W
+YGR248W,DNA-based duplication like,YNR034W
+YGR273C,DNA-based duplication like,YMR295C
+YGR283C,DNA-based duplication like,YMR310C
+YGR287C,DNA-based duplication,YIL172C
+YGR287C,DNA-based duplication,YJL216C
+YGR287C,DNA-based duplication,YBR299W
+YGR287C,DNA-based duplication,YGR292W
+YGR287C,DNA-based duplication,YOL157C
+YGR288W,DNA-based duplication,YFL052W
+YGR288W,DNA-based duplication,YBR297W
+YGR288W,DNA-based duplication,YPR196W
+YGR289C,DNA-based duplication,YBR298C
+YGR289C,DNA-based duplication,YJR160C
+YGR291C,DNA-based duplication,YBR298C-A
+YBR298C-A,DNA-based duplication,YGR291C
+YGR292W,DNA-based duplication,YIL172C
+YGR292W,DNA-based duplication,YJL216C
+YGR292W,DNA-based duplication,YBR299W
+YGR292W,DNA-based duplication,YGR287C
+YGR292W,DNA-based duplication,YOL157C
+YGR293C,DNA-based duplication,YBR300C
+YBR300C,DNA-based duplication,YGR293C
+YGR294W,DNA-based duplication,YLR461W
+YGR294W,DNA-based duplication,YMR325W
+YGR294W,DNA-based duplication,YIR041W
+YGR294W,DNA-based duplication,YLR037C
+YGR294W,DNA-based duplication,YIL176C
+YGR294W,DNA-based duplication,YEL049W
+YGR294W,DNA-based duplication,YLL064C
+YGR294W,DNA-based duplication,YKL224C
+YGR294W,DNA-based duplication,YDR542W
+YGR294W,DNA-based duplication like,YJR151C
+YGR294W,DNA-based duplication like,YJR150C
+YGR294W,DNA-based duplication,YHL046C
+YGR294W,DNA-based duplication,YPL282C
+YGR294W,DNA-based duplication,YBR301W
+YGR294W,DNA-based duplication,YFL020C
+YGR294W,DNA-based duplication,YAR020C
+YGR294W,DNA-based duplication,YLL025W
+YGR294W,DNA-based duplication,YBL108C-A
+YGR294W,DNA-based duplication,YJL223C
+YGR294W,DNA-based duplication,YCR104W
+YGR294W,DNA-based duplication,YNR076W
+YGR294W,DNA-based duplication,YOL161C
+YGR294W,DNA-based duplication,YOR394W
+YGR294W,DNA-based duplication,YAL068C
+YGR294W,DNA-based duplication,YGL261C
+YGR295C,DNA-based duplication,YDL248W
+YGR295C,DNA-based duplication,YML132W
+YGR295C,DNA-based duplication,YBR302C
+YGR295C,DNA-based duplication,YHL048W
+YGR295C,DNA-based duplication like,YHL043W
+YGR295C,DNA-based duplication,YJR161C
+YGR295C,DNA-based duplication like,YNR075W
+YGR295C,DNA-based duplication,YNL336W
+YGR295C,DNA-based duplication,YFL062W
+YGR295C,DNA-based duplication like,YHL042W
+YGR295C,DNA-based duplication,YKL219W
+YGR295C,DNA-based duplication like,YGL263W
+YGR122C-A,DNA-based duplication like,YLR334C
+YGR122C-A,DNA-based duplication like,YOL106W
+YGR122C-A,DNA-based duplication,YPR002C-A
+YGR122C-A,DNA-based duplication like,YCR018C-A
+YGR122C-A,DNA-based duplication,YDR034C-A
+YGR122C-A,DNA-based duplication,YMR046W-A
+YGR136W,DNA-based duplication,YPR154W
+YGR146C,de novo origination,YGR146C
+YGR177C,DNA-based duplication like,YOR377W
+YGR180C,DNA-based duplication like,YJL026W
+YLR028C,DNA-based duplication,YMR120C
+YLR031W,DNA-based duplication like,YLR030W
+YLR030W,DNA-based duplication like,YLR031W
+YLR036C,DNA-based duplication like,YIL089W
+YIL089W,DNA-based duplication like,YLR036C
+YLR037C,DNA-based duplication,YLR461W
+YLR037C,DNA-based duplication,YMR325W
+YLR037C,DNA-based duplication,YIR041W
+YLR037C,DNA-based duplication,YGR294W
+YLR037C,DNA-based duplication,YIL176C
+YLR037C,DNA-based duplication,YEL049W
+YLR037C,DNA-based duplication,YLL064C
+YLR037C,DNA-based duplication,YKL224C
+YLR037C,DNA-based duplication,YDR542W
+YLR037C,DNA-based duplication like,YJR151C
+YLR037C,DNA-based duplication like,YJR150C
+YLR037C,DNA-based duplication,YHL046C
+YLR037C,DNA-based duplication,YPL282C
+YLR037C,DNA-based duplication,YBR301W
+YLR037C,DNA-based duplication,YFL020C
+YLR037C,DNA-based duplication,YAR020C
+YLR037C,DNA-based duplication,YJL223C
+YLR037C,DNA-based duplication,YBL108C-A
+YLR037C,DNA-based duplication,YLL025W
+YLR037C,DNA-based duplication,YCR104W
+YLR037C,DNA-based duplication,YNR076W
+YLR037C,DNA-based duplication,YOL161C
+YLR037C,DNA-based duplication,YOR394W
+YLR037C,DNA-based duplication,YAL068C
+YLR037C,DNA-based duplication,YGL261C
+YLR046C,de novo origination,YLR046C
+YLR049C,de novo origination,YLR049C
+YGL032C,de novo origination,YGL032C
+YGR066C,DNA-based duplication like,YBR105C
+YGR070W,DNA-based duplication like,YLR371W
+YGR071C,DNA-based duplication like,YLR373C
+YIL142C-A,de novo origination,YIL142C-A
+YIL114C,DNA-based duplication like,YNL055C
+YIL113W,DNA-based duplication like,YNL053W
+YIL102C,DNA-based duplication like,YIL014C-A
+YIL014C-A,DNA-based duplication like,YIL102C
+YIL082W,de novo origination,YIL082W
+YIL060W,DNA-based duplication,YOR192C-C
+YIL060W,DNA-based duplication,YHR145C
+YIL060W,DNA-based duplication,YER138W-A
+YIL050W,DNA-based duplication like,YOL001W
+YIL050W,DNA-based duplication like,YER059W
+YKL091C,retroposition,YMR079W
+YKL083W,de novo origination,YKL083W
+YKL071W,de novo origination,YKL071W
+YKL070W,de novo origination,YKL070W
+YKL068W-A,de novo origination,YKL068W-A
+YKL043W,DNA-based duplication like,YMR016C
+YNL034W,DNA-based duplication,YNL018C
+YNL018C,DNA-based duplication,YNL034W
+YNL033W,DNA-based duplication,YNL019C
+YNL019C,DNA-based duplication,YNL033W
+YNL024C,de novo origination,YNL024C
+YCL001W-B,DNA-based duplication like,YNL001W
+YNR024W,de novo origination,YNR024W
+YNR034W-A,de novo origination,YNR034W-A
+YNR047W,DNA-based duplication like,YBR028C
+YNR047W,DNA-based duplication,YCR091W
+YGL138C,de novo origination,YGL138C
+YGL120C,DNA-based duplication like,YER013W
+YGL120C,DNA-based duplication like,YKR086W
+YGL120C,DNA-based duplication like,YNR011C
+YGL096W,DNA-based duplication like,YPL177C
+YGL063W,DNA-based duplication like,YPL212C
+YGL053W,DNA-based duplication,YAR033W
+YGL053W,DNA-based duplication like,YCR007C
+YGL053W,DNA-based duplication like,YAR028W
+YGL053W,DNA-based duplication like,YHL044W
+YGL053W,DNA-based duplication,YAR031W
+YGL053W,DNA-based duplication like,YAR027W
+YGL053W,DNA-based duplication like,YAR023C
+YGL053W,DNA-based duplication,YGL051W
+YGL051W,DNA-based duplication,YAR033W
+YGL051W,DNA-based duplication like,YCR007C
+YGL051W,DNA-based duplication like,YAR028W
+YGL051W,DNA-based duplication like,YHL044W
+YGL051W,DNA-based duplication like,YAR031W
+YGL051W,DNA-based duplication like,YAR027W
+YGL051W,DNA-based duplication like,YAR023C
+YGL051W,DNA-based duplication,YGL053W
+YPR042C,DNA-based duplication like,YJR091C
+YPR071W,DNA-based duplication,YIL029C
+YPR071W,DNA-based duplication like,YPL257W
+YPR081C,DNA-based duplication,YBR121C
+YPR111W,DNA-based duplication,YGR092W
+YPR111W,DNA-based duplication like,YNL161W
+YJR147W,de novo origination,YJR147W
+YLL060C,de novo origination,YLL060C
+YLL052C,de novo origination,YLL052C
+YLR313C,de novo origination,YLR313C
+YOR076C,de novo origination,YOR076C
+YPR027C,de novo origination,YPR027C
+YER011W,DNA-based duplication like,YBR067C
+YER011W,DNA-based duplication like,YOR009W
+YER011W,DNA-based duplication like,YIL011W
+YER011W,DNA-based duplication,YOR010C
+YER013W,DNA-based duplication like,YGL120C
+YER013W,DNA-based duplication like,YKR086W
+YER013W,DNA-based duplication like,YNR011C
+YER031C,DNA-based duplication,YGL210W
+YER053C-A,de novo origination,YER053C-A
+YER076C,de novo origination,YER076C
+YER093C-A,DNA-based duplication like,YER093C
+YDR518W,DNA-based duplication like,YCL043C
+YDR536W,de novo origination,YDR536W
+YDR538W,de novo origination,YDR538W
+YDR539W,de novo origination,YDR539W
+YDR542W,DNA-based duplication,YLR461W
+YDR542W,DNA-based duplication,YMR325W
+YDR542W,DNA-based duplication,YIR041W
+YDR542W,DNA-based duplication,YLR037C
+YDR542W,DNA-based duplication,YGR294W
+YDR542W,DNA-based duplication,YIL176C
+YDR542W,DNA-based duplication,YEL049W
+YDR542W,DNA-based duplication,YLL064C
+YDR542W,DNA-based duplication,YKL224C
+YDR542W,DNA-based duplication like,YJR151C
+YDR542W,DNA-based duplication like,YJR150C
+YDR542W,DNA-based duplication,YHL046C
+YDR542W,DNA-based duplication,YPL282C
+YDR542W,DNA-based duplication,YBR301W
+YDR542W,DNA-based duplication,YFL020C
+YDR542W,DNA-based duplication,YBL108C-A
+YDR542W,DNA-based duplication,YLL025W
+YDR542W,DNA-based duplication,YAR020C
+YDR542W,DNA-based duplication,YJL223C
+YDR542W,DNA-based duplication,YCR104W
+YDR542W,DNA-based duplication,YNR076W
+YDR542W,DNA-based duplication,YOL161C
+YDR542W,DNA-based duplication,YOR394W
+YDR542W,DNA-based duplication,YAL068C
+YDR542W,DNA-based duplication,YGL261C
+YDR543C,DNA-based duplication,YER188C-A
+YDR543C,DNA-based duplication,YJR162C
+YDR543C,DNA-based duplication,YOL166W-A
+YDR543C,DNA-based duplication,YAL068W-A
+YDR543C,DNA-based duplication,YNR077C
+YDR543C,DNA-based duplication,YNL337W
+YDR543C,DNA-based duplication,YFL063W
+YDR543C,DNA-based duplication,YMR326C
+YDR543C,DNA-based duplication,YLL065W
+YDR543C,DNA-based duplication,YKL225W
+YAL068W-A,DNA-based duplication,YDR543C
+YAL068W-A,DNA-based duplication,YER188C-A
+YAL068W-A,DNA-based duplication,YJR162C
+YAL068W-A,DNA-based duplication,YOL166W-A
+YAL068W-A,DNA-based duplication,YNR077C
+YAL068W-A,DNA-based duplication,YNL337W
+YAL068W-A,DNA-based duplication like,YFL063W
+YAL068W-A,DNA-based duplication,YMR326C
+YAL068W-A,DNA-based duplication,YLL065W
+YAL068W-A,DNA-based duplication,YKL225W
+YDR544C,DNA-based duplication like,YBL109W
+YDR544C,DNA-based duplication,YHR217C
+YBL109W,DNA-based duplication like,YDR544C
+YBL109W,DNA-based duplication like,YHR217C
+YDR545W,retroposition,YIL177C
+YDR545W,DNA-based duplication like,YLR462W
+YDR545W,retroposition,YHL050C
+YDR545W,DNA-based duplication,YHR219W
+YDR545W,DNA-based duplication,YBL112C
+YDR545W,DNA-based duplication,YEL077C
+YDR545W,DNA-based duplication,YFL066C
+YDR545W,DNA-based duplication,YHR218W-A
+YDR545W,retroposition,YLL066C
+YDR545W,retroposition,YBL111C
+YDR545W,DNA-based duplication,YER190W
+YDR545W,retroposition,YML133C
+YDR545W,retroposition,YJL225C
+YDR545W,DNA-based duplication,YLR467W
+YDR545W,retroposition,YPL283C
+YDR545W,DNA-based duplication,YPR204W
+YDR545W,DNA-based duplication,YBL113C
+YDR545W,DNA-based duplication,YLR466W
+YDR545W,DNA-based duplication,YOR396W
+YDR545W,retroposition,YGR296W
+YDR545W,retroposition,YLL067C
+YDR545W,retroposition,YNL339C
+YDR545W,retroposition,YHR218W
+YDR545C-A,DNA-based duplication,YFL068W
+YDR545C-A,DNA-based duplication,YHR219C-A
+YDR545C-A,DNA-based duplication,YGR296C-B
+YDR545C-A,DNA-based duplication,YLR466C-A
+YDR545C-A,DNA-based duplication,YLL067W-A
+YDR545C-A,DNA-based duplication,YJL225W-A
+YDR545C-A,DNA-based duplication,YOR396C-A
+YDR545C-A,DNA-based duplication,YLR467C-A
+YDR545C-A,DNA-based duplication,YPL283W-B
+YDR545C-A,DNA-based duplication,YBL113W-A
+YDR545C-A,DNA-based duplication,YHL050W-A
+YDR545C-A,DNA-based duplication,YML133W-B
+YDR545C-A,DNA-based duplication,YLL066W-A
+YDR545C-A,DNA-based duplication,YER190C-B
+YDR545C-A,DNA-based duplication,YNL339W-B
+YDR545C-A,DNA-based duplication,YEL077W-A
+YDR545C-A,DNA-based duplication,YPR204C-A
+YDR545C-A,DNA-based duplication,YIL177W-A
+YBL113W-A,DNA-based duplication,YFL068W
+YBL113W-A,DNA-based duplication,YHR219C-A
+YBL113W-A,DNA-based duplication,YGR296C-B
+YBL113W-A,DNA-based duplication,YLR466C-A
+YBL113W-A,DNA-based duplication,YLL067W-A
+YBL113W-A,DNA-based duplication,YJL225W-A
+YBL113W-A,DNA-based duplication,YOR396C-A
+YBL113W-A,DNA-based duplication,YLR467C-A
+YBL113W-A,DNA-based duplication,YDR545C-A
+YBL113W-A,DNA-based duplication,YPL283W-B
+YBL113W-A,DNA-based duplication,YHL050W-A
+YBL113W-A,DNA-based duplication,YML133W-B
+YBL113W-A,DNA-based duplication,YLL066W-A
+YBL113W-A,DNA-based duplication,YER190C-B
+YBL113W-A,DNA-based duplication,YNL339W-B
+YBL113W-A,DNA-based duplication,YEL077W-A
+YBL113W-A,DNA-based duplication,YPR204C-A
+YBL113W-A,DNA-based duplication,YIL177W-A
+YEL077C,retroposition,YIL177C
+YEL077C,DNA-based duplication like,YLR462W
+YEL077C,retroposition,YHL050C
+YEL077C,DNA-based duplication,YDR545W
+YEL077C,DNA-based duplication,YHR219W
+YEL077C,DNA-based duplication,YBL112C
+YEL077C,DNA-based duplication,YFL066C
+YEL077C,DNA-based duplication,YHR218W-A
+YEL077C,retroposition,YLL066C
+YEL077C,retroposition,YBL111C
+YEL077C,DNA-based duplication,YER190W
+YEL077C,retroposition,YML133C
+YEL077C,retroposition,YJL225C
+YEL077C,DNA-based duplication,YLR467W
+YEL077C,retroposition,YPL283C
+YEL077C,DNA-based duplication,YPR204W
+YEL077C,DNA-based duplication,YBL113C
+YEL077C,DNA-based duplication,YLR466W
+YEL077C,DNA-based duplication,YOR396W
+YEL077C,retroposition,YGR296W
+YEL077C,retroposition,YLL067C
+YEL077C,retroposition,YNL339C
+YEL077C,retroposition,YHR218W
+YEL077W-A,DNA-based duplication,YFL068W
+YEL077W-A,DNA-based duplication,YHR219C-A
+YEL077W-A,DNA-based duplication,YGR296C-B
+YEL077W-A,DNA-based duplication,YLR466C-A
+YEL077W-A,DNA-based duplication,YLL067W-A
+YEL077W-A,DNA-based duplication,YJL225W-A
+YEL077W-A,DNA-based duplication,YOR396C-A
+YEL077W-A,DNA-based duplication,YLR467C-A
+YEL077W-A,DNA-based duplication,YDR545C-A
+YEL077W-A,DNA-based duplication,YBL113W-A
+YEL077W-A,DNA-based duplication,YHL050W-A
+YEL077W-A,DNA-based duplication,YML133W-B
+YEL077W-A,DNA-based duplication,YLL066W-A
+YEL077W-A,DNA-based duplication,YPL283W-B
+YEL077W-A,DNA-based duplication,YER190C-B
+YEL077W-A,DNA-based duplication,YNL339W-B
+YEL077W-A,DNA-based duplication,YPR204C-A
+YEL077W-A,DNA-based duplication,YIL177W-A
+YEL076C,DNA-based duplication like,YEL075C
+YEL076C,DNA-based duplication like,YFL065C
+YEL076C,DNA-based duplication like,YFL064C
+YEL076C,DNA-based duplication like,YHL049C
+YEL076C,DNA-based duplication like,YPR203W
+YEL076C,retroposition like,YPR202W
+YEL076C,DNA-based duplication like,YER189W
+YEL075C,DNA-based duplication like,YFL065C
+YEL075C,DNA-based duplication,YFL064C
+YEL075C,DNA-based duplication like,YHL049C
+YEL075C,DNA-based duplication like,YPR203W
+YEL075C,retroposition like,YPR202W
+YEL075C,DNA-based duplication like,YEL076C
+YEL075C,DNA-based duplication,YER189W
+YEL070W,DNA-based duplication,YNR073C
+YEL069C,DNA-based duplication,YMR011W
+YEL069C,DNA-based duplication,YDL245C
+YEL069C,DNA-based duplication,YDR342C
+YEL069C,DNA-based duplication like,YHR096C
+YEL069C,DNA-based duplication,YLR081W
+YEL069C,DNA-based duplication,YHR094C
+YEL069C,DNA-based duplication,YJL214W
+YEL069C,DNA-based duplication,YOL156W
+YEL069C,DNA-based duplication,YHR092C
+YEL069C,DNA-based duplication,YFL011W
+YEL069C,DNA-based duplication,YDR343C
+YEL069C,DNA-based duplication,YJL219W
+YEL069C,DNA-based duplication,YDR345C
+YEL069C,DNA-based duplication,YJR158W
+YEL066W,DNA-based duplication like,YPR193C
+YEL049W,DNA-based duplication,YLR461W
+YEL049W,DNA-based duplication,YMR325W
+YEL049W,DNA-based duplication,YIR041W
+YEL049W,DNA-based duplication,YLR037C
+YEL049W,DNA-based duplication,YGR294W
+YEL049W,DNA-based duplication,YIL176C
+YEL049W,DNA-based duplication,YLL064C
+YEL049W,DNA-based duplication,YKL224C
+YEL049W,DNA-based duplication,YDR542W
+YEL049W,DNA-based duplication like,YJR151C
+YEL049W,DNA-based duplication like,YJR150C
+YEL049W,DNA-based duplication,YHL046C
+YEL049W,DNA-based duplication,YPL282C
+YEL049W,DNA-based duplication,YBR301W
+YEL049W,DNA-based duplication,YFL020C
+YEL049W,DNA-based duplication,YAR020C
+YEL049W,DNA-based duplication,YLL025W
+YEL049W,DNA-based duplication,YBL108C-A
+YEL049W,DNA-based duplication,YJL223C
+YEL049W,DNA-based duplication,YCR104W
+YEL049W,DNA-based duplication,YNR076W
+YEL049W,DNA-based duplication,YOL161C
+YEL049W,DNA-based duplication,YOR394W
+YEL049W,DNA-based duplication,YAL068C
+YEL049W,DNA-based duplication,YGL261C
+YEL034C-A,de novo origination,YEL034C-A
+YEL030W,DNA-based duplication,YJR045C
+YEL030W,DNA-based duplication like,YLL024C
+YEL030W,DNA-based duplication like,YER103W
+YEL030W,DNA-based duplication,YLR369W
+YEL030W,DNA-based duplication like,YAL005C
+YEL028W,de novo origination,YEL028W
+YEL025C,de novo origination,YEL025C
+YEL006W,DNA-based duplication like,YIL006W
+YEL006W,DNA-based duplication like,YBR192W
+YER001W,DNA-based duplication like,YNR059W
+YER001W,DNA-based duplication like,YGL257C
+YER001W,DNA-based duplication like,YIL014W
+YER096W,de novo origination,YER096W
+YER105C,DNA-based duplication like,YBL079W
+YER115C,de novo origination,YER115C
+YER144C,DNA-based duplication like,YDR069C
+YER144C,DNA-based duplication like,YJL197W
+YER147C-A,de novo origination,YER147C-A
+YER150W,DNA-based duplication like,YDR077W
+YER184C,DNA-based duplication like,YGL013C
+YER184C,DNA-based duplication like,YBL005W
+YER185W,DNA-based duplication like,YGR213C
+YER187W,DNA-based duplication like,YGL262W
+YER188C-A,DNA-based duplication,YDR543C
+YER188C-A,DNA-based duplication,YJR162C
+YER188C-A,DNA-based duplication,YOL166W-A
+YER188C-A,DNA-based duplication,YAL068W-A
+YER188C-A,DNA-based duplication,YNR077C
+YER188C-A,DNA-based duplication,YNL337W
+YER188C-A,DNA-based duplication,YFL063W
+YER188C-A,DNA-based duplication,YMR326C
+YER188C-A,DNA-based duplication,YLL065W
+YER188C-A,DNA-based duplication,YKL225W
+YER189W,DNA-based duplication,YEL075C
+YER189W,DNA-based duplication like,YFL065C
+YER189W,DNA-based duplication,YFL064C
+YER189W,DNA-based duplication like,YHL049C
+YER189W,DNA-based duplication like,YPR203W
+YER189W,retroposition like,YPR202W
+YER189W,DNA-based duplication like,YEL076C
+YER190W,retroposition,YIL177C
+YER190W,DNA-based duplication like,YLR462W
+YER190W,retroposition,YHL050C
+YER190W,DNA-based duplication,YDR545W
+YER190W,DNA-based duplication,YHR219W
+YER190W,DNA-based duplication,YBL112C
+YER190W,DNA-based duplication,YEL077C
+YER190W,DNA-based duplication,YFL066C
+YER190W,DNA-based duplication,YHR218W-A
+YER190W,retroposition,YLL066C
+YER190W,retroposition,YBL111C
+YER190W,retroposition,YML133C
+YER190W,retroposition,YJL225C
+YER190W,DNA-based duplication,YLR467W
+YER190W,retroposition,YPL283C
+YER190W,DNA-based duplication,YPR204W
+YER190W,DNA-based duplication,YBL113C
+YER190W,DNA-based duplication,YLR466W
+YER190W,DNA-based duplication,YOR396W
+YER190W,retroposition,YGR296W
+YER190W,retroposition,YLL067C
+YER190W,retroposition,YNL339C
+YER190W,retroposition,YHR218W
+YER190C-B,DNA-based duplication,YFL068W
+YER190C-B,DNA-based duplication,YHR219C-A
+YER190C-B,DNA-based duplication,YGR296C-B
+YER190C-B,DNA-based duplication,YLR466C-A
+YER190C-B,DNA-based duplication,YLL067W-A
+YER190C-B,DNA-based duplication,YJL225W-A
+YER190C-B,DNA-based duplication,YOR396C-A
+YER190C-B,DNA-based duplication,YLR467C-A
+YER190C-B,DNA-based duplication,YDR545C-A
+YER190C-B,DNA-based duplication,YBL113W-A
+YER190C-B,DNA-based duplication,YHL050W-A
+YER190C-B,DNA-based duplication,YML133W-B
+YER190C-B,DNA-based duplication,YPL283W-B
+YER190C-B,DNA-based duplication,YLL066W-A
+YER190C-B,DNA-based duplication,YNL339W-B
+YER190C-B,DNA-based duplication,YEL077W-A
+YER190C-B,DNA-based duplication,YPR204C-A
+YER190C-B,DNA-based duplication,YIL177W-A
+YFL068W,DNA-based duplication,YHR219C-A
+YFL068W,DNA-based duplication,YGR296C-B
+YFL068W,DNA-based duplication,YLR466C-A
+YFL068W,DNA-based duplication,YLL067W-A
+YFL068W,DNA-based duplication,YJL225W-A
+YFL068W,DNA-based duplication,YOR396C-A
+YFL068W,DNA-based duplication,YLR467C-A
+YFL068W,DNA-based duplication,YDR545C-A
+YFL068W,DNA-based duplication,YBL113W-A
+YFL068W,DNA-based duplication,YHL050W-A
+YFL068W,DNA-based duplication,YML133W-B
+YFL068W,DNA-based duplication,YLL066W-A
+YFL068W,DNA-based duplication,YPL283W-B
+YFL068W,DNA-based duplication,YER190C-B
+YFL068W,DNA-based duplication,YNL339W-B
+YFL068W,DNA-based duplication,YEL077W-A
+YFL068W,DNA-based duplication,YPR204C-A
+YFL068W,DNA-based duplication,YIL177W-A
+YFL066C,retroposition like,YIL177C
+YFL066C,DNA-based duplication like,YLR462W
+YFL066C,retroposition like,YHL050C
+YFL066C,DNA-based duplication like,YDR545W
+YFL066C,DNA-based duplication like,YHR219W
+YFL066C,DNA-based duplication,YBL112C
+YFL066C,DNA-based duplication like,YEL077C
+YFL066C,DNA-based duplication,YHR218W-A
+YFL066C,retroposition like,YLL066C
+YFL066C,retroposition like,YBL111C
+YFL066C,DNA-based duplication like,YER190W
+YFL066C,retroposition like,YML133C
+YFL066C,retroposition like,YJL225C
+YFL066C,DNA-based duplication like,YLR467W
+YFL066C,retroposition like,YPL283C
+YFL066C,DNA-based duplication like,YPR204W
+YFL066C,DNA-based duplication like,YBL113C
+YFL066C,DNA-based duplication like,YLR466W
+YFL066C,DNA-based duplication like,YOR396W
+YFL066C,retroposition like,YGR296W
+YFL066C,retroposition like,YLL067C
+YFL066C,retroposition like,YNL339C
+YFL066C,retroposition like,YHR218W
+YFL065C,DNA-based duplication like,YEL075C
+YFL065C,DNA-based duplication like,YFL064C
+YFL065C,DNA-based duplication like,YHL049C
+YFL065C,DNA-based duplication,YPR203W
+YFL065C,retroposition like,YPR202W
+YFL065C,DNA-based duplication like,YEL076C
+YFL065C,DNA-based duplication like,YER189W
+YFL064C,DNA-based duplication,YEL075C
+YFL064C,DNA-based duplication like,YFL065C
+YFL064C,DNA-based duplication,YHL049C
+YFL064C,DNA-based duplication like,YPR203W
+YFL064C,retroposition,YPR202W
+YFL064C,DNA-based duplication,YER189W
+YFL064C,DNA-based duplication like,YEL076C
+YFL063W,DNA-based duplication,YDR543C
+YFL063W,DNA-based duplication,YER188C-A
+YFL063W,DNA-based duplication,YJR162C
+YFL063W,DNA-based duplication,YOL166W-A
+YFL063W,DNA-based duplication,YAL068W-A
+YFL063W,DNA-based duplication,YNR077C
+YFL063W,DNA-based duplication,YNL337W
+YFL063W,DNA-based duplication,YMR326C
+YFL063W,DNA-based duplication,YLL065W
+YFL063W,DNA-based duplication,YKL225W
+YFL062W,DNA-based duplication,YDL248W
+YFL062W,DNA-based duplication,YML132W
+YFL062W,DNA-based duplication,YBR302C
+YFL062W,DNA-based duplication,YGR295C
+YFL062W,DNA-based duplication,YHL048W
+YFL062W,DNA-based duplication like,YHL043W
+YFL062W,DNA-based duplication,YJR161C
+YFL062W,DNA-based duplication,YNL336W
+YFL062W,DNA-based duplication like,YNR075W
+YFL062W,DNA-based duplication like,YHL042W
+YFL062W,DNA-based duplication,YKL219W
+YFL062W,DNA-based duplication like,YGL263W
+YFL061W,DNA-based duplication,YNL335W
+YFL055W,de novo origination,YFL055W
+YJR094C,de novo origination,YJR094C
+YJR103W,DNA-based duplication,YBL039C
+YDL086C-A,de novo origination,YDL086C-A
+YKL183C-A,de novo origination,YKL183C-A
+YFL015C,de novo origination,YFL015C
+YPR108W-A,de novo origination,YPR108W-A
+YLR366W,de novo origination,YLR366W
+YOR121C,de novo origination,YOR121C
+YGL217C,de novo origination,YGL217C
+YAL059C-A,de novo origination,YAL059C-A
+YMR025W,de novo origination,YMR025W
+YJR023C,de novo origination,YJR023C
+YMR151W,de novo origination,YMR151W
+YCL046W,de novo origination,YCL046W
+YIL071W-A,de novo origination,YIL071W-A
+YHR032W-A,de novo origination,YHR032W-A
+YGR160W,de novo origination,YGR160W
+YLR374C,de novo origination,YLR374C
+YFL041W-A,de novo origination,YFL041W-A
+YCL056C,de novo origination,YCL056C
+YLR010C,de novo origination,YLR010C
+YHR152W,de novo origination,YHR152W
+YHL019W-A,de novo origination,YHL019W-A
+YAL056C-A,de novo origination,YAL056C-A
+YKL096W-A,de novo origination,YKL096W-A
+YIL086C,de novo origination,YIL086C
+YPL119C-A,de novo origination,YPL119C-A
+YBR126W-B,de novo origination,YBR126W-B
+YLR252W,de novo origination,YLR252W
+YPL192C,de novo origination,YPL192C
+YKL115C,de novo origination,YKL115C
+YLR279W,de novo origination,YLR279W
+YDR401W,de novo origination,YDR401W
+YDL026W,de novo origination,YDL026W
+YHR032C-A,de novo origination,YHR032C-A
+YAL047W-A,de novo origination,YAL047W-A
+YMR030W,de novo origination,YMR030W
+YLR255C,de novo origination,YLR255C
+YCR085W,de novo origination,YCR085W
+YKR032W,de novo origination,YKR032W
+YDR442W,de novo origination,YDR442W
+YLR154C-G,de novo origination,YLR154C-G
+YCR001W,de novo origination,YCR001W
+YNR042W,de novo origination,YNR042W
+YGR139W,de novo origination,YGR139W
+YJL150W,de novo origination,YJL150W
+YKR035C,de novo origination,YKR035C
+YDL158C,de novo origination,YDL158C
+YMR194C-A,de novo origination,YMR194C-A
+YNL089C,de novo origination,YNL089C
+YBR266C,de novo origination,YBR266C
+YMR320W,de novo origination,YMR320W
+YDR193W,de novo origination,YDR193W
+YFR026C,de novo origination,YFR026C
+YOR186C-A,de novo origination,YOR186C-A
+YML101C,de novo origination,YML101C
+YEL008C-A,de novo origination,YEL008C-A
+YLR302C,de novo origination,YLR302C
+YHR136C,de novo origination,YHR136C
+YHL006C,de novo origination,YHL006C
+YIL156W-A,de novo origination,YIL156W-A
+YOR364W,de novo origination,YOR364W
+YLR162W,de novo origination,YLR162W
+YNL235C,de novo origination,YNL235C
+YNL105W,de novo origination,YNL105W
+YIL068W-A,de novo origination,YIL068W-A
+YMR141W-A,de novo origination,YMR141W-A
+YHR131W-A,de novo origination,YHR131W-A
+YGR228W,de novo origination,YGR228W
+YFL012W,de novo origination,YFL012W
+YDR048C,de novo origination,YDR048C
+YPL238C,de novo origination,YPL238C
+YAL008W,de novo origination,YAL008W
+YLR146W-A,de novo origination,YLR146W-A
+YOR029W,de novo origination,YOR029W
+YMR103C,de novo origination,YMR103C
+YKR078W,de novo origination,YKR078W
+YHR014W,de novo origination,YHR014W
+YML101C-A,de novo origination,YML101C-A
+YBR064W,de novo origination,YBR064W
+YER152W-A,de novo origination,YER152W-A
+YGR270C-A,de novo origination,YGR270C-A
+YDR354C-A,de novo origination,YDR354C-A
+YLR140W,de novo origination,YLR140W
+YHL034W-A,de novo origination,YHL034W-A
+YLR331C,de novo origination,YLR331C
+YBR296C-A,de novo origination,YBR296C-A
+YNL103W-A,de novo origination,YNL103W-A
+YLR434C,de novo origination,YLR434C
+YPR160C-A,de novo origination,YPR160C-A
+YGL117W,de novo origination,YGL117W
+YKL123W,de novo origination,YKL123W
+YGR039W,de novo origination,YGR039W
+YOR044W,de novo origination,YOR044W
+YLR042C,de novo origination,YLR042C
+YCL023C,de novo origination,YCL023C
+YOR073W-A,de novo origination,YOR073W-A
+YMR119W-A,de novo origination,YMR119W-A
+YHR050W-A,de novo origination,YHR050W-A
+YCR049C,de novo origination,YCR049C
+YLR297W,de novo origination,YLR297W
+YKL109W,de novo origination,YKL109W
+YER133W-A,de novo origination,YER133W-A
+YLR120W-A,de novo origination,YLR120W-A
+YBR196C-A,de novo origination,YBR196C-A
+YJL009W,de novo origination,YJL009W
+YKL100W-A,de novo origination,YKL100W-A
+YPL038W-A,de novo origination,YPL038W-A
+YBR292C,de novo origination,YBR292C
+YDR034W-B,de novo origination,YDR034W-B
+YER046W-A,de novo origination,YER046W-A
+YHR007C-A,de novo origination,YHR007C-A
+YGR050C,de novo origination,YGR050C
+YER087C-A,de novo origination,YER087C-A
+YER035W,de novo origination,YER035W
+YLR282C,de novo origination,YLR282C
+YBL077W,de novo origination,YBL077W
+YOR343C,de novo origination,YOR343C
+YHR165W-A,de novo origination,YHR165W-A
+YNL043C,de novo origination,YNL043C
+YNL144W-A,de novo origination,YNL144W-A
+YOR284W,de novo origination,YOR284W
+YGR176W,de novo origination,YGR176W
+YKL053W,de novo origination,YKL053W
+YOR329W-A,de novo origination,YOR329W-A
+YOL159C-A,de novo origination,YOL159C-A
+YOR218C,de novo origination,YOR218C
+YOR170W,de novo origination,YOR170W
+YOL109W,de novo origination,YOL109W
+YGL199C,de novo origination,YGL199C
+YDR053W,de novo origination,YDR053W
+YBL062W,de novo origination,YBL062W
+YPL080C,de novo origination,YPL080C
+YCR081C-A,de novo origination,YCR081C-A
+YOR318C,de novo origination,YOR318C
+YDL041W,de novo origination,YDL041W
+YMR172C-A,de novo origination,YMR172C-A
+YPR160W-A,de novo origination,YPR160W-A
+YNL171C,de novo origination,YNL171C
+YHR180W,de novo origination,YHR180W
+YJL142C,de novo origination,YJL142C
+YKL066W,de novo origination,YKL066W
+YDL114W-A,de novo origination,YDL114W-A
+YPL278C,de novo origination,YPL278C
+YHR125W,de novo origination,YHR125W
+YIR017W-A,de novo origination,YIR017W-A
+YML057C-A,de novo origination,YML057C-A
+YLR415C,de novo origination,YLR415C
+YPL056C,de novo origination,YPL056C
+YHR021W-A,de novo origination,YHR021W-A
+YLL059C,de novo origination,YLL059C
+YOL079W,de novo origination,YOL079W
+YJL215C,de novo origination,YJL215C
+YDR024W,de novo origination,YDR024W
+YLR101C,de novo origination,YLR101C
+YCR064C,de novo origination,YCR064C
+YPL035C,de novo origination,YPL035C
+YLR364C-A,de novo origination,YLR364C-A
+YHL015W-A,de novo origination,YHL015W-A
+YMR193C-A,de novo origination,YMR193C-A
+YOR333C,de novo origination,YOR333C
+YPR005C,de novo origination,YPR005C
+YIL054W,de novo origination,YIL054W
+YBR121C-A,de novo origination,YBR121C-A
+YJL175W,de novo origination,YJL175W
+YJR151W-A,de novo origination,YJR151W-A
+YJL127W-A,de novo origination,YJL127W-A
+YOL083C-A,de novo origination,YOL083C-A
+YPR038W,de novo origination,YPR038W
+YBR285W,de novo origination,YBR285W
+YER091C-A,de novo origination,YER091C-A
+YGL235W,de novo origination,YGL235W
+YGR204C-A,de novo origination,YGR204C-A
+YBR090C,de novo origination,YBR090C
+YPR177C,de novo origination,YPR177C
+YIR020W-A,de novo origination,YIR020W-A
+YOR161W-B,de novo origination,YOR161W-B
+YDL163W,de novo origination,YDL163W
+YLR154C,de novo origination,YLR154C
+YER079C-A,de novo origination,YER079C-A
+YJL077W-B,de novo origination,YJL077W-B
+YGL014C-A,de novo origination,YGL014C-A
+YDR241W,de novo origination,YDR241W
+YDR042C,de novo origination,YDR042C
+YDR426C,de novo origination,YDR426C
+YKL118W,de novo origination,YKL118W
+YLR235C,de novo origination,YLR235C
+YFL012W-A,de novo origination,YFL012W-A
+YLR184W,de novo origination,YLR184W
+YMR195W,de novo origination,YMR195W
+YGR025W,de novo origination,YGR025W
+YLR400W,de novo origination,YLR400W
+YPR123C,de novo origination,YPR123C
+YLR204W,de novo origination,YLR204W
+YOL037C,de novo origination,YOL037C
+YPR092W,de novo origination,YPR092W
+YBR113W,de novo origination,YBR113W
+YIL047C-A,de novo origination,YIL047C-A
+YHR173C,de novo origination,YHR173C
+YJL188C,de novo origination,YJL188C
+YJR020W,de novo origination,YJR020W
+YDR535C,de novo origination,YDR535C
+YER097W,de novo origination,YER097W
+YDR183C-A,de novo origination,YDR183C-A
+YAL037C-B,de novo origination,YAL037C-B
+YKL147C,de novo origination,YKL147C
+YBR109W-A,de novo origination,YBR109W-A
+YDR431W,de novo origination,YDR431W
+YKR040C,de novo origination,YKR040C
+YGL168W,de novo origination,YGL168W
+YNL057W,de novo origination,YNL057W
+YMR173W-A,de novo origination,YMR173W-A
+YAL026C-A,de novo origination,YAL026C-A
+YMR254C,de novo origination,YMR254C
+YFR032C-B,de novo origination,YFR032C-B
+YDR355C,de novo origination,YDR355C
+YCL022C,de novo origination,YCL022C
+YLR125W,de novo origination,YLR125W
+YGR219W,de novo origination,YGR219W
+YDR003W-A,de novo origination,YDR003W-A
+YJR038C,de novo origination,YJR038C
+YEL068C,de novo origination,YEL068C
+YLR465C,de novo origination,YLR465C
+YMR307C-A,de novo origination,YMR307C-A
+YGR242W,de novo origination,YGR242W
+YIL029W-A,de novo origination,YIL029W-A
+YMR122C,de novo origination,YMR122C
+YHR086W-A,de novo origination,YHR086W-A
+YPR059C,de novo origination,YPR059C
+YAL066W,de novo origination,YAL066W
+YBL083C,de novo origination,YBL083C
+YOR314W-A,de novo origination,YOR314W-A
+YLR347W-A,de novo origination,YLR347W-A
+YLR269C,de novo origination,YLR269C
+YLR217W,de novo origination,YLR217W
+Q0092,de novo origination,Q0092
+YMR057C,de novo origination,YMR057C
+YOR200W,de novo origination,YOR200W
+YGR068W-A,de novo origination,YGR068W-A
+YKR073C,de novo origination,YKR073C
+YJR071W,de novo origination,YJR071W
+YJR108W,de novo origination,YJR108W
+YBR182C-A,de novo origination,YBR182C-A
+YOR214C,de novo origination,YOR214C
+YBR089W,de novo origination,YBR089W
+YJR018W,de novo origination,YJR018W
+YDR220C,de novo origination,YDR220C
+YLR076C,de novo origination,YLR076C
+YOL118C,de novo origination,YOL118C
+YDR396W,de novo origination,YDR396W
+YKL076C,de novo origination,YKL076C
+Q0142,de novo origination,Q0142
+YLR294C,de novo origination,YLR294C
+YGL152C,de novo origination,YGL152C
+YLR286W-A,de novo origination,YLR286W-A
+YGL194C-A,de novo origination,YGL194C-A
+YNL013C,de novo origination,YNL013C
+YGR115C,de novo origination,YGR115C
+YNR025C,de novo origination,YNR025C
+YGL041C-B,de novo origination,YGL041C-B
+YML094C-A,de novo origination,YML094C-A
+YDR524W-C,de novo origination,YDR524W-C
+YOR394C-A,de novo origination,YOR394C-A
+YPL062W,de novo origination,YPL062W
+YPR150W,de novo origination,YPR150W
+YLL047W,de novo origination,YLL047W
+YOR102W,de novo origination,YOR102W
+YPL124W,de novo origination,YPL124W
+YJR115W,de novo origination,YJR115W
+YDR366C,de novo origination,YDR366C
+YJR079W,de novo origination,YJR079W
+YLR261C,de novo origination,YLR261C
+YGL188C-A,de novo origination,YGL188C-A
+YDR274C,de novo origination,YDR274C
+YOR177C,de novo origination,YOR177C
+YGR035W-A,de novo origination,YGR035W-A
+YBL096C,de novo origination,YBL096C
+YLR341W,de novo origination,YLR341W
+YLR428C,de novo origination,YLR428C
+YGL230C,de novo origination,YGL230C
+YOR225W,de novo origination,YOR225W
+YOR105W,de novo origination,YOR105W
+YCL054W-A,de novo origination,YCL054W-A
+YJL182C,de novo origination,YJL182C
+YIL002W-A,de novo origination,YIL002W-A
+YER084W-A,de novo origination,YER084W-A
+YOR316C-A,de novo origination,YOR316C-A
+YER014C-A,de novo origination,YER014C-A
+YDL034W,de novo origination,YDL034W
+YMR180C,de novo origination,YMR180C
+YGL063C-A,de novo origination,YGL063C-A
+YGL042C,de novo origination,YGL042C
+YLR296W,de novo origination,YLR296W
+YOR277C,de novo origination,YOR277C
+YDR278C,de novo origination,YDR278C
+YHR022C-A,de novo origination,YHR022C-A
+YDR114C,de novo origination,YDR114C
+YLR149C-A,de novo origination,YLR149C-A
+YDL016C,de novo origination,YDL016C
+YEL073C,de novo origination,YEL073C
+YHR073W-A,de novo origination,YHR073W-A
+YOL038C-A,de novo origination,YOL038C-A
+YKL131W,de novo origination,YKL131W
+YLR171W,de novo origination,YLR171W
+YGR073C,de novo origination,YGR073C
+YOR379C,de novo origination,YOR379C
+YMR230W-A,de novo origination,YMR230W-A
+YOR268C,de novo origination,YOR268C
+YGR164W,de novo origination,YGR164W
+YOR314W,de novo origination,YOR314W
+YOL085C,de novo origination,YOL085C
+YGL214W,de novo origination,YGL214W
+YNL296W,de novo origination,YNL296W
+YML084W,de novo origination,YML084W
+YPL073C,de novo origination,YPL073C
+YLR412C-A,de novo origination,YLR412C-A
+YHL030W-A,de novo origination,YHL030W-A
+YER066C-A,de novo origination,YER066C-A
+YER006C-A,de novo origination,YER006C-A
+YBL070C,de novo origination,YBL070C
+YNL150W,de novo origination,YNL150W
+YOL159C,de novo origination,YOL159C
+YDR154C,de novo origination,YDR154C
+YOL091W,de novo origination,YOL091W
+YPL136W,de novo origination,YPL136W
+YOR015W,de novo origination,YOR015W
+YER158W-A,de novo origination,YER158W-A
+YER181C,de novo origination,YER181C
+YCR022C,de novo origination,YCR022C
+YOR392W,de novo origination,YOR392W
+YMR315W-A,de novo origination,YMR315W-A
+YMR031W-A,de novo origination,YMR031W-A
+YBR124W,de novo origination,YBR124W
+YOL046C,de novo origination,YOL046C
+YMR030W-A,de novo origination,YMR030W-A
+YMR182W-A,de novo origination,YMR182W-A
+YPR159C-A,de novo origination,YPR159C-A
+YBL048W,de novo origination,YBL048W
+YOL014W,de novo origination,YOL014W
+YLR230W,de novo origination,YLR230W
+YPR053C,de novo origination,YPR053C
+YJL144W,de novo origination,YJL144W
+YEL033W,de novo origination,YEL033W
+YNL324W,de novo origination,YNL324W
+YKL097C,de novo origination,YKL097C
+YDL151C,de novo origination,YDL151C
+YGL182C,de novo origination,YGL182C
+YHL002C-A,de novo origination,YHL002C-A
+YLR338W,de novo origination,YLR338W
+YBR051W,de novo origination,YBR051W
+YGR121W-A,de novo origination,YGR121W-A
+YPR197C,de novo origination,YPR197C
+YPR044C,de novo origination,YPR044C
+YGL088W,de novo origination,YGL088W
+YHR028W-A,de novo origination,YHR028W-A
+YBR184W,de novo origination,YBR184W
+YER107W-A,de novo origination,YER107W-A
+YOR053W,de novo origination,YOR053W
+YOL013W-B,de novo origination,YOL013W-B
+YGR151C,de novo origination,YGR151C
+YPL251W,de novo origination,YPL251W
+YDR094W,de novo origination,YDR094W
+YBR063C,de novo origination,YBR063C
+YLR222C-A,de novo origination,YLR222C-A
+YOR020W-A,de novo origination,YOR020W-A
+YOR331C,de novo origination,YOR331C
+YGL165C,de novo origination,YGL165C
+YAR035C-A,de novo origination,YAR035C-A
+YJR120W,de novo origination,YJR120W
+YPL135C-A,de novo origination,YPL135C-A
+YDR327W,de novo origination,YDR327W
+YDL032W,de novo origination,YDL032W
+YKL030W,de novo origination,YKL030W
+YNL184C,de novo origination,YNL184C
+YOL160W,de novo origination,YOL160W
+YML116W-A,de novo origination,YML116W-A
+YDR269C,de novo origination,YDR269C
+YOR376W-A,de novo origination,YOR376W-A
+YNL140C,de novo origination,YNL140C
+YHR063W-A,de novo origination,YHR063W-A
+YHR193C-A,de novo origination,YHR193C-A
+YLR265C,de novo origination,YLR265C
+YCL048W-A,de novo origination,YCL048W-A
+YFR054C,de novo origination,YFR054C
+YNR001W-A,de novo origination,YNR001W-A
+YDR136C,de novo origination,YDR136C
+YMR290W-A,de novo origination,YMR290W-A
+YDR246W-A,de novo origination,YDR246W-A
+YBL094C,de novo origination,YBL094C
+YLR458W,de novo origination,YLR458W
+YJL027C,de novo origination,YJL027C
+YML100W-A,de novo origination,YML100W-A
+YFL013W-A,de novo origination,YFL013W-A
+YNR014W,de novo origination,YNR014W
+YKL111C,de novo origination,YKL111C
+YER088C-A,de novo origination,YER088C-A
+YDR360W,de novo origination,YDR360W
+YIL028W,de novo origination,YIL028W
+YDR537C,de novo origination,YDR537C
+YDR194W-A,de novo origination,YDR194W-A
+YHR175W-A,de novo origination,YHR175W-A
+YDL196W,de novo origination,YDL196W
+YHR126C,de novo origination,YHR126C
+YJL156W-A,de novo origination,YJL156W-A
+YMR175W-A,de novo origination,YMR175W-A
+YMR158W-B,de novo origination,YMR158W-B
+YNL143C,de novo origination,YNL143C
+YPL102C,de novo origination,YPL102C
+YGL204C,de novo origination,YGL204C
+YML054C-A,de novo origination,YML054C-A
+YLR169W,de novo origination,YLR169W
+YKR047W,de novo origination,YKR047W
+YMR082C,de novo origination,YMR082C
+YCR006C,de novo origination,YCR006C
+YER023C-A,de novo origination,YER023C-A
+YPL185W,de novo origination,YPL185W
+YLR041W,de novo origination,YLR041W
+YOR235W,de novo origination,YOR235W
+Q0297,de novo origination,Q0297
+YIL163C,de novo origination,YIL163C
+YFL021C-A,de novo origination,YFL021C-A
+YHL006W-A,de novo origination,YHL006W-A
+YLR358C,de novo origination,YLR358C
+YJL052C-A,de novo origination,YJL052C-A
+YAL034C-B,de novo origination,YAL034C-B
+YDL197C,de novo origination,YDL197C
+YAL016C-A,de novo origination,YAL016C-A
+YHL046W-A,de novo origination,YHL046W-A
+YNL277W-A,de novo origination,YNL277W-A
+YDR281C,de novo origination,YDR281C
+YFR009W-A,de novo origination,YFR009W-A
+YDL094C,de novo origination,YDL094C
+YDR521W,de novo origination,YDR521W
+YOR325W,de novo origination,YOR325W
+YNL097W-A,de novo origination,YNL097W-A
+YJL028W,de novo origination,YJL028W
+YEL032C-A,de novo origination,YEL032C-A
+YDR467C,de novo origination,YDR467C
+YJL118W,de novo origination,YJL118W
+YOR309C,de novo origination,YOR309C
+YPL250C,de novo origination,YPL250C
+YPR096C,de novo origination,YPR096C
+YBR277C,de novo origination,YBR277C
+YNL266W,de novo origination,YNL266W
+YOL134C,de novo origination,YOL134C
+YJL077W-A,de novo origination,YJL077W-A
+YBR050C,de novo origination,YBR050C
+YDR014W-A,de novo origination,YDR014W-A
+YHR180W-A,de novo origination,YHR180W-A
+YDL159W-A,de novo origination,YDL159W-A
+YBR148W,de novo origination,YBR148W
+YLR154W-F,de novo origination,YLR154W-F
+YER135C,de novo origination,YER135C
+YKL031W,de novo origination,YKL031W
+YKL106C-A,de novo origination,YKL106C-A
+YOR293C-A,de novo origination,YOR293C-A
+YCL021W-A,de novo origination,YCL021W-A
+YGR107W,de novo origination,YGR107W
+YLR202C,de novo origination,YLR202C
+YGL239C,de novo origination,YGL239C
+YNL120C,de novo origination,YNL120C
+YBR174C,de novo origination,YBR174C
+YPL114W,de novo origination,YPL114W
+YDR015C,de novo origination,YDR015C
+YDR413C,de novo origination,YDR413C
+YCR050C,de novo origination,YCR050C
+YAL019W-A,de novo origination,YAL019W-A
+YAL037C-A,de novo origination,YAL037C-A
+YLL006W-A,de novo origination,YLL006W-A
+YJL064W,de novo origination,YJL064W
+YEL018C-A,de novo origination,YEL018C-A
+YDR095C,de novo origination,YDR095C
+YNL319W,de novo origination,YNL319W
+YDR526C,de novo origination,YDR526C
+YLR453C,de novo origination,YLR453C
+YHR056W-A,de novo origination,YHR056W-A
+YBR013C,de novo origination,YBR013C
+YHR137C-A,de novo origination,YHR137C-A
+YFR056C,de novo origination,YFR056C
+YML034C-A,de novo origination,YML034C-A
+YLR379W,de novo origination,YLR379W
+YAR030C,de novo origination,YAR030C
+YOR248W,de novo origination,YOR248W
+YDR525W,de novo origination,YDR525W
+YBR032W,de novo origination,YBR032W
+YJR114W,de novo origination,YJR114W
+YEL045C,de novo origination,YEL045C
+YOR072W,de novo origination,YOR072W
+YNL174W,de novo origination,YNL174W
+YGR190C,de novo origination,YGR190C
+YLR112W,de novo origination,YLR112W
+YDR203W,de novo origination,YDR203W
+YOR146W,de novo origination,YOR146W
+YLR317W,de novo origination,YLR317W
+YOR032W-A,de novo origination,YOR032W-A
+Q0144,de novo origination,Q0144
+Q0143,de novo origination,Q0143
+YOR231C-A,de novo origination,YOR231C-A
+YCR047W-A,de novo origination,YCR047W-A
+Q0010,de novo origination,Q0010
+YNL097C-B,de novo origination,YNL097C-B
+YKL162C-A,de novo origination,YKL162C-A
+YMR272W-A,de novo origination,YMR272W-A
+YGL118C,de novo origination,YGL118C
+YLR163W-A,de novo origination,YLR163W-A
+YBR099C,de novo origination,YBR099C
+YGR265W,de novo origination,YGR265W
+YNR044W,de novo origination,YNR044W
+YLR232W,de novo origination,YLR232W
+YGR114C,de novo origination,YGR114C
+YMR075C-A,de novo origination,YMR075C-A
+YNL042W-B,de novo origination,YNL042W-B
+YJL199C,de novo origination,YJL199C
+YIR030W-A,de novo origination,YIR030W-A
+YML047W-A,de novo origination,YML047W-A
+YAR019W-A,de novo origination,YAR019W-A
+YDL159C-B,de novo origination,YDL159C-B
+YBL073W,de novo origination,YBL073W
+YML031C-A,de novo origination,YML031C-A
+YJR087W,de novo origination,YJR087W
+YIL059C,de novo origination,YIL059C
+YDL023C,de novo origination,YDL023C
+YJL020W-A,de novo origination,YJL020W-A
+YEL009C-A,de novo origination,YEL009C-A
+YDR112W,de novo origination,YDR112W
+YBR056C-B,de novo origination,YBR056C-B
+YGR153W,de novo origination,YGR153W
+YOR161W-A,de novo origination,YOR161W-A
+YDR209C,de novo origination,YDR209C
+YDL162C,de novo origination,YDL162C
+YDR010C,de novo origination,YDR010C
+YGL024W,de novo origination,YGL024W
+YEL057C,de novo origination,YEL057C
+YAL064W-B,de novo origination,YAL064W-B
+YPR087W,de novo origination,YPR087W
+YLR307C-A,de novo origination,YLR307C-A
+YIL058W,de novo origination,YIL058W
+YJL047C-A,de novo origination,YJL047C-A
+YMR013C-A,de novo origination,YMR013C-A
+YIL021C-A,de novo origination,YIL021C-A
+YPR126C,de novo origination,YPR126C
+YOL131W,de novo origination,YOL131W
+YEL067C,de novo origination,YEL067C
+YER038W-A,de novo origination,YER038W-A
+YDR290W,de novo origination,YDR290W
+YGL069C,de novo origination,YGL069C
+YDR509W,de novo origination,YDR509W
+YBL012C,de novo origination,YBL012C
+YLR402W,de novo origination,YLR402W
+YHR157W,de novo origination,YHR157W
+YNL179C,de novo origination,YNL179C
+YBR103C-A,de novo origination,YBR103C-A
+YCL042W,de novo origination,YCL042W
+YOL050C,de novo origination,YOL050C
+YMR135W-A,de novo origination,YMR135W-A
+YHR073C-B,de novo origination,YHR073C-B
+YNL226W,de novo origination,YNL226W
+YKR033C,de novo origination,YKR033C
+YBR027C,de novo origination,YBR027C
+YDR199W,de novo origination,YDR199W
+YPL044C,de novo origination,YPL044C
+YBR226C,de novo origination,YBR226C
+YBR126W-A,de novo origination,YBR126W-A
+YOR041C,de novo origination,YOR041C
+YHL041W,de novo origination,YHL041W
+YGL057C,de novo origination,YGL057C
+YAL055W,de novo origination,YAL055W
+YHL048C-A,de novo origination,YHL048C-A
+YDR374W-A,de novo origination,YDR374W-A
+YBL071C,de novo origination,YBL071C
+YIL032C,de novo origination,YIL032C
+YIL152W,de novo origination,YIL152W
+YJL067W,de novo origination,YJL067W
+YDL069C,de novo origination,YDL069C
+Q0017,de novo origination,Q0017
+YNL285W,de novo origination,YNL285W
+YHR139C-A,de novo origination,YHR139C-A
+YOR381W-A,de novo origination,YOR381W-A
+YDL068W,de novo origination,YDL068W
+YDR320W-B,de novo origination,YDR320W-B
+YER067C-A,de novo origination,YER067C-A
+YCL041C,de novo origination,YCL041C
+YEL030C-A,de novo origination,YEL030C-A
+YER078W-A,de novo origination,YER078W-A
+YKL096C-B,de novo origination,YKL096C-B
+YJL135W,de novo origination,YJL135W
+YOL024W,de novo origination,YOL024W
+YAL031W-A,de novo origination,YAL031W-A
+YBR131C-A,de novo origination,YBR131C-A
+YOL166C,de novo origination,YOL166C
+YJL007C,de novo origination,YJL007C
+YGL041C,de novo origination,YGL041C
+YGR146C-A,de novo origination,YGR146C-A
+YIL100C-A,de novo origination,YIL100C-A
+YLL020C,de novo origination,YLL020C
+YPR012W,de novo origination,YPR012W
+YCL007C,de novo origination,YCL007C
+YAL063C-A,de novo origination,YAL063C-A
+YJL152W,de novo origination,YJL152W
+YHR213W-A,de novo origination,YHR213W-A
+YLR342W-A,de novo origination,YLR342W-A
+YHR070C-A,de novo origination,YHR070C-A
+YFR034W-A,de novo origination,YFR034W-A
+YER119C-A,de novo origination,YER119C-A
+YGR031C-A,de novo origination,YGR031C-A
+YMR247W-A,de novo origination,YMR247W-A
+YOR068C,de novo origination,YOR068C
+YIR023C-A,de novo origination,YIR023C-A
+YNL028W,de novo origination,YNL028W
+YPR099C,de novo origination,YPR099C
+YOL164W-A,de novo origination,YOL164W-A
+YIR021W-A,de novo origination,YIR021W-A
+YNL303W,de novo origination,YNL303W
+YPL130W,de novo origination,YPL130W
+YEL035C,de novo origination,YEL035C
+YKR091W,de novo origination,YKR091W
+YAL016C-B,de novo origination,YAL016C-B
+YKL169C,de novo origination,YKL169C
+YPR170C,de novo origination,YPR170C
+YDR344C,de novo origination,YDR344C
+YBR200W-A,de novo origination,YBR200W-A
+YJL022W,de novo origination,YJL022W
+YLR311C,de novo origination,YLR311C
+YDR250C,de novo origination,YDR250C
+YPR130C,de novo origination,YPR130C
+YER076W-A,de novo origination,YER076W-A
+YDR491C,de novo origination,YDR491C
+YBR223W-A,de novo origination,YBR223W-A
+YDL050C,de novo origination,YDL050C
+YFR036W,de novo origination,YFR036W
+YLR280C,de novo origination,YLR280C
+YGR018C,de novo origination,YGR018C
+YIL012W,de novo origination,YIL012W
+YHR093W,de novo origination,YHR093W
+YML089C,de novo origination,YML089C
+YHR095W,de novo origination,YHR095W
+YMR317W,de novo origination,YMR317W
+YBL100C,de novo origination,YBL100C
+YIL020C-A,de novo origination,YIL020C-A
+YER085C,de novo origination,YER085C
+YGR035C,de novo origination,YGR035C
+YDR182W-A,de novo origination,YDR182W-A
+YIL046W-A,de novo origination,YIL046W-A
+YGL006W-A,de novo origination,YGL006W-A
+YMR007W,de novo origination,YMR007W
+YNL203C,de novo origination,YNL203C
+YOR263C,de novo origination,YOR263C
+YMR105W-A,de novo origination,YMR105W-A
+YJL195C,de novo origination,YJL195C
+YDR169C-A,de novo origination,YDR169C-A
+YLR062C,de novo origination,YLR062C
+YOR161C-C,de novo origination,YOR161C-C
+YOR186W,de novo origination,YOR186W
+YGL149W,de novo origination,YGL149W
+YGR174W-A,de novo origination,YGR174W-A
+YMR086C-A,de novo origination,YMR086C-A
+YOR034C-A,de novo origination,YOR034C-A
+YGR161W-C,de novo origination,YGR161W-C
+YAL069W,de novo origination,YAL069W
+YBR230W-A,de novo origination,YBR230W-A
+YJR157W,de novo origination,YJR157W
+YFR010W-A,de novo origination,YFR010W-A
+YDR510C-A,de novo origination,YDR510C-A
+YOL155W-A,de novo origination,YOL155W-A
+YJL202C,de novo origination,YJL202C
+YPR050C,de novo origination,YPR050C
+YDL152W,de novo origination,YDL152W
+YOR008W-B,de novo origination,YOR008W-B
+YGL034C,de novo origination,YGL034C
+YOR199W,de novo origination,YOR199W
+YDR433W,de novo origination,YDR433W
+YIL134C-A,de novo origination,YIL134C-A
+YEL008W,de novo origination,YEL008W
+YBR116C,de novo origination,YBR116C
+YNL130C-A,de novo origination,YNL130C-A
+YGL259W,de novo origination,YGL259W
+YMR052C-A,de novo origination,YMR052C-A
+YPR016W-A,de novo origination,YPR016W-A
+YML009C-A,de novo origination,YML009C-A
+YIR020C-B,de novo origination,YIR020C-B
+YMR141C,de novo origination,YMR141C
+YOR335W-A,de novo origination,YOR335W-A
+YIL066W-A,de novo origination,YIL066W-A
+YML009W-B,de novo origination,YML009W-B
+YCR045W-A,de novo origination,YCR045W-A
+YJR140W-A,de novo origination,YJR140W-A
+YDL118W,de novo origination,YDL118W
+YCL058C,de novo origination,YCL058C
+YNL109W,de novo origination,YNL109W
+YKL165C-A,de novo origination,YKL165C-A
+YFL010W-A,de novo origination,YFL010W-A
+YIR016W,de novo origination,YIR016W
+YAL065C,de novo origination,YAL065C
+YMR174C,de novo origination,YMR174C
+YER090C-A,de novo origination,YER090C-A
+YBR232C,de novo origination,YBR232C
+YAR047C,de novo origination,YAR047C
+YCR087W,de novo origination,YCR087W
+YCL001W-A,de novo origination,YCL001W-A
+YNL067W-B,de novo origination,YNL067W-B
+YAL042C-A,de novo origination,YAL042C-A
+YOR024W,de novo origination,YOR024W
+YER186C,de novo origination,YER186C
+YJL169W,de novo origination,YJL169W
+YML122C,de novo origination,YML122C
+YER121W,de novo origination,YER121W
+YJL120W,de novo origination,YJL120W
+YGL188C,de novo origination,YGL188C
+YNL338W,de novo origination,YNL338W
+YJL136W-A,de novo origination,YJL136W-A
+YML099W-A,de novo origination,YML099W-A
+YHR180C-B,de novo origination,YHR180C-B
+YPR078C,de novo origination,YPR078C
+YEL020C-B,de novo origination,YEL020C-B
+YDR029W,de novo origination,YDR029W
+YDL173W,de novo origination,YDL173W
+YLL019W-A,de novo origination,YLL019W-A
+YOR108C-A,de novo origination,YOR108C-A
+YOL150C,de novo origination,YOL150C
+YLR111W,de novo origination,YLR111W
+YIL141W,de novo origination,YIL141W
+YGL072C,de novo origination,YGL072C
+YMR242W-A,de novo origination,YMR242W-A
+YDL096C,de novo origination,YDL096C
+YLR416C,de novo origination,YLR416C
+YLL030C,de novo origination,YLL030C
+YLR124W,de novo origination,YLR124W
+YER145C-A,de novo origination,YER145C-A
+YMR175W,de novo origination,YMR175W
+YER188W,de novo origination,YER188W
+YIR020C,de novo origination,YIR020C
+YPR074W-A,de novo origination,YPR074W-A
+YNL046W,de novo origination,YNL046W
+YBR076C-A,de novo origination,YBR076C-A
+YIL092W,de novo origination,YIL092W
+YKL153W,de novo origination,YKL153W
+YGL052W,de novo origination,YGL052W
+YPL182C,de novo origination,YPL182C
+YDR230W,de novo origination,YDR230W
+YLR437C-A,de novo origination,YLR437C-A
+YJL197C-A,de novo origination,YJL197C-A
+YDR157W,de novo origination,YDR157W
+YMR316C-B,de novo origination,YMR316C-B
+YDL247W-A,de novo origination,YDL247W-A
+YDL172C,de novo origination,YDL172C
+YPL223C,de novo origination,YPL223C
+YDL062W,de novo origination,YDL062W
+YDL025W-A,de novo origination,YDL025W-A
+YPL152W-A,de novo origination,YPL152W-A
+YKL023W,de novo origination,YKL023W
+YOR193W,de novo origination,YOR193W
+YLR365W,de novo origination,YLR365W
+YJL077C,de novo origination,YJL077C
+YDR524C-B,de novo origination,YDR524C-B
+YKL037W,de novo origination,YKL037W
+YOR183W,de novo origination,YOR183W
+YBL065W,de novo origination,YBL065W
+YLR198C,de novo origination,YLR198C
+YBR196C-B,de novo origination,YBR196C-B
+YPL027W,de novo origination,YPL027W
+YJR037W,de novo origination,YJR037W
+YLR264C-A,de novo origination,YLR264C-A
+YIL100W,de novo origination,YIL100W
+YPR076W,de novo origination,YPR076W
+YLR349W,de novo origination,YLR349W
+YCL076W,de novo origination,YCL076W
+YGL193C,de novo origination,YGL193C
+YGR240C-A,de novo origination,YGR240C-A
+YKL065W-A,de novo origination,YKL065W-A
+YPR039W,de novo origination,YPR039W
+YBR071W,de novo origination,YBR071W
+YBL100W-C,de novo origination,YBL100W-C
+YMR316C-A,de novo origination,YMR316C-A
+YNL276C,de novo origination,YNL276C
+YER172C-A,de novo origination,YER172C-A
+YFL019C,de novo origination,YFL019C
+YBR190W,de novo origination,YBR190W
+YDL240C-A,de novo origination,YDL240C-A
+YPR195C,de novo origination,YPR195C
+YDR102C,de novo origination,YDR102C
+YLR322W,de novo origination,YLR322W
+YJR128W,de novo origination,YJR128W
+YLR285C-A,de novo origination,YLR285C-A
+YER084W,de novo origination,YER084W
+YCR024C-B,de novo origination,YCR024C-B
+YKL177W,de novo origination,YKL177W
+YBR188C,de novo origination,YBR188C
+YBL053W,de novo origination,YBL053W
+YDL071C,de novo origination,YDL071C
+YLR346C,de novo origination,YLR346C
+YBL044W,de novo origination,YBL044W
+YBL039C-A,de novo origination,YBL039C-A
+YHR049C-A,de novo origination,YHR049C-A
+YBR201C-A,de novo origination,YBR201C-A
+YBR056W-A,de novo origination,YBR056W-A
+YIR018C-A,de novo origination,YIR018C-A
+YBL008W-A,de novo origination,YBL008W-A
+YHR071C-A,de novo origination,YHR071C-A
+YFR036W-A,de novo origination,YFR036W-A
+YGL170C,de novo origination,YGL170C
+YNR061C,de novo origination,YNR061C
+YPR077C,de novo origination,YPR077C
+YGR051C,de novo origination,YGR051C
+YPL250W-A,de novo origination,YPL250W-A
+YML090W,de novo origination,YML090W
+YHL005C,de novo origination,YHL005C
+YDL009C,de novo origination,YDL009C
+YEL074W,de novo origination,YEL074W
+YOL099C,de novo origination,YOL099C
+YCR095W-A,de novo origination,YCR095W-A
+YDR133C,de novo origination,YDR133C
+YDR540C,de novo origination,YDR540C
+YDL185C-A,de novo origination,YDL185C-A
+YHR130C,de novo origination,YHR130C
+YGL015C,de novo origination,YGL015C
+YKL036C,de novo origination,YKL036C
+YBR134W,de novo origination,YBR134W
+YJL075C,de novo origination,YJL075C
+YDL221W,de novo origination,YDL221W
+YDR406W-A,de novo origination,YDR406W-A
+YOL019W-A,de novo origination,YOL019W-A
+YKL023C-A,de novo origination,YKL023C-A
+YPR145C-A,de novo origination,YPR145C-A
+YMR001C-A,de novo origination,YMR001C-A
+YOR203W,de novo origination,YOR203W
+YER137W-A,de novo origination,YER137W-A
+YDL242W,de novo origination,YDL242W
+YMR306C-A,de novo origination,YMR306C-A
+YMR153C-A,de novo origination,YMR153C-A
+Q0182,de novo origination,Q0182
+YDR504C,de novo origination,YDR504C
+YNL228W,de novo origination,YNL228W
+YOR055W,de novo origination,YOR055W
+YNL170W,de novo origination,YNL170W
+YKL156C-A,de novo origination,YKL156C-A
+YER068C-A,de novo origination,YER068C-A
+YGR259C,de novo origination,YGR259C
+YMR294W-A,de novo origination,YMR294W-A
+YPR146C,de novo origination,YPR146C
+Q0032,de novo origination,Q0032
+YER088W-B,de novo origination,YER088W-B
+YBR221W-A,de novo origination,YBR221W-A
+YOL097W-A,de novo origination,YOL097W-A
+YGL007C-A,de novo origination,YGL007C-A
+YOR139C,de novo origination,YOR139C
+YEL014C,de novo origination,YEL014C
+YNL205C,de novo origination,YNL205C
+YGL218W,de novo origination,YGL218W
+YOR345C,de novo origination,YOR345C
+YIL105W-A,de novo origination,YIL105W-A
+YPL222C-A,de novo origination,YPL222C-A
+YER175W-A,de novo origination,YER175W-A
+YHL037C,de novo origination,YHL037C
+YPR142C,de novo origination,YPR142C
+YDL011C,de novo origination,YDL011C
+YJL211C,de novo origination,YJL211C
+YCR038W-A,de novo origination,YCR038W-A
+YGL177W,de novo origination,YGL177W
+YGR069W,de novo origination,YGR069W
+YPL200W,de novo origination,YPL200W
+YGR290W,de novo origination,YGR290W
+YDL007C-A,de novo origination,YDL007C-A
+YIR036W-A,de novo origination,YIR036W-A
+YNR003W-A,de novo origination,YNR003W-A
+YAL064W,de novo origination,YAL064W
+YKR075W-A,de novo origination,YKR075W-A
+YLR299C-A,de novo origination,YLR299C-A
+YDR187C,de novo origination,YDR187C
+YIL115W-A,de novo origination,YIL115W-A
+YDL241W,de novo origination,YDL241W
+YML007C-A,de novo origination,YML007C-A
+YJL032W,de novo origination,YJL032W
+YML053C,de novo origination,YML053C
+YPL025C,de novo origination,YPL025C
+YNL198C,de novo origination,YNL198C
+YNL067W-A,de novo origination,YNL067W-A
+YBL071C-B,de novo origination,YBL071C-B
+YGL258W-A,de novo origination,YGL258W-A
+YDR210W,de novo origination,YDR210W
+YDR271C,de novo origination,YDR271C
+YDR118W-A,de novo origination,YDR118W-A
+YBL006W-A,de novo origination,YBL006W-A
+YOR082C,de novo origination,YOR082C
+YFR020W,de novo origination,YFR020W
+YOL035C,de novo origination,YOL035C
+YNL196C,de novo origination,YNL196C
+YDR455C,de novo origination,YDR455C
+YML058W-A,de novo origination,YML058W-A
+YLR053C,de novo origination,YLR053C
+YGR045C,de novo origination,YGR045C
+YCL049C,de novo origination,YCL049C
+YJL015C,de novo origination,YJL015C
+YLR444C,de novo origination,YLR444C
+YGL007W,de novo origination,YGL007W
+YGL102C,de novo origination,YGL102C
+YGR064W,de novo origination,YGR064W
+YIL030W-A,de novo origination,YIL030W-A
+YKL044W,de novo origination,YKL044W
+YJL086C,de novo origination,YJL086C
+YBR144C,de novo origination,YBR144C
+YBR178W,de novo origination,YBR178W
+YBR191W-A,de novo origination,YBR191W-A
+YLR399W-A,de novo origination,YLR399W-A
+YKL136W,de novo origination,YKL136W
+YJR146W,de novo origination,YJR146W
+YOL085W-A,de novo origination,YOL085W-A
+YGR226C,de novo origination,YGR226C
+YMR304C-A,de novo origination,YMR304C-A
+YJL119C,de novo origination,YJL119C
+YLR122C,de novo origination,YLR122C
+YDL022C-A,de novo origination,YDL022C-A
+YGR137W,de novo origination,YGR137W
+YFL031C-A,de novo origination,YFL031C-A
+YMR272W-B,de novo origination,YMR272W-B
+YOL052C-A,de novo origination,YOL052C-A
+YHR153C,de novo origination,YHR153C
+YHR199C-A,de novo origination,YHR199C-A
+YNL114C,de novo origination,YNL114C
+YPR170W-A,de novo origination,YPR170W-A
+YLR236C,de novo origination,YLR236C
+YOR282W,de novo origination,YOR282W
+YGL109W,de novo origination,YGL109W
+YLR123C,de novo origination,YLR123C
+YGL123C-A,de novo origination,YGL123C-A
+YNL300W,de novo origination,YNL300W
+YNL269W,de novo origination,YNL269W
+YBR224W,de novo origination,YBR224W
+YOR008C-A,de novo origination,YOR008C-A
+YKL202W,de novo origination,YKL202W
+YMR251W-A,de novo origination,YMR251W-A
+YFL015W-A,de novo origination,YFL015W-A
+YEL059W,de novo origination,YEL059W
+YMR003W,de novo origination,YMR003W
+YOR300W,de novo origination,YOR300W
+YFR057W,de novo origination,YFR057W
+YEL050W-A,de novo origination,YEL050W-A
+YGR269W,de novo origination,YGR269W
+YNR005C,de novo origination,YNR005C
+YMR245W,de novo origination,YMR245W
+YOR050C,de novo origination,YOR050C
+YDR008C,de novo origination,YDR008C
+YKL102C,de novo origination,YKL102C
+YLL037W,de novo origination,YLL037W
+YNL146W,de novo origination,YNL146W
+YDR275W,de novo origination,YDR275W
+YGR182C,de novo origination,YGR182C
+YOR169C,de novo origination,YOR169C
+YGR022C,de novo origination,YGR022C
+YGL132W,de novo origination,YGL132W
+YAL045C,de novo origination,YAL045C
+YDR445C,de novo origination,YDR445C
+YDR464C-A,de novo origination,YDR464C-A
+YKL093W,de novo origination,YKL093W
+YNL017C,de novo origination,YNL017C
+YBR206W,de novo origination,YBR206W
+YPR014C,de novo origination,YPR014C
+YBR072C-A,de novo origination,YBR072C-A
+YDL187C,de novo origination,YDL187C
+YKR012C,de novo origination,YKR012C
+YPL205C,de novo origination,YPL205C
+YDR524C-A,de novo origination,YDR524C-A
+YPR064W,de novo origination,YPR064W
+YAR053W,de novo origination,YAR053W
+YFR052C-A,de novo origination,YFR052C-A
+YER165C-A,de novo origination,YER165C-A
+YLR406C-A,de novo origination,YLR406C-A
+YKL145W-A,de novo origination,YKL145W-A
+YOR376W,de novo origination,YOR376W
+YDR149C,de novo origination,YDR149C
+YPL261C,de novo origination,YPL261C
+YDR215C,de novo origination,YDR215C
+YMR013W-A,de novo origination,YMR013W-A
+YBR141W-A,de novo origination,YBR141W-A
+YNL146C-A,de novo origination,YNL146C-A
+YFR035C,de novo origination,YFR035C
+YKR077W,de novo origination,YKR077W
+YDR371C-A,de novo origination,YDR371C-A
+YLR082C,de novo origination,YLR082C
+YHR160C,de novo origination,YHR160C
+YGL074C,de novo origination,YGL074C
+YPR136C,de novo origination,YPR136C
+YOR011W-A,de novo origination,YOR011W-A
+YIL025C,de novo origination,YIL025C
+YHR069C-A,de novo origination,YHR069C-A
+YOR135C,de novo origination,YOR135C
+YFL032W,de novo origination,YFL032W
+YOR366W,de novo origination,YOR366W
+YOR072W-A,de novo origination,YOR072W-A
+YCR108C,de novo origination,YCR108C
+YML012C-A,de novo origination,YML012C-A
+YEL010W,de novo origination,YEL010W
+YCR025C,de novo origination,YCR025C
+YLL044W,de novo origination,YLL044W
+YGR011W,de novo origination,YGR011W
+YER148W-A,de novo origination,YER148W-A
+YBR209W,de novo origination,YBR209W

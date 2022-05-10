@@ -1,0 +1,50 @@
+---
+title: "04_phylostratr_usage"
+author: "Y.P. Burankova"
+date: '2022-04-22'
+output: 
+  html_document:
+    df_print: paged
+    toc: true
+    toc_float:
+      collapsed: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo = F, message = F, warning = F, include = F}
+if (!require('devtools')){
+  install.packages('devtools')
+}
+```
+
+# Determination of gene ages using "phylostratr"
+
+```{r}
+install_github("arendsee/phylostratr")
+```
+
+
+The most general way to customize a sequence dataset is to simply write the FASTA filenames into a list and convert it to a tree:
+
+```{r, eval=FALSE}
+library(phylostratr)
+library(magrittr)
+focal_taxid <- 4932
+saccharomyces <- Strata(
+    tree = ape::read.tree(system.file('extdata', 'yeast', 'tree', package='phylostratr')),
+    data = list(faa=list(
+             Saccharomyces_cerevisiae   = 'yeast/cerevisiae.faa',
+             Saccharomyces_paradoxus    = 'yeast/paradoxus.faa',
+             Saccharomyces_mikatae      = 'yeast/mikatae.faa',
+             Saccharomyces_kudriavzevii = 'yeast/kudriavzevii.faa',
+             Saccharomyces_arboricola   = 'yeast/arboricola.faa',
+             Saccharomyces_eubayanus    = 'yeast/eubayanus.faa',
+             Saccharomyces_uvarum       = 'yeast/uvarum.faa'
+           )),
+    focal_species = 'Saccharomyces_cerevisiae'
+) %>% strata_convert(target='tip', to='id')
+```
+
