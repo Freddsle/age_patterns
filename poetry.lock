@@ -116,14 +116,6 @@ css = ["tinycss2 (>=1.1.0)"]
 dev = ["pip-tools (==6.5.1)", "pytest (==7.1.1)", "flake8 (==4.0.1)", "tox (==3.24.5)", "sphinx (==4.3.2)", "twine (==4.0.0)", "wheel (==0.37.1)", "hashin (==0.17.0)", "black (==22.3.0)", "mypy (==0.942)"]
 
 [[package]]
-name = "certifi"
-version = "2021.10.8"
-description = "Python package for providing Mozilla's CA Bundle."
-category = "main"
-optional = false
-python-versions = "*"
-
-[[package]]
 name = "cffi"
 version = "1.15.0"
 description = "Foreign Function Interface for Python calling C code."
@@ -135,46 +127,12 @@ python-versions = "*"
 pycparser = "*"
 
 [[package]]
-name = "charset-normalizer"
-version = "2.0.12"
-description = "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet."
-category = "main"
-optional = false
-python-versions = ">=3.5.0"
-
-[package.extras]
-unicode_backport = ["unicodedata2"]
-
-[[package]]
-name = "click"
-version = "8.1.3"
-description = "Composable command line interface toolkit"
-category = "main"
-optional = false
-python-versions = ">=3.7"
-
-[package.dependencies]
-colorama = {version = "*", markers = "platform_system == \"Windows\""}
-
-[[package]]
 name = "colorama"
 version = "0.4.4"
 description = "Cross-platform colored terminal text."
-category = "main"
+category = "dev"
 optional = false
 python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
-
-[[package]]
-name = "community"
-version = "1.0.0b1"
-description = "merge together wellness checks to unify your shit"
-category = "main"
-optional = false
-python-versions = "*"
-
-[package.dependencies]
-Flask = "*"
-requests = "*"
 
 [[package]]
 name = "cycler"
@@ -244,24 +202,6 @@ python-versions = "*"
 devel = ["colorama", "jsonschema", "json-spec", "pylint", "pytest", "pytest-benchmark", "pytest-cache", "validictory"]
 
 [[package]]
-name = "flask"
-version = "2.1.2"
-description = "A simple framework for building complex web applications."
-category = "main"
-optional = false
-python-versions = ">=3.7"
-
-[package.dependencies]
-click = ">=8.0"
-itsdangerous = ">=2.0"
-Jinja2 = ">=3.0"
-Werkzeug = ">=2.0"
-
-[package.extras]
-async = ["asgiref (>=3.2)"]
-dotenv = ["python-dotenv"]
-
-[[package]]
 name = "fonttools"
 version = "4.33.3"
 description = "Tools to manipulate font files"
@@ -282,30 +222,6 @@ type1 = ["xattr"]
 ufo = ["fs (>=2.2.0,<3)"]
 unicode = ["unicodedata2 (>=14.0.0)"]
 woff = ["zopfli (>=0.1.4)", "brotlicffi (>=0.8.0)", "brotli (>=1.0.1)"]
-
-[[package]]
-name = "idna"
-version = "3.3"
-description = "Internationalized Domain Names in Applications (IDNA)"
-category = "main"
-optional = false
-python-versions = ">=3.5"
-
-[[package]]
-name = "igraph"
-version = "0.9.10"
-description = "High performance graph data structures and algorithms"
-category = "main"
-optional = false
-python-versions = ">=3.6"
-
-[package.dependencies]
-texttable = ">=1.6.2"
-
-[package.extras]
-doc = ["Sphinx (>=4.2.0)", "sphinxbootstrap4theme (>=0.6.0)"]
-plotting = ["cairocffi (>=1.2.0)"]
-test = ["networkx (>=2.5)", "pytest (>=6.2.5)", "numpy (>=1.19.0)", "pandas (>=1.1.0)", "scipy (>=1.5.0)"]
 
 [[package]]
 name = "ipykernel"
@@ -394,14 +310,6 @@ widgetsnbextension = ">=3.6.0,<3.7.0"
 test = ["pytest (>=3.6.0)", "pytest-cov", "mock"]
 
 [[package]]
-name = "itsdangerous"
-version = "2.1.2"
-description = "Safely pass data to untrusted environments and back."
-category = "main"
-optional = false
-python-versions = ">=3.7"
-
-[[package]]
 name = "jedi"
 version = "0.18.1"
 description = "An autocompletion tool for Python that can be used for text editors."
@@ -420,7 +328,7 @@ testing = ["Django (<3.1)", "colorama", "docopt", "pytest (<7.0.0)"]
 name = "jinja2"
 version = "3.1.2"
 description = "A very fast and expressive template engine."
-category = "main"
+category = "dev"
 optional = false
 python-versions = ">=3.7"
 
@@ -558,7 +466,7 @@ source = ["Cython (>=0.29.7)"]
 name = "markupsafe"
 version = "2.1.1"
 description = "Safely add untrusted strings to HTML/XML markup."
-category = "main"
+category = "dev"
 optional = false
 python-versions = ">=3.7"
 
@@ -678,7 +586,7 @@ python-versions = ">=3.5"
 
 [[package]]
 name = "networkx"
-version = "2.8"
+version = "2.8.1"
 description = "Python package for creating and manipulating graphs and networks"
 category = "main"
 optional = false
@@ -693,7 +601,7 @@ scipy = {version = ">=1.8", optional = true, markers = "extra == \"default\""}
 [package.extras]
 default = ["numpy (>=1.19)", "scipy (>=1.8)", "matplotlib (>=3.4)", "pandas (>=1.3)"]
 developer = ["pre-commit (>=2.18)", "mypy (>=0.942)"]
-doc = ["sphinx (>=4.5)", "pydata-sphinx-theme (>=0.8.1)", "sphinx-gallery (>=0.10)", "numpydoc (>=1.2)", "pillow (>=9.1)", "nb2plots (>=0.6)", "texext (>=0.6.6)"]
+doc = ["sphinx (>=4.5)", "pydata-sphinx-theme (>=0.8.1)", "sphinx-gallery (>=0.10)", "numpydoc (>=1.3)", "pillow (>=9.1)", "nb2plots (>=0.6)", "texext (>=0.6.6)"]
 extra = ["lxml (>=4.6)", "pygraphviz (>=1.9)", "pydot (>=1.4.2)", "sympy (>=1.10)"]
 test = ["pytest (>=7.1)", "pytest-cov (>=3.0)", "codecov (>=2.1)"]
 
@@ -920,18 +828,6 @@ python-versions = "!=3.0.*,!=3.1.*,!=3.2.*,>=2.7"
 six = ">=1.5"
 
 [[package]]
-name = "python-louvain"
-version = "0.16"
-description = "Louvain algorithm for community detection"
-category = "main"
-optional = false
-python-versions = "*"
-
-[package.dependencies]
-networkx = "*"
-numpy = "*"
-
-[[package]]
 name = "pytz"
 version = "2022.1"
 description = "World timezone definitions, modern and historical"
@@ -1002,24 +898,6 @@ packaging = "*"
 
 [package.extras]
 test = ["pytest (>=6,!=7.0.0,!=7.0.1)", "pytest-cov (>=3.0.0)", "pytest-qt"]
-
-[[package]]
-name = "requests"
-version = "2.27.1"
-description = "Python HTTP for Humans."
-category = "main"
-optional = false
-python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, !=3.5.*"
-
-[package.dependencies]
-certifi = ">=2017.4.17"
-charset-normalizer = {version = ">=2.0.0,<2.1.0", markers = "python_version >= \"3\""}
-idna = {version = ">=2.5,<4", markers = "python_version >= \"3\""}
-urllib3 = ">=1.21.1,<1.27"
-
-[package.extras]
-socks = ["PySocks (>=1.5.6,!=1.5.7)", "win-inet-pton"]
-use_chardet_on_py3 = ["chardet (>=3.0.2,<5)"]
 
 [[package]]
 name = "scipy"
@@ -1124,14 +1002,6 @@ tornado = ">=6.1.0"
 test = ["pre-commit", "pytest-timeout", "pytest (>=6.0)"]
 
 [[package]]
-name = "texttable"
-version = "1.6.4"
-description = "module for creating simple ASCII tables"
-category = "main"
-optional = false
-python-versions = "*"
-
-[[package]]
 name = "tinycss2"
 version = "1.1.1"
 description = "A tiny CSS parser"
@@ -1174,19 +1044,6 @@ python-versions = ">=3.7"
 test = ["pre-commit", "pytest"]
 
 [[package]]
-name = "urllib3"
-version = "1.26.9"
-description = "HTTP library with thread-safe connection pooling, file post, and more."
-category = "main"
-optional = false
-python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, <4"
-
-[package.extras]
-brotli = ["brotlicffi (>=0.8.0)", "brotli (>=1.0.9)", "brotlipy (>=0.6.0)"]
-secure = ["pyOpenSSL (>=0.14)", "cryptography (>=1.3.4)", "idna (>=2.0.0)", "certifi", "ipaddress"]
-socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
-
-[[package]]
 name = "wcwidth"
 version = "0.2.5"
 description = "Measures the displayed width of unicode strings in a terminal"
@@ -1203,17 +1060,6 @@ optional = false
 python-versions = "*"
 
 [[package]]
-name = "werkzeug"
-version = "2.1.2"
-description = "The comprehensive WSGI web application library."
-category = "main"
-optional = false
-python-versions = ">=3.7"
-
-[package.extras]
-watchdog = ["watchdog"]
-
-[[package]]
 name = "widgetsnbextension"
 version = "3.6.0"
 description = "IPython HTML widgets for Jupyter"
@@ -1227,7 +1073,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = ">3.10,<3.11"
-content-hash = "3dd4afe8fb345ea3a067d56ca38cac8d84d59b15e3bf71d3796a46733d4d0d91"
+content-hash = "fc1536edc643a5cba22cb97a99254760a732d4a9fb1c641eeb81a5120994f163"
 
 [metadata.files]
 appnope = [
@@ -1309,10 +1155,6 @@ bleach = [
     {file = "bleach-5.0.0-py3-none-any.whl", hash = "sha256:08a1fe86d253b5c88c92cc3d810fd8048a16d15762e1e5b74d502256e5926aa1"},
     {file = "bleach-5.0.0.tar.gz", hash = "sha256:c6d6cc054bdc9c83b48b8083e236e5f00f238428666d2ce2e083eaa5fd568565"},
 ]
-certifi = [
-    {file = "certifi-2021.10.8-py2.py3-none-any.whl", hash = "sha256:d62a0163eb4c2344ac042ab2bdf75399a71a2d8c7d47eac2e2ee91b9d6339569"},
-    {file = "certifi-2021.10.8.tar.gz", hash = "sha256:78884e7c1d4b00ce3cea67b44566851c4343c120abd683433ce934a68ea58872"},
-]
 cffi = [
     {file = "cffi-1.15.0-cp27-cp27m-macosx_10_9_x86_64.whl", hash = "sha256:c2502a1a03b6312837279c8c1bd3ebedf6c12c4228ddbad40912d671ccc8a962"},
     {file = "cffi-1.15.0-cp27-cp27m-manylinux1_i686.whl", hash = "sha256:23cfe892bd5dd8941608f93348c0737e369e51c100d03718f108bf1add7bd6d0"},
@@ -1365,20 +1207,9 @@ cffi = [
     {file = "cffi-1.15.0-cp39-cp39-win_amd64.whl", hash = "sha256:3773c4d81e6e818df2efbc7dd77325ca0dcb688116050fb2b3011218eda36139"},
     {file = "cffi-1.15.0.tar.gz", hash = "sha256:920f0d66a896c2d99f0adbb391f990a84091179542c205fa53ce5787aff87954"},
 ]
-charset-normalizer = [
-    {file = "charset-normalizer-2.0.12.tar.gz", hash = "sha256:2857e29ff0d34db842cd7ca3230549d1a697f96ee6d3fb071cfa6c7393832597"},
-    {file = "charset_normalizer-2.0.12-py3-none-any.whl", hash = "sha256:6881edbebdb17b39b4eaaa821b438bf6eddffb4468cf344f09f89def34a8b1df"},
-]
-click = [
-    {file = "click-8.1.3-py3-none-any.whl", hash = "sha256:bb4d8133cb15a609f44e8213d9b391b0809795062913b383c62be0ee95b1db48"},
-    {file = "click-8.1.3.tar.gz", hash = "sha256:7682dc8afb30297001674575ea00d1814d808d6a36af415a82bd481d37ba7b8e"},
-]
 colorama = [
     {file = "colorama-0.4.4-py2.py3-none-any.whl", hash = "sha256:9f47eda37229f68eee03b24b9748937c7dc3868f906e8ba69fbcbdd3bc5dc3e2"},
     {file = "colorama-0.4.4.tar.gz", hash = "sha256:5941b2b48a20143d2267e95b1c2a7603ce057ee39fd88e7329b0c292aa16869b"},
-]
-community = [
-    {file = "community-1.0.0b1.tar.gz", hash = "sha256:a7511f105ed04d28f2df09f4bab465592405eca3b6c625b19b112c4f15e78505"},
 ]
 cycler = [
     {file = "cycler-0.11.0-py3-none-any.whl", hash = "sha256:3a27e95f763a428a739d2add979fa7494c912a32c17c4c38c4d5f082cad165a3"},
@@ -1427,66 +1258,9 @@ fastjsonschema = [
     {file = "fastjsonschema-2.15.3-py3-none-any.whl", hash = "sha256:ddb0b1d8243e6e3abb822bd14e447a89f4ab7439342912d590444831fa00b6a0"},
     {file = "fastjsonschema-2.15.3.tar.gz", hash = "sha256:0a572f0836962d844c1fc435e200b2e4f4677e4e6611a2e3bdd01ba697c275ec"},
 ]
-flask = [
-    {file = "Flask-2.1.2-py3-none-any.whl", hash = "sha256:fad5b446feb0d6db6aec0c3184d16a8c1f6c3e464b511649c8918a9be100b4fe"},
-    {file = "Flask-2.1.2.tar.gz", hash = "sha256:315ded2ddf8a6281567edb27393010fe3406188bafbfe65a3339d5787d89e477"},
-]
 fonttools = [
     {file = "fonttools-4.33.3-py3-none-any.whl", hash = "sha256:f829c579a8678fa939a1d9e9894d01941db869de44390adb49ce67055a06cc2a"},
     {file = "fonttools-4.33.3.zip", hash = "sha256:c0fdcfa8ceebd7c1b2021240bd46ef77aa8e7408cf10434be55df52384865f8e"},
-]
-idna = [
-    {file = "idna-3.3-py3-none-any.whl", hash = "sha256:84d9dd047ffa80596e0f246e2eab0b391788b0503584e8945f2368256d2735ff"},
-    {file = "idna-3.3.tar.gz", hash = "sha256:9d643ff0a55b762d5cdb124b8eaa99c66322e2157b69160bc32796e824360e6d"},
-]
-igraph = [
-    {file = "igraph-0.9.10-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:d5199f79a7400cbb32972ebe790522c1c6ed6c7418bee25a0f995e71e3e349e0"},
-    {file = "igraph-0.9.10-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:e1dd5fad54c4f421dd94b5f436b1d1894fe35e1e62ff4a36d6aefe1439dd4150"},
-    {file = "igraph-0.9.10-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:7e2043de85a3b0361d22b02fe63f8447d4ecb47de9f456e0352c2a226dde65cb"},
-    {file = "igraph-0.9.10-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:cb9a4daf03e3d5f85cb6ee99e3ef780a471ab116feefba4d274d9ffa52d3b540"},
-    {file = "igraph-0.9.10-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:ffa73c18e1602cb55574ad166bc40f8dd0077fcef6343ad557c7255845206a85"},
-    {file = "igraph-0.9.10-cp310-cp310-win32.whl", hash = "sha256:22a548a65c4d44831ca423693fce7075005ff63d9d2557223665a202b03f357b"},
-    {file = "igraph-0.9.10-cp310-cp310-win_amd64.whl", hash = "sha256:50dd0ffc00bf9bd6d0461943419bf2d855aa140e81dc44312143c450497b4f73"},
-    {file = "igraph-0.9.10-cp36-cp36m-macosx_10_9_x86_64.whl", hash = "sha256:6f4f8727f514b9f6e27c0201052fadd62cc5aba7897f36d9940bae01d35acd50"},
-    {file = "igraph-0.9.10-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:cfc3da82460bf80167c2d77794dcd7d9aad91ae4a68aa5a696c6f1b10aa85992"},
-    {file = "igraph-0.9.10-cp36-cp36m-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:9a283469dfcd2c6ae7d4884affda3d7351a086b710477f494581cbeebc3da791"},
-    {file = "igraph-0.9.10-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:89f9db14d8074b8828ab4194039fc0f09c38888ee5e041775859a578d0b26c25"},
-    {file = "igraph-0.9.10-cp36-cp36m-win32.whl", hash = "sha256:f27e317fac5015593237da87c8410cae15a4f118d577aba60328c579f62a0fce"},
-    {file = "igraph-0.9.10-cp36-cp36m-win_amd64.whl", hash = "sha256:7d806b1464f302b01b20c7e96c39ea98673686cfd1796c3d4ec715b1bee39090"},
-    {file = "igraph-0.9.10-cp37-cp37m-macosx_10_9_x86_64.whl", hash = "sha256:2e8003527a9a3b4311e91067e20f4a27d37b0df3521c46deb30f1ec511a02296"},
-    {file = "igraph-0.9.10-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:dec379021c4d7957f20699ae04703915641bc69c7330c36f2b06b521da205334"},
-    {file = "igraph-0.9.10-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:ee8d8bdc4105d452e7ddd7df5f41cd713666cff103601d0b03cf175b0051d958"},
-    {file = "igraph-0.9.10-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:2e739524b63b436d53ee95d99e60ade7d7eb8f8942ec4d74fd1873fc721afbaa"},
-    {file = "igraph-0.9.10-cp37-cp37m-win32.whl", hash = "sha256:af5b2dd8263d976b39d41c8c822dae58e9cea66cc6faf9d145249328cafbec1e"},
-    {file = "igraph-0.9.10-cp37-cp37m-win_amd64.whl", hash = "sha256:b783d8402560c20cd2d0dd1ed73efe9f4c0e9fe2f44b3a1f68c4920a6ee9b98d"},
-    {file = "igraph-0.9.10-cp38-cp38-macosx_10_9_x86_64.whl", hash = "sha256:d5ecccf55c6c4d06597852572f81c82d4cf02ace442c7c022b8cdabce7fec790"},
-    {file = "igraph-0.9.10-cp38-cp38-macosx_11_0_arm64.whl", hash = "sha256:6998cc0a4afe5cb4eebea38c9e002d1102e829bfb33e1424db2957aaff117fd9"},
-    {file = "igraph-0.9.10-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:031cc41e0dd2a655a6db7bc2e7a431690164b8de3f3a87ff9d90d510b4005c5e"},
-    {file = "igraph-0.9.10-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:8e9d288d8e833c76ba828fa507effcfc6ca3e8538da4875d666be0953be85bdb"},
-    {file = "igraph-0.9.10-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:f058b17b998793c0f984e076e97b4e147aa23fb98c3ea4b8d4086d27e77b421c"},
-    {file = "igraph-0.9.10-cp38-cp38-win32.whl", hash = "sha256:5ab168405bde6e428895d93cec98731b2ca6ca0daae6ff81873a2fd8891494e5"},
-    {file = "igraph-0.9.10-cp38-cp38-win_amd64.whl", hash = "sha256:5b55aba74f60ba82b7cfc758e4a0bc48dc47e9ab60cd8317f893f59df695e131"},
-    {file = "igraph-0.9.10-cp39-cp39-macosx_10_9_x86_64.whl", hash = "sha256:83b788b90cee349d53b75aa8c4ff3f8d31c151dc555e30df033c0c52b93bf7d6"},
-    {file = "igraph-0.9.10-cp39-cp39-macosx_11_0_arm64.whl", hash = "sha256:444701536c27812f6442bd47904d0da1506dc4db913e6dddf12579d9f97282c8"},
-    {file = "igraph-0.9.10-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:e866a287609755c81510d1c3fc29248874d3bc3e0ea344f2479abf05cba5afb0"},
-    {file = "igraph-0.9.10-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:06cf7a2e4bf4fe469f727b891d5a5e712637645d4724c7dc786c115b231f507e"},
-    {file = "igraph-0.9.10-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:3ebdce56f872fabed9d3455753fbc762f58fdfc36b6a19420ab632fcc2b6f7eb"},
-    {file = "igraph-0.9.10-cp39-cp39-win32.whl", hash = "sha256:ca3a105ad48be4ad56e6a0b7b8f7d7afcc3d7fc3cbb0e5ed4f74a995ad657011"},
-    {file = "igraph-0.9.10-cp39-cp39-win_amd64.whl", hash = "sha256:326edb7c143d5543c57922e7d28ed943df424cbea73789c61f13ccd964fa992a"},
-    {file = "igraph-0.9.10-pp37-pypy37_pp73-macosx_10_9_x86_64.whl", hash = "sha256:f9cdf627e9924b02f2108183cc2aa100700cefa8fbbbcf22a0365fad64212ea6"},
-    {file = "igraph-0.9.10-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:8f4fda37e968cf9d0742e469be2fe7c0a323630d8e8de1eace551a71aeddb453"},
-    {file = "igraph-0.9.10-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:fc806d2b5f75577037d9d5578b5d0d679b4d2e3e4240a752c9512ebc5c4dfd32"},
-    {file = "igraph-0.9.10-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:3a7a66142222769c7b4cba8b082d1d8bee58dfa075aba5ade0d2d477b9e35125"},
-    {file = "igraph-0.9.10-pp37-pypy37_pp73-win_amd64.whl", hash = "sha256:0cb10202c00356467be0ff9606426b2937fb1afa14c6b66deddcea78d2ddd309"},
-    {file = "igraph-0.9.10-pp38-pypy38_pp73-macosx_10_9_x86_64.whl", hash = "sha256:25b802e3d12c653d7a8bf97af31d749895f636002c63856c743f39033a53ef4d"},
-    {file = "igraph-0.9.10-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:cf100439c385df8551ab89ad98a41ae0ec47eea248c4de0b1553951c50dfdd98"},
-    {file = "igraph-0.9.10-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:1c7b188f84c11b1ec93fd10ee702b5bed285b1c0c3e81a4bafd591c72cde32b5"},
-    {file = "igraph-0.9.10-pp38-pypy38_pp73-win_amd64.whl", hash = "sha256:0cdd473ce627ac3d8744555f1b84a61ef94c47a9337433ac2de03118befbf3be"},
-    {file = "igraph-0.9.10-pp39-pypy39_pp73-macosx_10_9_x86_64.whl", hash = "sha256:6fe02d59d7190b3676cbd7e553c9f7f13b5a50c4be2d424f980259ce3ad4aa9e"},
-    {file = "igraph-0.9.10-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:8101ba1f83190eeec0c078a497fb06b77e750792219f68dc5d3a416ae79c7b97"},
-    {file = "igraph-0.9.10-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:bbb33d124e5680eaeb76fab45424ee5faa0f9dfe8f54d51a3c6e9ec37b01afa3"},
-    {file = "igraph-0.9.10-pp39-pypy39_pp73-win_amd64.whl", hash = "sha256:9317fb9bcc37a92bd69e056e269e949e7a07d71c36fc4f5cc0bb41ae68aa71cd"},
-    {file = "igraph-0.9.10.tar.gz", hash = "sha256:6f9d8e1d6105b34298591820e94d4d8b3f33f38068523769e7a555bf7c96accb"},
 ]
 ipykernel = [
     {file = "ipykernel-6.13.0-py3-none-any.whl", hash = "sha256:2b0987af43c0d4b62cecb13c592755f599f96f29aafe36c01731aaa96df30d39"},
@@ -1503,10 +1277,6 @@ ipython-genutils = [
 ipywidgets = [
     {file = "ipywidgets-7.7.0-py2.py3-none-any.whl", hash = "sha256:e58ff58bc94d481e91ecb6e13a5cb96a87b6b8ade135e055603d0ca24593df38"},
     {file = "ipywidgets-7.7.0.tar.gz", hash = "sha256:ab4a5596855a88b83761921c768707d65e5847068139bc1729ddfe834703542a"},
-]
-itsdangerous = [
-    {file = "itsdangerous-2.1.2-py3-none-any.whl", hash = "sha256:2c2349112351b88699d8d4b6b075022c0808887cb7ad10069318a8b0bc88db44"},
-    {file = "itsdangerous-2.1.2.tar.gz", hash = "sha256:5dbbc68b317e5e42f327f9021763545dc3fc3bfe22e6deb96aaf1fc38874156a"},
 ]
 jedi = [
     {file = "jedi-0.18.1-py2.py3-none-any.whl", hash = "sha256:637c9635fcf47945ceb91cd7f320234a7be540ded6f3e99a50cb6febdfd1ba8d"},
@@ -1757,8 +1527,8 @@ nest-asyncio = [
     {file = "nest_asyncio-1.5.5.tar.gz", hash = "sha256:e442291cd942698be619823a17a86a5759eabe1f8613084790de189fe9e16d65"},
 ]
 networkx = [
-    {file = "networkx-2.8-py3-none-any.whl", hash = "sha256:1a1e8fe052cc1b4e0339b998f6795099562a264a13a5af7a32cad45ab9d4e126"},
-    {file = "networkx-2.8.tar.gz", hash = "sha256:4a52cf66aed221955420e11b3e2e05ca44196b4829aab9576d4d439212b0a14f"},
+    {file = "networkx-2.8.1-py3-none-any.whl", hash = "sha256:07b89bb42483d385ae31f110b3da873b98639ae00b7dbc05bf0da706e2d10459"},
+    {file = "networkx-2.8.1.tar.gz", hash = "sha256:b79b7eadff294d6d121ac3908bfd3fbe1069657e2fb30ced7ad49d67a06ad3b5"},
 ]
 notebook = [
     {file = "notebook-6.4.11-py3-none-any.whl", hash = "sha256:b4a6baf2eba21ce67a0ca11a793d1781b06b8078f34d06c710742e55f3eee505"},
@@ -1962,9 +1732,6 @@ python-dateutil = [
     {file = "python-dateutil-2.8.2.tar.gz", hash = "sha256:0123cacc1627ae19ddf3c27a5de5bd67ee4586fbdd6440d9748f8abb483d3e86"},
     {file = "python_dateutil-2.8.2-py2.py3-none-any.whl", hash = "sha256:961d03dc3453ebbc59dbdea9e4e11c5651520a876d0f4db161e8674aae935da9"},
 ]
-python-louvain = [
-    {file = "python-louvain-0.16.tar.gz", hash = "sha256:b7ba2df5002fd28d3ee789a49532baad11fe648e4f2117cf0798e7520a1da56b"},
-]
 pytz = [
     {file = "pytz-2022.1-py2.py3-none-any.whl", hash = "sha256:e68985985296d9a66a881eb3193b0906246245294a881e7c8afe623866ac6a5c"},
     {file = "pytz-2022.1.tar.gz", hash = "sha256:1e760e2fe6a8163bc0b3d9a19c4f84342afa0a2affebfaa84b01b978a02ecaa7"},
@@ -2049,10 +1816,6 @@ qtpy = [
     {file = "QtPy-2.1.0-py3-none-any.whl", hash = "sha256:aee0586081f943029312becece9f63977b0a9e3788f77a6ac8cc74802bb173d6"},
     {file = "QtPy-2.1.0.tar.gz", hash = "sha256:ca8cd4217175186344299ee4c0f7e7adcf362c70852ba35b255a534077025c06"},
 ]
-requests = [
-    {file = "requests-2.27.1-py2.py3-none-any.whl", hash = "sha256:f22fa1e554c9ddfd16e6e41ac79759e17be9e492b3587efa038054674760e72d"},
-    {file = "requests-2.27.1.tar.gz", hash = "sha256:68d7c56fd5a8999887728ef304a6d12edc7be74f1cfa47714fc8b414525c9a61"},
-]
 scipy = [
     {file = "scipy-1.8.1-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:65b77f20202599c51eb2771d11a6b899b97989159b7975e9b5259594f1d35ef4"},
     {file = "scipy-1.8.1-cp310-cp310-macosx_12_0_arm64.whl", hash = "sha256:e013aed00ed776d790be4cb32826adb72799c61e318676172495383ba4570aa4"},
@@ -2093,10 +1856,6 @@ stack-data = [
 terminado = [
     {file = "terminado-0.15.0-py3-none-any.whl", hash = "sha256:0d5f126fbfdb5887b25ae7d9d07b0d716b1cc0ccaacc71c1f3c14d228e065197"},
     {file = "terminado-0.15.0.tar.gz", hash = "sha256:ab4eeedccfcc1e6134bfee86106af90852c69d602884ea3a1e8ca6d4486e9bfe"},
-]
-texttable = [
-    {file = "texttable-1.6.4-py2.py3-none-any.whl", hash = "sha256:dd2b0eaebb2a9e167d1cefedab4700e5dcbdb076114eed30b58b97ed6b37d6f2"},
-    {file = "texttable-1.6.4.tar.gz", hash = "sha256:42ee7b9e15f7b225747c3fa08f43c5d6c83bc899f80ff9bae9319334824076e9"},
 ]
 tinycss2 = [
     {file = "tinycss2-1.1.1-py3-none-any.whl", hash = "sha256:fe794ceaadfe3cf3e686b22155d0da5780dd0e273471a51846d0a02bc204fec8"},
@@ -2153,10 +1912,6 @@ traitlets = [
     {file = "traitlets-5.2.1.post0-py3-none-any.whl", hash = "sha256:f44b708d33d98b0addb40c29d148a761f44af740603a8fd0e2f8b5b27cf0f087"},
     {file = "traitlets-5.2.1.post0.tar.gz", hash = "sha256:70815ecb20ec619d1af28910ade523383be13754283aef90528eb3d47b77c5db"},
 ]
-urllib3 = [
-    {file = "urllib3-1.26.9-py2.py3-none-any.whl", hash = "sha256:44ece4d53fb1706f667c9bd1c648f5469a2ec925fcf3a776667042d645472c14"},
-    {file = "urllib3-1.26.9.tar.gz", hash = "sha256:aabaf16477806a5e1dd19aa41f8c2b7950dd3c746362d7e3223dbe6de6ac448e"},
-]
 wcwidth = [
     {file = "wcwidth-0.2.5-py2.py3-none-any.whl", hash = "sha256:beb4802a9cebb9144e99086eff703a642a13d6a0052920003a230f3294bbe784"},
     {file = "wcwidth-0.2.5.tar.gz", hash = "sha256:c4d647b99872929fdb7bdcaa4fbe7f01413ed3d98077df798530e5b04f116c83"},
@@ -2164,10 +1919,6 @@ wcwidth = [
 webencodings = [
     {file = "webencodings-0.5.1-py2.py3-none-any.whl", hash = "sha256:a0af1213f3c2226497a97e2b3aa01a7e4bee4f403f95be16fc9acd2947514a78"},
     {file = "webencodings-0.5.1.tar.gz", hash = "sha256:b36a1c245f2d304965eb4e0a82848379241dc04b865afcc4aab16748587e1923"},
-]
-werkzeug = [
-    {file = "Werkzeug-2.1.2-py3-none-any.whl", hash = "sha256:72a4b735692dd3135217911cbeaa1be5fa3f62bffb8745c5215420a03dc55255"},
-    {file = "Werkzeug-2.1.2.tar.gz", hash = "sha256:1ce08e8093ed67d638d63879fd1ba3735817f7a80de3674d293f5984f25fb6e6"},
 ]
 widgetsnbextension = [
     {file = "widgetsnbextension-3.6.0-py2.py3-none-any.whl", hash = "sha256:4fd321cad39fdcf8a8e248a657202d42917ada8e8ed5dd3f60f073e0d54ceabd"},

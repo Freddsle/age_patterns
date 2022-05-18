@@ -30,11 +30,10 @@ poetry run jupyter notebook
 ```
 
 ## Used Python and libraries:
-- Python 3.10.1
-- NetworkX 2.8
+- **Python** 3.10.1
+- NetworkX 2.8.1
 - pandas 1.4.2
-- community 1.0.0b1
 - Matplotlib 3.5.2
-
+- NumPy 1.22.3
 - Biopython 1.79
 - seaborn 0.11.2

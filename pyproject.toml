@@ -9,15 +9,12 @@ authors = ["Yuliya Burankova"]
 python = ">3.10,<3.11"
 networkx = {extras = ["default"], version = "^2.6.3"}
 pandas = "^1.4.1"
-igraph = "^0.9.9"
-community = "^1.0.0-beta.1"
 matplotlib = "^3.5.1"
 biopython = "^1.79"
 seaborn = "^0.11.2"
 ete3 = "^3.1.2"
 beautifulsoup4 = "^4.11.1"
 lxml = "^4.8.0"
-python-louvain = "^0.16"
 
 
 
