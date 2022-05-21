@@ -97,20 +97,87 @@ Yeast: age classes are available for 6 600 genes.
 After mapping:
 ![Yeast GenOrigin classes after mapping](data/00_readme_images/04.jpg)
 
+We used the GenOrigin phylogenetic tree to convert a numerical age into an age class.
+
 #### Results for Yeast GRN (GenOrigin)
 
 ![Yeast heatmap 1](data/03_plots/yeast_heatmap_01.png)
-![Yeast heatmap 2](data/04_plots/yeast_heatmap_02.png)  
+![Yeast heatmap 2](data/03_plots/yeast_heatmap_02.png)  
 ![Yeast len](data/03_plots/yeast_len.png)  
 
+# 4. Phylostratigraphy
 
+We used a phylostratigraphy approach [7] to determine the yeast genes age in GRN.
 
+BLASTx:
+- iTOL tree 8 (leave only Eukaryotes, for truncate the swiss db);
+- truncated Swiss-prot database (94 268 sequences);
+- e-value 10-3.
+
+#### Prepare swiss DB:
+```
+# index big fasta DB 
+! makeblastdb -in ../data/04_blast_db/swiss/data  -dbtype prot -parse_seqids -blastdb_version 5 
+
+# extract
+! blastdbcmd -db ../data/04_blast_db/swiss/data -dbtype prot -entry_batch concatenated.txt -out ./data/04_blast_db/reduced_swiss/swiss_red.fa
+
+# prepare new db
+! cd ../red_db/
+
+# delete duplicate in swiss dp
+! seqkit rmdup 04_blast_db/red_swiss/swiss_red.fa > 04_blast_db/red_swiss/swiss_red_uniq.fa
+! makeblastdb -in swiss_red_uniq.fa -dbtype prot -parse_seqids  -blastdb_version 5
+```
+
+The database class structure:
+![database class structure](data/00_readme_images/05.jpg)
+
+#### BLAST
+```
+# run on swiss db
+! blastx -db blast_db/red_swiss/swiss_red_uniq.fa -query ./genes_lists/S_cerevisiae_genes_seq.fa -num_threads 2 -evalue 1e-3 -out ./04_blast_results/blast_swiss_local.table -outfmt "6 qseqid sseqid stitle pident evalue bitscore"
+```
+#### Results
+
+![Yeast heatmap 1](data/04_plots/yeast_swiss_blast_heatmap.png)  
+![Yeast heatmap 2](data/04_plots/yeast_swiss_blast_heatmap_02.png)  
+![Yeast len](data/04_plots/yeast_pie.png)  
+
+# Conclusion
+
+Preliminary analysis shows a more complex age structure of the yeast gene regulatory network than in mice or human GRNs.  
+We plan to blast GRN genes to a fine-grained tree with more uniform representation of nodes across gene classes.
+
+---
 
 # Install and run code
 
 ## with pip
 
+```console
+git clone https://github.com/Freddsle/age_patterns
+cd ./age_patterns/
 
+# Create and activate your virtual environment
+
+# create virtual environment
+python3.10 -m venv ./venv
+
+# activate virtual environment
+source ./venv/bin/activate
+
+# required by pip to build wheels
+pip install wheel==0.37.0 
+
+# Install requirements
+pip install -r ./requirements.txt
+
+# unzip files in swiss `data/04_blast_db/swiss`.
+
+# for run .ipynb files
+jupyter notebook
+```
 
 ## with poetry
 
@@ -125,7 +192,7 @@ source $HOME/.poetry/env
 
 # prepare project
 git clone https://github.com/Freddsle/age_patterns
-cd ./code
+cd ./age_patterns
 
 # create env
 poetry env use python3.10
@@ -133,10 +200,7 @@ poetry install
 
 # unzip files in swiss `data/04_blast_db/swiss`.
 
-# Run
-poetry run python code/file.py
-
-# or for run .ipynb files
+# for run .ipynb files
 poetry run jupyter notebook
 ```
 
