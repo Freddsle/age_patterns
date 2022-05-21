@@ -1,8 +1,8 @@
 # Age in gene regulatory networks
 
 Autors:
-- Yuliya Burankova
-- Erik Zhivkoplias, SciLifeLab, Stockholm University
+- **Yuliya Burankova**
+- **Erik Zhivkoplias**, SciLifeLab, Stockholm University
 
 ---
 
@@ -53,19 +53,55 @@ Protein age classes [5] (downloaded from [github](https://github.com/marcottelab
 Files with protein age classes are in `data/02_protein_ages`.
 
 **Yeast**: age classes are available for 5 000 proteins.  
-After mapping:
+After mapping:  
 ![Yeast prot classes after mapping](data/00_readme_images/01.jpg)
 
 **Mouse**: age classes are available for 19 950 proteins.  
-After mapping:
+After mapping:  
 ![Mouse prot classes after mapping](data/00_readme_images/02.jpg)
 
 **Human**: age classes are available for 20 331 proteins.  
-After mapping:
+After mapping:  
 ![Human prot classes after mapping](data/00_readme_images/03.jpg)
 
+#### 2.1. Results for Yeast GRN
 
+![Yeast heatmap 1](data/02_plots/yeast_heatmap_01.png)
+![Yeast heatmap 2](data/02_plots/yeast_heatmap_02.png)  
+![Yeast len](data/02_plots/yeast_age_len.png)  
+![Yeast node degree](data/02_plots/yeast_node_degree.png)
 
+#### 2.2. Results for Mouse GRN
+
+![Mouse heatmap 1](data/02_plots/mouse_heatmap_01.png)
+![Mouse heatmap 2](data/02_plots/mouse_heatmap_02.png)  
+![Mouse len](data/02_plots/mouse_age_len.png)  
+![Mouse node degree](data/02_plots/mouse_node_degree.png)
+
+#### 2.3. Results for Human GRN
+
+![Human heatmap 1](data/02_plots/human_heatmap_01.png)
+![Human heatmap 2](data/02_plots/human_heatmap_02.png)  
+![Human len](data/02_plots/human_age_len.png)  
+![Human node degree](data/02_plots/human_node_degree.png)
+
+# 3. GenOrigin age classes
+
+*Code are avalible in `code/03_GenOrigin_age_classes.ipynb` file.*  
+
+The gene ages calculated from the protein ages gave different results for human and mouse and yeast GRNs. 
+
+We decided to use the gene ages from the [GenOrigin](http://genorigin.chenzxlab.cn/#!/) [6] database for Yeast GRN parameters calculation (in `data/03_GenOrigin/Saccharomyces_cerevisiae.csv`).
+
+Yeast: age classes are available for 6 600 genes.  
+After mapping:
+![Yeast GenOrigin classes after mapping](data/00_readme_images/04.jpg)
+
+#### Results for Yeast GRN (GenOrigin)
+
+![Yeast heatmap 1](data/03_plots/yeast_heatmap_01.png)
+![Yeast heatmap 2](data/04_plots/yeast_heatmap_02.png)  
+![Yeast len](data/03_plots/yeast_len.png)  
 
 
 
