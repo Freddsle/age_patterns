@@ -179,7 +179,7 @@ In this case, the fraction of "same age" interactions (0 distance) has increased
 
 # Conclusion
 
-In human GRN more than 56% and in mouse GRN 62% of nodes were "same" and "close" ages based on the use of protein ages. However, none of the three methods we used to obtain gene ages for the yeast network showed more than a 33-45% of nodes were "same" and "close" ages.
+In human GRN more than 56% and in mouse GRN 61% of nodes were "same" and "close" ages based on the use of protein ages. However, none of the three methods we used to obtain gene ages for the yeast network showed more than a 33-45% of nodes were "same" and "close" ages.
 
 Preliminary analysis shows a more complex age structure of the yeast gene regulatory network than in mice or human GRNs. 
 
