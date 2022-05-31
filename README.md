@@ -91,7 +91,7 @@ The one TF is control more tergets (up to 25) in yeast network than in mouse and
 
 The “difference” of ages in relationships was calculated. In the pie charts, the number is the difference between the ages, the smaller, the closer the ages of the interacting genes.  
 ![Mouse len](data/02_plots/mouse_age_len.png)
-![Human len](data/02_plots/human_age_len.png)  
+![Human len](data/02_plots/human_age_len.png)
 ![Yeast len](data/02_plots/yeast_age_len.png)  
 Human and mouse GRNs have demonstrated a tendency for genes from similar age groups to interact more with each other than with more “distant” age groups. For the yeast network, this does not seem to be the case.
 
@@ -101,7 +101,8 @@ The node degree is the number of edges adjacent to the node (indegree+outdegree)
 ![Yeast node degree](data/00_readme_images/yeast_node_degree.png)  
 ![Mouse node degree](data/00_readme_images/mouse_node_degree.png)  
 ![Human node degree](data/00_readme_images/human_node_degree.png)  
-For yeast GRNs, evolutionarily younger nodes have more edgesthan older ones in the network. For mouse and human GRNs, the differences are less noticeable, there is no such drop in the number of connections with increasing age.
+For yeast GRNs, evolutionarily younger nodes have more edgesthan older ones in the network.  
+For mouse and human GRNs, the differences are less noticeable, there is no such drop in the number of connections with increasing age.
 
 # 3. GenOrigin age classes
 
@@ -180,9 +181,9 @@ In this case, the fraction of "same age" interactions (0 distance) has increased
 
 In human GRN more than 56% and in mouse GRN 62% of nodes were "same" and "close" ages based on the use of protein ages. However, none of the three methods we used to obtain gene ages for the yeast network showed more than a 33-45% of nodes were "same" and "close" ages.
 
-If gene interaction preference for genes with similar age holds in gene regulatory networks, incorporating biological knowledge into network inference methods could help to improve the reliability of the GRNs inferred from expression data.
-
 Preliminary analysis shows a more complex age structure of the yeast gene regulatory network than in mice or human GRNs. 
+
+If gene interaction preference for genes with similar age holds in gene regulatory networks, incorporating biological knowledge into network inference methods could help to improve the reliability of the GRNs inferred from expression data.
 
 We plan to blast GRNs genes to a fine-grained tree with more uniform representation of nodes across gene classes.
 
