@@ -179,14 +179,13 @@ In this case, the fraction of "same age" interactions (0 distance) has increased
 
 # Conclusion
 
-In human GRN more than 56% and in mouse GRN 61% of nodes were "same" and "close" ages based on the use of protein ages. However, none of the three methods we used to obtain gene ages for the yeast network showed more than a 33-45% of nodes were "same" and "close" ages.
-
-Preliminary analysis shows a more complex age structure of the yeast gene regulatory network than in mice or human GRNs. 
-
 If gene interaction preference for genes with similar age holds in gene regulatory networks, incorporating biological knowledge into network inference methods could help to improve the reliability of the GRNs inferred from expression data.
 
-We plan to blast GRNs genes to a fine-grained tree with more uniform representation of nodes across gene classes.
+In human GRN more than 56% and in mouse GRN 61% of nodes were "same" and "close" ages based on the use of protein ages. Accordingly, genes with similar age are interact more in gene regulatory networks (GRNs) for mouse and human GRNs.
 
+However, none of the used three methods to obtain gene ages  showed more than a 33-45% of interactions were between "same" and "close" ages classes nodes for the yeast network. Presumably, preliminary analysis shows a more complex age structure of the yeast gene regulatory network than in mice or human GRNs. 
+
+We plan to blast GRNs genes to a fine-grained tree with more uniform representation of nodes across gene classes.
 
 # Install and run code
 
