@@ -75,58 +75,31 @@ After mapping:
 
 #### 2.1. Heatmaps
 
-Interaction maps of TFs and targets were built for each class (results on heatmap). The percentage of each type of links among all links is marked.
+Interaction maps of TFs and targets were built for each class (results on heatmap). The percentage of each type of links among all links is marked.  
+![Yeast heatmap 1](data/02_plots/yeast_heatmap_01.png)  
+![Mouse heatmap 1](data/02_plots/mouse_heatmap_01.png)  
+![Human heatmap 1](data/02_plots/human_heatmap_01.png)  
 
-Results for Yeast GRN:  
-![Yeast heatmap 1](data/02_plots/yeast_heatmap_01.png) 
-
-Results for Mouse GRN:  
-![Mouse heatmap 1](data/02_plots/mouse_heatmap_01.png)
-
-Results for Human GRN:  
-![Human heatmap 1](data/02_plots/human_heatmap_01.png)
-
-The TG/TF heatmaps for each age class shows the number of genes in this class. At the intersection, the ratio of targets to transcription factors for edges of intersected ages classes was noted.
-
-Results for Yeast GRN:  
+The TG/TF heatmaps for each age class shows the number of genes in this class. At the intersection, the ratio of targets to transcription factors for edges of intersected ages classes was noted.  
 ![Yeast heatmap 2](data/02_plots/yeast_heatmap_02.png)  
-
-Results for Mouse GRN:  
 ![Mouse heatmap 2](data/02_plots/mouse_heatmap_02.png)  
-
-Results for Human GRN:  
-![Human heatmap 2](data/02_plots/human_heatmap_02.png) 
+![Human heatmap 2](data/02_plots/human_heatmap_02.png)  
 
 #### 2.2. Interaction distances
 
-The “difference” of ages in relationships was calculated. In the pie charts, the number is the difference between the ages, the smaller, the closer the ages of the interacting genes.
-
-Results for Yeast GRN:  
-![Yeast len](data/02_plots/yeast_age_len.png)  
-
-Results for Mouse GRN:  
-![Mouse len](data/02_plots/mouse_age_len.png)  
-
-Results for Human GRN:  
+The “difference” of ages in relationships was calculated. In the pie charts, the number is the difference between the ages, the smaller, the closer the ages of the interacting genes.  
+![Yeast len](data/02_plots/yeast_age_len.png)
+![Mouse len](data/02_plots/mouse_age_len.png)
 ![Human len](data/02_plots/human_age_len.png)  
-
 Human and mouse GRNs have demonstrated a tendency for genes from similar age groups to interact more with each other than with more “distant” age groups. For the yeast network, this does not seem to be the case.
 
 #### 2.3. Node degrees
 
-The node degree is the number of edges adjacent to the node (indegree+outdegree). 
-
-Results for Yeast GRN:  
-![Yeast node degree](data/00_readme_images/yeast_node_degree.png)
-
-Results for Mouse GRN:   
-![Mouse node degree](data/00_readme_images/mouse_node_degree.png)
-
-Results for Human GRN:  
-![Human node degree](data/00_readme_images/human_node_degree.png)
-
-For yeast GRNs, evolutionarily younger nodes have more edgesthan older ones  in the network. For mouse and human GRNs, the differences are less noticeable, there is no such drop in the number of connections with increasing age.
-
+The node degree is the number of edges adjacent to the node (indegree+outdegree).  
+![Yeast node degree](data/00_readme_images/yeast_node_degree.png)  
+![Mouse node degree](data/00_readme_images/mouse_node_degree.png)  
+![Human node degree](data/00_readme_images/human_node_degree.png)  
+For yeast GRNs, evolutionarily younger nodes have more edgesthan older ones in the network. For mouse and human GRNs, the differences are less noticeable, there is no such drop in the number of connections with increasing age.
 
 # 3. GenOrigin age classes
 
