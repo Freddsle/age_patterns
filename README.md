@@ -85,7 +85,7 @@ The TG/TF heatmaps for each age class shows the number of genes in this class. A
 ![Yeast heatmap 2](data/02_plots/yeast_heatmap_02.png)  
 ![Mouse heatmap 2](data/02_plots/mouse_heatmap_02.png)  
 ![Human heatmap 2](data/02_plots/human_heatmap_02.png)  
-The one TF is control more tergets (up to 25) in yeast network than in mouse and human GRN.
+The one TF is control more targets (up to 25) in yeast network than in mouse (up to 6) and human GRN (up to 8).
 
 #### 2.2. Interaction distances
 
