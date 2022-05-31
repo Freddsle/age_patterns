@@ -79,18 +79,20 @@ Interaction maps of TFs and targets were built for each class (results on heatma
 ![Yeast heatmap 1](data/02_plots/yeast_heatmap_01.png)  
 ![Mouse heatmap 1](data/02_plots/mouse_heatmap_01.png)  
 ![Human heatmap 1](data/02_plots/human_heatmap_01.png)  
+The proportion of the "Eumetazoa->Eumetazoa" and "Eumetazoa->Vertebrata" interactions are the largest among all interactions for mouse and human GRN. 
 
 The TG/TF heatmaps for each age class shows the number of genes in this class. At the intersection, the ratio of targets to transcription factors for edges of intersected ages classes was noted.  
 ![Yeast heatmap 2](data/02_plots/yeast_heatmap_02.png)  
 ![Mouse heatmap 2](data/02_plots/mouse_heatmap_02.png)  
 ![Human heatmap 2](data/02_plots/human_heatmap_02.png)  
+The one TF is control more tergets (up to 25) in yeast network than in mouse and human GRN.
 
 #### 2.2. Interaction distances
 
 The “difference” of ages in relationships was calculated. In the pie charts, the number is the difference between the ages, the smaller, the closer the ages of the interacting genes.  
-![Yeast len](data/02_plots/yeast_age_len.png)
 ![Mouse len](data/02_plots/mouse_age_len.png)
 ![Human len](data/02_plots/human_age_len.png)  
+![Yeast len](data/02_plots/yeast_age_len.png)  
 Human and mouse GRNs have demonstrated a tendency for genes from similar age groups to interact more with each other than with more “distant” age groups. For the yeast network, this does not seem to be the case.
 
 #### 2.3. Node degrees
