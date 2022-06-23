@@ -59,7 +59,7 @@ Tgfb1i1,Vertebrata
 Erbb2,Vertebrata
 Ngfr,Vertebrata
 Zfp281,Vertebrata
-Tlr13,Rodentia
+Tlr13,Muridae
 Rbp4,> Eukaryota
 Rap2b,Vertebrata
 Mme,Eumetazoa
@@ -113,14 +113,14 @@ Plau,Eumetazoa
 Tnfrsf4,Opisthokonta
 Ltbr,Opisthokonta
 Tnfrsf18,Opisthokonta
-Tnfrsf10b,Rodentia
+Tnfrsf10b,Muridae
 Tnfrsf25,Opisthokonta
 Zfp64,Vertebrata
 Sall4,Vertebrata
 Atp9a,> Eukaryota
 Nfatc2,Vertebrata
 Src,Vertebrata
-Ugt1a6a,Rodentia
+Ugt1a6a,Muridae
 Prrxl1,Vertebrata
 Sufu,Vertebrata
 Alox5,Vertebrata
@@ -154,7 +154,7 @@ Nol3,Mammalia
 Ccl22,Mammalia
 Nppa,Mammalia
 Pdpn,Mammalia
-Ndp,Rodentia
+Ndp,Muridae
 Prnd,Mammalia
 Mavs,Mammalia
 Atxn3,Eukaryota
@@ -236,7 +236,7 @@ Cldn2,Vertebrata
 Gtf2ird1,Vertebrata
 Emsy,Eukaryota
 Ighg2b,Rodentia
-Zfp819,Rodentia
+Zfp819,Muridae
 Il33,Rodentia
 Il23a,Vertebrata
 Tnp1,Mammalia
@@ -274,7 +274,7 @@ Barx2,Eumetazoa
 Epha2,Vertebrata
 Htr1a,Opisthokonta
 Myh7b,Vertebrata
-Ptprv,Rodentia
+Ptprv,Muridae
 Neurog1,Eumetazoa
 Sqstm1,Vertebrata
 Elf5,Vertebrata
@@ -370,7 +370,7 @@ Rrm2b,> Eukaryota
 Trps1,Opisthokonta
 Hdgf,Vertebrata
 Pygo2,Opisthokonta
-Cks1b,Rodentia
+Cks1b,Muridae
 Prrc2a,Opisthokonta
 Ehmt2,Vertebrata
 Hsf1,Vertebrata
@@ -413,7 +413,7 @@ Myo6,> Eukaryota
 Heca,Eumetazoa
 Usp17la,Mammalia
 Usp17le,Mammalia
-Sftpc,Rodentia
+Sftpc,Muridae
 Kcnmb1,Vertebrata
 Icos,Vertebrata
 Ctla4,Vertebrata
@@ -422,8 +422,8 @@ Jak3,Vertebrata
 Klf2,Rodentia
 Jund,Rodentia
 Mab21l2,Vertebrata
-Bcl2a1d,Rodentia
-Bcl2a1a,Rodentia
+Bcl2a1d,Muridae
+Bcl2a1a,Muridae
 Plin1,Vertebrata
 Trf,Vertebrata
 Abhd14a,> Eukaryota
@@ -438,8 +438,8 @@ Bhlhe40,Opisthokonta
 Itpr1,Opisthokonta
 Cdk4,Vertebrata
 Lor,Rodentia
-Sprr2a1,Rodentia
-Ivl,Rodentia
+Sprr2a1,Muridae
+Ivl,Muridae
 Mkx,Vertebrata
 Rab18,Vertebrata
 Anxa8,Opisthokonta
@@ -454,7 +454,7 @@ Cxcr4,Vertebrata
 Mcm6,> Eukaryota
 Map4,Vertebrata
 Myh7,Vertebrata
-Rhox5,Rodentia
+Rhox5,Muridae
 Fxyd5,Rodentia
 Top3a,> Eukaryota
 Polr2f,Vertebrata
@@ -480,7 +480,7 @@ Pcp2,Vertebrata
 Retn,Vertebrata
 Retnla,Vertebrata
 Spp1,Vertebrata
-Cxcl15,Rodentia
+Cxcl15,Muridae
 Prm1,Rodentia
 Dnmt1,Opisthokonta
 Notch3,Vertebrata
@@ -746,7 +746,7 @@ Txnrd1,Vertebrata
 Icam1,Mammalia
 Osm,Vertebrata
 Fcer1g,Mammalia
-Ifi202b,Rodentia
+Ifi202b,Muridae
 Ifi204,Mammalia
 Snrpn,Mammalia
 Mylk3,Vertebrata
@@ -767,7 +767,7 @@ Fgf1,Eumetazoa
 Irf3,Opisthokonta
 Pax6,Vertebrata
 Tpsab1,Vertebrata
-Nnat,Rodentia
+Nnat,Muridae
 Cxcl11,Mammalia
 Cdx4,Amniota
 Selenow,Amniota
@@ -1004,7 +1004,7 @@ Sp7,Opisthokonta
 Trim11,Vertebrata
 Cd1d1,Vertebrata
 Cd1d2,Vertebrata
-Zfp57,Rodentia
+Zfp57,Muridae
 Cox4i1,Vertebrata
 Irf8,Opisthokonta
 Foxf1,Vertebrata
@@ -1048,8 +1048,8 @@ Hnf1a,Eumetazoa
 Dgcr8,Eumetazoa
 Txnrd2,Vertebrata
 Sfrp1,Opisthokonta
-Hsd3b4,Rodentia
-Hsd3b6,Rodentia
+Hsd3b4,Muridae
+Hsd3b6,Muridae
 Hsd3b1,> Eukaryota
 Gja3,Vertebrata
 Cenpj,Vertebrata
@@ -1150,7 +1150,7 @@ Havcr2,Vertebrata
 Pde6a,Vertebrata
 Snai2,Vertebrata
 Il7,Vertebrata
-Il2ra,Rodentia
+Il2ra,Muridae
 Il5ra,Vertebrata
 Bid,Vertebrata
 Abcc3,Vertebrata
@@ -1182,7 +1182,7 @@ Hnrnpa1,Vertebrata
 Hoxc8,Vertebrata
 Acsbg1,Vertebrata
 Klf13,Eumetazoa
-Ttf2,Rodentia
+Ttf2,Muridae
 Glp1r,Vertebrata
 Krt13,Vertebrata
 Taf4b,Vertebrata
@@ -1212,7 +1212,7 @@ Comp,Amniota
 Cdk1,> Eukaryota
 Rest,Vertebrata
 Nfkb1,Vertebrata
-Ltc4s,Rodentia
+Ltc4s,Muridae
 Pitx2,Vertebrata
 Egf,Opisthokonta
 Tdo2,Eukaryota
@@ -1257,7 +1257,7 @@ Mad2l1,Opisthokonta
 Rela,Vertebrata
 Serpine1,Vertebrata
 Sox15,Eukaryota
-Sry,Rodentia
+Sry,Muridae
 Men1,Eukaryota
 Mta2,Vertebrata
 Zfp36,Vertebrata
@@ -1279,7 +1279,7 @@ Cryaa,Eumetazoa
 Ucp3,Vertebrata
 Slc11a1,Vertebrata
 Smtnl1,Mammalia
-Npsr1,Rodentia
+Npsr1,Muridae
 Hnf4a,Opisthokonta
 Igfbp6,Mammalia
 Tmbim6,Eukaryota
@@ -1294,7 +1294,7 @@ Mrgbp,Opisthokonta
 Nlrp12,Vertebrata
 H2-Aa,Mammalia
 Foxd1,Rodentia
-Tax1bp3,Rodentia
+Tax1bp3,Muridae
 Lpl,Vertebrata
 Tle2,Vertebrata
 Foxe1,Eumetazoa
@@ -1351,7 +1351,7 @@ Ldha,Vertebrata
 Cpt1a,Opisthokonta
 Sis,> Eukaryota
 Mgam,> Eukaryota
-Prm2,Rodentia
+Prm2,Muridae
 Zfp26,Mammalia
 Pou2f3,Opisthokonta
 Mybbp1a,Opisthokonta
@@ -1373,7 +1373,7 @@ Wap,Rodentia
 Hr,Amniota
 Ccl21a,Mammalia
 Ccl21b,Mammalia
-Ccl19,Rodentia
+Ccl19,Muridae
 Cyp2a5,Vertebrata
 Cyp2a4,Vertebrata
 Sertad1,Mammalia
@@ -1419,7 +1419,7 @@ Ing1,Opisthokonta
 Col4a1,Vertebrata
 Tnfsf13b,Eumetazoa
 Trp53,Opisthokonta
-Ddit3,Rodentia
+Ddit3,Muridae
 Omp,Eukaryota
 Ywhae,> Eukaryota
 Cadm1,Eumetazoa
@@ -1427,7 +1427,7 @@ Ncam1,Vertebrata
 Zbtb16,Vertebrata
 Cbl,Vertebrata
 Cdx1,Eumetazoa
-Taf9,Rodentia
+Taf9,Muridae
 Pdgfrb,Vertebrata
 Csf1r,Vertebrata
 Panx3,Vertebrata
@@ -1517,13 +1517,13 @@ Nr3c1,Opisthokonta
 Gabra6,Eumetazoa
 Kiss1,Vertebrata
 Kiss1,Vertebrata
-Sct,Rodentia
-Ndor1,Rodentia
+Sct,Muridae
+Ndor1,Muridae
 Foxe3,Rodentia
 Insl3,Rodentia
 Ccl25,Rodentia
 Scd1,Rodentia
-Cdkn2a,Rodentia
+Cdkn2a,Muridae
 Casz1,Rodentia
 Mnx1,> Eukaryota
 Shh,Vertebrata
@@ -1588,7 +1588,7 @@ Itgb6,Vertebrata
 Fn1,Eumetazoa
 Il18r1,Vertebrata
 Spic,Vertebrata
-COX2,Rodentia
+COX2,Muridae
 Epha7,Vertebrata
 Cited2,Vertebrata
 Bclaf1,Vertebrata
@@ -1621,7 +1621,7 @@ Irf4,Opisthokonta
 Foxq1,Rodentia
 Foxc1,Vertebrata
 Rnf11,Vertebrata
-Cebpd,Rodentia
+Cebpd,Muridae
 St18,Eumetazoa
 Rb1cc1,Eumetazoa
 Cdk5,Mammalia
@@ -1708,7 +1708,7 @@ Ifnb1,Vertebrata
 Ifna1,Vertebrata
 Ifne,Rodentia
 Ifna4,Vertebrata
-Cdkn2b,Rodentia
+Cdkn2b,Muridae
 Crisp3,Vertebrata
 Fbn2,Vertebrata
 Clcnkb,Vertebrata
@@ -1727,7 +1727,7 @@ Eno2,> Eukaryota
 Atn1,Vertebrata
 Cd4,Vertebrata
 Dapk1,Eumetazoa
-Ctsl,Rodentia
+Ctsl,Muridae
 Fbp2,Vertebrata
 Dmrt1,Vertebrata
 Dmrt3,Vertebrata
@@ -1740,7 +1740,7 @@ Xbp1,Eumetazoa
 Nos1,Vertebrata
 Tal2,Vertebrata
 Ccne1,> Eukaryota
-Tollip,Rodentia
+Tollip,Muridae
 Rasl12,Vertebrata
 Ccnd1,> Eukaryota
 Fgf3,Eumetazoa
@@ -1796,7 +1796,7 @@ Duox2,Vertebrata
 Kat5,Eumetazoa
 Tnf,Vertebrata
 Ovol1,Vertebrata
-Ang2,Rodentia
+Ang2,Muridae
 Ccr2,Vertebrata
 Tcl1,Amniota
 Scnn1g,Vertebrata
@@ -1836,7 +1836,7 @@ Nkx3-2,Vertebrata
 Mcm7,> Eukaryota
 Vegfb,Mammalia
 Tsc22d3,Vertebrata
-Ran,Rodentia
+Ran,Muridae
 Mif,Opisthokonta
 Tlx3,Eumetazoa
 Fgf18,Eumetazoa
@@ -1858,7 +1858,7 @@ Dnajc2,Eukaryota
 Glipr1,Eumetazoa
 Csrp2,Vertebrata
 Apex1,> Eukaryota
-Defb2,Rodentia
+Defb2,Muridae
 Foxn1,Opisthokonta
 Nrgn,Eumetazoa
 Shox2,Eukaryota
@@ -1892,12 +1892,12 @@ Sparc,Eukaryota
 Foxo4,Vertebrata
 Fosl1,Vertebrata
 Npas4,Eukaryota
-Atp11c,Rodentia
+Atp11c,Muridae
 Klkb1,Opisthokonta
 F12,Opisthokonta
 Zic3,Eumetazoa
 Atp1b1,Vertebrata
-Mcts1,Rodentia
+Mcts1,Muridae
 Zbtb33,Mammalia
 Upf3b,Vertebrata
 Btk,Vertebrata
@@ -1913,7 +1913,7 @@ F7,Opisthokonta
 Tbx19,Vertebrata
 Gbx2,Vertebrata
 Il15,Vertebrata
-Mgarp,Rodentia
+Mgarp,Muridae
 Oas1g,Mammalia
 Il31,Mammalia
 Madcam1,Vertebrata
@@ -1926,21 +1926,21 @@ Ptgs2,Eumetazoa
 Rfx2,Vertebrata
 Ptprc,Vertebrata
 Lhx9,Eumetazoa
-Nphs2,Rodentia
+Nphs2,Muridae
 Arid3a,Vertebrata
 Rgs16,Vertebrata
 Rgs4,Vertebrata
 Irf9,Vertebrata
 Mafa,Vertebrata
-Uhrf1,Rodentia
+Uhrf1,Muridae
 Hcls1,Eukaryota
 Abcb4,Vertebrata
 Slc51a,Vertebrata
-Usp18,Rodentia
+Usp18,Muridae
 Cyp2c29,Rodentia
-Ighm,Rodentia
+Ighm,Muridae
 Tap2,Vertebrata
-Zfp263,Rodentia
+Zfp263,Muridae
 Abcg1,Vertebrata
 Ppp1r13l,Vertebrata
 Lgals4,> Eukaryota
@@ -2002,8 +2002,8 @@ Dctn6,Opisthokonta
 Rbpj,Vertebrata
 Pax5,Vertebrata
 Klf3,Eumetazoa
-Hoxd1,Rodentia
-Nfkbia,Rodentia
+Hoxd1,Muridae
+Nfkbia,Muridae
 Utf1,Mammalia
 Hmgb2,Eukaryota
 Hadh,Opisthokonta
@@ -2050,9 +2050,9 @@ Gcgr,Vertebrata
 Krt8,Eumetazoa
 Col5a3,> Eukaryota
 Actg2,Vertebrata
-Tac4,Rodentia
-Prtn3,Rodentia
-Hrk,Rodentia
+Tac4,Muridae
+Prtn3,Muridae
+Hrk,Muridae
 Pf4,Rodentia
 Krt5,Rodentia
 Adgrb1,Vertebrata
@@ -2066,7 +2066,7 @@ Gtf2a2,Vertebrata
 Il17f,Opisthokonta
 Nqo1,Eukaryota
 Ccnb2,Eumetazoa
-Ankrd1,Rodentia
+Ankrd1,Muridae
 Vsx1,Opisthokonta
 Ncoa4,> Eukaryota
 Blnk,Vertebrata
@@ -2093,7 +2093,7 @@ Smoc2,Amniota
 Crx,Vertebrata
 Nox4,Eumetazoa
 Apom,Opisthokonta
-Slco1b2,Rodentia
+Slco1b2,Muridae
 Tlr4,Vertebrata
 Adipoq,Vertebrata
 Stra8,Mammalia
@@ -2141,7 +2141,7 @@ Smurf2,Eukaryota
 Kpna2,Eumetazoa
 Nacc1,Eumetazoa
 Lpar2,Mammalia
-Pdgfa,Rodentia
+Pdgfa,Muridae
 Pla2g6,Vertebrata
 Cbx6,Vertebrata
 Ncf4,Eumetazoa
@@ -2153,7 +2153,7 @@ Hmgcr,Opisthokonta
 Hnrnpd,Vertebrata
 Kif2a,Eumetazoa
 Ocln,Eukaryota
-Scarb1,Rodentia
+Scarb1,Muridae
 Cldn5,Opisthokonta
 Mef2c,Opisthokonta
 Krt14,Vertebrata
@@ -2161,7 +2161,7 @@ Krt16,Vertebrata
 Gast,Vertebrata
 Cd55,Vertebrata
 Pigr,Rodentia
-Scgb3a2,Rodentia
+Scgb3a2,Muridae
 Gstm2,Rodentia
 Pfkfb3,Vertebrata
 Timp3,Vertebrata
@@ -2193,9 +2193,9 @@ Oxt,Eumetazoa
 Avp,Opisthokonta
 Fabp1,Vertebrata
 Sema6a,Eukaryota
-Cdo1,Rodentia
+Cdo1,Muridae
 Ebf2,Opisthokonta
-Ewsr1,Rodentia
+Ewsr1,Muridae
 Ung,Vertebrata
 Cd38,> Eukaryota
 Rala,Eukaryota
@@ -2260,7 +2260,7 @@ Zhx3,Opisthokonta
 Mafb,Eukaryota
 Bhlhe23,Opisthokonta
 Slc6a6,Opisthokonta
-Nr2c2,Rodentia
+Nr2c2,Muridae
 Sult1e1,Vertebrata
 Sult1a1,Vertebrata
 Ogg1,Vertebrata
@@ -2310,7 +2310,7 @@ Dpf3,Vertebrata
 Otx2,Eukaryota
 Zfp410,Vertebrata
 Yy1,Mammalia
-Lgals1,Rodentia
+Lgals1,Muridae
 Cyp3a11,Rodentia
 Cyp3a41a,Eukaryota
 Cacna1h,Vertebrata
@@ -2330,7 +2330,7 @@ Nr2f6,Vertebrata
 Dmbx1,Vertebrata
 Gadd45a,Vertebrata
 Adora2b,Eukaryota
-Ncor1,Rodentia
+Ncor1,Muridae
 Ubc,Opisthokonta
 Hspb1,Eumetazoa
 Mlxipl,Vertebrata
