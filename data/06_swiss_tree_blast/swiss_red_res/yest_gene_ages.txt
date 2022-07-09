@@ -1,0 +1,4220 @@
+YDL003W	Eukaryota
+YKR060W	Opisthokonta
+YMR254C	Saccharomyces cerevisiae
+YEL059W	Saccharomyces cerevisiae
+YHR030C	Eukaryota
+YDL236W	cellular organisms
+YBR214W	Opisthokonta
+YGR120C	Saccharomyces cerevisiae
+YKL086W	Eukaryota
+YBR237W	cellular organisms
+YER176W	cellular organisms
+YDR531W	Eukaryota
+YPL165C	Eukaryota
+YGL059W	Eukaryota
+YBR080C	cellular organisms
+YOL012C	Eukaryota
+YOR298W	Saccharomyces cerevisiae
+YLR461W	Saccharomyces cerevisiae
+YBR162C	Ascomycota
+YPL187W	Saccharomyces cerevisiae
+YDL070W	Eukaryota
+YLR213C	cellular organisms
+YMR004W	Eukaryota
+YMR032W	Opisthokonta
+YML086C	cellular organisms
+YCR087W	Eukaryota
+YKL011C	Saccharomyces cerevisiae
+YDL075W	cellular organisms
+YBL108W	Saccharomyces cerevisiae
+YPL123C	Eukaryota
+YAR042W	Eukaryota
+YMR240C	Opisthokonta
+YOR153W	cellular organisms
+YKL137W	Eukaryota
+YIL045W	Opisthokonta
+YLR396C	Eukaryota
+YOR375C	cellular organisms
+YDL142C	cellular organisms
+YDR403W	Saccharomyces cerevisiae
+YHL035C	cellular organisms
+YIL102C	Saccharomyces cerevisiae
+YKL072W	Saccharomyces cerevisiae
+YKR003W	Eukaryota
+YMR064W	Saccharomyces cerevisiae
+YJR148W	cellular organisms
+YML075C	cellular organisms
+YMR027W	Opisthokonta
+YDL216C	Eukaryota
+YML133C	Eukaryota
+YBR093C	Eukaryota
+YLR453C	Saccharomyces cerevisiae
+YAL037W	Saccharomyces cerevisiae
+YJL219W	cellular organisms
+YDL135C	Eukaryota
+YHR109W	Saccharomyces cerevisiae
+YJR133W	Ascomycota
+YJL042W	Saccharomyces cerevisiae
+YLR344W	cellular organisms
+YPR180W	cellular organisms
+YDR519W	cellular organisms
+YBR295W	cellular organisms
+YJR077C	Eukaryota
+YER103W	cellular organisms
+YOR246C	cellular organisms
+YOR099W	Ascomycota
+YHR193C	cellular organisms
+YER182W	Opisthokonta
+YER099C	cellular organisms
+YLR023C	Eukaryota
+YDR085C	Saccharomyces cerevisiae
+YLR363C	Saccharomycetales
+YLR440C	Saccharomyces cerevisiae
+YNL238W	cellular organisms
+YFL012W	Saccharomyces cerevisiae
+YER153C	Saccharomyces cerevisiae
+YOL147C	Opisthokonta
+YKR051W	Eukaryota
+YOR184W	cellular organisms
+YDR064W	cellular organisms
+YPL251W	Saccharomyces cerevisiae
+YNL035C	Eukaryota
+YER098W	Eukaryota
+YOR148C	Opisthokonta
+YDL182W	cellular organisms
+YFL053W	cellular organisms
+YOR226C	cellular organisms
+YCL034W	Ascomycota
+YHR103W	Saccharomyces cerevisiae
+YFR045W	Eukaryota
+YDR037W	cellular organisms
+YGR144W	cellular organisms
+YNL322C	Saccharomycetales
+YPL094C	Opisthokonta
+YDR359C	Opisthokonta
+YHR081W	Saccharomyces cerevisiae
+YER087W	cellular organisms
+YBL072C	cellular organisms
+YNL130C	Eukaryota
+YBR116C	cellular organisms
+YBR286W	cellular organisms
+YMR038C	Eukaryota
+YER079W	Saccharomyces cerevisiae
+YOL003C	Eukaryota
+YNL041C	Eukaryota
+YHR156C	Opisthokonta
+YMR315W	cellular organisms
+YML053C	Saccharomyces cerevisiae
+YKL150W	cellular organisms
+YOR368W	Ascomycota
+YLR180W	cellular organisms
+YNL097C	Eukaryota
+YPR051W	cellular organisms
+YEL030W	cellular organisms
+YER167W	Saccharomyces cerevisiae
+YGR033C	saccharomyceta
+YMR318C	cellular organisms
+YJR073C	Eukaryota
+YCL039W	Eukaryota
+YGR237C	Saccharomyces cerevisiae
+YNL268W	cellular organisms
+YMR125W	Eukaryota
+YLL028W	cellular organisms
+YBR094W	cellular organisms
+YIL121W	cellular organisms
+YKL220C	Ascomycota
+YNL126W	Eukaryota
+YPL193W	Saccharomyces cerevisiae
+YBR132C	cellular organisms
+YCL035C	cellular organisms
+YCR065W	Opisthokonta
+YGR166W	Saccharomyces cerevisiae
+YOL102C	cellular organisms
+YLR108C	Saccharomyces cerevisiae
+YGL099W	cellular organisms
+YNL299W	Eukaryota
+YLR133W	Eukaryota
+YNL058C	Saccharomyces cerevisiae
+YOL123W	Eukaryota
+YLR462W	Saccharomyces cerevisiae
+YDL186W	Saccharomyces cerevisiae
+YJL145W	Eukaryota
+YML123C	cellular organisms
+YGR281W	cellular organisms
+YPL213W	Eukaryota
+YJR110W	Eukaryota
+YHR020W	cellular organisms
+YGL210W	Eukaryota
+YOR043W	Ascomycota
+YBL060W	Opisthokonta
+YLR193C	Eukaryota
+YJR093C	Eukaryota
+YNL239W	Opisthokonta
+YML070W	cellular organisms
+YBL036C	cellular organisms
+YOR233W	Eukaryota
+YGR075C	Saccharomyces cerevisiae
+YHR002W	Eukaryota
+YDR268W	cellular organisms
+YEL020C	cellular organisms
+YPR009W	Saccharomyces cerevisiae
+YNL006W	Eukaryota
+YBL026W	Eukaryota
+YHR064C	cellular organisms
+YIL096C	Eukaryota
+YFR039C	Saccharomyces cerevisiae
+YPR020W	Saccharomycetales
+YDL083C	cellular organisms
+YER177W	Eukaryota
+YBR292C	Saccharomyces cerevisiae
+YBL056W	Eukaryota
+YJL217W	Saccharomyces cerevisiae
+YGR257C	Eukaryota
+YNL013C	Ascomycota
+YPL214C	cellular organisms
+YDR216W	Opisthokonta
+YNR049C	Saccharomyces cerevisiae
+YER075C	Eukaryota
+YDR221W	Eukaryota
+YLR442C	Opisthokonta
+YNL080C	Ascomycota
+YER032W	Saccharomyces cerevisiae
+YMR279C	cellular organisms
+YCR012W	cellular organisms
+YLR113W	Eukaryota
+YPL139C	Eukaryota
+YLR406C	cellular organisms
+YOR031W	Saccharomyces cerevisiae
+YBR039W	cellular organisms
+YKL144C	cellular organisms
+YJL084C	Ascomycota
+YBR218C	cellular organisms
+YHR195W	Saccharomyces cerevisiae
+YLR104W	saccharomyceta
+YFL041W	Eukaryota
+YDR497C	cellular organisms
+YDR063W	Eukaryota
+YDR081C	Opisthokonta
+YAR060C	Saccharomyces cerevisiae
+YAL026C	cellular organisms
+YER070W	cellular organisms
+YNL146W	Saccharomyces cerevisiae
+YDL204W	Opisthokonta
+YHR208W	cellular organisms
+YHR202W	cellular organisms
+YKL019W	Eukaryota
+YGR278W	Opisthokonta
+YKL084W	Ascomycota
+YOR181W	Opisthokonta
+YDR125C	Eukaryota
+YNL234W	Opisthokonta
+YER091C	cellular organisms
+YNL159C	Saccharomyces cerevisiae
+YBR150C	Ascomycota
+YMR037C	Opisthokonta
+YGR050C	Saccharomyces cerevisiae
+YMR228W	Ascomycota
+YKL063C	Saccharomyces cerevisiae
+YJL160C	Saccharomycetales
+YLR364W	Eukaryota
+YDL060W	Eukaryota
+YNL244C	cellular organisms
+YOR293W	Eukaryota
+YMR110C	cellular organisms
+YKR068C	Eukaryota
+YKL142W	Saccharomyces cerevisiae
+YMR106C	Eukaryota
+YDL037C	Ascomycota
+YPR197C	cellular organisms
+YJR111C	Ascomycota
+YJR034W	Opisthokonta
+YHR086W	Eukaryota
+YKR054C	Eukaryota
+YBL017C	Opisthokonta
+YNL005C	cellular organisms
+YDR529C	Opisthokonta
+YML049C	Eukaryota
+YDR526C	Opisthokonta
+YGR161C	Saccharomyces cerevisiae
+YPL034W	Saccharomyces cerevisiae
+YBR204C	Saccharomyces cerevisiae
+YER040W	Eukaryota
+YIL133C	cellular organisms
+YKR039W	cellular organisms
+YLR384C	Eukaryota
+YNL324W	Eukaryota
+YBL070C	Saccharomyces cerevisiae
+YAL031C	Saccharomyces cerevisiae
+YLR339C	cellular organisms
+YOR356W	cellular organisms
+YJL035C	cellular organisms
+YMR182C	Opisthokonta
+YOR297C	Ascomycota
+YOR136W	cellular organisms
+YNL087W	Eukaryota
+YBR010W	Eukaryota
+YFL021W	Eukaryota
+YML073C	Eukaryota
+YDR426C	Saccharomyces cerevisiae
+YMR239C	cellular organisms
+YLR096W	Eukaryota
+YBR073W	cellular organisms
+YAL045C	cellular organisms
+YPR170C	Saccharomyces cerevisiae
+YER116C	Eukaryota
+YDR419W	Eukaryota
+YDL240W	Eukaryota
+YCR017C	Opisthokonta
+YGL152C	Saccharomyces cerevisiae
+YJL124C	Eukaryota
+YBR268W	Ascomycota
+YDR282C	Opisthokonta
+YDR351W	Saccharomyces cerevisiae
+YPL231W	cellular organisms
+YOR067C	Eukaryota
+YGL178W	Eukaryota
+YBR117C	cellular organisms
+YHR123W	Eukaryota
+YGR072W	Saccharomyces cerevisiae
+YNL136W	Opisthokonta
+YAL018C	Saccharomyces cerevisiae
+YDR229W	Saccharomyces cerevisiae
+YMR063W	saccharomyceta
+YMR251W	cellular organisms
+YNR002C	cellular organisms
+YER080W	Saccharomycetales
+YPR038W	Saccharomyces cerevisiae
+YML116W	cellular organisms
+YOR025W	cellular organisms
+YOR071C	cellular organisms
+YHR088W	Opisthokonta
+YPL155C	Eukaryota
+YKR070W	Opisthokonta
+YNR029C	cellular organisms
+YDL054C	saccharomyceta
+YLR306W	Eukaryota
+YJR008W	cellular organisms
+YLR022C	cellular organisms
+YNR068C	Saccharomyces cerevisiae
+YPL049C	Saccharomyces cerevisiae
+YHR062C	Eukaryota
+YPR188C	Eukaryota
+YHR104W	cellular organisms
+YER039C	Eukaryota
+YGL056C	Opisthokonta
+YGR244C	cellular organisms
+YJL175W	Saccharomyces cerevisiae
+YBL005W	Ascomycota
+YOR248W	Saccharomyces cerevisiae
+YDR470C	Opisthokonta
+YPL272C	Saccharomyces cerevisiae
+YDL133W	Saccharomyces cerevisiae
+YBR174C	Eukaryota
+YFR027W	Eukaryota
+YPR085C	saccharomyceta
+YDL020C	Ascomycota
+YNL283C	Ascomycota
+YDL183C	Saccharomyces cerevisiae
+YMR186W	cellular organisms
+YLR136C	Eukaryota
+YBR157C	Saccharomyces cerevisiae
+YPR179C	Saccharomyces cerevisiae
+YPL172C	cellular organisms
+YDR100W	Saccharomyces cerevisiae
+YOL128C	Eukaryota
+YMR006C	Opisthokonta
+YDL055C	cellular organisms
+YCL058C	Saccharomyces cerevisiae
+YNL129W	cellular organisms
+YJR009C	cellular organisms
+YBR018C	cellular organisms
+YFR038W	cellular organisms
+YGL202W	cellular organisms
+YLR105C	cellular organisms
+YBL087C	cellular organisms
+YLR297W	Saccharomyces cerevisiae
+YDL210W	cellular organisms
+YBR115C	cellular organisms
+YDR130C	Saccharomyces cerevisiae
+YDL169C	Saccharomyces cerevisiae
+YBR118W	cellular organisms
+YDR195W	Saccharomyces cerevisiae
+YJR156C	cellular organisms
+YLR079W	Saccharomyces cerevisiae
+YDR284C	Eukaryota
+YOR208W	Eukaryota
+YPL207W	cellular organisms
+YLR467W	Eukaryota
+YMR090W	cellular organisms
+YDR418W	cellular organisms
+YNL338W	Saccharomyces cerevisiae
+YBL007C	Opisthokonta
+YGL166W	Ascomycota
+YER034W	Saccharomyces cerevisiae
+YCR059C	Eukaryota
+YJL022W	Saccharomyces cerevisiae
+YGL260W	Saccharomyces cerevisiae
+YLR076C	cellular organisms
+YBR051W	Saccharomyces cerevisiae
+YLR214W	Eukaryota
+YAL051W	Ascomycota
+YCR008W	cellular organisms
+YNL031C	Eukaryota
+YDR003W	Saccharomyces cerevisiae
+YLR353W	Saccharomyces cerevisiae
+YDL050C	Saccharomyces cerevisiae
+YMR170C	cellular organisms
+YMR215W	Ascomycota
+YKL096W	Saccharomyces cerevisiae
+YER065C	cellular organisms
+YER141W	Eukaryota
+YPL240C	cellular organisms
+YMR321C	cellular organisms
+YGR138C	cellular organisms
+YDR260C	Saccharomyces cerevisiae
+YJL055W	cellular organisms
+YJL109C	Eukaryota
+YJL011C	Opisthokonta
+YKR038C	cellular organisms
+YNR072W	cellular organisms
+YIR014W	Saccharomyces cerevisiae
+YHR152W	Saccharomyces cerevisiae
+YCL020W	Saccharomyces cerevisiae
+YPR059C	Eukaryota
+YNR040W	Saccharomyces cerevisiae
+YER143W	Eukaryota
+YER135C	Saccharomyces cerevisiae
+YGR153W	Saccharomyces cerevisiae
+YNL071W	cellular organisms
+YCR067C	Eukaryota
+YHR145C	Saccharomyces cerevisiae
+YFL065C	Saccharomyces cerevisiae
+YLR030W	Saccharomyces cerevisiae
+YDL224C	Ascomycota
+YIR003W	Saccharomyces cerevisiae
+YOR188W	Saccharomyces cerevisiae
+YBR296C	cellular organisms
+YMR058W	cellular organisms
+YJL050W	cellular organisms
+YDR300C	cellular organisms
+YBL041W	cellular organisms
+YPR072W	Opisthokonta
+YLL056C	cellular organisms
+YDR182W	Opisthokonta
+YNL091W	Dikarya
+YJR088C	Ascomycota
+YBL038W	cellular organisms
+YKL058W	Eukaryota
+YAL053W	Ascomycota
+YJL134W	Eukaryota
+YHR043C	cellular organisms
+YDR101C	Eukaryota
+YAR008W	Opisthokonta
+YLR154C	Saccharomyces cerevisiae
+YER124C	Saccharomycetales
+YDR397C	Eukaryota
+YDR046C	cellular organisms
+YBR066C	Eukaryota
+YGR102C	Saccharomycetales
+YEL054C	cellular organisms
+YIL141W	Saccharomyces cerevisiae
+YJL045W	cellular organisms
+YLR112W	Saccharomyces cerevisiae
+YDL074C	Eukaryota
+YKL165C	Opisthokonta
+YMR220W	Eukaryota
+YGL151W	Dikarya
+YNL046W	Saccharomyces cerevisiae
+YAR003W	Eukaryota
+YPL120W	Eukaryota
+YDR219C	Saccharomyces cerevisiae
+YNL265C	Eukaryota
+YPL157W	cellular organisms
+YKL103C	cellular organisms
+YML017W	Saccharomyces cerevisiae
+YIL098C	Saccharomyces cerevisiae
+YPL122C	Eukaryota
+YOR236W	cellular organisms
+YDR330W	Eukaryota
+YDL119C	Eukaryota
+YDR463W	Opisthokonta
+YNL144C	Saccharomyces cerevisiae
+YKL095W	Eukaryota
+YDR083W	Eukaryota
+YLR097C	Eukaryota
+YJL161W	Saccharomyces cerevisiae
+YAL056W	Saccharomyces cerevisiae
+YIR018W	Saccharomyces cerevisiae
+YDR151C	Eukaryota
+YDR479C	Ascomycota
+YNL151C	Saccharomyces cerevisiae
+YMR087W	cellular organisms
+YLR004C	cellular organisms
+YNL032W	Eukaryota
+YCL067C	Eukaryota
+YNL050C	Saccharomyces cerevisiae
+YLR035C	cellular organisms
+YDR031W	Opisthokonta
+YKL035W	Eukaryota
+YLR182W	Opisthokonta
+YDR077W	saccharomyceta
+YOL018C	Eukaryota
+YNL112W	cellular organisms
+YDL122W	Opisthokonta
+YDR301W	Eukaryota
+YDR545W	Eukaryota
+YHR067W	cellular organisms
+YBR243C	cellular organisms
+YDR007W	cellular organisms
+YER094C	cellular organisms
+YBR211C	Saccharomyces cerevisiae
+YOR238W	Ascomycota
+YIL066C	cellular organisms
+YDR250C	Saccharomyces cerevisiae
+YLR067C	Eukaryota
+YFR048W	Opisthokonta
+YDL197C	Saccharomyces cerevisiae
+YDL208W	cellular organisms
+YMR002W	Opisthokonta
+YOR039W	Eukaryota
+YKR087C	cellular organisms
+YOR270C	cellular organisms
+YLL055W	cellular organisms
+YDR487C	cellular organisms
+YPL075W	Saccharomyces cerevisiae
+YHR155W	Ascomycota
+YNL308C	Opisthokonta
+YPR167C	cellular organisms
+YBL068W	cellular organisms
+YEL056W	Eukaryota
+YLR158C	cellular organisms
+YIL067C	Saccharomyces cerevisiae
+YOL113W	Eukaryota
+YBR071W	Saccharomyces cerevisiae
+YDL214C	cellular organisms
+YNL010W	cellular organisms
+YBL093C	Ascomycota
+YOL109W	Saccharomyces cerevisiae
+YJL034W	cellular organisms
+YJL083W	Eukaryota
+YNR070W	cellular organisms
+YOR019W	Ascomycota
+YMR197C	Eukaryota
+YJR071W	Saccharomycetales
+YPR013C	Eukaryota
+YGR147C	Ascomycota
+YBR181C	cellular organisms
+YBR189W	cellular organisms
+YLR304C	cellular organisms
+YDR350C	Saccharomyces cerevisiae
+YJR030C	Saccharomyces cerevisiae
+YBR248C	cellular organisms
+YEL011W	cellular organisms
+YLL048C	cellular organisms
+YOL158C	Dikarya
+YGL229C	Ascomycota
+YOR230W	Eukaryota
+YGL234W	cellular organisms
+YBR167C	Saccharomyces cerevisiae
+YDR361C	Opisthokonta
+YOR144C	Opisthokonta
+YPL227C	cellular organisms
+YJR026W	Saccharomyces cerevisiae
+YGR004W	Saccharomyces cerevisiae
+YEL024W	cellular organisms
+YKL014C	Ascomycota
+YKL104C	cellular organisms
+YOR010C	Saccharomyces cerevisiae
+YER061C	cellular organisms
+YGR027C	Eukaryota
+YKR057W	Eukaryota
+YGR128C	Saccharomyces cerevisiae
+YER159C	Eukaryota
+YOR291W	cellular organisms
+YOR204W	cellular organisms
+YCL052C	Ascomycota
+YGL072C	Saccharomyces cerevisiae
+YBR226C	Saccharomyces cerevisiae
+YMR136W	Eukaryota
+YOR312C	Eukaryota
+YCR001W	Saccharomyces cerevisiae
+YNL121C	Eukaryota
+YAL038W	cellular organisms
+YLR121C	Eukaryota
+YJL026W	cellular organisms
+YBL102W	Opisthokonta
+YJR109C	cellular organisms
+YGR099W	Ascomycota
+YDR160W	cellular organisms
+YMR065W	Ascomycota
+YML003W	Saccharomycetales
+YMR117C	Ascomycota
+YNR007C	Eukaryota
+YKR016W	Ascomycota
+YCR002C	Opisthokonta
+YFR007W	cellular organisms
+YOR301W	Saccharomyces cerevisiae
+YLR184W	Saccharomyces cerevisiae
+YFL054C	cellular organisms
+YFL009W	Eukaryota
+YLR294C	Saccharomyces cerevisiae
+YPR175W	Eukaryota
+YKR069W	cellular organisms
+YIL076W	Saccharomyces cerevisiae
+YKL167C	Ascomycota
+YJR083C	Saccharomyces cerevisiae
+YLR295C	Saccharomycetales
+YDR030C	Eukaryota
+YHL013C	Eukaryota
+YDR279W	Saccharomyces cerevisiae
+YLR161W	Saccharomyces cerevisiae
+YNL059C	Eukaryota
+YMR108W	cellular organisms
+YPL031C	Eukaryota
+YGR192C	cellular organisms
+YDL005C	Saccharomyces cerevisiae
+YBR050C	Saccharomyces cerevisiae
+YOR086C	Eukaryota
+YOR257W	Eukaryota
+YLR346C	Saccharomyces cerevisiae
+YDR086C	Eukaryota
+YJL067W	Saccharomyces cerevisiae
+YGR047C	cellular organisms
+YJL008C	cellular organisms
+YLR263W	Saccharomyces cerevisiae
+YKL191W	Eukaryota
+YNL074C	Saccharomyces cerevisiae
+YDR446W	Saccharomyces cerevisiae
+YER114C	Eukaryota
+YCL074W	Eukaryota
+YDR213W	Ascomycota
+YDR103W	Saccharomyces cerevisiae
+YIL136W	Saccharomyces cerevisiae
+YPL212C	cellular organisms
+YBR291C	Eukaryota
+YDR204W	Eukaryota
+YNL178W	cellular organisms
+YHR179W	cellular organisms
+YDL072C	Eukaryota
+YBR281C	cellular organisms
+YML131W	cellular organisms
+YDR461W	Saccharomyces cerevisiae
+YER095W	cellular organisms
+YBR213W	cellular organisms
+YAL068C	Saccharomyces cerevisiae
+YOR029W	Saccharomyces cerevisiae
+YOR092W	Saccharomyces cerevisiae
+YGL230C	Saccharomyces cerevisiae
+YIL127C	Saccharomyces cerevisiae
+YLL059C	Saccharomyces cerevisiae
+YHR032W	cellular organisms
+YPL109C	cellular organisms
+YBR043C	Ascomycota
+YDR156W	Saccharomyces cerevisiae
+YOR008C	Opisthokonta
+YHR042W	cellular organisms
+YML130C	Eukaryota
+YML046W	Eukaryota
+YIR041W	Saccharomyces cerevisiae
+YGL046W	saccharomyceta
+YBL097W	Eukaryota
+YDR263C	cellular organisms
+YJL078C	Eukaryota
+YBL078C	Eukaryota
+YPL089C	Eukaryota
+YPL232W	Eukaryota
+YIR017C	Saccharomyces cerevisiae
+YLR228C	Ascomycota
+YIL077C	Saccharomyces cerevisiae
+YDR435C	Eukaryota
+YHR024C	cellular organisms
+YPL254W	Ascomycota
+YMR142C	Eukaryota
+YKL038W	Ascomycota
+YAR007C	Eukaryota
+YOR124C	Opisthokonta
+YNR067C	Ascomycota
+YGR218W	Eukaryota
+YJL199C	Saccharomyces cerevisiae
+YBL050W	Eukaryota
+YML077W	Eukaryota
+YHR054C	Saccharomyces cerevisiae
+YBL099W	cellular organisms
+YJR140C	Ascomycota
+YMR282C	Saccharomyces cerevisiae
+YOR023C	Saccharomyces cerevisiae
+YJL012C	Eukaryota
+YBR198C	Eukaryota
+YIR034C	Opisthokonta
+YIL082W	Saccharomyces cerevisiae
+YOR048C	Eukaryota
+YGR061C	cellular organisms
+YGR067C	Opisthokonta
+YDR080W	Eukaryota
+YNL117W	cellular organisms
+YPL137C	Saccharomyces cerevisiae
+YOL155C	Saccharomyces cerevisiae
+YDR067C	Eukaryota
+YMR202W	Eukaryota
+YML089C	Saccharomyces cerevisiae
+YGR251W	Saccharomyces cerevisiae
+YOL055C	cellular organisms
+YDR133C	Saccharomyces cerevisiae
+YIL111W	Ascomycota
+YJL170C	Saccharomyces cerevisiae
+YPL140C	cellular organisms
+YBR101C	Dikarya
+YLR099C	Eukaryota
+YJR027W	Eukaryota
+YLR284C	cellular organisms
+YDR320C	Eukaryota
+YLR167W	cellular organisms
+YJR004C	Saccharomycetales
+YDR370C	Saccharomycetales
+YDR423C	Ascomycota
+YPL135W	cellular organisms
+YNL288W	Opisthokonta
+YPR165W	Eukaryota
+YNL216W	Saccharomyces cerevisiae
+YMR188C	cellular organisms
+YDR530C	Saccharomyces cerevisiae
+YPL150W	Eukaryota
+YDR243C	cellular organisms
+YLR024C	Eukaryota
+YDL175C	Eukaryota
+YAR050W	Saccharomycetales
+YCL048W	Ascomycota
+YKL029C	cellular organisms
+YMR204C	Saccharomyces cerevisiae
+YLR450W	cellular organisms
+YMR308C	Eukaryota
+YPL197C	Eukaryota
+YIL158W	Saccharomyces cerevisiae
+YNR036C	cellular organisms
+YLR300W	Ascomycota
+YDR224C	Eukaryota
+YBL042C	cellular organisms
+YLR074C	Eukaryota
+YNL093W	Eukaryota
+YKR081C	Eukaryota
+YKR009C	cellular organisms
+YOR308C	Opisthokonta
+YCR104W	Saccharomyces cerevisiae
+YBR270C	Saccharomyces cerevisiae
+YLR309C	Opisthokonta
+YOR129C	Saccharomyces cerevisiae
+YDR057W	Eukaryota
+YFR053C	Eukaryota
+YAR023C	Saccharomyces cerevisiae
+YIL088C	Eukaryota
+YOR394W	Saccharomyces cerevisiae
+YGL194C	cellular organisms
+YIL162W	cellular organisms
+YBL022C	cellular organisms
+YBL080C	cellular organisms
+YBR069C	cellular organisms
+YOR363C	Ascomycota
+YDR440W	Eukaryota
+YPL144W	Saccharomyces cerevisiae
+YGR188C	cellular organisms
+YMR217W	cellular organisms
+YLR259C	cellular organisms
+YMR051C	Saccharomyces cerevisiae
+YDL245C	cellular organisms
+YER183C	cellular organisms
+YPL116W	cellular organisms
+YDR233C	Eukaryota
+YDR142C	Eukaryota
+YJL111W	cellular organisms
+YDL212W	Ascomycota
+YDL035C	Ascomycota
+YPL062W	Saccharomyces cerevisiae
+YER129W	cellular organisms
+YPR158W	Saccharomyces cerevisiae
+YMR253C	Opisthokonta
+YBL104C	Eukaryota
+YAL007C	Eukaryota
+YHR028C	cellular organisms
+YDR377W	Ascomycota
+YGL156W	cellular organisms
+YLR289W	cellular organisms
+YBR084W	cellular organisms
+YHR111W	cellular organisms
+YJR062C	cellular organisms
+YHL017W	Opisthokonta
+YMR232W	Saccharomyces cerevisiae
+YNR018W	Ascomycota
+YKL198C	Eukaryota
+YJL185C	Saccharomyces cerevisiae
+YAL064W	Saccharomyces cerevisiae
+YDL112W	cellular organisms
+YML109W	Ascomycota
+YGL192W	Eukaryota
+YML121W	Eukaryota
+YCL011C	Eukaryota
+YLR103C	Eukaryota
+YDR536W	cellular organisms
+YJR075W	Ascomycota
+YPR056W	Eukaryota
+YPL277C	Saccharomyces cerevisiae
+YMR227C	Opisthokonta
+YDR438W	Opisthokonta
+YLR430W	cellular organisms
+YPL161C	Saccharomyces cerevisiae
+YBL113C	Saccharomyces cerevisiae
+YDL171C	cellular organisms
+YBL103C	Eukaryota
+YOL023W	cellular organisms
+YEL034W	cellular organisms
+YIL036W	Ascomycota
+YER013W	cellular organisms
+YKL007W	Eukaryota
+YGR220C	cellular organisms
+YLL018C	cellular organisms
+YMR320W	Saccharomyces cerevisiae
+YJR069C	cellular organisms
+YDR495C	Ascomycota
+YJR118C	Ascomycota
+YLL052C	Saccharomyces cerevisiae
+YPL279C	cellular organisms
+YLR410W	Eukaryota
+YPL068C	Saccharomyces cerevisiae
+YOL007C	Saccharomyces cerevisiae
+YML038C	Eukaryota
+YDR009W	cellular organisms
+YBL112C	Opisthokonta
+YBL107C	Saccharomyces cerevisiae
+YJL155C	cellular organisms
+YPR203W	Saccharomyces cerevisiae
+YNR017W	Eukaryota
+YLR397C	cellular organisms
+YEL039C	Eukaryota
+YJL200C	cellular organisms
+YDR285W	Opisthokonta
+YNL030W	Eukaryota
+YOL121C	cellular organisms
+YGL011C	cellular organisms
+YNL231C	Eukaryota
+YDL234C	Eukaryota
+YLR047C	Ascomycota
+YIR027C	cellular organisms
+YER134C	Opisthokonta
+YNR059W	Saccharomycetales
+YNL282W	Saccharomyces cerevisiae
+YDL044C	Saccharomyces cerevisiae
+YPL090C	cellular organisms
+YDR155C	cellular organisms
+YJL056C	Opisthokonta
+YAL040C	Eukaryota
+YPL250C	Saccharomyces cerevisiae
+YNL300W	Saccharomyces cerevisiae
+YDL013W	Saccharomyces cerevisiae
+YOR199W	Saccharomyces cerevisiae
+YGL198W	Eukaryota
+YLR025W	Eukaryota
+YGL138C	Saccharomyces cerevisiae
+YHR114W	Eukaryota
+YNL027W	Opisthokonta
+YNL155W	Eukaryota
+YER036C	cellular organisms
+YPL133C	Dikarya
+YLR374C	Saccharomyces cerevisiae
+YFR002W	Eukaryota
+YDR108W	Ascomycota
+YMR095C	cellular organisms
+YDR314C	Ascomycota
+YCL064C	cellular organisms
+YPL108W	Saccharomyces cerevisiae
+YOR337W	Ascomycota
+YHL020C	Saccharomyces cerevisiae
+YMR307W	Ascomycota
+YNL107W	Eukaryota
+YNL143C	Saccharomyces cerevisiae
+YBR293W	cellular organisms
+YMR103C	Saccharomyces cerevisiae
+YJL135W	Saccharomyces cerevisiae
+YHR107C	Opisthokonta
+YPL276W	cellular organisms
+YGL135W	cellular organisms
+YPR182W	cellular organisms
+YMR241W	Eukaryota
+YHR021C	cellular organisms
+YBL077W	cellular organisms
+YIL072W	Eukaryota
+YBR244W	cellular organisms
+YDR422C	Saccharomyces cerevisiae
+YER082C	Eukaryota
+YCL055W	Eukaryota
+YFL040W	cellular organisms
+YNL015W	saccharomyceta
+YKL136W	Saccharomyces cerevisiae
+YKL224C	Saccharomyces cerevisiae
+YMR280C	Ascomycota
+YFL025C	Opisthokonta
+YER045C	Opisthokonta
+YBR171W	Ascomycota
+YDR102C	Saccharomyces cerevisiae
+YLR057W	Eukaryota
+YDR409W	Eukaryota
+YAR018C	Eukaryota
+YPR064W	Saccharomyces cerevisiae
+YCL038C	cellular organisms
+YBR254C	Eukaryota
+YBL031W	Saccharomyces cerevisiae
+YJL163C	Saccharomyces cerevisiae
+YLR125W	Saccharomyces cerevisiae
+YDR245W	Eukaryota
+YMR092C	Eukaryota
+YOR222W	Eukaryota
+YDR299W	Eukaryota
+YDR188W	cellular organisms
+YML062C	Saccharomyces cerevisiae
+YHR151C	Saccharomycetales
+YLR110C	Saccharomycetales
+YDR044W	cellular organisms
+YBR096W	Opisthokonta
+YGR127W	Opisthokonta
+YIL012W	Saccharomyces cerevisiae
+YEL073C	Saccharomyces cerevisiae
+YNL293W	Eukaryota
+YLR283W	Ascomycota
+YGR130C	Saccharomyces cerevisiae
+YIR005W	Eukaryota
+YBR201W	Eukaryota
+YGR213C	Ascomycota
+YGR119C	Eukaryota
+YPR052C	Eukaryota
+YCR031C	cellular organisms
+YHR136C	Saccharomyces cerevisiae
+YOL089C	Ascomycota
+YKL172W	Eukaryota
+YBL023C	cellular organisms
+YLR336C	Opisthokonta
+YGR256W	cellular organisms
+YPL093W	cellular organisms
+YKR052C	Eukaryota
+YBR158W	Eukaryota
+YOR056C	Eukaryota
+YOR272W	Eukaryota
+YPL218W	cellular organisms
+YHR132C	cellular organisms
+YHR181W	Eukaryota
+YNL297C	Opisthokonta
+YGL123W	cellular organisms
+YBR294W	cellular organisms
+YDL149W	Eukaryota
+YDR038C	cellular organisms
+YOL099C	Saccharomyces cerevisiae
+YCR023C	cellular organisms
+YPL113C	cellular organisms
+YGL032C	Saccharomyces cerevisiae
+YOR018W	Opisthokonta
+YBR190W	Saccharomyces cerevisiae
+YDL085W	cellular organisms
+YHR146W	Eukaryota
+YNL125C	Opisthokonta
+YPL106C	cellular organisms
+YNL241C	cellular organisms
+YDL180W	Saccharomyces cerevisiae
+YDR079W	Saccharomyces cerevisiae
+YMR018W	Eukaryota
+YPR194C	Eukaryota
+YCL065W	Saccharomyces cerevisiae
+YLR256W	Ascomycota
+YCR092C	cellular organisms
+YLR438W	cellular organisms
+YER149C	Saccharomyces cerevisiae
+YBL013W	cellular organisms
+YLR168C	Eukaryota
+YPL211W	Eukaryota
+YBR072W	cellular organisms
+YKL006W	cellular organisms
+YDL057W	Saccharomyces cerevisiae
+YOL017W	Saccharomyces cerevisiae
+YPL030W	Opisthokonta
+YKL091C	Eukaryota
+YJL085W	Eukaryota
+YAL034C	Ascomycota
+YBR041W	cellular organisms
+YOR335C	cellular organisms
+YCL059C	cellular organisms
+YJR086W	saccharomyceta
+YJL190C	cellular organisms
+YHL023C	Ascomycota
+YOR262W	Eukaryota
+YNL328C	Eukaryota
+YLR128W	Eukaryota
+YDR375C	cellular organisms
+YNL145W	Saccharomyces cerevisiae
+YCL012W	Saccharomyces cerevisiae
+YLR081W	cellular organisms
+YIL109C	Eukaryota
+YDR167W	Eukaryota
+YKR095W	Eukaryota
+YDR181C	Saccharomyces cerevisiae
+YDR338C	cellular organisms
+YOR207C	cellular organisms
+YNL194C	Saccharomycetales
+YBL014C	Saccharomyces cerevisiae
+YBR023C	Opisthokonta
+YOR253W	Opisthokonta
+YNL028W	Saccharomyces cerevisiae
+YFR033C	Ascomycota
+YOR274W	cellular organisms
+YNL181W	Eukaryota
+YFL056C	cellular organisms
+YOR228C	Saccharomyces cerevisiae
+YJR112W	Ascomycota
+YDL227C	Saccharomyces cerevisiae
+YHR190W	Eukaryota
+YDL146W	Ascomycota
+YNL077W	cellular organisms
+YDR008C	cellular organisms
+YKR075C	Saccharomyces cerevisiae
+YDL206W	Eukaryota
+YPR093C	Eukaryota
+YBR131W	Saccharomyces cerevisiae
+YBR081C	Eukaryota
+YDL073W	Saccharomyces cerevisiae
+YGL248W	Eukaryota
+YMR105C	cellular organisms
+YIR042C	cellular organisms
+YJR159W	cellular organisms
+YPR174C	Saccharomyces cerevisiae
+YDR324C	Eukaryota
+YNL269W	Saccharomyces cerevisiae
+YLL011W	Eukaryota
+YMR043W	Eukaryota
+YGR106C	Saccharomyces cerevisiae
+YHR014W	Saccharomyces cerevisiae
+YKL052C	Ascomycota
+YFL031W	Saccharomyces cerevisiae
+YLR428C	Eukaryota
+YJL221C	cellular organisms
+YOR087W	Saccharomycetales
+YJL098W	Opisthokonta
+YDR123C	Saccharomyces cerevisiae
+YPL215W	Opisthokonta
+YOR376W	Saccharomyces cerevisiae
+YGR016W	Saccharomyces cerevisiae
+YLR465C	Saccharomyces cerevisiae
+YCR066W	Eukaryota
+YFL052W	Ascomycota
+YHR218W	Saccharomyces cerevisiae
+YGL012W	Eukaryota
+YOR213C	Eukaryota
+YGL133W	Eukaryota
+YJR150C	Saccharomyces cerevisiae
+YPR161C	Eukaryota
+YOR119C	cellular organisms
+YER069W	cellular organisms
+YHR117W	cellular organisms
+YCL051W	Saccharomyces cerevisiae
+YLR354C	cellular organisms
+YER066W	Eukaryota
+YMR119W	Eukaryota
+YPL147W	cellular organisms
+YDR032C	cellular organisms
+YNL029C	Ascomycota
+YJL077C	Saccharomyces cerevisiae
+YJR018W	Opisthokonta
+YJL082W	Opisthokonta
+YLR095C	Saccharomyces cerevisiae
+YDL051W	Eukaryota
+YOL119C	Opisthokonta
+YER048C	cellular organisms
+YDL156W	Eukaryota
+YDR420W	Saccharomyces cerevisiae
+YBR209W	Saccharomyces cerevisiae
+YPL115C	Eukaryota
+YJR102C	Eukaryota
+YJL093C	Eukaryota
+YDL130W	Eukaryota
+YFR052W	Eukaryota
+YDR122W	Eukaryota
+YHR150W	Saccharomyces cerevisiae
+YBL095W	Ascomycota
+YBR134W	Saccharomyces cerevisiae
+YHR098C	Eukaryota
+YOR380W	Ascomycota
+YPR142C	Saccharomyces cerevisiae
+YKR028W	Opisthokonta
+YDL078C	cellular organisms
+YMR297W	Eukaryota
+YNR028W	Eukaryota
+YOR070C	Eukaryota
+YGL144C	Opisthokonta
+YLR401C	cellular organisms
+YPR099C	Ascomycota
+YDR180W	Eukaryota
+YMR236W	Eukaryota
+YLR305C	Eukaryota
+YGL206C	Eukaryota
+YOL081W	Eukaryota
+YEL010W	Saccharomyces cerevisiae
+YNL191W	cellular organisms
+YFL026W	Ascomycota
+YBR143C	cellular organisms
+YHR163W	cellular organisms
+YNR046W	Eukaryota
+YPR196W	Saccharomycetales
+YKR061W	Ascomycota
+YOR060C	Saccharomyces cerevisiae
+YDR509W	Saccharomyces cerevisiae
+YPR124W	Saccharomycetales
+YPL269W	Saccharomyces cerevisiae
+YML026C	cellular organisms
+YJR084W	Eukaryota
+YGR052W	cellular organisms
+YDL246C	cellular organisms
+YHR105W	Saccharomycetales
+YNR016C	cellular organisms
+YNR069C	Saccharomyces cerevisiae
+YDR533C	cellular organisms
+YEL045C	Saccharomyces cerevisiae
+YNL090W	Eukaryota
+YLR053C	Saccharomyces cerevisiae
+YOR309C	Saccharomyces cerevisiae
+YKL141W	Eukaryota
+YGR198W	Ascomycota
+YGR125W	cellular organisms
+YPL243W	Opisthokonta
+YDR287W	cellular organisms
+YNL078W	Saccharomyces cerevisiae
+YLR399C	Eukaryota
+YJL209W	Saccharomyces cerevisiae
+YDL213C	Ascomycota
+YIL176C	Saccharomyces cerevisiae
+YMR123W	Ascomycota
+YJL150W	Saccharomyces cerevisiae
+YFR018C	Eukaryota
+YGR221C	Saccharomyces cerevisiae
+YDR145W	Eukaryota
+YPR102C	cellular organisms
+YKR082W	Ascomycota
+YCR105W	cellular organisms
+YJL105W	Eukaryota
+YBR287W	Eukaryota
+YDR073W	Saccharomyces cerevisiae
+YDR169C	Ascomycota
+YLR342W	Eukaryota
+YGR277C	cellular organisms
+YKL034W	Eukaryota
+YLR298C	Eukaryota
+YGL096W	Eukaryota
+YHR050W	cellular organisms
+YOL025W	Saccharomyces cerevisiae
+YBR036C	Saccharomyces cerevisiae
+YML096W	cellular organisms
+YLR222C	Eukaryota
+YPR155C	Eukaryota
+YCR027C	Eukaryota
+YHR201C	Opisthokonta
+YKL032C	Eukaryota
+YKR088C	Opisthokonta
+YJR101W	Eukaryota
+YPL242C	Eukaryota
+YKL151C	cellular organisms
+YOR151C	cellular organisms
+YOR077W	Eukaryota
+YGR094W	cellular organisms
+YBR112C	cellular organisms
+YPL230W	Eukaryota
+YMR155W	saccharomyceta
+YOR353C	Eukaryota
+YBR250W	Saccharomyces cerevisiae
+YDL019C	Eukaryota
+YDL215C	cellular organisms
+YBR016W	Saccharomyces cerevisiae
+YMR047C	Eukaryota
+YIL022W	Eukaryota
+YKL195W	Eukaryota
+YFL005W	Eukaryota
+YMR151W	Saccharomyces cerevisiae
+YER162C	Eukaryota
+YJR127C	Opisthokonta
+YOR122C	Eukaryota
+YBL073W	Saccharomyces cerevisiae
+YOR038C	Eukaryota
+YJR154W	Saccharomyces cerevisiae
+YNL212W	Eukaryota
+YPL208W	Opisthokonta
+YDR341C	cellular organisms
+YGL200C	Eukaryota
+YLR230W	Eukaryota
+YPL175W	cellular organisms
+YKL210W	cellular organisms
+YNL277W	cellular organisms
+YKR074W	Eukaryota
+YOL038W	cellular organisms
+YKR097W	cellular organisms
+YPR028W	Eukaryota
+YHL036W	cellular organisms
+YCL063W	Saccharomyces cerevisiae
+YBR049C	Eukaryota
+YPR195C	Saccharomyces cerevisiae
+YBR279W	Ascomycota
+YER021W	Eukaryota
+YBL057C	cellular organisms
+YDL144C	Saccharomyces cerevisiae
+YCR075C	Eukaryota
+YIL135C	Saccharomyces cerevisiae
+YLR012C	Saccharomyces cerevisiae
+YMR277W	Eukaryota
+YPL263C	Eukaryota
+YJL218W	cellular organisms
+YBL002W	Eukaryota
+YIL108W	Ascomycota
+YMR221C	Opisthokonta
+YDR312W	Eukaryota
+YPL112C	Saccharomyces cerevisiae
+YGL021W	Opisthokonta
+YHR185C	Saccharomyces cerevisiae
+YFL060C	cellular organisms
+YDL209C	Eukaryota
+YIL173W	Opisthokonta
+YJL203W	Eukaryota
+YMR149W	Saccharomyces cerevisiae
+YNR055C	Ascomycota
+YJL115W	Eukaryota
+YEL009C	Opisthokonta
+YPL082C	cellular organisms
+YJL090C	Ascomycota
+YJL169W	Saccharomycetales
+YKL185W	Saccharomycetales
+YDR041W	cellular organisms
+YDR389W	Eukaryota
+YOL004W	Eukaryota
+YDR499W	Saccharomyces cerevisiae
+YNL217W	cellular organisms
+YPL202C	Saccharomycetales
+YML132W	Saccharomyces cerevisiae
+YBL028C	Saccharomyces cerevisiae
+YDR253C	Opisthokonta
+YBL019W	cellular organisms
+YDR518W	cellular organisms
+YJL060W	cellular organisms
+YLR301W	Saccharomyces cerevisiae
+YHR141C	cellular organisms
+YGR107W	Saccharomyces cerevisiae
+YHR143W	Saccharomyces cerevisiae
+YOR030W	Saccharomycetales
+YDR256C	cellular organisms
+YNL253W	Eukaryota
+YER188W	Saccharomyces cerevisiae
+YKL073W	cellular organisms
+YDR161W	Ascomycota
+YGL125W	cellular organisms
+YPR168W	Eukaryota
+YIL013C	cellular organisms
+YNR010W	Saccharomyces cerevisiae
+YDR270W	cellular organisms
+YJL119C	Saccharomyces cerevisiae
+YLR365W	Saccharomyces cerevisiae
+YDR327W	Eukaryota
+YMR325W	Saccharomyces cerevisiae
+YJL001W	cellular organisms
+YEL001C	Saccharomycetales
+YEL035C	Saccharomyces cerevisiae
+YDR241W	Saccharomyces cerevisiae
+YGR287C	cellular organisms
+YGL140C	Ascomycota
+YNL261W	Opisthokonta
+YLR048W	cellular organisms
+YGL115W	Eukaryota
+YJL073W	cellular organisms
+YDL106C	Eukaryota
+YIL048W	cellular organisms
+YDR090C	Ascomycota
+YOR165W	Eukaryota
+YDR052C	Opisthokonta
+YNL007C	cellular organisms
+YGL079W	Saccharomyces cerevisiae
+YMR287C	cellular organisms
+YBR037C	cellular organisms
+YDR416W	Eukaryota
+YLL020C	Eukaryota
+YKL197C	cellular organisms
+YMR137C	Eukaryota
+YKR067W	Ascomycota
+YLR314C	Opisthokonta
+YPR202W	Saccharomyces cerevisiae
+YLL063C	Eukaryota
+YDR396W	Eukaryota
+YNL174W	Ascomycota
+YNL037C	cellular organisms
+YGR010W	Eukaryota
+YOR265W	Eukaryota
+YLR387C	Eukaryota
+YGL183C	Eukaryota
+YBR086C	Opisthokonta
+YBL029W	Saccharomyces cerevisiae
+YDR222W	Ascomycota
+YDL094C	Saccharomyces cerevisiae
+YOL112W	Eukaryota
+YLL025W	Saccharomyces cerevisiae
+YPL040C	cellular organisms
+YNL051W	Saccharomyces cerevisiae
+YBR164C	Eukaryota
+YOL060C	cellular organisms
+YNL180C	Eukaryota
+YBR196C	cellular organisms
+YBR227C	cellular organisms
+YJL043W	Saccharomyces cerevisiae
+YMR259C	Opisthokonta
+YLR181C	Saccharomyces cerevisiae
+YNL139C	Eukaryota
+YMR276W	Eukaryota
+YPR191W	cellular organisms
+YLR224W	Saccharomyces cerevisiae
+YLL064C	Saccharomyces cerevisiae
+YJL033W	cellular organisms
+YLR080W	Saccharomyces cerevisiae
+YML074C	cellular organisms
+YNL158W	Saccharomyces cerevisiae
+YER073W	cellular organisms
+YOR290C	cellular organisms
+YDR453C	cellular organisms
+YOR154W	Eukaryota
+YKR089C	Eukaryota
+YGL077C	cellular organisms
+YKR084C	cellular organisms
+YDR266C	Opisthokonta
+YDR406W	cellular organisms
+YDL031W	cellular organisms
+YNL012W	Opisthokonta
+YDL154W	cellular organisms
+YDL113C	Opisthokonta
+YAR068W	Saccharomyces cerevisiae
+YFR009W	cellular organisms
+YOR054C	cellular organisms
+YNL163C	cellular organisms
+YLR239C	cellular organisms
+YDL093W	Eukaryota
+YOL165C	Eukaryota
+YNL102W	cellular organisms
+YDL004W	cellular organisms
+YLR340W	cellular organisms
+YIL050W	Eukaryota
+YPR201W	cellular organisms
+YGL171W	cellular organisms
+YGR268C	Ascomycota
+YLR027C	cellular organisms
+YMR222C	Eukaryota
+YKL085W	cellular organisms
+YCR030C	Saccharomyces cerevisiae
+YKR090W	Eukaryota
+YDL190C	Eukaryota
+YKL062W	Opisthokonta
+YNL321W	cellular organisms
+YOR143C	Eukaryota
+YJL031C	Eukaryota
+YER053C	Eukaryota
+YJL072C	Eukaryota
+YGL232W	Opisthokonta
+YHL048W	Saccharomyces cerevisiae
+YOR107W	Opisthokonta
+YDL141W	cellular organisms
+YOR358W	Eukaryota
+YDR261C	Ascomycota
+YHR082C	cellular organisms
+YNR037C	cellular organisms
+YGR178C	Eukaryota
+YNL049C	Eukaryota
+YMR266W	Eukaryota
+YLR242C	Eukaryota
+YNL009W	cellular organisms
+YER156C	cellular organisms
+YGL172W	Ascomycota
+YHL015W	cellular organisms
+YDL092W	Saccharomyces cerevisiae
+YGR235C	Saccharomyces cerevisiae
+YHL006C	Saccharomyces cerevisiae
+YDR232W	cellular organisms
+YGR149W	Eukaryota
+YKL218C	cellular organisms
+YKR034W	Eukaryota
+YML115C	Ascomycota
+YER127W	Opisthokonta
+YOR084W	Opisthokonta
+YPR113W	cellular organisms
+YNL279W	Dikarya
+YBR008C	cellular organisms
+YNL210W	Saccharomyces cerevisiae
+YDR405W	Opisthokonta
+YDR382W	Eukaryota
+YMR020W	Eukaryota
+YIL037C	Saccharomyces cerevisiae
+YOR330C	cellular organisms
+YDL066W	cellular organisms
+YHL016C	Eukaryota
+YDR148C	cellular organisms
+YLR237W	cellular organisms
+YNL327W	Saccharomyces cerevisiae
+YDR501W	Ascomycota
+YOR058C	Ascomycota
+YHR174W	cellular organisms
+YJL166W	Ascomycota
+YLR355C	cellular organisms
+YMR299C	Saccharomyces cerevisiae
+YOL026C	Ascomycota
+YOL151W	cellular organisms
+YEL007W	Ascomycota
+YGL252C	cellular organisms
+YAR015W	cellular organisms
+YKL054C	Saccharomyces cerevisiae
+YNL335W	Saccharomyces cerevisiae
+YLR338W	Opisthokonta
+YKL016C	Opisthokonta
+YOR378W	cellular organisms
+YDL230W	Eukaryota
+YLR055C	Eukaryota
+YGR039W	Saccharomyces cerevisiae
+YBR205W	Ascomycota
+YKL118W	Saccharomyces cerevisiae
+YPR133C	Eukaryota
+YDR035W	cellular organisms
+YKL008C	Eukaryota
+YHR119W	Eukaryota
+YIL042C	cellular organisms
+YLR272C	Eukaryota
+YOL067C	Saccharomyces cerevisiae
+YBR006W	cellular organisms
+YML028W	cellular organisms
+YOL006C	Eukaryota
+YJR043C	Saccharomyces cerevisiae
+YAR070C	Saccharomyces cerevisiae
+YBR148W	Saccharomyces cerevisiae
+YDR004W	cellular organisms
+YKL196C	Eukaryota
+YNL052W	Ascomycota
+YNL100W	Saccharomyces cerevisiae
+YDR434W	Opisthokonta
+YER049W	Opisthokonta
+YGR088W	cellular organisms
+YNL326C	Eukaryota
+YHL012W	Eukaryota
+YLR390W	Saccharomyces cerevisiae
+YDR023W	cellular organisms
+YDR034C	Ascomycota
+YDR012W	cellular organisms
+YPR141C	Eukaryota
+YGL189C	Eukaryota
+YEL052W	cellular organisms
+YNL043C	Ascomycota
+YMR262W	cellular organisms
+YIR019C	Ascomycota
+YOL101C	Saccharomyces cerevisiae
+YPL036W	cellular organisms
+YLL037W	Saccharomyces cerevisiae
+YPL066W	Saccharomyces cerevisiae
+YDL134C	Eukaryota
+YNL138W	Eukaryota
+YBR195C	Eukaryota
+YBR085W	Eukaryota
+YGR036C	Eukaryota
+YGL001C	cellular organisms
+YDR258C	cellular organisms
+YOR206W	Eukaryota
+YDL244W	cellular organisms
+YGR157W	Ascomycota
+YHR061C	Saccharomyces cerevisiae
+YHL038C	Saccharomyces cerevisiae
+YGR032W	Eukaryota
+YOR052C	Ascomycota
+YBL058W	Eukaryota
+YNL213C	Eukaryota
+YDR278C	Saccharomyces cerevisiae
+YDR054C	Eukaryota
+YDR472W	Eukaryota
+YCL049C	Saccharomyces cerevisiae
+YLL007C	Saccharomyces cerevisiae
+YNL135C	cellular organisms
+YDR028C	Ascomycota
+YMR172W	Saccharomyces cerevisiae
+YIR010W	Saccharomyces cerevisiae
+YOL139C	Eukaryota
+YBR223C	Opisthokonta
+YOR162C	Ascomycota
+YKL101W	Eukaryota
+YLR075W	cellular organisms
+YJR019C	cellular organisms
+YHR135C	cellular organisms
+YNL001W	cellular organisms
+YOR336W	Eukaryota
+YHR080C	Eukaryota
+YOR393W	cellular organisms
+YPL235W	Eukaryota
+YNL281W	Eukaryota
+YIL139C	Saccharomyces cerevisiae
+YKL040C	cellular organisms
+YBR166C	cellular organisms
+YOR064C	Eukaryota
+YIL099W	Ascomycota
+YJR099W	Eukaryota
+YGR261C	Eukaryota
+YIL118W	Eukaryota
+YDR311W	Eukaryota
+YOR311C	Eukaryota
+YLR223C	Saccharomycetales
+YMR218C	Eukaryota
+YJL167W	cellular organisms
+YML113W	Saccharomyces cerevisiae
+YKL219W	Saccharomyces cerevisiae
+YOR383C	Saccharomyces cerevisiae
+YAR027W	Saccharomyces cerevisiae
+YHR091C	cellular organisms
+YJR139C	cellular organisms
+YIL062C	Eukaryota
+YPR154W	Eukaryota
+YMR089C	cellular organisms
+YPL028W	cellular organisms
+YGR021W	cellular organisms
+YCR097WA	Eukaryota
+YGL117W	Saccharomyces cerevisiae
+YMR235C	Eukaryota
+YPR042C	Eukaryota
+YJR098C	Saccharomyces cerevisiae
+YPL127C	Opisthokonta
+YKL132C	cellular organisms
+YOR314W	Saccharomyces cerevisiae
+YMR088C	cellular organisms
+YEL046C	cellular organisms
+YPL117C	cellular organisms
+YHR214W	Saccharomyces cerevisiae
+YDR049W	Opisthokonta
+YDR226W	cellular organisms
+YKL178C	Dikarya
+YGL255W	Eukaryota
+YDL159W	cellular organisms
+YKR062W	Eukaryota
+YHR049W	Eukaryota
+YKL043W	Dikarya
+YLR275W	cellular organisms
+YJL063C	cellular organisms
+YNL149C	Ascomycota
+YKR059W	cellular organisms
+YCR106W	Ascomycota
+YLR031W	Saccharomyces cerevisiae
+YGR146C	Saccharomyces cerevisiae
+YIL020C	cellular organisms
+YNL262W	cellular organisms
+YBR208C	cellular organisms
+YPL121C	Saccharomyces cerevisiae
+YJL179W	Opisthokonta
+YHR096C	cellular organisms
+YPL027W	Saccharomyces cerevisiae
+YFR040W	Opisthokonta
+YOR339C	Eukaryota
+YOR282W	Ascomycota
+YGL122C	Opisthokonta
+YLL044W	Eukaryota
+YLR002C	Eukaryota
+YJL002C	Eukaryota
+YDR333C	Eukaryota
+YNL092W	Eukaryota
+YER092W	Saccharomyces cerevisiae
+YOL041C	Eukaryota
+YER126C	cellular organisms
+YOL140W	cellular organisms
+YPR067W	Eukaryota
+YMR171C	Eukaryota
+YBR283C	cellular organisms
+YGL193C	Saccharomyces cerevisiae
+YIL170W	cellular organisms
+YBR003W	cellular organisms
+YIR023W	Ascomycota
+YGL161C	Eukaryota
+YER131W	Eukaryota
+YGR222W	Saccharomyces cerevisiae
+YIL137C	cellular organisms
+YHR199C	Saccharomyces cerevisiae
+YMR041C	cellular organisms
+YCL031C	Opisthokonta
+YPL051W	cellular organisms
+YIL011W	Saccharomyces cerevisiae
+YDR515W	Eukaryota
+YMR040W	Ascomycota
+YJR044C	Eukaryota
+YER138C	Eukaryota
+YML129C	Saccharomyces cerevisiae
+YPL083C	Opisthokonta
+YJR050W	Eukaryota
+YGR269W	Saccharomyces cerevisiae
+YBL091C	cellular organisms
+YDR147W	Eukaryota
+YJL075C	Saccharomyces cerevisiae
+YAL063C	Saccharomycetales
+YPL253C	Saccharomyces cerevisiae
+YHR148W	cellular organisms
+YBR068C	cellular organisms
+YBR146W	cellular organisms
+YIL054W	Saccharomyces cerevisiae
+YOL005C	cellular organisms
+YGL047W	Opisthokonta
+YNR012W	cellular organisms
+YLR179C	Eukaryota
+YFR023W	Eukaryota
+YLR137W	Ascomycota
+YKL059C	Eukaryota
+YDR127W	cellular organisms
+YJL136C	Eukaryota
+YBR210W	Eukaryota
+YOR227W	Saccharomyces cerevisiae
+YDL025C	cellular organisms
+YDR107C	Eukaryota
+YFL024C	Opisthokonta
+YFL033C	Eukaryota
+YLL006W	Dikarya
+YLR171W	Eukaryota
+YLR241W	Eukaryota
+YGR085C	cellular organisms
+YLR014C	Ascomycota
+YFR041C	cellular organisms
+YOL157C	cellular organisms
+YPL268W	Eukaryota
+YOR354C	Saccharomyces cerevisiae
+YLR212C	Eukaryota
+YLR261C	Eukaryota
+YAL001C	Ascomycota
+YJL187C	Eukaryota
+YOL146W	Eukaryota
+YHR134W	Ascomycota
+YDR146C	Opisthokonta
+YAL054C	cellular organisms
+YOL014W	Saccharomyces cerevisiae
+YOL078W	Ascomycota
+YPL169C	Opisthokonta
+YMR147W	Saccharomyces cerevisiae
+YER097W	Saccharomyces cerevisiae
+YLR169W	Saccharomyces cerevisiae
+YJR147W	Eukaryota
+YMR305C	Ascomycota
+YLR290C	Eukaryota
+YER147C	Saccharomyces cerevisiae
+YGL100W	Eukaryota
+YKL009W	Eukaryota
+YLR157C	cellular organisms
+YDR027C	Eukaryota
+YER118C	Opisthokonta
+YEL017W	Saccharomyces cerevisiae
+YGL223C	Saccharomyces cerevisiae
+YER171W	cellular organisms
+YLR163C	cellular organisms
+YHR093W	Saccharomyces cerevisiae
+YDL151C	Saccharomyces cerevisiae
+YGL244W	Eukaryota
+YOR343C	Saccharomyces cerevisiae
+YCL027W	Saccharomyces cerevisiae
+YGR019W	cellular organisms
+YPR169W	Opisthokonta
+YLR253W	cellular organisms
+YDL036C	cellular organisms
+YNL307C	Eukaryota
+YCL024W	cellular organisms
+YDR326C	Eukaryota
+YPR061C	Saccharomyces cerevisiae
+YGR073C	Eukaryota
+YBR236C	Eukaryota
+YNL260C	Opisthokonta
+YJR117W	cellular organisms
+YER081W	cellular organisms
+YKR073C	Saccharomyces cerevisiae
+YOR128C	cellular organisms
+YLR381W	Saccharomyces cerevisiae
+YOL105C	Opisthokonta
+YOL100W	Eukaryota
+YJL074C	cellular organisms
+YMR219W	Saccharomyces cerevisiae
+YGR034W	cellular organisms
+YDR022C	Saccharomyces cerevisiae
+YPL206C	cellular organisms
+YOR075W	Saccharomyces cerevisiae
+YML008C	Eukaryota
+YDR492W	Eukaryota
+YIL174W	Saccharomyces cerevisiae
+YEL005C	Saccharomyces cerevisiae
+YOR373W	Eukaryota
+YIL128W	Eukaryota
+YNL254C	Saccharomyces cerevisiae
+YPR103W	cellular organisms
+YGR109C	Eukaryota
+YPR183W	cellular organisms
+YNL141W	cellular organisms
+YDR097C	cellular organisms
+YMR178W	cellular organisms
+YMR165C	Eukaryota
+YGR155W	cellular organisms
+YGL209W	Opisthokonta
+YPR148C	Ascomycota
+YER100W	Eukaryota
+YKL060C	cellular organisms
+YPR049C	Ascomycota
+YHL008C	cellular organisms
+YPL013C	cellular organisms
+YMR257C	Saccharomyces cerevisiae
+YJL206C	Ascomycota
+YBL015W	cellular organisms
+YBR299W	cellular organisms
+YFR032C	Saccharomyces cerevisiae
+YFL037W	Eukaryota
+YLL051C	Eukaryota
+YBR238C	Saccharomycetales
+YPR080W	cellular organisms
+YJL225C	Eukaryota
+YHL031C	Eukaryota
+YMR144W	Saccharomyces cerevisiae
+YLR209C	cellular organisms
+YCL001W	Eukaryota
+YDR525W	Saccharomyces cerevisiae
+YBR230C	Saccharomyces cerevisiae
+YNR061C	Saccharomyces cerevisiae
+YMR214W	cellular organisms
+YBR144C	Saccharomyces cerevisiae
+YNL038W	Saccharomyces cerevisiae
+YML071C	Opisthokonta
+YER105C	Eukaryota
+YPR095C	Eukaryota
+YHR063C	cellular organisms
+YNL047C	Ascomycota
+YCR089W	Saccharomyces cerevisiae
+YJR029W	Eukaryota
+YDR329C	Saccharomycetales
+YNL208W	Saccharomyces cerevisiae
+YIL056W	Saccharomyces cerevisiae
+YOR388C	cellular organisms
+YJL210W	Eukaryota
+YGR272C	Dikarya
+YNL098C	Eukaryota
+YNL167C	Saccharomycetales
+YHR162W	Eukaryota
+YBL083C	Eukaryota
+YGR108W	Eukaryota
+YHR051W	Opisthokonta
+YCR096C	Eukaryota
+YLR093C	Eukaryota
+YPR111W	Eukaryota
+YKR106W	Dikarya
+YLR277C	cellular organisms
+YJL198W	cellular organisms
+YJR047C	cellular organisms
+YJL029C	Eukaryota
+YFL047W	Opisthokonta
+YER104W	Saccharomyces cerevisiae
+YCL036W	Ascomycota
+YOR202W	cellular organisms
+YKL080W	Eukaryota
+YOR284W	Saccharomyces cerevisiae
+YDR136C	Saccharomyces cerevisiae
+YJR116W	Eukaryota
+YLR071C	Opisthokonta
+YDR024W	Saccharomyces cerevisiae
+YDR542W	Saccharomyces cerevisiae
+YOR235W	Saccharomyces cerevisiae
+YDR251W	Saccharomyces cerevisiae
+YCR021C	Ascomycota
+YIL030C	Eukaryota
+YOR382W	Saccharomyces cerevisiae
+YAL067C	cellular organisms
+YKL069W	cellular organisms
+YGR258C	cellular organisms
+YIL061C	Eukaryota
+YGR267C	cellular organisms
+YML091C	Saccharomyces cerevisiae
+YDR498C	Saccharomyces cerevisiae
+YPR021C	Eukaryota
+YER107C	Eukaryota
+YML126C	cellular organisms
+YDR033W	Ascomycota
+YKL071W	cellular organisms
+YER025W	cellular organisms
+YPR043W	cellular organisms
+YDR447C	cellular organisms
+YPL258C	cellular organisms
+YNL221C	Opisthokonta
+YLR138W	Ascomycota
+YCR081W	Eukaryota
+YJL196C	Eukaryota
+YER027C	Eukaryota
+YNL104C	cellular organisms
+YIL084C	Saccharomyces cerevisiae
+YLL046C	Ascomycota
+YJL171C	Ascomycota
+YLL008W	cellular organisms
+YBR057C	Saccharomyces cerevisiae
+YOR365C	Ascomycota
+YJR052W	Eukaryota
+YDR144C	Eukaryota
+YLR439W	Ascomycota
+YOR078W	Saccharomyces cerevisiae
+YOR258W	Eukaryota
+YMR079W	Eukaryota
+YBR109C	Eukaryota
+YLR403W	Opisthokonta
+YLR151C	Eukaryota
+YIL100W	Saccharomyces cerevisiae
+YOR138C	Saccharomyces cerevisiae
+YLR334C	Saccharomyces cerevisiae
+YGR165W	Ascomycota
+YKL164C	Saccharomycetales
+YHR077C	Eukaryota
+YMR243C	cellular organisms
+YDR524C	Eukaryota
+YNL193W	Ascomycota
+YGL153W	Opisthokonta
+YDR171W	cellular organisms
+YNL209W	cellular organisms
+YDL006W	cellular organisms
+YJL184W	Saccharomycetales
+YOR351C	Eukaryota
+YML092C	cellular organisms
+YCR098C	cellular organisms
+YEL062W	Opisthokonta
+YHR112C	cellular organisms
+YOR102W	Eukaryota
+YHR035W	Eukaryota
+YOR108W	cellular organisms
+YGR040W	Eukaryota
+YNL285W	Saccharomyces cerevisiae
+YPR084W	Saccharomyces cerevisiae
+YPL130W	Saccharomyces cerevisiae
+YJL162C	cellular organisms
+YJL048C	Opisthokonta
+YGR271W	cellular organisms
+YGR056W	Eukaryota
+YDR316W	cellular organisms
+YMR306W	Eukaryota
+YOL136C	Eukaryota
+YGR024C	Eukaryota
+YMR060C	Saccharomyces cerevisiae
+YBR055C	Eukaryota
+YOL154W	Saccharomycetales
+YCR015C	Ascomycota
+YPR139C	Saccharomyces cerevisiae
+YKL026C	cellular organisms
+YFR008W	Saccharomyces cerevisiae
+YJL173C	Saccharomyces cerevisiae
+YGR172C	Eukaryota
+YDL024C	Opisthokonta
+YJR006W	Eukaryota
+YGR116W	cellular organisms
+YIL160C	cellular organisms
+YDR452W	Eukaryota
+YMR164C	Saccharomyces cerevisiae
+YGL226W	saccharomyceta
+YPL163C	Saccharomyces cerevisiae
+YHR023W	Eukaryota
+YBR032W	Saccharomyces cerevisiae
+YKL155C	Opisthokonta
+YOL117W	Saccharomyces cerevisiae
+YMR131C	Eukaryota
+YHR130C	Saccharomyces cerevisiae
+YOL135C	Eukaryota
+YDR514C	Ascomycota
+YLR175W	cellular organisms
+YGR044C	Saccharomyces cerevisiae
+YJR137C	cellular organisms
+YFL055W	cellular organisms
+YDR264C	cellular organisms
+YMR071C	Ascomycota
+YBR119W	Eukaryota
+YFR037C	Eukaryota
+YPL024W	Saccharomyces cerevisiae
+YGR137W	Saccharomyces cerevisiae
+YKR055W	Eukaryota
+YJR094C	Saccharomyces cerevisiae
+YMR033W	Ascomycota
+YDR471W	Eukaryota
+YKR076W	cellular organisms
+YML088W	Ascomycota
+YAL035W	cellular organisms
+YKL190W	Eukaryota
+YJL059W	Eukaryota
+YAL025C	Eukaryota
+YMR272C	Eukaryota
+YCL032W	Ascomycota
+YDR280W	cellular organisms
+YPL282C	Saccharomyces cerevisiae
+YDR175C	Ascomycota
+YOL132W	Ascomycota
+YPR181C	Eukaryota
+YPL273W	cellular organisms
+YGL247W	Ascomycota
+YHR131C	Saccharomyces cerevisiae
+YLR420W	cellular organisms
+YPL114W	cellular organisms
+YGL157W	Eukaryota
+YIL155C	cellular organisms
+YER010C	cellular organisms
+YCR026C	Opisthokonta
+YOL073C	Ascomycota
+YML018C	Opisthokonta
+YLL041C	cellular organisms
+YKL082C	Eukaryota
+YML056C	cellular organisms
+YIL035C	Eukaryota
+YGL167C	cellular organisms
+YPL005W	Eukaryota
+YOR251C	cellular organisms
+YDL239C	Saccharomyces cerevisiae
+YMR101C	cellular organisms
+YNL008C	Saccharomyces cerevisiae
+YPL170W	Eukaryota
+YPR151C	Saccharomyces cerevisiae
+YKL211C	cellular organisms
+YMR195W	Saccharomyces cerevisiae
+YFL057C	cellular organisms
+YIL130W	Ascomycota
+YDR500C	cellular organisms
+YLR038C	Eukaryota
+YDR297W	Eukaryota
+YML012W	Eukaryota
+YNR051C	Ascomycota
+YBR275C	Saccharomyces cerevisiae
+YBR207W	Dikarya
+YLR360W	Saccharomyces cerevisiae
+YBL089W	Eukaryota
+YLR174W	cellular organisms
+YGR230W	Saccharomyces cerevisiae
+YMR252C	Saccharomyces cerevisiae
+YMR019W	Ascomycota
+YLR357W	Eukaryota
+YLR046C	Ascomycota
+YJL081C	Eukaryota
+YHL029C	Saccharomycetales
+YIL146C	Saccharomyces cerevisiae
+YFR001W	Saccharomycetales
+YNL154C	cellular organisms
+YLL024C	cellular organisms
+YBL044W	Saccharomyces cerevisiae
+YKL109W	Saccharomyces cerevisiae
+YLR033W	Saccharomyces cerevisiae
+YDR055W	Ascomycota
+YDL196W	Saccharomyces cerevisiae
+YPR118W	cellular organisms
+YLR150W	Ascomycota
+YNL334C	cellular organisms
+YLR312C	Saccharomyces cerevisiae
+YEL074W	Saccharomyces cerevisiae
+YGL013C	Ascomycota
+YIR013C	Eukaryota
+YKR066C	cellular organisms
+YPL111W	cellular organisms
+YLL067C	Eukaryota
+YDR220C	Saccharomyces cerevisiae
+YCR022C	Saccharomyces cerevisiae
+YGL253W	Eukaryota
+YBL008W	Eukaryota
+YML064C	Eukaryota
+YNL142W	cellular organisms
+YDR544C	Saccharomyces cerevisiae
+YNL137C	cellular organisms
+YML051W	cellular organisms
+YAL062W	cellular organisms
+YKR015C	Saccharomyces cerevisiae
+YCL010C	Eukaryota
+YKR103W	cellular organisms
+YNL002C	Eukaryota
+YDL018C	Eukaryota
+YLL033W	Saccharomyces cerevisiae
+YPL119C	cellular organisms
+YGR086C	Ascomycota
+YFR020W	Saccharomyces cerevisiae
+YMR133W	Saccharomyces cerevisiae
+YNL062C	Eukaryota
+YGL254W	Eukaryota
+YIL140W	Saccharomyces cerevisiae
+YLR056W	Eukaryota
+YLR382C	cellular organisms
+YCR107W	cellular organisms
+YNL134C	cellular organisms
+YOR116C	cellular organisms
+YOR319W	Eukaryota
+YBL001C	cellular organisms
+YOR096W	Eukaryota
+YFL064C	Saccharomyces cerevisiae
+YEL067C	Saccharomyces cerevisiae
+YBL082C	Eukaryota
+YNR043W	Eukaryota
+YGR247W	saccharomyceta
+YBR017C	Eukaryota
+YGR133W	Eukaryota
+YIL116W	cellular organisms
+YAR047C	Saccharomyces cerevisiae
+YGR266W	Saccharomyces cerevisiae
+YDR150W	Opisthokonta
+YHR087W	Ascomycota
+YML110C	cellular organisms
+YDL059C	Opisthokonta
+YMR260C	cellular organisms
+YJR161C	Saccharomyces cerevisiae
+YOL057W	Eukaryota
+YIL010W	cellular organisms
+YNL302C	cellular organisms
+YHR001W	Eukaryota
+YNL055C	Eukaryota
+YBR179C	Opisthokonta
+YDR124W	Saccharomyces cerevisiae
+YJL088W	cellular organisms
+YHR211W	Saccharomycetales
+YJL116C	Ascomycota
+YDR343C	cellular organisms
+YCR099C	Opisthokonta
+YCR028C	cellular organisms
+YGL092W	Eukaryota
+YLR229C	Eukaryota
+YPR027C	Saccharomyces cerevisiae
+YNL280C	Eukaryota
+YPL025C	Saccharomyces cerevisiae
+YLR216C	cellular organisms
+YLR042C	Saccharomyces cerevisiae
+YGR113W	Saccharomycetales
+YPL070W	Saccharomyces cerevisiae
+YER158C	Saccharomyces cerevisiae
+YDR325W	Opisthokonta
+YIL126W	cellular organisms
+YIR029W	cellular organisms
+YDL047W	Eukaryota
+YJR087W	Saccharomyces cerevisiae
+YLR170C	Eukaryota
+YLR286C	Eukaryota
+YKL216W	cellular organisms
+YMR053C	Saccharomyces cerevisiae
+YDR092W	Eukaryota
+YGR015C	cellular organisms
+YNL116W	Eukaryota
+YLR402W	Saccharomyces cerevisiae
+YOR267C	Eukaryota
+YGL236C	cellular organisms
+YPR135W	Eukaryota
+YBR104W	Eukaryota
+YDR323C	Eukaryota
+YAL048C	Eukaryota
+YGR013W	Saccharomycetales
+YOR310C	cellular organisms
+YOR049C	Ascomycota
+YDL030W	Eukaryota
+YOR306C	cellular organisms
+YJL100W	Opisthokonta
+YJL144W	Saccharomyces cerevisiae
+YLR393W	Ascomycota
+YJR132W	Eukaryota
+YBR274W	Eukaryota
+YMR042W	Eukaryota
+YDR088C	Eukaryota
+YDR215C	Saccharomyces cerevisiae
+YDL188C	Eukaryota
+YPR187W	cellular organisms
+YOR352W	Saccharomyces cerevisiae
+YEL025C	Saccharomyces cerevisiae
+YMR135C	Saccharomyces cerevisiae
+YDR042C	Saccharomyces cerevisiae
+YBR013C	Saccharomyces cerevisiae
+YGR260W	cellular organisms
+YCR088W	Eukaryota
+YCL022C	Saccharomyces cerevisiae
+YIL114C	Eukaryota
+YGL028C	Saccharomycetales
+YHR175W	Eukaryota
+YAL016W	Eukaryota
+YJL141C	Eukaryota
+YOR073W	Saccharomyces cerevisiae
+YIL044C	Eukaryota
+YCR040W	Saccharomycetales
+YDR528W	Saccharomyces cerevisiae
+YEL008W	Saccharomyces cerevisiae
+YNL095C	Eukaryota
+YDR504C	Saccharomyces cerevisiae
+YMR016C	Dikarya
+YMR046C	Saccharomyces cerevisiae
+YGR243W	Eukaryota
+YEL032W	cellular organisms
+YER002W	Ascomycota
+YBR297W	Ascomycota
+YOR095C	cellular organisms
+YPL016W	Opisthokonta
+YDL126C	cellular organisms
+YBR029C	cellular organisms
+YGR151C	Saccharomyces cerevisiae
+YJL092W	cellular organisms
+YNL336W	Saccharomyces cerevisiae
+YJR092W	Saccharomycetales
+YOR094W	cellular organisms
+YGL058W	Eukaryota
+YPL198W	cellular organisms
+YOR032C	Opisthokonta
+YJL006C	Eukaryota
+YBR240C	saccharomyceta
+YOR134W	Eukaryota
+YGL182C	Saccharomyces cerevisiae
+YBR187W	Eukaryota
+YMR247C	Eukaryota
+YDR172W	cellular organisms
+YCL009C	cellular organisms
+YGR204W	cellular organisms
+YLR322W	Saccharomyces cerevisiae
+YLR356W	Saccharomyces cerevisiae
+YPL059W	cellular organisms
+YPL058C	cellular organisms
+YBL092W	cellular organisms
+YEL065W	Dikarya
+YLR050C	Opisthokonta
+YBR046C	cellular organisms
+YJL222W	Opisthokonta
+YOR158W	Saccharomyces cerevisiae
+YIL009W	cellular organisms
+YGL036W	Saccharomyces cerevisiae
+YOR300W	Saccharomyces cerevisiae
+YKL090W	Ascomycota
+YDL034W	Saccharomyces cerevisiae
+YLR273C	Opisthokonta
+YCR032W	Eukaryota
+YER088C	Saccharomyces cerevisiae
+YOR001W	cellular organisms
+YMR070W	Opisthokonta
+YJR028W	Saccharomyces cerevisiae
+YJR057W	cellular organisms
+YCL057W	cellular organisms
+YDR412W	Opisthokonta
+YML099C	Ascomycota
+YMR054W	cellular organisms
+YOL114C	Opisthokonta
+YOR065W	Eukaryota
+YKL120W	Eukaryota
+YHR004C	Eukaryota
+YDL049C	Saccharomyces cerevisiae
+YHR205W	Eukaryota
+YCL037C	Eukaryota
+YGL107C	Saccharomycetales
+YMR296C	cellular organisms
+YGR212W	Ascomycota
+YDR379W	Eukaryota
+YIR022W	cellular organisms
+YBR217W	Eukaryota
+YDR190C	Eukaryota
+YOR229W	Eukaryota
+YOR120W	cellular organisms
+YML101C	Saccharomyces cerevisiae
+YOL058W	cellular organisms
+YGR282C	Eukaryota
+YKL180W	cellular organisms
+YLR316C	cellular organisms
+YNL202W	cellular organisms
+YHR206W	cellular organisms
+YKL097C	Saccharomyces cerevisiae
+YGR110W	Eukaryota
+YPR104C	Eukaryota
+YJL107C	Ascomycota
+YIR038C	Ascomycota
+YLR383W	cellular organisms
+YAR031W	Saccharomyces cerevisiae
+YGL179C	cellular organisms
+YLR210W	Eukaryota
+YGR173W	cellular organisms
+YJL101C	Eukaryota
+YGR131W	Ascomycota
+YJL023C	Saccharomyces cerevisiae
+YKL070W	cellular organisms
+YNL218W	cellular organisms
+YLL002W	Ascomycota
+YNL115C	Ascomycota
+YJR149W	cellular organisms
+YHR147C	cellular organisms
+YLR448W	Eukaryota
+YGL159W	Opisthokonta
+YKL209C	cellular organisms
+YGR229C	Ascomycota
+YGL180W	Eukaryota
+YDR494W	Saccharomyces cerevisiae
+YDR520C	Saccharomyces cerevisiae
+YDL048C	Opisthokonta
+YCR082W	Saccharomyces cerevisiae
+YER096W	Ascomycota
+YLR394W	Saccharomyces cerevisiae
+YHL039W	Eukaryota
+YGR098C	Eukaryota
+YDL193W	cellular organisms
+YPL262W	cellular organisms
+YGL184C	cellular organisms
+YGR059W	Opisthokonta
+YKR011C	Saccharomyces cerevisiae
+YIL105C	Ascomycota
+YDR138W	Saccharomyces cerevisiae
+YPL281C	cellular organisms
+YJL104W	Eukaryota
+YGR035C	Saccharomyces cerevisiae
+YGR232W	cellular organisms
+YKL003C	Opisthokonta
+YLR262C	Eukaryota
+YGR224W	cellular organisms
+YPR156C	cellular organisms
+YPL228W	Dikarya
+YPL142C	Eukaryota
+YDL052C	cellular organisms
+YIL033C	Eukaryota
+YMR292W	Eukaryota
+YKL005C	Opisthokonta
+YOR210W	cellular organisms
+YDR065W	Saccharomyces cerevisiae
+YGL263W	Saccharomyces cerevisiae
+YBR163W	Saccharomycetales
+YDR322W	Eukaryota
+YOL082W	Saccharomyces cerevisiae
+YGR134W	Saccharomyces cerevisiae
+YCR095C	Eukaryota
+YPR160W	cellular organisms
+YDL198C	Eukaryota
+YDL061C	cellular organisms
+YBR133C	Eukaryota
+YPR058W	Eukaryota
+YPR107C	Eukaryota
+YGL235W	cellular organisms
+YHL049C	Saccharomyces cerevisiae
+YML047C	Saccharomyces cerevisiae
+YDR415C	cellular organisms
+YLR001C	Ascomycota
+YDR239C	Saccharomyces cerevisiae
+YGR129W	Saccharomyces cerevisiae
+YHR194W	Ascomycota
+YCL004W	cellular organisms
+YBR170C	Eukaryota
+YEL063C	cellular organisms
+YJL202C	Saccharomyces cerevisiae
+YCR097W	Eukaryota
+YKL189W	Eukaryota
+YJL193W	Eukaryota
+YPL201C	Saccharomyces cerevisiae
+YMR196W	Ascomycota
+YPL182C	Saccharomyces cerevisiae
+YMR183C	Eukaryota
+YHR059W	Ascomycota
+YML024W	cellular organisms
+YGR234W	cellular organisms
+YAR009C	Eukaryota
+YFR055W	cellular organisms
+YIL159W	Eukaryota
+YBR139W	Eukaryota
+YDR068W	Opisthokonta
+YBL061C	cellular organisms
+YLR049C	Saccharomyces cerevisiae
+YOL160W	Saccharomyces cerevisiae
+YHR182W	Saccharomyces cerevisiae
+YBL063W	Eukaryota
+YDR508C	cellular organisms
+YIL032C	Saccharomyces cerevisiae
+YMR120C	cellular organisms
+YBR025C	cellular organisms
+YDR334W	cellular organisms
+YBR047W	Saccharomyces cerevisiae
+YPR122W	cellular organisms
+YDL088C	Saccharomyces cerevisiae
+YNL018C	Saccharomyces cerevisiae
+YNL232W	Opisthokonta
+YLR368W	Saccharomyces cerevisiae
+YBL081W	Saccharomyces cerevisiae
+YBL030C	Eukaryota
+YDR411C	Eukaryota
+YMR291W	Eukaryota
+YCR079W	Eukaryota
+YJR059W	cellular organisms
+YHR200W	Eukaryota
+YDL176W	Saccharomyces cerevisiae
+YFL062W	Saccharomyces cerevisiae
+YKR091W	Saccharomyces cerevisiae
+YOR315W	Saccharomyces cerevisiae
+YDR275W	Saccharomyces cerevisiae
+YBR056W	Ascomycota
+YDR308C	Opisthokonta
+YOL027C	Opisthokonta
+YDR225W	Eukaryota
+YLR098C	Ascomycota
+YML122C	Saccharomyces cerevisiae
+YPR086W	cellular organisms
+YBL079W	Eukaryota
+YHR118C	Saccharomyces cerevisiae
+YFL042C	Eukaryota
+YGL187C	Eukaryota
+YER035W	Saccharomyces cerevisiae
+YBR177C	cellular organisms
+YGR076C	Ascomycota
+YMR194W	Eukaryota
+YDR141C	Eukaryota
+YJL189W	cellular organisms
+YIL055C	Saccharomyces cerevisiae
+YML124C	Eukaryota
+YDL237W	Saccharomyces cerevisiae
+YNR030W	Eukaryota
+YLR183C	Ascomycota
+YOR097C	Saccharomyces cerevisiae
+YLR327C	Saccharomyces cerevisiae
+YGR289C	cellular organisms
+YGL162W	Saccharomyces cerevisiae
+YKL042W	Saccharomyces cerevisiae
+YGL207W	cellular organisms
+YER047C	cellular organisms
+YKL045W	Eukaryota
+YFR006W	cellular organisms
+YGR250C	Eukaryota
+YHR124W	Saccharomyces cerevisiae
+YHL021C	Opisthokonta
+YOR307C	Eukaryota
+YPL080C	Saccharomyces cerevisiae
+YIL091C	Opisthokonta
+YHR154W	Eukaryota
+YFR026C	Saccharomyces cerevisiae
+YOL127W	cellular organisms
+YJR011C	Saccharomyces cerevisiae
+YNL079C	Ascomycota
+YKR043C	cellular organisms
+YLR207W	cellular organisms
+YDR456W	cellular organisms
+YIR030C	Ascomycota
+YGR255C	cellular organisms
+YBL034C	Dikarya
+YHR160C	Saccharomyces cerevisiae
+YOR386W	cellular organisms
+YBL109W	Saccharomyces cerevisiae
+YLR466W	Eukaryota
+YMR078C	cellular organisms
+YDL076C	Ascomycota
+YPL217C	Eukaryota
+YGR020C	Eukaryota
+YGL055W	Eukaryota
+YIR025W	Saccharomyces cerevisiae
+YIL070C	Eukaryota
+YDR143C	Eukaryota
+YPL236C	cellular organisms
+YKL161C	Eukaryota
+YBR216C	Saccharomycetales
+YPL209C	Eukaryota
+YDL096C	Ascomycota
+YLR115W	Eukaryota
+YOR276W	Saccharomyces cerevisiae
+YGL169W	cellular organisms
+YDR385W	cellular organisms
+YBR020W	cellular organisms
+YMR244W	Ascomycota
+YLL001W	Eukaryota
+YGR211W	cellular organisms
+YFR003C	Eukaryota
+YKL102C	Saccharomyces cerevisiae
+YGR069W	Saccharomyces cerevisiae
+YHR025W	cellular organisms
+YML100W	cellular organisms
+YNL270C	cellular organisms
+YCR037C	cellular organisms
+YLR192C	saccharomyceta
+YBR092C	Opisthokonta
+YPL159C	Saccharomyces cerevisiae
+YKL203C	Eukaryota
+YPR026W	cellular organisms
+YDR115W	cellular organisms
+YPL041C	Saccharomyces cerevisiae
+YMR083W	cellular organisms
+YBL025W	Saccharomyces cerevisiae
+YKL049C	Eukaryota
+YPL038W	Opisthokonta
+YFL046W	Opisthokonta
+YHL041W	Saccharomyces cerevisiae
+YPL132W	Eukaryota
+YKR056W	cellular organisms
+YLR386W	Eukaryota
+YAL058W	Eukaryota
+YDR506C	Eukaryota
+YOR252W	Eukaryota
+YGR295C	Saccharomyces cerevisiae
+YCL025C	cellular organisms
+YKR026C	cellular organisms
+YCR016W	Opisthokonta
+YAL017W	Eukaryota
+YDR176W	Ascomycota
+YBL075C	cellular organisms
+YNL070W	Ascomycota
+YLR090W	cellular organisms
+YPR055W	Eukaryota
+YLR072W	Eukaryota
+YDL117W	Opisthokonta
+YMR093W	Eukaryota
+YDR089W	Saccharomyces cerevisiae
+YNL175C	Eukaryota
+YPR163C	Opisthokonta
+YGR124W	cellular organisms
+YDR527W	Eukaryota
+YOL049W	Eukaryota
+YLR268W	Eukaryota
+YJL194W	cellular organisms
+YIR020C	Saccharomyces cerevisiae
+YPL078C	Opisthokonta
+YIL053W	cellular organisms
+YNR054C	Eukaryota
+YHL037C	Saccharomyces cerevisiae
+YHL032C	cellular organisms
+YPR005C	Saccharomyces cerevisiae
+YCR018C	Eukaryota
+YIL117C	Saccharomyces cerevisiae
+YBR206W	Ascomycota
+YLR200W	Eukaryota
+YAL060W	cellular organisms
+YGR195W	cellular organisms
+YNL309W	Saccharomyces cerevisiae
+YLL054C	Saccharomyces cerevisiae
+YGL256W	cellular organisms
+YLR065C	Saccharomyces cerevisiae
+YHR178W	Ascomycota
+YBR147W	Opisthokonta
+YGR238C	Eukaryota
+YLR153C	cellular organisms
+YOR316C	cellular organisms
+YCL007C	Saccharomyces cerevisiae
+YGR180C	cellular organisms
+YPL199C	Eukaryota
+YDR381W	Eukaryota
+YMR145C	cellular organisms
+YIL120W	cellular organisms
+YNL294C	saccharomyceta
+YFL043C	Saccharomyces cerevisiae
+YGR186W	Eukaryota
+YDL225W	Opisthokonta
+YDL091C	Eukaryota
+YIL075C	Eukaryota
+YDR061W	cellular organisms
+YEL036C	Ascomycota
+YOL131W	Saccharomyces cerevisiae
+YER148W	cellular organisms
+YIL144W	Opisthokonta
+YDL181W	Ascomycota
+YJL133W	Eukaryota
+YPL092W	Ascomycota
+YJL157C	Saccharomyces cerevisiae
+YNL066W	Ascomycota
+YOR263C	Saccharomyces cerevisiae
+YMR116C	Eukaryota
+YHR022C	Eukaryota
+YMR288W	Opisthokonta
+YIL041W	Ascomycota
+YLR457C	Saccharomyces cerevisiae
+YDL233W	Saccharomycetales
+YDL102W	cellular organisms
+YBR078W	Ascomycota
+YOR355W	Saccharomyces cerevisiae
+YER106W	Saccharomyces cerevisiae
+YER026C	cellular organisms
+YLR043C	cellular organisms
+YDR043C	Eukaryota
+YER146W	cellular organisms
+YDR070C	Saccharomyces cerevisiae
+YER154W	cellular organisms
+YGL158W	Eukaryota
+YCL018W	cellular organisms
+YKL208W	Saccharomyces cerevisiae
+YIL165C	Eukaryota
+YLL060C	cellular organisms
+YLR400W	Dikarya
+YMR001C	Eukaryota
+YJL024C	Eukaryota
+YMR069W	Saccharomyces cerevisiae
+YHR094C	cellular organisms
+YDR474C	Saccharomyces cerevisiae
+YER173W	Eukaryota
+YKR008W	Eukaryota
+YNR038W	cellular organisms
+YER150W	Saccharomyces cerevisiae
+YFR017C	Saccharomyces cerevisiae
+YHR073W	Eukaryota
+YJR045C	cellular organisms
+YDL205C	cellular organisms
+YOL084W	Eukaryota
+YOR112W	Eukaryota
+YGL071W	Saccharomyces cerevisiae
+YBR040W	Saccharomyces cerevisiae
+YJL214W	cellular organisms
+YCL008C	Eukaryota
+YGR223C	Eukaryota
+YER041W	cellular organisms
+YKL147C	Saccharomyces cerevisiae
+YER184C	Ascomycota
+YLL050C	Eukaryota
+YIL038C	Opisthokonta
+YEL050C	cellular organisms
+YOL011W	Opisthokonta
+YDR466W	Eukaryota
+YGR104C	Saccharomycetales
+YNL072W	cellular organisms
+YIR032C	cellular organisms
+YAL043C	Ascomycota
+YDL229W	cellular organisms
+YDL187C	Saccharomyces cerevisiae
+YDL120W	cellular organisms
+YPL018W	Saccharomyces cerevisiae
+YMR080C	cellular organisms
+YGL205W	cellular organisms
+YEL053C	Opisthokonta
+YGR199W	Eukaryota
+YNL295W	Saccharomyces cerevisiae
+YJL126W	cellular organisms
+YML001W	Eukaryota
+YPR018W	Saccharomyces cerevisiae
+YGL026C	cellular organisms
+YER161C	Saccharomyces cerevisiae
+YOR050C	Saccharomyces cerevisiae
+YBR060C	Eukaryota
+YHR006W	Opisthokonta
+YFR011C	Saccharomyces cerevisiae
+YLR285W	Eukaryota
+YOR183W	Saccharomyces cerevisiae
+YHR090C	Eukaryota
+YMR011W	cellular organisms
+YBR184W	Saccharomyces cerevisiae
+YLR317W	Saccharomyces cerevisiae
+YNR013C	cellular organisms
+YFL059W	cellular organisms
+YDR358W	Eukaryota
+YMR015C	cellular organisms
+YBL006C	Saccharomyces cerevisiae
+YDL226C	Eukaryota
+YNL240C	Eukaryota
+YDR113C	Saccharomyces cerevisiae
+YOL042W	Eukaryota
+YBL047C	Eukaryota
+YLR142W	Eukaryota
+YGL068W	cellular organisms
+YPL270W	cellular organisms
+YAL004W	cellular organisms
+YDR099W	Eukaryota
+YDR469W	Opisthokonta
+YNL132W	cellular organisms
+YDR240C	Saccharomyces cerevisiae
+YKR030W	Eukaryota
+YLR185W	cellular organisms
+YLR274W	cellular organisms
+YBR097W	Eukaryota
+YNL039W	Opisthokonta
+YKL157W	cellular organisms
+YPL037C	Eukaryota
+YFR034C	Saccharomyces cerevisiae
+YOR028C	Ascomycota
+YMR129W	Ascomycota
+YKR077W	Saccharomyces cerevisiae
+YBR011C	cellular organisms
+YFL013C	Saccharomyces cerevisiae
+YJL212C	Eukaryota
+YDR321W	cellular organisms
+YER029C	Eukaryota
+YLR358C	Saccharomyces cerevisiae
+YER077C	Saccharomyces cerevisiae
+YLR447C	Eukaryota
+YHR140W	Ascomycota
+YMR261C	cellular organisms
+YIL164C	cellular organisms
+YFL023W	Saccharomyces cerevisiae
+YGR248W	cellular organisms
+YAR020C	Saccharomyces cerevisiae
+YBR053C	Opisthokonta
+YNR001C	cellular organisms
+YPL043W	Eukaryota
+YGR018C	Saccharomyces cerevisiae
+YJR097W	cellular organisms
+YPL131W	cellular organisms
+YOR007C	Eukaryota
+YLR303W	cellular organisms
+YCR063W	Eukaryota
+YPR060C	Eukaryota
+YBR202W	cellular organisms
+YER130C	Opisthokonta
+YGR143W	Ascomycota
+YPL151C	Eukaryota
+YHR084W	Saccharomycetales
+YKR093W	Eukaryota
+YLL010C	Eukaryota
+YAL042W	Eukaryota
+YLR126C	cellular organisms
+YBL069W	Eukaryota
+YMR082C	Saccharomyces cerevisiae
+YGL190C	Eukaryota
+YHR173C	Saccharomyces cerevisiae
+YOR256C	Eukaryota
+YLR141W	Saccharomyces cerevisiae
+YER180C	Saccharomyces cerevisiae
+YNR063W	Ascomycota
+YFR010W	Eukaryota
+YOR061W	Eukaryota
+YLL061W	cellular organisms
+YDL168W	cellular organisms
+YKL051W	Saccharomyces cerevisiae
+YFL066C	Eukaryota
+YKL177W	Saccharomyces cerevisiae
+YJL106W	Eukaryota
+YGL251C	cellular organisms
+YCR041W	Saccharomyces cerevisiae
+YDR332W	cellular organisms
+YKR013W	Eukaryota
+YPL129W	Eukaryota
+YJL174W	Saccharomyces cerevisiae
+YPR130C	Saccharomyces cerevisiae
+YER064C	Saccharomyces cerevisiae
+YER163C	cellular organisms
+YBR282W	Ascomycota
+YJR135C	Saccharomyces cerevisiae
+YIL069C	cellular organisms
+YHR110W	Eukaryota
+YJR042W	Ascomycota
+YAL029C	Eukaryota
+YKL186C	Saccharomyces cerevisiae
+YBR022W	Saccharomycetales
+YBL098W	Eukaryota
+YNL284C	cellular organisms
+YIL134W	Eukaryota
+YLL057C	cellular organisms
+YGR205W	Eukaryota
+YGL113W	Saccharomyces cerevisiae
+YGL114W	Eukaryota
+YKR029C	Eukaryota
+YJL223C	Saccharomyces cerevisiae
+YDR174W	Eukaryota
+YHL034C	Eukaryota
+YPL178W	Eukaryota
+YOL115W	Eukaryota
+YEL068C	Saccharomyces cerevisiae
+YGR254W	cellular organisms
+YNL182C	Opisthokonta
+YGR187C	Eukaryota
+YNL176C	Saccharomyces cerevisiae
+YPL126W	Opisthokonta
+YDR421W	Saccharomyces cerevisiae
+YFR049W	Saccharomyces cerevisiae
+YNL339C	Eukaryota
+YMR034C	cellular organisms
+YKL146W	Eukaryota
+YER052C	cellular organisms
+YPR065W	Opisthokonta
+YPR108W	Eukaryota
+YDR473C	Eukaryota
+YHR034C	Opisthokonta
+YER102W	cellular organisms
+YNL220W	cellular organisms
+YOR115C	Opisthokonta
+YGR288W	Ascomycota
+YJL213W	Saccharomyces cerevisiae
+YGR171C	cellular organisms
+YDR214W	Eukaryota
+YJL108C	Ascomycota
+YDR340W	Saccharomyces cerevisiae
+YOR268C	Saccharomyces cerevisiae
+YJL062W	Opisthokonta
+YOL083W	Saccharomyces cerevisiae
+YMR199W	Opisthokonta
+YLR287C	Saccharomyces cerevisiae
+YBR188C	Saccharomyces cerevisiae
+YLR011W	cellular organisms
+YOR260W	Opisthokonta
+YBR012C	Saccharomyces cerevisiae
+YHR170W	Eukaryota
+YGL030W	cellular organisms
+YML005W	cellular organisms
+YIL119C	Saccharomyces cerevisiae
+YBR110W	Eukaryota
+YJL080C	Opisthokonta
+YER140W	Eukaryota
+YKL100C	Eukaryota
+YGR150C	Eukaryota
+YKL113C	cellular organisms
+YDL107W	Saccharomyces cerevisiae
+YCR006C	Saccharomyces cerevisiae
+YDR436W	Eukaryota
+YDL167C	Eukaryota
+YPR178W	Eukaryota
+YGL033W	Opisthokonta
+YOR381W	Eukaryota
+YNL272C	Opisthokonta
+YJR145C	cellular organisms
+YHR192W	Saccharomyces cerevisiae
+YOR344C	Opisthokonta
+YKL106W	cellular organisms
+YDR071C	Opisthokonta
+YDR026C	Eukaryota
+YNL263C	Opisthokonta
+YDL223C	Saccharomyces cerevisiae
+YGR145W	Opisthokonta
+YOL133W	Eukaryota
+YBR151W	Saccharomyces cerevisiae
+YNR019W	Eukaryota
+YGR087C	cellular organisms
+YPL158C	Saccharomyces cerevisiae
+YKL182W	cellular organisms
+YPR081C	cellular organisms
+YER043C	cellular organisms
+YIR035C	cellular organisms
+YJR120W	Saccharomyces cerevisiae
+YBR256C	cellular organisms
+YGL222C	Saccharomyces cerevisiae
+YGL170C	Saccharomyces cerevisiae
+YIR021W	Saccharomyces cerevisiae
+YIL145C	cellular organisms
+YER076C	Saccharomyces cerevisiae
+YOL118C	Saccharomyces cerevisiae
+YOL077C	Eukaryota
+YCR100C	Opisthokonta
+YLR373C	Saccharomyces cerevisiae
+YBR044C	Eukaryota
+YLR164W	Ascomycota
+YNL337W	Saccharomyces cerevisiae
+YPR010C	cellular organisms
+YCR064C	Eukaryota
+YNL161W	Eukaryota
+YDR074W	cellular organisms
+YER085C	Saccharomyces cerevisiae
+YGL239C	Opisthokonta
+YGR118W	cellular organisms
+YBR090C	Opisthokonta
+YDR339C	cellular organisms
+YLR293C	Eukaryota
+YDR286C	Eukaryota
+YMR143W	cellular organisms
+YBR224W	Saccharomyces cerevisiae
+YJR089W	Opisthokonta
+YOR091W	Eukaryota
+YNL250W	Eukaryota
+YLR318W	Eukaryota
+YAR002W	Ascomycota
+YKR079C	cellular organisms
+YOR317W	cellular organisms
+YLR296W	Saccharomyces cerevisiae
+YGR246C	cellular organisms
+YOL164W	cellular organisms
+YAL003W	Eukaryota
+YDR510W	Eukaryota
+YFR024C	Eukaryota
+YOL039W	Eukaryota
+YDR448W	Eukaryota
+YBL059W	Saccharomycetales
+YDR373W	Eukaryota
+YOR201C	cellular organisms
+YDL104C	cellular organisms
+YDL140C	cellular organisms
+YGR209C	cellular organisms
+YPL017C	cellular organisms
+YLL047W	Saccharomyces cerevisiae
+YOL144W	Ascomycota
+YBL064C	cellular organisms
+YOL064C	cellular organisms
+YJL142C	Saccharomyces cerevisiae
+YLL062C	cellular organisms
+YBR168W	Saccharomyces cerevisiae
+YGR296W	Eukaryota
+YML027W	Eukaryota
+YEL038W	cellular organisms
+YPL091W	cellular organisms
+YFL038C	Eukaryota
+YPL044C	Eukaryota
+YML102W	Eukaryota
+YPL280W	cellular organisms
+YNL170W	Eukaryota
+YML119W	Saccharomyces cerevisiae
+YPL264C	cellular organisms
+YNL105W	Ascomycota
+YBR108W	Saccharomyces cerevisiae
+YGR176W	Saccharomyces cerevisiae
+YGL010W	Ascomycota
+YMR281W	Eukaryota
+YML043C	Ascomycota
+YGL137W	Eukaryota
+YJR054W	Saccharomyces cerevisiae
+YDR210W	Saccharomyces cerevisiae
+YGR189C	cellular organisms
+YER181C	Saccharomyces cerevisiae
+YJR151C	Ascomycota
+YGR183C	Eukaryota
+YJL071W	Opisthokonta
+YOR187W	cellular organisms
+YGR084C	Saccharomyces cerevisiae
+YOR303W	cellular organisms
+YKR042W	Ascomycota
+YDR402C	cellular organisms
+YMR230W	Eukaryota
+YHR029C	cellular organisms
+YBR099C	Saccharomyces cerevisiae
+YER018C	Saccharomyces cerevisiae
+YMR122C	Saccharomyces cerevisiae
+YML042W	Opisthokonta
+YGL237C	Eukaryota
+YDL127W	saccharomyceta
+YDL110C	Saccharomyces cerevisiae
+YPR045C	Eukaryota
+YNR009W	Saccharomyces cerevisiae
+YPL267W	Saccharomyces cerevisiae
+YDL071C	Saccharomyces cerevisiae
+YBR180W	cellular organisms
+YDR137W	Saccharomyces cerevisiae
+YKR098C	Eukaryota
+YGR210C	cellular organisms
+YHR072W	cellular organisms
+YDR404C	cellular organisms
+YOR255W	Saccharomyces cerevisiae
+YJL079C	Eukaryota
+YEL043W	Saccharomyces cerevisiae
+YGL070C	cellular organisms
+YHR037W	cellular organisms
+YNL114C	Eukaryota
+YGR168C	Saccharomyces cerevisiae
+YPL118W	Saccharomyces cerevisiae
+YNL219C	Eukaryota
+YOL059W	cellular organisms
+YLR152C	Saccharomyces cerevisiae
+YDL152W	Saccharomyces cerevisiae
+YNL243W	Eukaryota
+YGR043C	cellular organisms
+YHR019C	cellular organisms
+YEL055C	Ascomycota
+YLR100W	cellular organisms
+YJR141W	Opisthokonta
+YFL048C	Ascomycota
+YKL025C	Eukaryota
+YNL014W	cellular organisms
+YPL252C	cellular organisms
+YDR014W	Saccharomyces cerevisiae
+YHR204W	Eukaryota
+YLL045C	cellular organisms
+YIL131C	Eukaryota
+YJR049C	cellular organisms
+YPL039W	Saccharomyces cerevisiae
+YDR272W	cellular organisms
+YPR144C	Eukaryota
+YPR036W	Eukaryota
+YBL027W	cellular organisms
+YHR018C	cellular organisms
+YGL154C	cellular organisms
+YCL005W	Saccharomyces cerevisiae
+YEL075C	Saccharomyces cerevisiae
+YDR371W	cellular organisms
+YLR199C	Saccharomyces cerevisiae
+YKL199C	Eukaryota
+YHL024W	Opisthokonta
+YNR041C	cellular organisms
+YKL176C	Saccharomyces cerevisiae
+YKR094C	Eukaryota
+YLR149C	Ascomycota
+YHR137W	cellular organisms
+YLR375W	Opisthokonta
+YDR112W	Eukaryota
+YPL153C	Eukaryota
+YDR050C	cellular organisms
+YDR482C	Dikarya
+YDR543C	Saccharomyces cerevisiae
+YOR055W	Saccharomyces cerevisiae
+YIL172C	cellular organisms
+YDR158W	cellular organisms
+YHR083W	Saccharomyces cerevisiae
+YMR045C	Eukaryota
+YLR244C	cellular organisms
+YAR071W	Eukaryota
+YDR259C	Saccharomyces cerevisiae
+YKL135C	Eukaryota
+YDR025W	cellular organisms
+YDR173C	Eukaryota
+YGR241C	Eukaryota
+YGR049W	Saccharomyces cerevisiae
+YNL044W	Eukaryota
+YOR161C	Eukaryota
+YKR041W	Saccharomyces cerevisiae
+YMR166C	Eukaryota
+YLR311C	Saccharomyces cerevisiae
+YDR516C	Eukaryota
+YOR027W	Eukaryota
+YOL080C	Eukaryota
+YHR047C	cellular organisms
+YER072W	Ascomycota
+YGR077C	Saccharomyces cerevisiae
+YDR006C	Opisthokonta
+YGR038W	Opisthokonta
+YLR366W	Saccharomyces cerevisiae
+YJL164C	Eukaryota
+YNR058W	cellular organisms
+YGR123C	Eukaryota
+YNL318C	cellular organisms
+YNL128W	Eukaryota
+YNL211C	Saccharomyces cerevisiae
+YER014W	cellular organisms
+YBL090W	Ascomycota
+YJR001W	Eukaryota
+YPL019C	Eukaryota
+YLR190W	Saccharomyces cerevisiae
+YML006C	Saccharomyces cerevisiae
+YKR033C	Eukaryota
+YDR398W	Opisthokonta
+YBL054W	Opisthokonta
+YJR033C	Opisthokonta
+YGR028W	cellular organisms
+YLR407W	Saccharomyces cerevisiae
+YPL244C	Eukaryota
+YER017C	cellular organisms
+YDR408C	cellular organisms
+YJR079W	Saccharomyces cerevisiae
+YPL148C	Saccharomyces cerevisiae
+YJR085C	Opisthokonta
+YHR108W	Eukaryota
+YDL242W	Saccharomyces cerevisiae
+YMR238W	Ascomycota
+YBL032W	Eukaryota
+YOR240W	cellular organisms
+YHL001W	cellular organisms
+YHR036W	Ascomycota
+YEL060C	cellular organisms
+YBR002C	cellular organisms
+YMR267W	cellular organisms
+YKL156W	cellular organisms
+YDR342C	cellular organisms
+YLR020C	Eukaryota
+YDR274C	Saccharomyces cerevisiae
+YPL160W	cellular organisms
+YNL036W	cellular organisms
+YMR289W	Ascomycota
+YLR052W	Saccharomyces cerevisiae
+YBL051C	Opisthokonta
+YHR197W	Saccharomycetales
+YDR441C	cellular organisms
+YOL032W	Opisthokonta
+YDR481C	cellular organisms
+YPR035W	cellular organisms
+YOR072W	Saccharomyces cerevisiae
+YIL074C	cellular organisms
+YIL043C	cellular organisms
+YER019W	Opisthokonta
+YML072C	Eukaryota
+YLR082C	Saccharomyces cerevisiae
+YJL204C	Ascomycota
+YJR160C	cellular organisms
+YLR037C	Saccharomyces cerevisiae
+YNL171C	Saccharomyces cerevisiae
+YCR053W	cellular organisms
+YCR034W	Eukaryota
+YOL068C	cellular organisms
+YBR234C	Eukaryota
+YJR129C	Eukaryota
+YJL152W	Saccharomyces cerevisiae
+YDR267C	Eukaryota
+YPR017C	Saccharomyces cerevisiae
+YGL080W	Eukaryota
+YDR154C	cellular organisms
+YOR021C	Saccharomyces cerevisiae
+YNL067W	cellular organisms
+YLR111W	Saccharomyces cerevisiae
+YLR243W	Eukaryota
+YGR270W	cellular organisms
+YHR183W	cellular organisms
+YIL097W	Eukaryota
+YGR225W	Eukaryota
+YGL098W	Saccharomyces cerevisiae
+YGL225W	Eukaryota
+YBR130C	Saccharomyces cerevisiae
+YDR310C	Saccharomyces cerevisiae
+YDL185W	cellular organisms
+YJL138C	cellular organisms
+YJR121W	cellular organisms
+YHR161C	Eukaryota
+YHL005C	Saccharomyces cerevisiae
+YER044C	Eukaryota
+YBR061C	cellular organisms
+YFL032W	Saccharomyces cerevisiae
+YIL019W	Ascomycota
+YJR124C	Opisthokonta
+YNL119W	Opisthokonta
+YPR132W	cellular organisms
+YEL066W	cellular organisms
+YOR057W	Eukaryota
+YPR068C	cellular organisms
+YFR012W	saccharomyceta
+YBR102C	Opisthokonta
+YPL141C	Eukaryota
+YLR058C	cellular organisms
+YGL121C	Saccharomyces cerevisiae
+YLR130C	Eukaryota
+YOR384W	Eukaryota
+YGR011W	Eukaryota
+YFL044C	Eukaryota
+YDR152W	Opisthokonta
+YLR143W	cellular organisms
+YLR395C	Saccharomyces cerevisiae
+YOR152C	Saccharomyces cerevisiae
+YDR394W	cellular organisms
+YBR212W	Eukaryota
+YOR357C	Eukaryota
+YNL048W	Eukaryota
+YLR385C	Saccharomyces cerevisiae
+YOR101W	Eukaryota
+YHR039C	cellular organisms
+YPR074C	cellular organisms
+YOR234C	Eukaryota
+YLR454W	Opisthokonta
+YGL005C	Saccharomyces cerevisiae
+YNL122C	Saccharomyces cerevisiae
+YER001W	Saccharomycetales
+YHL050C	Saccharomyces cerevisiae
+YEL021W	Eukaryota
+YJL216C	cellular organisms
+YJR046W	Saccharomyces cerevisiae
+YBR070C	Opisthokonta
+YDR483W	Ascomycota
+YCL002C	Saccharomyces cerevisiae
+YKL202W	Saccharomyces cerevisiae
+YKR040C	Saccharomyces cerevisiae
+YNL298W	Eukaryota
+YKL081W	Eukaryota
+YOR044W	Saccharomyces cerevisiae
+YMR303C	cellular organisms
+YPR184W	Opisthokonta
+YHR153C	Saccharomyces cerevisiae
+YEL015W	Ascomycota
+YHR184W	Saccharomyces cerevisiae
+YOR299W	Ascomycota
+YKL002W	Eukaryota
+YOR247W	Saccharomyces cerevisiae
+YHL047C	Dikarya
+YNL156C	Saccharomyces cerevisiae
+YNL124W	Opisthokonta
+YML007W	Ascomycota
+YPL095C	cellular organisms
+YML076C	Saccharomycetales
+YDR317W	Saccharomyces cerevisiae
+YPL188W	cellular organisms
+YER120W	Eukaryota
+YEL057C	Saccharomyces cerevisiae
+YDL080C	cellular organisms
+YBR063C	Saccharomyces cerevisiae
+YAL024C	Eukaryota
+YLR264W	cellular organisms
+YMR242C	Eukaryota
+YPR030W	Saccharomyces cerevisiae
+YFL022C	cellular organisms
+YOR287C	Eukaryota
+YJL089W	Ascomycota
+YLL066C	Eukaryota
+YDL128W	cellular organisms
+YGL116W	Eukaryota
+YDL062W	Saccharomyces cerevisiae
+YLR205C	Opisthokonta
+YBR152W	Saccharomyces cerevisiae
+YOR275C	Eukaryota
+YOR149C	Opisthokonta
+YDL017W	Eukaryota
+YGR184C	Eukaryota
+YJR152W	cellular organisms
+YPL032C	Ascomycota
+YBR129C	Saccharomyces cerevisiae
+YMR216C	Eukaryota
+YOL033W	cellular organisms
+YJR048W	Eukaryota
+YDR271C	Ascomycota
+YLR188W	cellular organisms
+YDL143W	cellular organisms
+YEL077C	Eukaryota
+YER112W	Eukaryota
+YMR118C	Eukaryota
+YBR021W	cellular organisms
+YML055W	Ascomycota
+YJR091C	Eukaryota
+YEL004W	Eukaryota
+YOL043C	cellular organisms
+YNL306W	Ascomycota
+YOL126C	cellular organisms
+YFR015C	Eukaryota
+YGL257C	Saccharomycetales
+YER136W	Eukaryota
+YDR517W	Opisthokonta
+YMR062C	cellular organisms
+YPR032W	Opisthokonta
+YOR332W	Eukaryota
+YDL173W	Saccharomyces cerevisiae
+YMR012W	Eukaryota
+YEL071W	cellular organisms
+YIL018W	cellular organisms
+YDR319C	Opisthokonta
+YPR129W	Eukaryota
+YGR273C	Ascomycota
+YLR436C	Saccharomyces cerevisiae
+YHR212C	Saccharomyces cerevisiae
+YKL138C	Ascomycota
+YCR042C	Eukaryota
+YNL056W	Eukaryota
+YEL040W	cellular organisms
+YPL012W	Opisthokonta
+YLL016W	Eukaryota
+YGL007W	Saccharomyces cerevisiae
+YHR041C	Saccharomycetales
+YDR439W	Saccharomyces cerevisiae
+YDL161W	Eukaryota
+YDR134C	Saccharomycetales
+YJR041C	Saccharomyces cerevisiae
+YML111W	Saccharomyces cerevisiae
+YDL145C	Eukaryota
+YDL084W	cellular organisms
+YER037W	Ascomycota
+YHR099W	Eukaryota
+YJR060W	Opisthokonta
+YBR199W	Ascomycota
+YDR315C	Saccharomycetales
+YOR042W	Ascomycota
+YGL124C	Eukaryota
+YJL149W	Saccharomyces cerevisiae
+YFL027C	Opisthokonta
+YPR053C	Eukaryota
+YBR007C	Saccharomyces cerevisiae
+YMR084W	cellular organisms
+YLR160C	cellular organisms
+YGL103W	cellular organisms
+YBR095C	Saccharomyces cerevisiae
+YCL056C	Saccharomyces cerevisiae
+YBL074C	Opisthokonta
+YAR061W	Saccharomyces cerevisiae
+YPR198W	cellular organisms
+YLR029C	cellular organisms
+YDR454C	cellular organisms
+YLR413W	Saccharomyces cerevisiae
+YJR122W	Eukaryota
+YDL027C	Saccharomyces cerevisiae
+YNL183C	cellular organisms
+YEL003W	Eukaryota
+YNR014W	Saccharomyces cerevisiae
+YLR189C	cellular organisms
+YKR080W	cellular organisms
+YLR463C	Saccharomyces cerevisiae
+YDL179W	saccharomyceta
+YDR455C	Saccharomyces cerevisiae
+YML065W	cellular organisms
+YMR275C	Saccharomyces cerevisiae
+YKL175W	cellular organisms
+YGL048C	cellular organisms
+YMR193W	cellular organisms
+YPL239W	Eukaryota
+YOR326W	Eukaryota
+YGL134W	Eukaryota
+YNL173C	Eukaryota
+YJR007W	cellular organisms
+YGL034C	Saccharomyces cerevisiae
+YJL207C	Eukaryota
+YPR157W	Saccharomyces cerevisiae
+YBR261C	Eukaryota
+YAL005C	cellular organisms
+YOR372C	Saccharomyces cerevisiae
+YDR066C	Opisthokonta
+YCR004C	cellular organisms
+YLL015W	cellular organisms
+YPL256C	Opisthokonta
+YML066C	Saccharomyces cerevisiae
+YPL152W	Eukaryota
+YMR138W	cellular organisms
+YMR014W	Saccharomyces cerevisiae
+YPR190C	Eukaryota
+YKR035C	Eukaryota
+YLR421C	Eukaryota
+YPR062W	cellular organisms
+YFL018C	cellular organisms
+YKR046C	Saccharomyces cerevisiae
+YGR214W	cellular organisms
+YIL023C	Eukaryota
+YNL273W	Dikarya
+YOR157C	cellular organisms
+YBR145W	cellular organisms
+YER189W	Saccharomyces cerevisiae
+YBR135W	Eukaryota
+YHR008C	cellular organisms
+YJL052W	cellular organisms
+YPL071C	Saccharomyces cerevisiae
+YEL069C	cellular organisms
+YLR308W	cellular organisms
+YML004C	cellular organisms
+YNL108C	Opisthokonta
+YCR102C	cellular organisms
+YCL041C	Saccharomyces cerevisiae
+YCR093W	Opisthokonta
+YDR228C	Eukaryota
+YDL101C	Eukaryota
+YMR206W	Saccharomyces cerevisiae
+YMR300C	cellular organisms
+YOR130C	Eukaryota
+YJL095W	Eukaryota
+YJR146W	Saccharomyces cerevisiae
+YLR084C	Ascomycota
+YLR378C	cellular organisms
+YCR077C	Ascomycota
+YOL107W	Eukaryota
+YNL251C	Ascomycota
+YMR270C	Saccharomyces cerevisiae
+YMR283C	Ascomycota
+YNL257C	Ascomycota
+YNL256W	cellular organisms
+YFL016C	cellular organisms
+YLL009C	Ascomycota
+YOR179C	Ascomycota
+YCR086W	Saccharomyces cerevisiae
+YNR076W	Saccharomyces cerevisiae
+YNL063W	cellular organisms
+YLR266C	Ascomycota
+YDR512C	Ascomycota
+YDR378C	Eukaryota
+YFL003C	cellular organisms
+YOL124C	cellular organisms
+YMR121C	cellular organisms
+YLR021W	Saccharomyces cerevisiae
+YOR011W	cellular organisms
+YBR255W	Saccharomyces cerevisiae
+YHL027W	Opisthokonta
+YEL022W	Eukaryota
+YIL123W	Ascomycota
+YBR160W	Eukaryota
+YML090W	Saccharomyces cerevisiae
+YOL148C	Saccharomycetales
+YJL151C	Opisthokonta
+YDR298C	cellular organisms
+YJL110C	Eukaryota
+YKL001C	cellular organisms
+YER125W	Eukaryota
+YGL203C	Eukaryota
+YDR393W	Dikarya
+YGR185C	cellular organisms
+YBR038W	Opisthokonta
+YLR337C	Ascomycota
+YLR349W	Eukaryota
+YAR064W	Saccharomyces cerevisiae
+YOR271C	Eukaryota
+YER028C	Opisthokonta
+YDR111C	cellular organisms
+YHR171W	cellular organisms
+YDR217C	Ascomycota
+YPL146C	Eukaryota
+YEL070W	cellular organisms
+YEL058W	cellular organisms
+YHL028W	Saccharomyces cerevisiae
+YHL046C	Saccharomyces cerevisiae
+YMR258C	Saccharomyces cerevisiae
+YDR039C	cellular organisms
+YGL119W	cellular organisms
+YNL323W	Eukaryota
+YPR171W	Saccharomyces cerevisiae
+YGR136W	Eukaryota
+YKL015W	Ascomycota
+YLR456W	Ascomycota
+YDR451C	Eukaryota
+YLL005C	Eukaryota
+YIL095W	cellular organisms
+YBR228W	Eukaryota
+YNL082W	cellular organisms
+YCL033C	cellular organisms
+YMR167W	cellular organisms
+YBR290W	Ascomycota
+YOR359W	Dikarya
+YKR071C	Eukaryota
+YGR191W	cellular organisms
+YFL008W	cellular organisms
+YGR135W	cellular organisms
+YNL267W	Eukaryota
+YBR284W	Eukaryota
+YFL010C	Saccharomyces cerevisiae
+YLR059C	cellular organisms
+YER152C	cellular organisms
+YGR132C	cellular organisms
+YOL072W	Eukaryota
+YAL028W	Saccharomyces cerevisiae
+YOL079W	Saccharomyces cerevisiae
+YKL163W	Saccharomycetales
+YCR057C	Eukaryota
+YOR164C	Eukaryota
+YPR101W	Saccharomyces cerevisiae
+YMR086W	Saccharomyces cerevisiae
+YNL258C	Saccharomyces cerevisiae
+YBR077C	Saccharomyces cerevisiae
+YDR249C	Saccharomyces cerevisiae
+YER068W	Opisthokonta
+YDL147W	Eukaryota
+YDL089W	Saccharomyces cerevisiae
+YMR223W	Eukaryota
+YER123W	cellular organisms
+YDR131C	Saccharomyces cerevisiae
+YLR258W	Eukaryota
+YNL103W	Saccharomyces cerevisiae
+YPR076W	Saccharomyces cerevisiae
+YNL065W	cellular organisms
+YDR357C	Saccharomyces cerevisiae
+YNL271C	Eukaryota
+YOR261C	Eukaryota
+YJL130C	cellular organisms
+YNL061W	cellular organisms
+YLR299W	cellular organisms
+YLR034C	cellular organisms
+YBR229C	cellular organisms
+YOR304W	cellular organisms
+YDR246W	Eukaryota
+YLR343W	Ascomycota
+YJR078W	Opisthokonta
+YAL027W	Saccharomyces cerevisiae
+YFL017C	Eukaryota
+YGR071C	Saccharomyces cerevisiae
+YHR060W	Saccharomyces cerevisiae
+YFR050C	cellular organisms
+YPL176C	Eukaryota
+YJL037W	Saccharomyces cerevisiae
+YNL186W	Eukaryota
+YPL177C	Eukaryota
+YPR054W	Eukaryota
+YMR081C	Saccharomyces cerevisiae
+YIR006C	Eukaryota
+YLR120C	Eukaryota
+YGR200C	Eukaryota
+YDR283C	Eukaryota
+YIL063C	Eukaryota
+YMR039C	Eukaryota
+YER071C	Saccharomyces cerevisiae
+YJR016C	cellular organisms
+YDR244W	cellular organisms
+YDR126W	Eukaryota
+YLR254C	Saccharomyces cerevisiae
+YBL033C	cellular organisms
+YNL073W	cellular organisms
+YDL189W	Opisthokonta
+YGR055W	cellular organisms
+YIR004W	cellular organisms
+YLR177W	cellular organisms
+YBR048W	cellular organisms
+YFL063W	Saccharomyces cerevisiae
+YER022W	Ascomycota
+YDL125C	cellular organisms
+YMR163C	Saccharomyces cerevisiae
+YNR031C	cellular organisms
+YML048W	Saccharomyces cerevisiae
+YAL036C	cellular organisms
+YMR179W	Saccharomyces cerevisiae
+YBR257W	Opisthokonta
+YDR366C	Saccharomyces cerevisiae
+YLR464W	Saccharomyces cerevisiae
+YGL037C	cellular organisms
+YDL114W	cellular organisms
+YPL015C	cellular organisms
+YLR414C	Saccharomyces cerevisiae
+YPR066W	cellular organisms
+YDR091C	cellular organisms
+YCR073C	cellular organisms
+YER157W	Eukaryota
+YHR033W	cellular organisms
+YJR104C	cellular organisms
+YDL090C	Eukaryota
+YGR105W	Ascomycota
+YMR256C	Ascomycota
+YBL106C	Opisthokonta
+YDR047W	cellular organisms
+YOR223W	Ascomycota
+YOL050C	Saccharomyces cerevisiae
+YOL095C	cellular organisms
+YMR234W	cellular organisms
+YJL028W	Saccharomyces cerevisiae
+YNR008W	Eukaryota
+YMR265C	Ascomycota
+YEL076C	Saccharomyces cerevisiae
+YJR157W	Saccharomyces cerevisiae
+YPR128C	Eukaryota
+YBR251W	cellular organisms
+YCL016C	Eukaryota
+YOR328W	cellular organisms
+YDR072C	Ascomycota
+YGL261C	Saccharomyces cerevisiae
+YPL221W	Ascomycota
+YLR460C	cellular organisms
+YAL012W	cellular organisms
+YOL166C	Saccharomyces cerevisiae
+YJR058C	Eukaryota
+YJL168C	Eukaryota
+YDR276C	cellular organisms
+YFR022W	Ascomycota
+YNL053W	Eukaryota
+YPR186C	Eukaryota
+YER117W	cellular organisms
+YHR142W	Dikarya
+YOR047C	Saccharomyces cerevisiae
+YIL014W	Saccharomycetales
+YGL231C	Opisthokonta
+YPL204W	cellular organisms
+YBL076C	cellular organisms
+YER190W	Eukaryota
+YNL004W	Eukaryota
+YBR169C	cellular organisms
+YNL172W	Eukaryota
+YPR123C	Saccharomyces cerevisiae
+YPL255W	Saccharomyces cerevisiae
+YHL030W	Opisthokonta
+YGR117C	Saccharomyces cerevisiae
+YOR113W	Opisthokonta
+YGR142W	Saccharomyces cerevisiae
+YGR283C	Opisthokonta
+YLR260W	cellular organisms
+YJR003C	Saccharomyces cerevisiae
+YDL056W	Eukaryota
+YER142C	cellular organisms
+YGR249W	Eukaryota
+YPL265W	cellular organisms
+YNL236W	Saccharomycetales
+YAL061W	cellular organisms
+YCL017C	cellular organisms
+YBR185C	Saccharomyces cerevisiae
+YDR522C	Ascomycota
+YIL149C	Opisthokonta
+YPR001W	cellular organisms
+YKL154W	Opisthokonta
+YFL045C	Eukaryota
+YDR179C	Saccharomyces cerevisiae
+YNR011C	cellular organisms
+YLR236C	Saccharomyces cerevisiae
+YHR078W	Saccharomyces cerevisiae
+YKR064W	Saccharomycetales
+YGL186C	Saccharomyces cerevisiae
+YBL043W	Saccharomyces cerevisiae
+YPL156C	Saccharomyces cerevisiae
+YJL112W	Eukaryota
+YPR200C	Eukaryota
+YDR005C	Eukaryota
+YDR020C	cellular organisms
+YPL196W	Opisthokonta
+YHR053C	Saccharomyces cerevisiae
+YKL192C	cellular organisms
+YMR319C	Ascomycota
+YFR042W	Saccharomyces cerevisiae
+YDL158C	Saccharomyces cerevisiae
+YLR131C	Eukaryota
+YER031C	Eukaryota
+YDR157W	Saccharomyces cerevisiae
+YBR082C	Eukaryota
+YDR442W	Saccharomycetales
+YPR003C	cellular organisms
+YNL113W	cellular organisms
+YKL145W	cellular organisms
+YMR205C	cellular organisms
+YDL097C	Eukaryota
+YNL235C	Saccharomyces cerevisiae
+YJL195C	Eukaryota
+YEL047C	cellular organisms
+YJL117W	Saccharomyces cerevisiae
+YLL027W	cellular organisms
+YCR019W	Eukaryota
+YOL104C	Saccharomyces cerevisiae
+YJL153C	Eukaryota
+YAR019C	Eukaryota
+YMR146C	Eukaryota
+YJR080C	Saccharomycetales
+YLR068W	Saccharomycetales
+YDL157C	Saccharomyces cerevisiae
+YNL085W	Ascomycota
+YOR203W	Saccharomyces cerevisiae
+YLR326W	Saccharomyces cerevisiae
+YDR480W	Saccharomyces cerevisiae
+YER007W	Eukaryota
+YDR186C	Saccharomyces cerevisiae
+YIR031C	cellular organisms
+YNR050C	cellular organisms
+YNL312W	Eukaryota
+YBR225W	Saccharomyces cerevisiae
+YDR248C	cellular organisms
+YDL095W	Eukaryota
+YBR009C	Eukaryota
+YPL048W	Eukaryota
+YLR411W	Opisthokonta
+YOR100C	Eukaryota
+YPR022C	Opisthokonta
+YER089C	Eukaryota
+YEL037C	Eukaryota
+YJL102W	cellular organisms
+YIL125W	cellular organisms
+YHR055C	Saccharomyces cerevisiae
+YNL255C	Eukaryota
+YAL023C	Eukaryota
+YLR377C	cellular organisms
+YHR113W	cellular organisms
+YML025C	cellular organisms
+YMR201C	Opisthokonta
+YAL047C	Saccharomyces cerevisiae
+YGL188C	Saccharomyces cerevisiae
+YJR063W	cellular organisms
+YDR078C	Saccharomyces cerevisiae
+YLR176C	Opisthokonta
+YMR187C	Saccharomyces cerevisiae
+YDR093W	cellular organisms
+YOL116W	Saccharomyces cerevisiae
+YNL313C	Eukaryota
+YOR396W	Eukaryota
+YCL030C	cellular organisms
+YOL138C	Eukaryota
+YJL076W	Saccharomyces cerevisiae
+YCR005C	cellular organisms
+YDL068W	Saccharomyces cerevisiae
+YEL041W	cellular organisms
+YNL233W	Saccharomyces cerevisiae
+YHR128W	cellular organisms
+YPL248C	Ascomycota
+YDL067C	Ascomycota
+YKR099W	Eukaryota
+YLR392C	Saccharomyces cerevisiae
+YIL113W	Eukaryota
+YFR005C	Opisthokonta
+YLR315W	Saccharomyces cerevisiae
+YJR025C	Eukaryota
+YER024W	Opisthokonta
+YPR140W	Eukaryota
+YGL195W	Eukaryota
+YMR154C	Opisthokonta
+YJR158W	cellular organisms
+YKL087C	Eukaryota
+YKL108W	Ascomycota
+YNL069C	cellular organisms
+YJL049W	Ascomycota
+YBR156C	Ascomycota
+YLR333C	Eukaryota
+YJR013W	Eukaryota
+YGR060W	Eukaryota
+YLR265C	Saccharomyces cerevisiae
+YMR152W	Eukaryota
+YNR057C	cellular organisms
+YIL051C	cellular organisms
+YPR159W	Ascomycota
+YLR257W	Saccharomyces cerevisiae
+YIL026C	Eukaryota
+YLR332W	Saccharomyces cerevisiae
+YKL078W	cellular organisms
+YDL121C	Saccharomyces cerevisiae
+YOL108C	Saccharomyces cerevisiae
+YPR047W	cellular organisms
+YIR033W	Eukaryota
+YKL107W	Opisthokonta
+YIL107C	Eukaryota
+YKR105C	cellular organisms
+YCR068W	Dikarya
+YLR250W	Opisthokonta
+YLL040C	Eukaryota
+YER012W	cellular organisms
+YAR010C	Saccharomyces cerevisiae
+YNL301C	cellular organisms
+YNL034W	Saccharomyces cerevisiae
+YOL156W	cellular organisms
+YIL129C	Opisthokonta
+YDR021W	cellular organisms
+YDR484W	Eukaryota
+YPR048W	cellular organisms
+YPR164W	Saccharomyces cerevisiae
+YNL016W	Eukaryota
+YDR013W	Eukaryota
+YDL124W	cellular organisms
+YKR047W	Saccharomyces cerevisiae
+YER074W	cellular organisms
+YIR007W	Saccharomyces cerevisiae
+YPL216W	Saccharomyces cerevisiae
+YAL065C	Saccharomyces cerevisiae
+YPR014C	Saccharomyces cerevisiae
+YDR207C	Saccharomycetales
+YDR376W	cellular organisms
+YPL143W	Eukaryota
+YDR384C	cellular organisms
+YNL287W	Eukaryota
+YPL278C	Saccharomyces cerevisiae
+YIR002C	cellular organisms
+YJL177W	cellular organisms
+YOL086C	cellular organisms
+YGR009C	Ascomycota
+YKL188C	cellular organisms
+YJR119C	Eukaryota
+YKL152C	cellular organisms
+YOL137W	Saccharomyces cerevisiae
+YDR184C	Saccharomyces cerevisiae
+YKL179C	Eukaryota
+YEL002C	Eukaryota
+YDR132C	Saccharomyces cerevisiae
+YDR380W	cellular organisms
+YBR186W	cellular organisms
+YER090W	cellular organisms
+YKL143W	Ascomycota
+YHR203C	cellular organisms
+YOR318C	Saccharomyces cerevisiae
+YDR354W	cellular organisms
+YIL094C	cellular organisms
+YGL035C	Opisthokonta
+YDR048C	Saccharomyces cerevisiae
+YOR377W	Saccharomyces cerevisiae
+YBL111C	Saccharomyces cerevisiae
+YGR079W	Saccharomyces cerevisiae
+YBR015C	Saccharomycetales
+YML125C	cellular organisms
+YNR006W	Eukaryota
+YMR021C	Ascomycota
+YJR051W	cellular organisms
+YLR155C	cellular organisms
+YHR133C	Saccharomyces cerevisiae
+YER185W	Saccharomyces cerevisiae
+YHR071W	Eukaryota
+YDL177C	Eukaryota
+YPL275W	cellular organisms
+YBR067C	Saccharomycetales
+YDR491C	Saccharomyces cerevisiae
+YMR056C	Eukaryota
+YBR107C	Saccharomyces cerevisiae
+YPL067C	Saccharomycetales
+YOR180C	Eukaryota
+YLL032C	Dikarya
+YDL116W	Opisthokonta
+YOR090C	Eukaryota
+YBR033W	Ascomycota
+YHR048W	cellular organisms
+YOL028C	Saccharomyces cerevisiae
+YOL092W	Opisthokonta
+YMR189W	cellular organisms
+YIL171W	Eukaryota
+YDL160C	cellular organisms
+YHR122W	Eukaryota
+YML052W	Saccharomycetales
+YPL050C	Ascomycota
+YDR417C	Eukaryota
+YDR345C	cellular organisms
+YEL044W	Opisthokonta
+YNR071C	cellular organisms
+YHR116W	Opisthokonta
+YJL183W	Ascomycota
+YKR004C	Saccharomyces cerevisiae
+YDR410C	cellular organisms
+YOR369C	cellular organisms
+YBL037W	Eukaryota
+YHL009C	Saccharomyces cerevisiae
+YBR298C	cellular organisms
+YPL241C	Saccharomyces cerevisiae
+YJL113W	Eukaryota
+YDR486C	Eukaryota
+YGL062W	cellular organisms
+YGL038C	Ascomycota
+YPL014W	Saccharomyces cerevisiae
+YJR061W	Saccharomyces cerevisiae
+YLR139C	Saccharomyces cerevisiae
+YLR281C	cellular organisms
+YIR024C	Saccharomyces cerevisiae
+YMR301C	cellular organisms
+YOR205C	Saccharomycetales
+YDR191W	cellular organisms
+YOL002C	Eukaryota
+YHR040W	Opisthokonta
+YDR135C	cellular organisms
+YBR087W	cellular organisms
+YPR131C	Eukaryota
+YGL262W	Saccharomyces cerevisiae
+YKL079W	Eukaryota
+YER078C	cellular organisms
+YDR292C	cellular organisms
+YML063W	cellular organisms
+YDR129C	Eukaryota
+YDR328C	Eukaryota
+YNL011C	cellular organisms
+YOR349W	Saccharomyces cerevisiae
+YJL051W	Saccharomyces cerevisiae
+YOR173W	Opisthokonta
+YLR089C	cellular organisms
+YFL020C	Saccharomyces cerevisiae
+YGL088W	Saccharomyces cerevisiae
+YPR121W	cellular organisms
+YBR235W	Eukaryota
+YNL333W	cellular organisms
+YGR112W	Eukaryota
+YDL012C	Saccharomyces cerevisiae
+YOR098C	Saccharomyces cerevisiae
+YLR240W	Eukaryota
+YER023W	cellular organisms
+YFR044C	Eukaryota
+YIL138C	Saccharomyces cerevisiae
+YGR103W	Eukaryota
+YKR044W	Ascomycota
+YOR348C	cellular organisms
+YKR096W	Saccharomyces cerevisiae
+YAL033W	Eukaryota
+YLR060W	cellular organisms
+YMR007W	Saccharomyces cerevisiae
+YDR307W	Opisthokonta
+YJR095W	Eukaryota
+YMR324C	Saccharomyces cerevisiae
+YNR033W	cellular organisms
+YCR061W	Ascomycota
+YML041C	Eukaryota
+YMR026C	Eukaryota
+YDL082W	Eukaryota
+YJL148W	Saccharomyces cerevisiae
+YMR055C	Eukaryota
+YIL001W	Eukaryota
+YIL031W	Eukaryota
+YBR271W	Eukaryota
+YBR024W	cellular organisms
+YGL074C	Saccharomyces cerevisiae
+YDR234W	cellular organisms
+YDR490C	Eukaryota
+YGR280C	Opisthokonta
+YJL139C	Ascomycota
+YNL160W	Saccharomyces cerevisiae
+YCL050C	Saccharomyces cerevisiae
+YOR024W	Saccharomyces cerevisiae
+YHR085W	Opisthokonta
+YAR066W	Saccharomyces cerevisiae
+YHR092C	cellular organisms
+YER175C	Eukaryota
+YBL071C	Saccharomyces cerevisiae
+YNL068C	Eukaryota
+YCR025C	Saccharomyces cerevisiae
+YLR452C	Saccharomyces cerevisiae
+YER172C	cellular organisms
+YPR145W	cellular organisms
+YGR091W	cellular organisms
+YFL007W	Eukaryota
+YJL188C	cellular organisms
+YOR140W	Eukaryota
+YDR010C	Saccharomyces cerevisiae
+YHR089C	Eukaryota
+YIL085C	Ascomycota
+YMR031C	Saccharomyces cerevisiae
+YML098W	Eukaryota
+YJL191W	cellular organisms
+YOR117W	cellular organisms
+YAL022C	Opisthokonta
+YKL036C	Saccharomyces cerevisiae
+YJL140W	Eukaryota
+YPL145C	Eukaryota
+YDL155W	Eukaryota
+YOL120C	cellular organisms
+YFL034W	Opisthokonta
+YDR356W	Opisthokonta
+YLR419W	cellular organisms
+YGL213C	Eukaryota
+YGR041W	Saccharomyces cerevisiae
+YBR083W	Opisthokonta
+YDR211W	cellular organisms
+YMR098C	saccharomyceta
+YGR181W	Eukaryota
+YPL081W	cellular organisms
+YJL180C	Ascomycota
+YMR177W	cellular organisms
+YKL148C	cellular organisms
+YKL217W	cellular organisms
+YDR309C	Saccharomyces cerevisiae
+YDL238C	cellular organisms
+YKL110C	cellular organisms
+YMR013C	Eukaryota
+YOR093C	Opisthokonta
+YFL004W	Eukaryota
+YDR502C	cellular organisms
+YGR179C	Saccharomyces cerevisiae
+YLL019C	Eukaryota
+YBR103W	Eukaryota
+YCR083W	cellular organisms
+YDR235W	Opisthokonta
+YKL223W	Saccharomyces cerevisiae
+YER139C	Opisthokonta
+YFR004W	Eukaryota
+YGL118C	Saccharomyces cerevisiae
+YBR231C	Opisthokonta
+YDL170W	Ascomycota
+YDR535C	Saccharomyces cerevisiae
+YMR096W	cellular organisms
+YOR350C	Saccharomyces cerevisiae
+YLR187W	Saccharomyces cerevisiae
+YDR295C	Saccharomyces cerevisiae
+YHR139C	Saccharomyces cerevisiae
+YKL010C	Eukaryota
+YGL191W	Opisthokonta
+YBR165W	Saccharomyces cerevisiae
+YOR239W	cellular organisms
+YJR103W	cellular organisms
+YDL105W	Opisthokonta
+YDR468C	Ascomycota
+YGL250W	Ascomycota
+YLR051C	Opisthokonta
+YBL045C	cellular organisms
+YBL004W	Opisthokonta
+YMR035W	cellular organisms
+YOR150W	cellular organisms
+YDR223W	Saccharomycetales
+YKL112W	Saccharomyces cerevisiae
+YER046W	Saccharomyces cerevisiae
+YGR012W	cellular organisms
+YGL050W	cellular organisms
+YPL079W	cellular organisms
+YML067C	Eukaryota
+YJL211C	Saccharomyces cerevisiae
+YPR199C	Saccharomyces cerevisiae
+YNL329C	cellular organisms
+YLR409C	Eukaryota
+YER155C	Eukaryota
+YEL033W	Saccharomyces cerevisiae
+YCR060W	cellular organisms
+YHR207C	Eukaryota
+YAR073W	cellular organisms
+YMR229C	cellular organisms
+YDR277C	Saccharomyces cerevisiae
+YMR250W	cellular organisms
+YMR169C	cellular organisms
+YDL218W	Saccharomyces cerevisiae
+YBR019C	cellular organisms
+YDR303C	Saccharomycetales
+YHR026W	Eukaryota
+YIL112W	cellular organisms
+YDR094W	Saccharomyces cerevisiae
+YDL192W	Eukaryota
+YGR017W	Eukaryota
+YGR154C	cellular organisms
+YGR140W	Saccharomyces cerevisiae
+YNR060W	Eukaryota
+YMR050C	Eukaryota
+YIL148W	Eukaryota
+YEL016C	Opisthokonta
+YOL122C	cellular organisms
+YML057W	Eukaryota
+YPR127W	cellular organisms
+YJL158C	Saccharomycetales
+YDR475C	Saccharomyces cerevisiae
+YLR206W	Eukaryota
+YHL044W	Saccharomyces cerevisiae
+YJL159W	Saccharomycetales
+YDR534C	Saccharomyces cerevisiae
+YAR014C	Ascomycota
+YKR102W	Saccharomyces cerevisiae
+YPR149W	Ascomycota
+YDL136W	cellular organisms
+YPL171C	cellular organisms
+YDR208W	Eukaryota
+YML054C	cellular organisms
+YGR197C	Saccharomyces cerevisiae
+YGR206W	Saccharomyces cerevisiae
+YOL125W	Eukaryota
+YDR192C	Saccharomyces cerevisiae
+YNL189W	Eukaryota
+YPR176C	Eukaryota
+YMR150C	cellular organisms
+YDL243C	cellular organisms
+YGL173C	Eukaryota
+YER086W	cellular organisms
+YMR076C	Eukaryota
+YPL274W	cellular organisms
+YGL009C	cellular organisms
+YNL192W	Opisthokonta
+YHL033C	cellular organisms
+YFR030W	cellular organisms
+YIR028W	cellular organisms
+YPR120C	Eukaryota
+YGL073W	Eukaryota
+YER038C	Saccharomyces cerevisiae
+YLL029W	cellular organisms
+YDR011W	cellular organisms
+YGR194C	cellular organisms
+YEL023C	Saccharomyces cerevisiae
+YGR092W	Eukaryota
+YBR137W	cellular organisms
+YLR140W	Saccharomyces cerevisiae
+YDL032W	cellular organisms
+YJL103C	Dikarya
+YIL177C	Eukaryota
+YOR074C	cellular organisms
+YEL027W	Eukaryota
+YBR182C	Eukaryota
+YGL139W	Ascomycota
+YOR082C	Saccharomyces cerevisiae
+YMR061W	Eukaryota
+YER133W	Eukaryota
+YJR090C	Eukaryota
+YMR139W	Eukaryota
+YHR191C	Saccharomyces cerevisiae
+YMR126C	Saccharomyces cerevisiae
+YGR048W	Eukaryota
+YLR347C	Eukaryota
+YEL072W	Saccharomyces cerevisiae
+YLL049W	Saccharomyces cerevisiae
+YGL201C	cellular organisms
+YJL030W	Eukaryota
+YKL123W	Saccharomyces cerevisiae
+YLR288C	Saccharomyces cerevisiae
+YLR437C	Saccharomyces cerevisiae
+YKL004W	Ascomycota
+YKR092C	Opisthokonta
+YOR045W	Saccharomyces cerevisiae
+YDL053C	Saccharomyces cerevisiae
+YPL283C	Eukaryota
+YDL211C	Saccharomyces cerevisiae
+YPR040W	Eukaryota
+YGR233C	Eukaryota
+YLR330W	Eukaryota
+YDR168W	Opisthokonta
+YJR005W	Eukaryota
+YLR367W	cellular organisms
+YGL104C	cellular organisms
+YDR098C	cellular organisms
+YGR264C	cellular organisms
+YER033C	Saccharomyces cerevisiae
+YNL076W	Saccharomyces cerevisiae
+YOR192C	cellular organisms
+YMR290C	cellular organisms
+YGL008C	cellular organisms
+YDR457W	Eukaryota
+YOL159C	Saccharomyces cerevisiae
+YPL026C	cellular organisms
+YBR114W	cellular organisms
+YDR056C	Saccharomyces cerevisiae
+YJL058C	Saccharomyces cerevisiae
+YHR013C	cellular organisms
+YER015W	cellular organisms
+YBR030W	Opisthokonta
+YOL024W	Saccharomyces cerevisiae
+YJL201W	Saccharomyces cerevisiae
+YGL143C	cellular organisms
+YLR302C	Saccharomyces cerevisiae
+YFR019W	cellular organisms
+YLR380W	Eukaryota
+YNL317W	Eukaryota
+YJL172W	Eukaryota
+YGR014W	Saccharomyces cerevisiae
+YIR001C	Eukaryota
+YHR058C	Eukaryota
+YOR066W	Saccharomyces cerevisiae
+YPR006C	cellular organisms
+YOR327C	Eukaryota
+YLR255C	Saccharomyces cerevisiae
+YDR036C	cellular organisms
+YOR254C	cellular organisms
+YDL058W	Eukaryota
+YOL076W	Saccharomyces cerevisiae
+YDR465C	Opisthokonta
+YIL115C	Ascomycota
+YKL020C	cellular organisms
+YBL020W	Eukaryota
+YNL259C	Eukaryota
+YIL101C	Saccharomyces cerevisiae
+YER055C	cellular organisms
+YJL038C	Saccharomyces cerevisiae
+YBL039C	cellular organisms
+YDR294C	cellular organisms
+YOR076C	cellular organisms
+YGR190C	Saccharomyces cerevisiae
+YDR427W	Eukaryota
+YOR342C	Saccharomyces cerevisiae
+YCL044C	Saccharomyces cerevisiae
+YLR054C	Saccharomyces cerevisiae
+YBR138C	Saccharomyces cerevisiae
+YGL136C	cellular organisms
+YNL017C	Saccharomyces cerevisiae
+YDR257C	Eukaryota
+YIL166C	cellular organisms
+YBR200W	Opisthokonta
+YDL129W	Saccharomyces cerevisiae
+YFR016C	Saccharomyces cerevisiae
+YIL161W	Saccharomyces cerevisiae
+YBL016W	Eukaryota
+YJL094C	cellular organisms
+YDR306C	Ascomycota
+YLL026W	cellular organisms
+YMR173W	Saccharomyces cerevisiae
+YGR253C	cellular organisms
+YCL066W	Saccharomycetales
+YPR016C	cellular organisms
+YNL296W	Saccharomyces cerevisiae
+YAL039C	Eukaryota
+YDR166C	Eukaryota
+YJL186W	Saccharomycetales
+YPR046W	Saccharomyces cerevisiae
+YGL004C	Eukaryota
+YPL200W	Saccharomyces cerevisiae
+YFL061W	Saccharomyces cerevisiae
+YGL089C	Saccharomyces cerevisiae
+YDL148C	Opisthokonta
+YJL068C	cellular organisms
+YPL168W	Saccharomyces cerevisiae
+YJL192C	Saccharomyces cerevisiae
+YDR493W	Ascomycota
+YOR367W	Eukaryota
+YDR165W	Eukaryota
+YGL160W	Eukaryota
+YLR032W	cellular organisms
+YNR032W	Eukaryota
+YPL226W	cellular organisms
+YOL161C	Saccharomyces cerevisiae
+YJL044C	Opisthokonta
+YLR044C	cellular organisms
+YBR273C	Opisthokonta
+YPR126C	Saccharomyces cerevisiae
+YMR005W	Ascomycota
+YGL031C	cellular organisms
+YDR437W	Opisthokonta
+YBR054W	Ascomycota
+YNL106C	Eukaryota
+YLR156W	Saccharomyces cerevisiae
+YLL043W	cellular organisms
+YPR110C	cellular organisms
+YER160C	Eukaryota
+YOR292C	Eukaryota
+YLR280C	cellular organisms
+YDR296W	Saccharomycetales
+YOR280C	Eukaryota
+YOL040C	cellular organisms
+YLR341W	Saccharomyces cerevisiae
+YNL040W	cellular organisms
+YLR329W	Saccharomyces cerevisiae
+YPR025C	Eukaryota
+YIL106W	Eukaryota
+YLR127C	Eukaryota
+YDR523C	Eukaryota
+YGL227W	Eukaryota
+YDL164C	cellular organisms
+YLL058W	cellular organisms
+YML081W	Opisthokonta
+YLR077W	Eukaryota
+YMR134W	Saccharomyces cerevisiae
+YMR072W	Eukaryota
+YGR279C	Ascomycota
+YKL124W	Opisthokonta
+YNL057W	Saccharomyces cerevisiae
+YIL089W	Saccharomyces cerevisiae
+YOL152W	Eukaryota
+YIL040W	Saccharomyces cerevisiae
+YJL176C	Eukaryota
+YKL028W	Eukaryota
+YAL046C	Eukaryota
+YHR157W	Saccharomyces cerevisiae
+YBL035C	Eukaryota
+YPL180W	Saccharomyces cerevisiae
+YCL040W	Eukaryota
+YPR063C	Saccharomyces cerevisiae
+YFL039C	Eukaryota
+YPR185W	Ascomycota
+YDL231C	Saccharomyces cerevisiae
+YDL137W	Eukaryota
+YGL259W	Eukaryota
+YPR109W	Saccharomyces cerevisiae
+YOR389W	Saccharomyces cerevisiae
+YGR089W	Saccharomyces cerevisiae
+YBL003C	Eukaryota
+YOR139C	Eukaryota
+YOR259C	cellular organisms
+YJR100C	Opisthokonta
+YKL039W	Opisthokonta
+YLL004W	Saccharomyces cerevisiae
+YJR138W	Eukaryota
+YLL053C	cellular organisms
+YML097C	Eukaryota
+YCL043C	cellular organisms
+YKL044W	Saccharomyces cerevisiae
+YFL014W	Ascomycota
+YGR175C	Eukaryota
+YDR281C	Saccharomyces cerevisiae
+YAL041W	Eukaryota
+YMR184W	Saccharomyces cerevisiae
+YGL108C	Ascomycota
+YNL164C	Saccharomyces cerevisiae
+YHL010C	Eukaryota
+YLR064W	Ascomycota
+YMR231W	Eukaryota
+YBR035C	cellular organisms
+YNL096C	Eukaryota
+YDL174C	cellular organisms
+YBR222C	cellular organisms
+YFL011W	cellular organisms
+YHR095W	Saccharomyces cerevisiae
+YBR121C	cellular organisms
+YER062C	cellular organisms
+YPL061W	cellular organisms
+YCR039C	Eukaryota
+YNL064C	cellular organisms
+YDR231C	Ascomycota
+YOL085C	Saccharomyces cerevisiae
+YHL040C	Dikarya
+YBR161W	Ascomycota
+YIL002C	Eukaryota
+YHL022C	Eukaryota
+YDR040C	cellular organisms
+YCL054W	cellular organisms
+YOR174W	Ascomycota
+YGL163C	cellular organisms
+YDR058C	cellular organisms
+YLL030C	Saccharomyces cerevisiae
+YCR094W	Eukaryota
+YJR010W	cellular organisms
+YGL228W	Saccharomyces cerevisiae
+YJL178C	Saccharomycetales
+YDR265W	Eukaryota
+YAL044C	cellular organisms
+YER179W	cellular organisms
+YGL120C	cellular organisms
+YLL065W	Saccharomyces cerevisiae
+YOR163W	Eukaryota
+YLR066W	Eukaryota
+YIL083C	Eukaryota
+YDR368W	cellular organisms
+YPR125W	Opisthokonta
+YPL271W	Opisthokonta
+YER145C	cellular organisms
+YOR338W	Ascomycota
+YGL147C	cellular organisms
+YJR015W	Saccharomyces cerevisiae
+YBL046W	Saccharomyces cerevisiae
+YDR185C	Eukaryota
+YBR183W	Eukaryota
+YPR029C	Eukaryota
+YPL073C	Opisthokonta
+YCL014W	Saccharomyces cerevisiae
+YMR048W	Opisthokonta
+YNL118C	Eukaryota
+YGR152C	Eukaryota
+YMR200W	Ascomycota
+YGR070W	Eukaryota
+YGL097W	Eukaryota
+YHR115C	Opisthokonta
+YGR286C	cellular organisms
+YCL061C	Saccharomyces cerevisiae
+YOR273C	cellular organisms
+YDR449C	Eukaryota
+YPR112C	Eukaryota
+YHL045W	Saccharomyces cerevisiae
+YML093W	Opisthokonta
+YOL036W	Saccharomyces cerevisiae
+YER169W	Eukaryota
+YLR422W	Eukaryota
+YNL274C	cellular organisms
+YEL049W	Saccharomyces cerevisiae
+YHR031C	cellular organisms
+YOR313C	Saccharomyces cerevisiae
+YJR105W	cellular organisms
+YOR182C	Eukaryota
+YHR007C	cellular organisms
+YNR062C	Saccharomyces cerevisiae
+YPR039W	Saccharomyces cerevisiae
+YDR084C	Eukaryota
+YLR114C	Opisthokonta
+YGR093W	Eukaryota
+YDR507C	Eukaryota
+YFR051C	Eukaryota
+YER111C	Eukaryota
+YOR221C	cellular organisms
+YOL145C	Eukaryota
+YNL162W	cellular organisms
+YDR541C	Eukaryota
+YDR450W	cellular organisms
+YOR212W	Eukaryota
+YBR127C	cellular organisms
+YOR302W	Saccharomyces cerevisiae
+YHR164C	cellular organisms
+YPR019W	cellular organisms
+YGR158C	Eukaryota
+YDR019C	cellular organisms
+YAR029W	Saccharomyces cerevisiae
+YJL127C	Ascomycota
+YMR255W	Saccharomyces cerevisiae
+YLR094C	Saccharomyces cerevisiae
+YIL175W	Saccharomyces cerevisiae
+YLR325C	Eukaryota
+YPR119W	Eukaryota
+YDR227W	Saccharomyces cerevisiae
+YDL247W	cellular organisms
+YCR090C	Opisthokonta
+YNR044W	Saccharomyces cerevisiae
+YLR005W	Eukaryota
+YNL111C	Eukaryota
+YMR017W	Ascomycota
+YIL015W	Eukaryota
+YHR138C	saccharomyceta
+YLR388W	cellular organisms
+YNL249C	cellular organisms
+YLR109W	Eukaryota
+YPL149W	Eukaryota
+YLR359W	cellular organisms
+YOR020C	cellular organisms
+YNL169C	cellular organisms
+YKL067W	cellular organisms
+YDR372C	Eukaryota
+YGR292W	cellular organisms
+YDL115C	Saccharomyces cerevisiae
+YGR037C	Eukaryota
+YDR353W	cellular organisms
+YPL124W	Saccharomyces cerevisiae
+YJL154C	Eukaryota
+YFR047C	cellular organisms
+YLR267W	Saccharomyces cerevisiae
+YMR198W	Saccharomyces cerevisiae
+YLR092W	cellular organisms
+YCR003W	Saccharomyces cerevisiae
+YNL094W	Ascomycota
+YDR505C	cellular organisms
+YLR039C	Saccharomyces cerevisiae
+YLR166C	Eukaryota
+YHR149C	Saccharomyces cerevisiae
+YDL191W	cellular organisms
+YOR178C	Opisthokonta
+YML103C	Ascomycota
+YDR164C	Eukaryota
+YCR043C	Saccharomyces cerevisiae
+YLL039C	Eukaryota
+YGL214W	Ascomycota
+YDR540C	Saccharomyces cerevisiae
+YDR445C	Saccharomyces cerevisiae
+YML120C	cellular organisms
+YOL030W	Ascomycota
+YMR246W	cellular organisms
+YPL192C	Saccharomyces cerevisiae
+YOR269W	Eukaryota
+YER030W	Saccharomycetales
+YGR231C	Eukaryota
+YDR194C	cellular organisms
+YGR100W	Eukaryota
+YOR324C	Saccharomyces cerevisiae
+YAL030W	Eukaryota
+YLR451W	Saccharomycetales
+YDR313C	Eukaryota
+YNL289W	Eukaryota
+YLR061W	Eukaryota
+YJL114W	Saccharomyces cerevisiae
+YAL049C	cellular organisms
+YDL028C	cellular organisms
+YLR235C	Eukaryota
+YCR024C	cellular organisms
+YBR176W	cellular organisms
+YIL090W	Ascomycota
+YBR249C	cellular organisms
+YGL181W	Eukaryota
+YGR148C	cellular organisms
+YLR389C	cellular organisms
+YEL061C	Eukaryota
+YOL022C	Opisthokonta
+YLR418C	Eukaryota
+YIL122W	Saccharomyces cerevisiae
+YPR094W	Eukaryota
+YER101C	cellular organisms
+YBR042C	cellular organisms
+YPR204W	Eukaryota
+YEL012W	Eukaryota
+YNL311C	Saccharomyces cerevisiae
+YBR221C	cellular organisms
+YOR198C	Ascomycota
+YCR108C	Saccharomyces cerevisiae
+YLR194C	Saccharomyces cerevisiae
+YNR039C	Ascomycota
+YLR459W	Opisthokonta
+YBR074W	Opisthokonta
+YNL150W	Saccharomyces cerevisiae
+YER011W	Saccharomyces cerevisiae
+YPL056C	Saccharomyces cerevisiae
+YPR075C	Saccharomyces cerevisiae
+YLR441C	cellular organisms
+YOL031C	Opisthokonta
+YFL028C	Eukaryota
+YBL018C	Ascomycota
+YBR266C	Saccharomyces cerevisiae
+YER122C	Eukaryota
+YGR078C	Eukaryota
+YBR126C	cellular organisms
+YBR159W	cellular organisms
+YFR057W	Ascomycota
+YCR045C	cellular organisms
+YIR040C	Saccharomyces cerevisiae
+YBR191W	cellular organisms
+YJR123W	cellular organisms
+YPR057W	Saccharomyces cerevisiae
+YLR013W	Eukaryota
+YLL034C	cellular organisms
+YGL106W	Eukaryota
+YDL010W	Eukaryota
+YKL077W	Saccharomyces cerevisiae
+YHR015W	Eukaryota
+YKL037W	Saccharomyces cerevisiae
+YOR209C	cellular organisms
+YHR005C	Eukaryota
+YPR189W	cellular organisms
+YDL007W	cellular organisms
