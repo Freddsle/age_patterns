@@ -1,2388 +1,2410 @@
-COX2	cellular organisms
-Nr1d2	Bilateria
-Thrb	Bilateria
-Rarb	Bilateria
-Atxn7	Opisthokonta
-Fezf2	Bilateria
-Myoz1	Boreoeutheria
-Plau	Bilateria
-Hesx1	Eukaryota
-Wnt5a	Bilateria
-Pbrm1	Eukaryota
-Stab1	Eukaryota
-Tnnc1	Eukaryota
-Ncoa4	Euarchontoglires
-Parg	Eukaryota
-Prrxl1	Eukaryota
-Mapk8	cellular organisms
-Gdf10	Bilateria
-Rbp3	Boreoeutheria
-Zfp488	Euarchontoglires
-Anxa8	Eukaryota
+Grem2	Euteleostomi
+Cyp2c29	cellular organisms
+Rhoa	Eukaryota
+Sort1	Opisthokonta
+Tcf7	Opisthokonta
+Zfx	Euteleostomi
+Upf3b	Eukaryota
+Hand1	Bilateria
+Eif2ak2	cellular organisms
+Angpt1	Bilateria
+Mfn2	Eukaryota
+Acss1	cellular organisms
+Cend1	Euarchontoglires
+Slc39a14	Eukaryota
+Fshb	Amniota
+Jag1	Eukaryota
+Nol3	Euarchontoglires
+Gata1	Eukaryota
+Sftpc	Boreoeutheria
+Pax3	Eukaryota
+Catsper1	Bilateria
+Slc6a4	cellular organisms
+Rcor2	Bilateria
+Foxe3	Opisthokonta
+Gja1	Euteleostomi
+Crem	Bilateria
+Mapk1	Eukaryota
+Nfkbia	Eukaryota
+Tll1	Eumetazoa
+Irx3	Eukaryota
+Nck2	Eukaryota
+Cd79b	Euarchontoglires
+Ywhae	Eukaryota
+Xbp1	Eukaryota
+Hes7	Bilateria
+Neurod2	Bilateria
+Hoxb5	Eukaryota
+Sry	Eukaryota
+Mad2l1	Eukaryota
+Uncx	Eukaryota
+Sfrp2	Bilateria
+Yy1	Eukaryota
+Tac2	Boreoeutheria
+Neurog2	Bilateria
+Gpc4	Bilateria
+Tax1bp3	Bilateria
+Gbx2	Bilateria
+Igfbp6	Bilateria
+Tnfaip3	Bilateria
+Ifi204	Euarchontoglires
+Ndrg1	Eukaryota
+Npas2	Bilateria
+Reln	Eukaryota
+Cebpd	Bilateria
+Nr1h4	Bilateria
+Htr1a	Bilateria
+Psrc1	Boreoeutheria
+Thrap3	Euarchontoglires
+Inpp5k	Eukaryota
+Nox4	Eukaryota
+Nr5a2	Bilateria
+Ets2	Bilateria
 Rgr	Bilateria
-Sftpa1	Euteleostomi
-Sftpd	Euteleostomi
-Ptger2	Boreoeutheria
-Bmp4	Bilateria
-Gch1	cellular organisms
+Acadm	cellular organisms
+Apoa1	Euteleostomi
+Foxc1	Opisthokonta
+Creb1	Bilateria
+Igfbp1	Euteleostomi
+Defb2	Murinae
+Bcl9	Euteleostomi
+Gli3	Eukaryota
+F12	Bilateria
 Lgals3	Bilateria
-Otx2	Eukaryota
-Tlr11	Eukaryota
-Apex1	cellular organisms
+Bfsp1	Amniota
+Prdx2	cellular organisms
+Nop56	cellular organisms
+H2-Ab1	Euteleostomi
+Igf2bp2	cellular organisms
+Pwp1	Eukaryota
+Slc8a1	cellular organisms
+Cyp1a1	cellular organisms
+Cdkn1b	Euarchontoglires
+Gad1	cellular organisms
+Fgf1	Bilateria
+Hcrtr2	Bilateria
+Paxip1	Eukaryota
+Agtr1a	Bilateria
+Has2	Opisthokonta
+Ifih1	cellular organisms
+Hspa5	cellular organisms
+Dmtf1	Eukaryota
+Gas2	Bilateria
+Pou4f2	Bilateria
+Hoxa1	Bilateria
+Cav1	Bilateria
+Pura	Eukaryota
+Itch	Eukaryota
+Batf2	Eukaryota
+Pxmp4	Boreoeutheria
+Myom2	Bilateria
+Zfp157	Euteleostomi
+Zfp423	Bilateria
+Ube2h	Eukaryota
+Tef	Bilateria
+Grm2	Eukaryota
+Cetn2	Eukaryota
+Rfxap	Euarchontoglires
+Mylk3	Eukaryota
+Tap2	cellular organisms
+Epor	Amniota
+Zbtb14	Bilateria
+Bglap	Euteleostomi
+Hoxa7	Eukaryota
+Socs1	Amniota
+Ddc	cellular organisms
+Mmp15	Eukaryota
+Meis1	Eukaryota
+Cyp11a1	cellular organisms
+Gsc2	Bilateria
+G6pc	Euteleostomi
+Irak1	Eukaryota
+Vip	Amniota
+S1pr1	Bilateria
+Smarca4	cellular organisms
+Slc2a4	cellular organisms
+Pttg1	Boreoeutheria
+Map3k8	cellular organisms
+Kcnmb1	Boreoeutheria
+Hesx1	Eukaryota
+Gsx2	Bilateria
+Ngf	Euteleostomi
+Prodh	Eukaryota
+Hes5	Bilateria
+Ifna4	Amniota
+Il17a	Boreoeutheria
+Cyp2b9	cellular organisms
+Hnrnpk	Opisthokonta
+Gtf2a1	Eukaryota
+Slc19a2	Eukaryota
+Fosb	Amniota
+Icos	Boreoeutheria
+Msx2	Bilateria
+Gadd45a	Amniota
+Gnrhr	Bilateria
+Il22	Euarchontoglires
+Tnfsf11	Amniota
+Socs2	Eukaryota
+Zfp523	Bilateria
+Sod3	Eukaryota
+Aff1	Euarchontoglires
+Apoa4	Euteleostomi
+Fcgr1	Boreoeutheria
+Nfkb1	Eukaryota
+Klf10	Opisthokonta
+Srf	Eukaryota
+Robo1	Bilateria
+Hsd3b6	cellular organisms
+Ppp1r1b	Boreoeutheria
+Ankrd2	cellular organisms
+Bcl11a	Opisthokonta
+Klf11	Opisthokonta
+Nr1i2	Bilateria
+Bik	Euarchontoglires
+Smurf1	Eukaryota
+Olig1	Bilateria
+Hoxa5	Bilateria
+Chek1	Eukaryota
+Oas1g	Boreoeutheria
+Rest	Bilateria
+Ascl2	Bilateria
+Satb1	Bilateria
+Shox2	Eukaryota
+Alb	Amniota
+Best1	Bilateria
+Glis3	Opisthokonta
+Smarcd1	Eukaryota
+Icam1	Boreoeutheria
+Map3k5	Eukaryota
+Piezo2	Eukaryota
+Nphs1	Bilateria
+Ehmt1	cellular organisms
+Hnf4a	Bilateria
+Coro1a	Eukaryota
+Zbtb17	Euteleostomi
+Fcer1g	Boreoeutheria
+Tek	Eukaryota
+Fgf3	Bilateria
+Ces2c	cellular organisms
+Apoe	Euteleostomi
+St8sia1	Euteleostomi
+Fshr	Bilateria
+Nnat	Boreoeutheria
+Wbp1	Euarchontoglires
+Dapk1	Eukaryota
+Myoz2	Boreoeutheria
+Daxx	Bilateria
+Rb1cc1	Euarchontoglires
+Llgl1	Opisthokonta
+Cd7	Euarchontoglires
+Hmgxb4	Eukaryota
+Slc40a1	Eukaryota
+Foxl1	Opisthokonta
+Bcl11b	Opisthokonta
+Cldn2	Euteleostomi
+Dlx2	Eukaryota
+Hbp1	Eukaryota
+Ppargc1a	Boreoeutheria
+Crabp2	Bilateria
+Abcc1	cellular organisms
+Nr2f1	Bilateria
+Cldn3	Euteleostomi
+Grb2	Eukaryota
+Mif	Bilateria
+Aplp1	Bilateria
+Slc45a2	Eukaryota
+Mybl2	Eukaryota
+Cry2	cellular organisms
+Atp1b1	Bilateria
+Rgs4	Bilateria
+Pcyt1a	cellular organisms
+Hcls1	Eukaryota
+Creb3l3	Eukaryota
+Tnfrsf4	Euteleostomi
+Mgam	cellular organisms
+Col5a2	Bilateria
+Cebpz	Eukaryota
+Ptger2	Boreoeutheria
+Sirt5	cellular organisms
+Slc11a1	cellular organisms
+Crx	Eukaryota
+Dnm1	Eukaryota
+Atp1a1	cellular organisms
+Atxn7	Opisthokonta
+Hmox2	Opisthokonta
+Shh	Bilateria
+Kit	Eukaryota
+Wnt7b	Bilateria
+Smad4	Bilateria
+Ebna1bp2	Eukaryota
+Nr2e1	Bilateria
+Akr1c18	cellular organisms
+Cldn19	Euteleostomi
+Mchr1	Bilateria
+Dll1	Eukaryota
+Tfap2a	Bilateria
+Prrc2a	Eukaryota
+Pax7	Bilateria
+Mdk	Tetrapoda
+Onecut3	Bilateria
+Hist2h4	Eukaryota
+Chd4	cellular organisms
+Nectin1	Bilateria
+Bnip3	Bilateria
+Ckm	cellular organisms
+Bhlhe41	Bilateria
+Klf15	Opisthokonta
+Cxcr5	Bilateria
+Inha	Bilateria
+Bmp4	Bilateria
+Cdo1	cellular organisms
+Elf5	Bilateria
+Hoxa4	Eukaryota
+Ferd3l	Bilateria
+Areg	Amniota
+Mta2	Bilateria
+Sct	Boreoeutheria
+E2f1	Eukaryota
+Psen1	Eukaryota
+Epha2	Eukaryota
+Gstp2	Eukaryota
+Fxyd1	Boreoeutheria
+Slc3a2	cellular organisms
+Gstm2	Eukaryota
+Igfbp3	Bilateria
+Abcg1	cellular organisms
+Sell	Bilateria
+Hdac11	cellular organisms
+Dtx1	Bilateria
+Fmo3	cellular organisms
+Birc5	Opisthokonta
+Lhcgr	Bilateria
+Irf1	Amniota
+Cryab	Bilateria
+Sox18	Eukaryota
+Wnt4	Bilateria
+Cnot7	Eukaryota
+Nr2f2	Bilateria
+Hmgb2	Eukaryota
+Mcm3	cellular organisms
+Foxo1	Opisthokonta
+Foxa2	Opisthokonta
+Npsr1	Bilateria
+Prrxl1	Eukaryota
+Sec23a	Eukaryota
+Igf1r	Eukaryota
+Fes	Eukaryota
+Nectin2	Bilateria
+Prom1	Bilateria
+Cux1	Eukaryota
+Gap43	Amniota
+Tfap2d	Bilateria
+Ncoa2	Bilateria
+Tfb2m	Bilateria
+Mab21l1	Bilateria
+Esr1	Bilateria
+Usf1	Opisthokonta
+Plin4	Boreoeutheria
+Vnn1	Eukaryota
+Cdkn2d	cellular organisms
+Crebzf	Euarchontoglires
+Cx3cr1	Bilateria
+Trh	Euteleostomi
+Cdh5	Bilateria
+Rfxank	cellular organisms
+Rlbp1	Eukaryota
+Pkp3	Eukaryota
+Zfp143	Bilateria
+Serpinb2	cellular organisms
+Lect2	Bilateria
+Fgf21	Bilateria
+Nanos3	Bilateria
+Grb10	Bilateria
+Txlng	Amniota
+Btk	Eukaryota
+Rb1	Eukaryota
+Nkx3-2	Eukaryota
+Nlrp12	Eukaryota
+Coro1b	Eukaryota
+Klf2	Opisthokonta
+Bcl2a1a	Amniota
+Flt1	Eukaryota
+Mgarp	Boreoeutheria
+Pparg	Bilateria
+Bhlha15	Bilateria
+Fabp1	Bilateria
+Hivep2	Opisthokonta
+Foxo3	Opisthokonta
+Abcg2	cellular organisms
+Gtf2i	Boreoeutheria
+Drd2	Bilateria
+Hbb-bh1	Euteleostomi
+Etv4	Bilateria
+Heyl	Bilateria
+Mef2a	Eukaryota
+Ckap2	Boreoeutheria
+Fbln5	Bilateria
+Pax8	Bilateria
+Frzb	Bilateria
+Sox14	Eukaryota
+Zfp521	Bilateria
+Ccl25	Euarchontoglires
+Syn2	Bilateria
+Nr0b2	Bilateria
+Scx	Bilateria
+Krt19	Bilateria
+Prkar2b	Eukaryota
+Gbp2	Eukaryota
+Htatip2	cellular organisms
+Fxn	Eukaryota
+Pcx	cellular organisms
+Ccl21a	Amniota
+Apbb1	Bilateria
+Mmp19	Eukaryota
+Hoxd11	Eukaryota
+Mpv17l	Eukaryota
+Cdc25a	Eukaryota
+Cxcl2	Euteleostomi
+Ift20	Bilateria
+Tcl1	Euarchontoglires
+Six4	Eukaryota
+Sox11	Opisthokonta
+Crebbp	Eukaryota
+Atm	Eukaryota
+Mxi1	Bilateria
+Serpinh1	cellular organisms
+Mapk14	Eukaryota
+Il24	Amniota
+Selenow	Euteleostomi
+Usf2	Eukaryota
+Ofd1	Euteleostomi
+Gpx5	cellular organisms
+Snai1	Opisthokonta
+Map1lc3b	Eukaryota
+Usp17le	Eukaryota
+Msc	Bilateria
+Aebp2	Eukaryota
+Hmgn3	Amniota
+Thra	Bilateria
+Tbx4	Bilateria
+Nfatc3	Amniota
+Trim63	Bilateria
+Srrm4	Euteleostomi
+Slc22a1	cellular organisms
+Glb1	Eukaryota
+Mmp13	Eukaryota
+Cdkn2c	cellular organisms
+Cdk9	Eukaryota
+Ptprv	Eukaryota
+Tuft1	Tetrapoda
+Ebf2	Bilateria
+Rasl12	Eukaryota
+Lef1	Opisthokonta
+Gja4	Euteleostomi
+Slc2a2	cellular organisms
+Fgf17	Bilateria
+Ccr2	Bilateria
+Atoh7	Bilateria
+Myh7b	Eukaryota
+Mobp	Euteleostomi
+Cd86	Boreoeutheria
+Tfec	Bilateria
+Pcna	cellular organisms
+Dhfr	cellular organisms
+Bmpr2	cellular organisms
+Lmna	Bilateria
+Rhob	Eukaryota
+Mstn	Bilateria
+Egr1	Opisthokonta
+Ptpru	Eukaryota
+Tagln	Eukaryota
+Pou3f1	Opisthokonta
+Il7r	Euarchontoglires
+L1cam	Bilateria
+Nlrp1a	Euteleostomi
+Efna1	Bilateria
+Scnn1g	Bilateria
+Smad2	Bilateria
+Brip1	Eukaryota
+Glipr1	Eukaryota
+Pou4f1	Bilateria
+Hamp	Euteleostomi
+Uhrf1bp1	Euarchontoglires
+Usp18	Eukaryota
+Bglap3	Tetrapoda
+Med23	Eukaryota
+Nfe2l3	Bilateria
+Ucp3	Eukaryota
+Sgk1	Eukaryota
+Tbx2	Bilateria
+Ttf1	Opisthokonta
+Thbs1	Bilateria
+Rere	Bilateria
+Ptch1	Opisthokonta
+Tead4	Opisthokonta
+Il23a	Euarchontoglires
+Ptf1a	Bilateria
+Pax9	Bilateria
+Serpinb5	cellular organisms
+Rgcc	Euarchontoglires
+Tfdp2	Eukaryota
+Lin9	Eukaryota
+Lamb1	Bilateria
+Myh10	Eukaryota
+Olfr151	Amniota
+Il15	Boreoeutheria
+Atoh8	Bilateria
+Ezh2	Eukaryota
+Nr1d1	Bilateria
+Foxn4	Opisthokonta
+Pax4	Eukaryota
+Pax2	Bilateria
+Atf6	Eukaryota
+Zbtb18	Opisthokonta
+Gcfc2	Eukaryota
+Crtc1	Bilateria
+Insm1	Bilateria
+St8sia2	Eukaryota
+Dcst1	Bilateria
+Jazf1	Opisthokonta
+Nr4a1	Bilateria
+Cd5l	Bilateria
+Cdca7	Boreoeutheria
+Pdyn	Boreoeutheria
+Dnase2a	Bilateria
+Scgb1a1	Boreoeutheria
+Suv39h1	Eukaryota
+Dct	Euteleostomi
+Sox2	Eukaryota
+Ccl5	Amniota
+Tnfrsf18	Euarchontoglires
+Sparc	Bilateria
+Nfic	Bilateria
+Ilf2	Bilateria
+Sftpa1	Euteleostomi
+Ubtfl1	Opisthokonta
+Agrp	Boreoeutheria
+Dkk1	Amniota
+Zbtb7b	Opisthokonta
+Plin1	Boreoeutheria
+Tmem159	Euarchontoglires
+Tgfb3	Bilateria
+Rac1	Eukaryota
+Fos	Bilateria
+Cldn11	Euteleostomi
+Csf1	Euarchontoglires
+Hbb-bs	Euteleostomi
+Gabre	Bilateria
+Alx1	Eukaryota
+Llgl2	Opisthokonta
+Becn1	Eukaryota
+Pgr	Bilateria
+Kif2a	Eukaryota
+Idh1	cellular organisms
+Ids	cellular organisms
+Dr1	Eukaryota
 Pnp	cellular organisms
-Ang2	Euteleostomi
-Chd8	cellular organisms
-Sall2	Opisthokonta
-Mmp14	Eukaryota
-Cebpe	Bilateria
-Slc22a17	Bilateria
-Myh7	Eukaryota
-Nrl	Euteleostomi
-Psme2	Eukaryota
-Irf9	Amniota
+Nfatc2	Boreoeutheria
+Zfp410	Opisthokonta
+Nkx6-1	Eukaryota
+Arl6ip5	Eukaryota
+Polr2f	cellular organisms
+Pou1f1	Eukaryota
+Hsd3b1	cellular organisms
+Ccnb1	Eukaryota
+Nkx2-2	Eukaryota
+Pde4c	Eukaryota
+Guca2a	Euarchontoglires
+Gnrh1	Amniota
+E2f5	Eukaryota
+Fasl	Amniota
+H2-DMa	Euteleostomi
 Tgm1	Amniota
-Adcy4	Eukaryota
+Mafk	Euteleostomi
+Sall1	Opisthokonta
+Nampt	Euarchontoglires
+Hoxa3	Bilateria
+Vwf	Bilateria
+Lmx1b	Eukaryota
+Ifnb1	Boreoeutheria
+Slc12a3	Eukaryota
+Nr2f6	Bilateria
+Osm	Boreoeutheria
+Usp17la	Eukaryota
+Tnfsf15	Amniota
+Elp3	cellular organisms
+Tnfrsf11b	Amniota
+Nsd1	Eukaryota
+Klf8	Eukaryota
+Klf13	Opisthokonta
+Matn1	Bilateria
+Runx1	Bilateria
+Dmrta1	Bilateria
+Foxo4	Opisthokonta
+Mbd3	Euarchontoglires
+Pgk2	cellular organisms
+Pde6a	Eukaryota
+Msi1	Eukaryota
+Cd44	Boreoeutheria
+Ces1d	cellular organisms
+Zhx2	Euarchontoglires
+Fabp6	Bilateria
+Cd80	Boreoeutheria
+Atp6v1e2	Eukaryota
+Helt	Eukaryota
+Reck	Euteleostomi
+Bbc3	Euarchontoglires
+Fbxw7	Eukaryota
+Pten	Eukaryota
+Cyp2e1	cellular organisms
+Akt1	Eukaryota
+Calcoco2	Euteleostomi
+Spi1	Bilateria
+Npc1	Opisthokonta
+Phox2a	Eukaryota
+Dsg2	Bilateria
+Thrsp	Euteleostomi
+Oprk1	Bilateria
+Kcnip2	Eukaryota
+Ibsp	Amniota
+Scgb3a2	Euarchontoglires
+Nr3c1	Bilateria
+Crisp3	Eukaryota
+Cd19	Euarchontoglires
+Nfe2l2	Bilateria
+Tyr	Bilateria
+Col4a2	Bilateria
+Notch1	Eukaryota
+Gtf2b	cellular organisms
+Rora	Bilateria
+Ezh1	Eukaryota
+Ltb	Boreoeutheria
+Odc1	cellular organisms
+Dll4	Eukaryota
+Atf2	Eukaryota
+Srrt	Eukaryota
+Dctn6	Eukaryota
+Fam162a	Bilateria
+Tnfrsf12a	Euarchontoglires
+Plagl1	Euteleostomi
+Cd72	Euarchontoglires
+Fgf10	Bilateria
+Cftr	cellular organisms
+Srr	cellular organisms
+Jdp2	Bilateria
+Csf3	Amniota
+Casp12	Bilateria
+Prdx3	cellular organisms
+Rorc	Bilateria
+Arntl	Eukaryota
+Rig1	Bilateria
+Nt5e	cellular organisms
+Esrrg	Bilateria
+Il18r1	Bilateria
+Ascl1	Bilateria
+Foxa3	Opisthokonta
+Ide	cellular organisms
+Ei24	Eukaryota
+Kcnn3	Bilateria
+Zyx	Eukaryota
+Eno2	cellular organisms
+Bcl3	cellular organisms
+Cebpa	Bilateria
+Mycn	Bilateria
+Pdk4	cellular organisms
+Thrb	Bilateria
+Cyp4a12b	cellular organisms
+Ucp2	Eukaryota
+Pcsk1	cellular organisms
+Asrgl1	cellular organisms
+Dlx6	Bilateria
+Cxcl5	Euteleostomi
+Phgdh	cellular organisms
+Ccng2	Eukaryota
+Ccna1	Eukaryota
+Wnt10a	Bilateria
+Ppm1d	Eukaryota
+Cdk5	Eukaryota
+Ifnl3	Amniota
+Trim28	Eukaryota
+Prdm16	Bilateria
+Slc27a1	cellular organisms
+Gata5	Opisthokonta
+Trp73	Euteleostomi
+Mbd2	Eukaryota
+Il1rn	Boreoeutheria
+Prmt1	cellular organisms
+Chd8	cellular organisms
+Cbl	Bilateria
+Dpp6	cellular organisms
+Cdh11	Bilateria
+Mmp7	Eukaryota
+Arid5b	Eukaryota
+Six3	Eukaryota
+H2-Oa	Euteleostomi
+Igfbp2	Euteleostomi
+Plk4	Eukaryota
+Ostn	Euarchontoglires
+Gabpb1	cellular organisms
+Sgpp1	Eukaryota
+Ovol1	Bilateria
+Arid3a	Eukaryota
+Per2	Bilateria
+Rxrb	Bilateria
+Apex1	cellular organisms
+Tsc22d3	Bilateria
+Gdf15	Bilateria
+Cyp2d9	cellular organisms
+Npas4	Bilateria
+G6pc2	Euteleostomi
+Ifne	Amniota
+Tfb1m	cellular organisms
+Gls2	cellular organisms
+Rfx2	Opisthokonta
+Mavs	Euarchontoglires
+Nkx2-9	Eukaryota
+Nkx3-1	Eukaryota
+Hrasls5	Euteleostomi
+Spib	Bilateria
+Foxf1	Opisthokonta
+Irf9	Amniota
+Nkd2	Bilateria
+Creld2	Bilateria
+Mkx	Eukaryota
+Lipc	Bilateria
+Stat6	Eukaryota
+Fgf2	Bilateria
+Gdf10	Bilateria
+Myog	Bilateria
+Fmr1	Bilateria
+Nr1h2	Bilateria
+Cux2	Eukaryota
+Pax6	Opisthokonta
+Siva1	Euarchontoglires
+Psat1	cellular organisms
+Penk	Boreoeutheria
+Elane	Bilateria
+Cyp26b1	cellular organisms
+Utrn	Eukaryota
+Slc2a3	cellular organisms
+Tnf	Boreoeutheria
+Egr2	Opisthokonta
+Foxl2	Opisthokonta
+Rbl1	Eukaryota
+Axl	Eukaryota
+Pagr1a	Boreoeutheria
+Hoxc13	Bilateria
+Sox9	Eukaryota
+Kif17	Eukaryota
+Gpam	cellular organisms
+Avp	Amniota
+Hoxc8	Eukaryota
+Myl2	Eukaryota
+Siah1b	Eukaryota
+Wnt3a	Bilateria
+Creb3l1	Eukaryota
+Nfkb2	Eukaryota
+Npr1	Eukaryota
+Nr2c1	Bilateria
+Apaf1	Eukaryota
+Ebi3	Amniota
+Gtf2ird1	Boreoeutheria
+Stk40	Eukaryota
+Pmel	Amniota
+Timp2	Bilateria
+Arntl2	Eukaryota
+Zbtb20	Opisthokonta
+Pla2g4a	Eukaryota
+Gja3	Euteleostomi
+Gstp1	Eukaryota
+Socs3	Amniota
+Tmem50a	Eukaryota
+Slco1b2	Eukaryota
+Sertad1	Euarchontoglires
+Smarce1	Eukaryota
+Ndor1	cellular organisms
+Fcer1a	Boreoeutheria
+Mcm5	cellular organisms
+Nr1i3	Bilateria
+Il2ra	Boreoeutheria
+Nr3c2	Bilateria
+Foxi1	Opisthokonta
+Slc7a11	cellular organisms
+Tnfrsf17	Euarchontoglires
+Grik2	Eukaryota
+Smarcc1	Eukaryota
+Tbx18	Bilateria
+Dbi	Eukaryota
+Cd4	Euarchontoglires
+Ece1	Bilateria
+Sorbs1	Eukaryota
+Bcl6b	Bilateria
+Gdnf	Euteleostomi
+Trem1	Boreoeutheria
+Heph	Eukaryota
+Sall4	Opisthokonta
+Lfng	Bilateria
+Nfia	Bilateria
+Rnls	Euarchontoglires
+Mef2c	Eukaryota
+Dab2	Bilateria
+Maf	Euteleostomi
+Esrrb	Bilateria
+Igf2	Amniota
+Itga4	Eukaryota
+Ccne1	Eukaryota
+Acss2	cellular organisms
+Des	Bilateria
+Rarg	Bilateria
+Tap1	cellular organisms
+Mmp3	Eukaryota
+Zfp281	Bilateria
+Oxt	Amniota
+Rfx4	Opisthokonta
+H19	Eukaryota
+Slc6a3	cellular organisms
+Ankrd1	cellular organisms
+Foxp1	Opisthokonta
+Pomc	Boreoeutheria
+Itgae	Bilateria
+Skp2	Eukaryota
+Nppb	Amniota
+Angptl4	Bilateria
+Gclc	Eukaryota
+Ptprz1	Eukaryota
+Id1	Bilateria
+H2-Ea-ps	Euteleostomi
+Xrcc1	Eukaryota
+Hcrt	Boreoeutheria
+Apoc3	Boreoeutheria
+Tsg101	Eukaryota
+Ptpn1	Eukaryota
+Ncoa6	Euarchontoglires
+Pygo2	Bilateria
+Plau	Bilateria
+Maoa	Eukaryota
+Cd1d2	Amniota
+Dnmt1	cellular organisms
+Abcc6	cellular organisms
+Elf2	Bilateria
+Gata4	Eukaryota
+Ilk	Eukaryota
+Hltf	cellular organisms
+Apc	Bilateria
+Gria1	cellular organisms
+Zfp335	Bilateria
+Ppp1r3b	Opisthokonta
+Myd88	Bilateria
+Hba-x	Euteleostomi
+Slc10a2	cellular organisms
+Il5	Boreoeutheria
+Ahr	Bilateria
+Ptk2	Eukaryota
+Klf6	Opisthokonta
+Ret	Eukaryota
+Efnb2	Bilateria
+Pdk2	Eukaryota
+Rictor	Eukaryota
+Tsc1	Euarchontoglires
+Pou2f2	Bilateria
+Fgfr4	Eukaryota
+Atp11c	cellular organisms
+Gfap	Bilateria
+Adipoq	Bilateria
+Fam3b	Euteleostomi
+Adgrb1	Bilateria
+Slc2a1	cellular organisms
+Bad	Euarchontoglires
+Eras	Eukaryota
+Nelfcd	Bilateria
+Cry1	cellular organisms
+Itgam	Bilateria
+Ccnd1	Eukaryota
+Tph2	cellular organisms
+Cldn7	Euteleostomi
+Myoz1	Boreoeutheria
+Sin3b	Eukaryota
+Fkbp5	cellular organisms
+Tnfsf10	Amniota
+Eomes	Bilateria
+Gata2	Opisthokonta
+Nkx2-1	Eukaryota
+Creb3l4	Bilateria
+Col1a1	Euteleostomi
+Six2	Eukaryota
+Cyp8b1	cellular organisms
+Tfam	Eukaryota
+Col4a1	Bilateria
+Mylk	Eukaryota
+Ptges2	Euteleostomi
+Art1	Amniota
+Ltf	Euteleostomi
+Nr1d2	Bilateria
+Col2a1	Euteleostomi
+Plin2	Bilateria
+Ptpn6	Eukaryota
+Smad6	Bilateria
+Tpsab1	Bilateria
+Aatf	Eukaryota
+Cd5	Boreoeutheria
+Cacna1c	Eukaryota
+Dctn2	Eukaryota
+Pdzk1ip1	Boreoeutheria
+Elovl5	Eukaryota
+Itgb3	Bilateria
+Bcl2l11	Euarchontoglires
+Cyp7a1	cellular organisms
+Slc27a5	cellular organisms
+Aqp2	cellular organisms
+Etv3	Bilateria
+Glul	cellular organisms
+C1qb	Euteleostomi
+Atoh1	Bilateria
+Tcf20	Eukaryota
+Psme2	Eukaryota
+Sh3bp2	Eukaryota
+Hoxa2	Bilateria
+Grem1	Euteleostomi
+Msr1	Bilateria
+Tlr3	Eukaryota
+Krt8	Bilateria
+Cd55	Bilateria
+Pttg1ip	Euarchontoglires
+Tbpl1	cellular organisms
+Pdgfa	Euteleostomi
+Thbd	Bilateria
+Prtn3	Bilateria
+Pax5	Bilateria
+Kdm5a	Eukaryota
+Myl6	Eukaryota
+Epas1	Bilateria
+Foxm1	Opisthokonta
+Barhl1	Bilateria
+Zbtb32	Opisthokonta
+Pde6b	Eukaryota
+Irf6	Amniota
+Cyr61	Amniota
+Edn1	Boreoeutheria
+Onecut1	Bilateria
+Kcnv2	cellular organisms
+Retnla	Boreoeutheria
+Pou3f2	Opisthokonta
+Myl9	Eukaryota
+Fabp4	Bilateria
+Sesn1	Eukaryota
+Bhlhe40	Eukaryota
+Cul2	Eukaryota
+Jak2	Eukaryota
+Apoa5	Euteleostomi
+Lhx6	Eukaryota
+Gcm2	Bilateria
+Enpp1	Opisthokonta
+Il3	Euarchontoglires
+Lhx4	Eukaryota
+Ddr2	Eukaryota
+Ctsl	Eukaryota
+Mgst1	Boreoeutheria
+Hbegf	Amniota
+Gstk1	Bilateria
+Nr2e3	Bilateria
+Fth1	Eukaryota
+Lxn	Amniota
+Foxc2	Opisthokonta
+Rela	Bilateria
+Calm1	Eukaryota
+Nostrin	Eukaryota
+Acaca	cellular organisms
+Omp	Euarchontoglires
+Ccnb2	Eukaryota
+Hmgcs2	cellular organisms
+Pcsk2	cellular organisms
+Sox4	Eukaryota
+Ybx1	cellular organisms
+Ndn	Boreoeutheria
+Nudt1	Euteleostomi
+Spen	Eukaryota
+Itgb6	Bilateria
+Muc1	Boreoeutheria
+Meox1	Bilateria
+Ssb	Eukaryota
+Rcan1	Bilateria
+Mtor	Eukaryota
+Prdm8	Bilateria
+Muc2	Bilateria
+Rchy1	Eukaryota
+Etv1	Bilateria
+Satb2	Bilateria
+Alox5	cellular organisms
+Ctse	Eukaryota
+Six1	Eukaryota
+S1pr5	Euteleostomi
+Sgca	Boreoeutheria
+Mgat5b	Bilateria
+Fancc	Boreoeutheria
+Sla2	Bilateria
+Cav3	Bilateria
+Nes	Eukaryota
+Tcirg1	cellular organisms
+Cxcl10	Euteleostomi
+Fgf15	Euteleostomi
+Col11a1	Bilateria
+Pigr	Boreoeutheria
+Cxcl9	Euteleostomi
+Dgcr8	Boreoeutheria
+Med6	Eukaryota
+Acsbg1	cellular organisms
+Itga5	Bilateria
+Ctr9	cellular organisms
+Pthlh	Euteleostomi
+Smurf2	Eukaryota
+D7Ertd443e	Euarchontoglires
+Cd34	Euarchontoglires
+Lrp5	Bilateria
+Casp8ap2	Euarchontoglires
+Ccl12	Amniota
+Apom	Euarchontoglires
+Morf4l1	Eukaryota
+Txnrd1	cellular organisms
+Ebf1	Bilateria
+Rnf141	Eukaryota
+Myf6	Bilateria
+Epcam	Amniota
+Myom3	Bilateria
+Fabp7	Bilateria
+Cxcl15	Amniota
+Ncor2	Eukaryota
+Hoxd13	Opisthokonta
+Il6	Amniota
+Otx1	Eukaryota
+Dnajc2	cellular organisms
+Snai2	Bilateria
+Retsat	Eukaryota
+Postn	Eukaryota
+Ets1	Bilateria
+Tbx20	Bilateria
+Cited2	Tetrapoda
+Col5a1	Euteleostomi
+Kpna2	Eukaryota
+Prf1	Boreoeutheria
+Txnrd2	cellular organisms
+Runx2	Bilateria
+Igll1	Amniota
+Akip1	Euarchontoglires
+Hst1	Bilateria
+Bmp6	Bilateria
+Smtnl1	Eukaryota
+Dlx1	Bilateria
+Tspo	cellular organisms
+Ddx5	cellular organisms
+Gys2	Eukaryota
+Proc	Bilateria
+Pglyrp1	Bilateria
+Abcb1b	cellular organisms
+Hoxb8	Eukaryota
+Pla2g6	cellular organisms
+Pcbp2	Eukaryota
+Tdgf1	Amniota
+Gabra6	Bilateria
+Pdhx	cellular organisms
+Pla2g16	Euteleostomi
+Sp4	Eukaryota
+Bhmt	cellular organisms
+Tbx15	Bilateria
+Mzf1	Euteleostomi
+Rc3h1	Bilateria
+Mpo	Eukaryota
+Krt14	Bilateria
+Vegfb	Euteleostomi
+Gfpt2	cellular organisms
+Esrra	Bilateria
+Rps6ka5	Eukaryota
+Map1a	Bilateria
+Jarid2	Eukaryota
+Prdx1	cellular organisms
+Plin5	Bilateria
+Zfpm1	Opisthokonta
+Cxcl1	Euteleostomi
+Prrx2	Eukaryota
+Tfdp1	Eukaryota
+Vim	Bilateria
+Myh7	Eukaryota
+Mdc1	Opisthokonta
+Lmx1a	Eukaryota
+Nf1	Eukaryota
+Lmo4	Eukaryota
+Kras	Eukaryota
+Scd1	Eukaryota
+Klf7	Opisthokonta
+H2afz	Eukaryota
+Rlim	Eukaryota
+Epha4	Eukaryota
+Slc22a17	Bilateria
+Mcm6	cellular organisms
+Prph2	Amniota
+Hoxd3	Bilateria
+Chst11	Euteleostomi
+Abcc3	cellular organisms
+Barx1	Bilateria
+Pmaip1	Euarchontoglires
+Erbb2	Eukaryota
+Ampd1	cellular organisms
+Macc1	Euteleostomi
+Wnt1	Bilateria
+Gcg	Amniota
+Itga6	Eukaryota
+Kcnj3	Bilateria
+Apod	cellular organisms
+Akr1b8	cellular organisms
+Pou4f3	Opisthokonta
+Cyp7b1	cellular organisms
+Snrpn	Eukaryota
+Tbx21	Bilateria
+Tlr2	Eukaryota
+Tcf19	Euarchontoglires
+Sphk2	Eukaryota
+Dcst2	Bilateria
+Ltbr	Boreoeutheria
+Nrip1	Euarchontoglires
+Bglap2	Euteleostomi
+Prnp	Amniota
+Fezf2	Bilateria
+Il2	Boreoeutheria
+Arid3b	Eukaryota
+H2-Eb1	Euteleostomi
+Ripply3	Euteleostomi
+Emsy	Eukaryota
+Drd1	Bilateria
+Pdcd1	Euarchontoglires
+Zfp277	Eukaryota
+Cyp3a41a	cellular organisms
+Col5a3	Bilateria
+Nrp2	Eukaryota
+Ecm1	Euarchontoglires
+Pbx1	Eukaryota
+Msx1	Bilateria
+Zfp384	Bilateria
+Shbg	Boreoeutheria
+Depdc1b	Euteleostomi
+Smc3	cellular organisms
+Smad7	Bilateria
+Ccl22	Amniota
+Bcl2	Euteleostomi
+Sim1	Bilateria
+Il1b	Boreoeutheria
+Ptpn4	Eukaryota
+Zhx3	Bilateria
+Hoxa10	Eukaryota
+Tnk1	Eukaryota
+Skil	Bilateria
+Esr2	Bilateria
+Mbd1	Eukaryota
+Vsx2	Eukaryota
+Otp	Eukaryota
+Bhlhe23	Bilateria
+Sele	Bilateria
+Nfatc2ip	Euteleostomi
+Abcb11	cellular organisms
+Gjd3	Euteleostomi
+Rbp3	Boreoeutheria
+Hnrnpa1	Eukaryota
+Ccl7	Amniota
+Lhx3	Eukaryota
+E2f8	Eukaryota
+Rap1b	Eukaryota
+Fgfbp1	Amniota
+Reep5	Eukaryota
+Brca1	Eukaryota
+Nfyc	Eukaryota
+Evpl	Euarchontoglires
+Tlr4	Eukaryota
+Hes6	Bilateria
+Gabrb3	cellular organisms
+Tfe3	Eukaryota
+Tyms	cellular organisms
+Tshz1	Bilateria
+Soat2	Eukaryota
+Mmp12	Eukaryota
+Myh4	Eukaryota
+Gsk3b	Eukaryota
+Foxp2	Opisthokonta
+Mmp2	Eukaryota
+Stk39	cellular organisms
+Mcm8	cellular organisms
+Men1	Boreoeutheria
+Arnt	Opisthokonta
+Slc20a1	cellular organisms
+Foxj3	Opisthokonta
+Chrne	cellular organisms
+Fgf7	Bilateria
+Ccnd3	Eukaryota
+Hoxd1	Bilateria
+Stat1	Eukaryota
+Cdon	Bilateria
+Tyrobp	Boreoeutheria
+Whsc1l1	Eukaryota
+Krt13	Bilateria
+Nab2	Bilateria
+Zbtb38	Bilateria
+Csrp3	Eukaryota
+Reg3b	Euteleostomi
+Lipe	cellular organisms
+Hrc	Euarchontoglires
+Chd1	cellular organisms
+Btg2	Eukaryota
+Foxd1	Opisthokonta
+Ctsk	Eukaryota
+Lmo2	Eukaryota
+Cd14	Bilateria
+Col3a1	Euteleostomi
+Pmp2	Bilateria
+Tfcp2	Bilateria
+Tcf7l2	Opisthokonta
+Trim13	Eukaryota
+Acta2	Eukaryota
+Parp1	Eukaryota
+Brca2	Eukaryota
+Gsta1	Eukaryota
+Nhlh2	Bilateria
+Dmrt2	Bilateria
+Ruvbl2	Eukaryota
+Mybl1	Eukaryota
+Setd7	Eukaryota
+Tesc	Eukaryota
+Flt3	Eukaryota
+Ifna1	Amniota
+Heca	Bilateria
+Sfrp1	Bilateria
+Psme3	Eukaryota
+Aicda	Theria
+F7	Bilateria
+Ccl19	Amniota
+Acacb	cellular organisms
+Rnd3	Eukaryota
+Slc9a2	cellular organisms
+Stat4	Eukaryota
+Prm2	Murinae
+En2	Bilateria
+Krt16	Bilateria
+Cd52	Murinae
+Hsf4	Eukaryota
+Nr2c2	Bilateria
+Lss	cellular organisms
+Cyp11b2	cellular organisms
+Il12a	Boreoeutheria
+Sftpd	Euteleostomi
+Il23r	Boreoeutheria
+Pbx4	Eukaryota
+Clec10a	Bilateria
+Ppargc1b	Opisthokonta
+Tbx19	Bilateria
+Sin3a	Eukaryota
+Ren1	Eukaryota
+Nr4a2	Bilateria
+Hmgcl	cellular organisms
+Brinp1	Amniota
+Glis2	Opisthokonta
+Irf4	Amniota
+Anxa8	Eukaryota
+Pias2	Eukaryota
+COX2	Eukaryota
+Ldha	cellular organisms
+Abca1	cellular organisms
+Prop1	Eukaryota
+Nfib	Bilateria
+Tle2	Eukaryota
+Cyp2a5	cellular organisms
+Stim1	Bilateria
+Perp	Euteleostomi
+Zic1	Opisthokonta
+Zic2	Opisthokonta
+Slurp1	Euarchontoglires
+Lgals9	Bilateria
+Rnf11	Eukaryota
+Bmpr1b	Eukaryota
+Wee1	Eukaryota
+Wisp2	Amniota
+Ppp2r5c	Eukaryota
+Adam12	Opisthokonta
+Klf12	Opisthokonta
+Ddx54	cellular organisms
+Fbln1	Eukaryota
+Foxh1	Opisthokonta
+Nrarp	Eukaryota
+Hoxa9	Eukaryota
+Afp	Amniota
+Actg2	Eukaryota
+Olfr17	Amniota
+Runx3	Bilateria
+Akap12	Euarchontoglires
+Pkhd1	Eukaryota
+Gast	Boreoeutheria
+Cirbp	Eukaryota
+Trp63	Euteleostomi
+Clnk	Bilateria
+Tle4	Eukaryota
+Tjp1	Bilateria
+Abcd4	cellular organisms
+Bclaf1	Euarchontoglires
+Map3k7	cellular organisms
+Keap1	Eukaryota
+Dcstamp	Bilateria
+Retn	Boreoeutheria
+Dusp2	cellular organisms
+Myh1	Eukaryota
+Hdac1	cellular organisms
+Slc12a5	Eukaryota
+Klf9	Opisthokonta
+Cd3d	Boreoeutheria
+Ctnnb1	Eukaryota
+Utf1	Euarchontoglires
+Gsc	Eukaryota
+Krt18	Bilateria
+Mlxipl	Bilateria
+Mmp28	Eukaryota
+Xrcc5	Eukaryota
+Hnrnpd	Eukaryota
+Nr1h3	Bilateria
 Nfatc4	Boreoeutheria
-Gzmb	Bilateria
+Trp53	Euteleostomi
+Mmp9	Eukaryota
+Gch1	cellular organisms
+Hmga2	Euarchontoglires
+Nos1	cellular organisms
+Hhex	Eukaryota
+Slc4a9	Eukaryota
+Cxcl12	Tetrapoda
+Kcnb1	cellular organisms
+Tshb	Amniota
+Nfyb	Eukaryota
+Tial1	Eukaryota
+Abl1	Eukaryota
+Ppp1r14a	Euarchontoglires
+Atf3	Bilateria
+Hipk2	Eukaryota
+Tac4	Euarchontoglires
+Hey1	Bilateria
+Rala	Eukaryota
+Cyp39a1	cellular organisms
+Dusp1	Eukaryota
+En1	Bilateria
+Slc6a19	cellular organisms
+Maz	Bilateria
+Pou2f3	Bilateria
+Prrx1	Eukaryota
+Pfkfb3	cellular organisms
+Olig2	Bilateria
+Zhx1	Eukaryota
+Gzf1	Euteleostomi
+Fgf4	Bilateria
+Alox8	cellular organisms
+Cldn4	Euteleostomi
+Nfix	Bilateria
+Hmgcs1	cellular organisms
+Hoxb3	Bilateria
+Samd11	Bilateria
+Napepld	cellular organisms
+Ntn1	Bilateria
+Dot1l	Opisthokonta
+Hsf1	Eukaryota
+Tle3	Eukaryota
+Abhd14a	cellular organisms
+Pdpn	Euarchontoglires
+Dach2	Bilateria
+Sox7	Eukaryota
+Cyp26a1	cellular organisms
+Sp9	Opisthokonta
+Pou3f3	Opisthokonta
+Madcam1	Euarchontoglires
+Mc4r	Bilateria
+Twist1	Bilateria
+Ppara	Bilateria
+Esm1	Euteleostomi
+Robo3	Bilateria
+Foxd3	Opisthokonta
+Ly6a	Euarchontoglires
+Sqstm1	Opisthokonta
+Hoxb4	Eukaryota
+Trim11	Eukaryota
+Notch4	Eukaryota
+Cpox	cellular organisms
+Trim32	Eukaryota
+Thbs2	Bilateria
+Slc51a	Eukaryota
+Plcg2	Eukaryota
+Myod1	Bilateria
+Smad3	Bilateria
+Ncoa4	Euarchontoglires
+Dlx5	Bilateria
+Th	cellular organisms
+Cbfa2t3	Amniota
+Asxl1	Bilateria
+Smad9	Bilateria
+Cdkn1c	Euarchontoglires
+Zbtb33	Opisthokonta
+Irf3	Amniota
+Blnk	Bilateria
+Hmox1	Opisthokonta
+Nfat5	Amniota
+Oprd1	Bilateria
+Pla2g7	Opisthokonta
+Rarb	Bilateria
+Casp6	Bilateria
+Gli1	Eukaryota
+Gins3	Eukaryota
+Nell2	Eukaryota
+Mcm7	cellular organisms
+Ncoa1	Bilateria
+Cebpe	Bilateria
+Zbtb7a	Bilateria
+Amhr2	Eukaryota
+Nacc1	Bilateria
+Tlx3	Bilateria
+Lefty1	Bilateria
+Erg	Bilateria
+Npas1	Bilateria
+Axin1	Bilateria
+Rfx5	Opisthokonta
+Wnt7a	Bilateria
+Casp8	Bilateria
+Ikzf3	Opisthokonta
+Foxq1	Opisthokonta
+Ptcra	Boreoeutheria
+Zfp263	Amniota
+Tnfrsf25	Boreoeutheria
+Dhh	Bilateria
+Fkbp8	Eukaryota
+Isl1	Eukaryota
+Fosl1	Euteleostomi
+Pbx2	Eukaryota
+Pias4	Eukaryota
+Stab1	Eukaryota
+Tcp1	cellular organisms
+Trpm1	Eumetazoa
+Crygd	Euteleostomi
+Cdx4	Bilateria
+Hexim1	Euteleostomi
+Taf4b	Eukaryota
+Ccl20	Amniota
+Atxn3	Eukaryota
+Tert	Eukaryota
+Nhlh1	Bilateria
+Myl1	Eukaryota
+Cd3e	Amniota
+Adipor1	Eukaryota
+Myb	Eukaryota
+Slc6a6	cellular organisms
+Pelp1	Euarchontoglires
+Cdk1	Eukaryota
+Zbtb16	Euteleostomi
+Hdac7	cellular organisms
+Kcnd2	cellular organisms
+Prkra	cellular organisms
+Abcc4	cellular organisms
+Six6	Eukaryota
+Gal3st1	Boreoeutheria
+Wap	Murinae
+Plag1	Bilateria
+Col10a1	Euteleostomi
+Acrv1	Boreoeutheria
+Mepe	Euarchontoglires
+Mafb	Euteleostomi
+Sdha	cellular organisms
+Sdc1	Bilateria
+Srxn1	Eukaryota
+Vav3	Eukaryota
+Tbr1	Bilateria
+Tnfrsf10b	Boreoeutheria
+Elovl3	Eukaryota
+Zscan10	Euteleostomi
+Insl3	Boreoeutheria
+Cnot3	Eukaryota
+Meox2	Bilateria
+Folr1	Amniota
+Tdo2	cellular organisms
+Dck	cellular organisms
+Slc18a2	Bilateria
+Tollip	Eukaryota
+Noct	Eukaryota
+Pappa	cellular organisms
+Neurog1	Bilateria
+Cbx5	Eukaryota
+Cd79a	Boreoeutheria
+Tbx3	Bilateria
+Kitl	Amniota
+Dach1	Bilateria
 Atp12a	cellular organisms
 Cenpj	Euarchontoglires
-Gja3	Euteleostomi
-Fgf9	Bilateria
-Sgcg	Boreoeutheria
-Trim13	Eukaryota
-Gata4	Eukaryota
-Blk	Eukaryota
-Sox7	Eukaryota
-Elp3	cellular organisms
-Clu	Boreoeutheria
-Ebf2	Bilateria
-Gnrh1	Amniota
-Nefl	Bilateria
-Nkx3-1	Eukaryota
-Tnfrsf10b	Boreoeutheria
-Egr3	Opisthokonta
-Slc39a14	Eukaryota
-Sftpc	Boreoeutheria
-Hr	Eukaryota
-Fgf17	Bilateria
-Rb1	Eukaryota
-Tpt1	Eukaryota
-Tnfsf11	Amniota
-Rgcc	Euarchontoglires
-Elf1	Bilateria
-Dach1	Bilateria
-Klf5	Opisthokonta
-Klf12	Opisthokonta
-Lmo7	Eukaryota
-Pou4f1	Eukaryota
-Dct	Euteleostomi
-Sox21	Eukaryota
-Abcc4	cellular organisms
-Slc15a1	cellular organisms
-Zic2	Opisthokonta
-Akap12	Euarchontoglires
-Zbtb2	Opisthokonta
-Esr1	Bilateria
-Vip	Amniota
-Oprm1	Bilateria
-Utrn	Eukaryota
-Plagl1	Euteleostomi
-Hivep2	Opisthokonta
-Cited2	Tetrapoda
-Heca	Bilateria
-Perp	Euteleostomi
-Tnfaip3	Bilateria
-Ifngr1	Boreoeutheria
-Map3k5	Eukaryota
-Bclaf1	Euarchontoglires
-Myb	Eukaryota
-Sgk1	Eukaryota
-Tbpl1	cellular organisms
-Tcf21	Bilateria
-Vnn1	Eukaryota
-Enpp1	Opisthokonta
-Med23	Eukaryota
-Hey2	Bilateria
-Col10a1	Euteleostomi
-Hdac2	cellular organisms
-Lama4	Bilateria
-Sesn1	Eukaryota
-Foxo3	Opisthokonta
-Nr2e1	Bilateria
-Ostm1	Euarchontoglires
-Prdm1	Opisthokonta
-Grik2	Eukaryota
-Sim1	Bilateria
-Nepn	Eukaryota
-Gja1	Euteleostomi
-Fabp7	Bilateria
-Ddit4	Bilateria
-Psap	Amniota
-Unc5b	Bilateria
-Prf1	Boreoeutheria
-Nodal	Bilateria
-Neurog3	Bilateria
-Atoh7	Bilateria
-Sirt1	cellular organisms
-Jmjd1c	Eukaryota
-Egr2	Opisthokonta
-Arid5b	Eukaryota
-Cdk1	Eukaryota
-Tfam	Eukaryota
-Bcr	Eukaryota
-Adora2a	Bilateria
-Mif	Bilateria
-Lss	cellular organisms
-Pttg1ip	Euarchontoglires
-Aire	Eukaryota
-Dnmt3l	Amniota
-Madcam1	Euarchontoglires
-Bsg	Bilateria
-Prtn3	Bilateria
-Elane	Bilateria
-Arid3a	Eukaryota
-Cirbp	Eukaryota
-Mbd3	Eukaryota
-Tcf3	Bilateria
-Onecut3	Bilateria
-Klf16	Opisthokonta
-Dot1l	Opisthokonta
-Amh	Bilateria
-Gadd45b	Boreoeutheria
-Creb3l3	Eukaryota
-Zbtb7a	Bilateria
-Pias4	Eukaryota
-Nfic	Bilateria
-Tle2	Eukaryota
-Sirt6	cellular organisms
-Nfyb	Eukaryota
-Txnrd1	cellular organisms
-Chst11	Euteleostomi
-Rfx4	Opisthokonta
-Cry1	cellular organisms
-Pwp1	Eukaryota
-Timp3	Bilateria
-Ascl1	Bilateria
-Igf1	Euteleostomi
-Spic	Bilateria
-Nr1h4	Bilateria
-Apaf1	Eukaryota
-Elk3	Bilateria
-Nr2c1	Bilateria
-Socs2	Eukaryota
-Dusp6	Eukaryota
-Csl	cellular organisms
-Kitl	Amniota
-Alx1	Eukaryota
-Myf5	Bilateria
-Myf6	Bilateria
-Syt1	Eukaryota
-Csrp2	Eukaryota
-Glipr1	Eukaryota
-Tph2	cellular organisms
-Lrrc10	Eukaryota
-Mdm2	Eukaryota
-Rap1b	Eukaryota
-Il22	Amniota
-Ifng	Amniota
-Grip1	Bilateria
-Hmga2	Euarchontoglires
-Cdk4	Eukaryota
-B4galnt1	Euarchontoglires
-Dctn2	Eukaryota
-Ddit3	Boreoeutheria
-Gli1	Eukaryota
-Lrp1	Bilateria
-Stat6	Eukaryota
-Nab2	Bilateria
-Tac2	Boreoeutheria
-Gls2	cellular organisms
-Mip	cellular organisms
-Stat2	Eukaryota
-Il23a	Euarchontoglires
-Myl6	Eukaryota
-Pmel	Amniota
-Cdk2	Eukaryota
-Mmp19	Eukaryota
-Itga7	Eukaryota
-Neurod4	Bilateria
-Nlrp12	Eukaryota
-Oscar	Boreoeutheria
-Cnot3	Eukaryota
-Pirb	Boreoeutheria
-Il11	Euarchontoglires
-Nlrp2	Eukaryota
-Zim1	Euteleostomi
-Peg3	Amniota
-Slc27a5	cellular organisms
-Trim28	Eukaryota
-Mzf1	Euteleostomi
-Crx	Eukaryota
-Selenow	Euteleostomi
-Bbc3	Euarchontoglires
-Npas1	Bilateria
-Pglyrp1	Bilateria
-Foxa3	Opisthokonta
-Six5	Bilateria
-Fosb	Euteleostomi
-Ppp1r13l	Eukaryota
-Ckm	cellular organisms
-Relb	Bilateria
-Apoe	Euteleostomi
-Nectin2	Bilateria
-Bcl3	cellular organisms
-Pvr	Bilateria
-Kcnn4	Bilateria
-Plaur	Boreoeutheria
-Xrcc1	Eukaryota
-Cd79a	Boreoeutheria
-Pou2f2	Bilateria
-Erf	Bilateria
-Lipe	cellular organisms
-Tgfb1	Bilateria
-Axl	Eukaryota
-Cyp2b10	cellular organisms
-Cyp2b9	cellular organisms
-Cyp2a4	cellular organisms
-Cyp2a5	cellular organisms
-Mia	Amniota
-Sertad1	Euarchontoglires
-Dll3	Eukaryota
-Zfp36	Eukaryota
-Ifnl3	Amniota
-Nfkbib	cellular organisms
-Lgals4	Bilateria
-Ppp1r14a	Euarchontoglires
-Tyrobp	Boreoeutheria
-Aplp1	Bilateria
-Nphs1	Bilateria
-Zbtb32	Opisthokonta
-Etv2	Bilateria
-Hamp	Euteleostomi
-Usf2	Eukaryota
-Fxyd5	Boreoeutheria
-Fxyd1	Boreoeutheria
-Cebpg	Bilateria
-Cebpa	Bilateria
-Tshz3	Bilateria
-Ccne1	Eukaryota
-Zfp819	Euteleostomi
-Spib	Bilateria
-Nr1h2	Bilateria
-Prmt1	cellular organisms
-Irf3	Amniota
-Tead2	Opisthokonta
-Hrc	Euarchontoglires
-Lhb	Amniota
-Ruvbl2	Eukaryota
-Bax	Euteleostomi
-Fgf21	Bilateria
-Dbp	Bilateria
-Sphk2	Eukaryota
-Abcc6	cellular organisms
-Myod1	Bilateria
-Tph1	cellular organisms
-Gtf2h1	Eukaryota
-Ldha	cellular organisms
-Tsg101	Eukaryota
-Csrp3	Eukaryota
-E2f8	Eukaryota
-Htatip2	cellular organisms
-Gas2	Bilateria
-Gabrb3	cellular organisms
-Snrpn	Eukaryota
-Ndn	Boreoeutheria
-Chrna7	cellular organisms
-Klf13	Opisthokonta
-Trpm1	Eumetazoa
-Tjp1	Bilateria
-Mef2a	Eukaryota
-Igf1r	Eukaryota
-Nr2f2	Bilateria
-St8sia2	Eukaryota
-Rlbp1	Eukaryota
-Plin1	Boreoeutheria
-Pex11a	Eukaryota
-Mesp1	Bilateria
-Mesp2	Bilateria
-Anpep	cellular organisms
-Fes	Eukaryota
-Furin	cellular organisms
-Stard5	Eukaryota
-Nox4	Eukaryota
-Tyr	Bilateria
-Eed	Eukaryota
-Crebzf	Euarchontoglires
-Thrsp	Euteleostomi
-Omp	Euarchontoglires
-Emsy	Eukaryota
-Wnt11	Bilateria
-Serpinh1	cellular organisms
-Ucp3	Eukaryota
-Ucp2	Eukaryota
-Phox2a	Eukaryota
-Folr1	Amniota
-Art1	Amniota
-Stim1	Eukaryota
-Hbb-bs	Euteleostomi
-Hbb-bh1	Euteleostomi
-Hbb-y	Euteleostomi
-Usp17le	Eukaryota
-Usp17la	Eukaryota
-Apbb1	Bilateria
-Ilk	Eukaryota
-Olfr17	Amniota
-Akip1	Euarchontoglires
-Zfp143	Bilateria
-Wee1	Eukaryota
-Rnf141	Eukaryota
-Ctr9	cellular organisms
-Dkk3	Amniota
-Arntl	Eukaryota
-Pth	Amniota
-Pde3b	Eukaryota
-Sox6	Eukaryota
-Tmem159	Euarchontoglires
-Scnn1g	Bilateria
-Nfatc2ip	Eukaryota
-Cd19	Euarchontoglires
-Il27	Euarchontoglires
-Nupr1	Euarchontoglires
-Sult1a1	Eukaryota
-Coro1a	Eukaryota
-Mapk3	Eukaryota
-Tbx6	Bilateria
-Kctd13	Eukaryota
-Pagr1a	Boreoeutheria
-Maz	Bilateria
-AI467606	Euarchontoglires
-Ctf1	Euarchontoglires
-Fus	Eukaryota
-Itgam	Bilateria
-Tgfb1i1	Eukaryota
-Slc5a2	cellular organisms
-Tial1	Eukaryota
-Fgfr2	Eukaryota
-Bub3	Eukaryota
-Adam12	Opisthokonta
-D7Ertd443e	Euarchontoglires
-Mgmt	cellular organisms
-Ebf3	Opisthokonta
-Bnip3	Bilateria
-Utf1	Euarchontoglires
-Adam8	Opisthokonta
-Cyp2e1	cellular organisms
-Ifitm5	Euarchontoglires
-Pkp3	Eukaryota
-Hras	Eukaryota
-Irf7	Amniota
-Sct	Amniota
-Deaf1	Bilateria
-Cend1	Euarchontoglires
-Muc2	Bilateria
-Muc5ac	Bilateria
-Tollip	Eukaryota
-Igf2	Amniota
-Ins2	Euteleostomi
-Th	cellular organisms
-Ascl2	Bilateria
-Cdkn1c	Euarchontoglires
-Fgf3	Bilateria
-Fgf4	Bilateria
-Fgf15	Bilateria
-Ccnd1	Eukaryota
-Gal3st1	Boreoeutheria
-Osm	Boreoeutheria
-Lif	Boreoeutheria
-Ewsr1	Eukaryota
-Xbp1	Eukaryota
-Gck	Eukaryota
-Wap	Euarchontoglires
-Igfbp1	Euteleostomi
-Igfbp3	Bilateria
-Upp1	cellular organisms
-Ikzf1	Opisthokonta
-Ddc	cellular organisms
-Grb10	Bilateria
-Egfr	Eukaryota
-Meis1	Eukaryota
-Slc1a4	cellular organisms
-Otx1	Eukaryota
-Fam161a	Tetrapoda
-Rel	Bilateria
-Bcl11a	Opisthokonta
-Hba-x	Euteleostomi
-Fgf18	Bilateria
-Tlx3	Bilateria
-Kcnmb1	Boreoeutheria
-Foxi1	Opisthokonta
-Gabra6	Bilateria
-Pttg1	Boreoeutheria
-Fabp6	Bilateria
-Il12b	Amniota
-Ebf1	Opisthokonta
-Havcr2	Tetrapoda
-Flt4	Eukaryota
-Scgb3a1	Euarchontoglires
-Gfpt2	cellular organisms
-Sqstm1	Opisthokonta
-Ltc4s	Boreoeutheria
-Prop1	Eukaryota
-Ppp2ca	Eukaryota
-Tcf7	Opisthokonta
-Il4	Boreoeutheria
-Il13	Boreoeutheria
-Il5	Boreoeutheria
-Irf1	Amniota
-Csf2	Boreoeutheria
-Il3	Euarchontoglires
-Sparc	Bilateria
-Gria1	cellular organisms
-Hand1	Bilateria
-Trim11	Eukaryota
-Wnt3a	Bilateria
-Wnt9a	Bilateria
-Pemt	Eukaryota
-Srebf1	Eukaryota
-Llgl1	Opisthokonta
-Top3a	cellular organisms
-Aldh3a1	cellular organisms
-Aldh3a2	cellular organisms
-Adora2b	Bilateria
-Ncor1	Eukaryota
-Myocd	Boreoeutheria
-Myh1	Eukaryota
-Myh4	Eukaryota
-Ntn1	Bilateria
-Myh10	Eukaryota
-Per1	Bilateria
-Hes7	Bilateria
-Alox8	cellular organisms
-Kdm6b	Eukaryota
-Trp53	Euteleostomi
-Shbg	Boreoeutheria
-Sox15	Eukaryota
-Tnk1	Eukaryota
-Slc2a4	cellular organisms
-Cldn7	Euteleostomi
-Clec10a	Bilateria
-Bcl6b	Bilateria
-Pelp1	Euarchontoglires
-Pld2	Eukaryota
-Chrne	cellular organisms
-C1qbp	Opisthokonta
-Nlrp1a	Euteleostomi
-Mybbp1a	Opisthokonta
-Itgae	Bilateria
-Tax1bp3	Bilateria
-Mnt	Bilateria
-Srr	cellular organisms
-Hic1	Bilateria
-Inpp5k	Eukaryota
-Ywhae	Eukaryota
-Slc6a4	cellular organisms
-Phf12	Eukaryota
-Foxn1	Opisthokonta
-Vtn	Bilateria
-Ift20	Bilateria
-Nos2	cellular organisms
-Lgals9	Bilateria
-Nf1	Eukaryota
-Suz12	Eukaryota
-Cdk5r1	Bilateria
-Ccl2	Amniota
-Ccl7	Amniota
-Ccl11	Tetrapoda
-Ccl12	Amniota
-Mmp28	Eukaryota
-Ccl5	Tetrapoda
-Ccl9	Amniota
-Hnf1b	Bilateria
-Acaca	cellular organisms
-Aatf	Eukaryota
-Ppm1d	Eukaryota
-Tbx2	Bilateria
-Tbx4	Bilateria
-Brip1	cellular organisms
-Rps6kb1	Eukaryota
-Mpo	Eukaryota
-Vezf1	Bilateria
-Hlf	Bilateria
-Tob1	Eukaryota
-Abcc3	cellular organisms
-Col1a1	Euteleostomi
-Sgca	Boreoeutheria
-Pdk2	Eukaryota
-Dlx3	Bilateria
-Tac4	Euarchontoglires
-Ngfr	Amniota
-Phb	Eukaryota
-Calcoco2	Euteleostomi
-Hoxb8	Eukaryota
-Hoxb6	Eukaryota
-Hoxb5	Eukaryota
-Hoxb3	Bilateria
-Hoxb4	Eukaryota
-Hoxb2	Bilateria
-Hoxb1	Bilateria
-Sp2	Opisthokonta
-Tbx21	Bilateria
-Pcgf2	Eukaryota
-Med1	Bilateria
-Neurod2	Bilateria
-Ppp1r1b	Boreoeutheria
-Pnmt	Bilateria
-Erbb2	Eukaryota
-Ikzf3	Opisthokonta
-Csf3	Amniota
-Thra	Bilateria
-Nr1d1	Bilateria
-Cdc6	cellular organisms
-Rara	Bilateria
-Gjd3	Euteleostomi
-Ccr7	Bilateria
-Smarce1	Eukaryota
-Krt13	Bilateria
-Krt19	Eukaryota
-Krt14	Bilateria
-Krt16	Bilateria
-Gast	Boreoeutheria
-Hcrt	Boreoeutheria
-Stat5b	Eukaryota
-Stat5a	Eukaryota
-Stat3	Eukaryota
-Ezh1	Eukaryota
-Becn1	Eukaryota
-Psme3	Eukaryota
-G6pc	Euteleostomi
-Rnd2	Eukaryota
-Brca1	Eukaryota
-Etv4	Bilateria
-Meox1	Bilateria
-Sost	Amniota
-Itga2b	Eukaryota
-Gjc1	Euteleostomi
-Gfap	Bilateria
-Hexim1	Euteleostomi
-Itgb3	Bilateria
-Gh	Euteleostomi
-Cd79b	Euarchontoglires
-Icam2	Boreoeutheria
-Ern1	cellular organisms
-Pecam1	Bilateria
-Ddx5	cellular organisms
-Smurf2	Eukaryota
-Kpna2	Eukaryota
-Axin2	Bilateria
-Sox9	Eukaryota
-Sstr2	Bilateria
-Grb2	Eukaryota
-Llgl2	Opisthokonta
-Itgb4	Eukaryota
-Evpl	Euarchontoglires
-Foxj1	Opisthokonta
-Mgat5b	Bilateria
-Tk1	cellular organisms
-Birc5	Opisthokonta
-Socs3	Amniota
-Timp2	Bilateria
-Aatk	Eukaryota
-Gcgr	Bilateria
-Mafg	Euteleostomi
-Notum	Eukaryota
-Fasn	cellular organisms
-Cd7	Euarchontoglires
-Insr	Eukaryota
-Pcp2	Euarchontoglires
-Retn	Boreoeutheria
-Fcer2a	Bilateria
-Ccl25	Euarchontoglires
-Slc10a2	cellular organisms
-Efnb2	Bilateria
-Tnfsf13b	Euarchontoglires
-Col4a1	Bilateria
-Col4a2	Bilateria
-Ing1	Eukaryota
-F7	Bilateria
-Tfdp1	Eukaryota
-Myom2	Bilateria
-Angpt2	Bilateria
-Defb2	Murinae
-Ckap2	Boreoeutheria
-Ikbkb	cellular organisms
-Sfrp1	Bilateria
-Star	Eukaryota
-Dctn6	Eukaryota
-Dusp4	Eukaryota
-Ppp1r3b	Opisthokonta
-Dlc1	Eukaryota
-Msr1	Bilateria
-Fgf20	Bilateria
-Cnot7	Eukaryota
-Asah1	Eukaryota
-Zfp42	Eukaryota
-F11	Bilateria
-Klkb1	Bilateria
-Tlr3	Eukaryota
-Slc25a4	Eukaryota
-Helt	Eukaryota
-Casp3	Bilateria
-Irf2	Amniota
-Vegfc	Euteleostomi
-Hand2	Bilateria
-Hmgb2	Eukaryota
-Tll1	Eumetazoa
-Nat2	cellular organisms
-Lpl	Bilateria
-Lpar2	Bilateria
-Pbx4	Eukaryota
-Rfxank	cellular organisms
-Comp	Eukaryota
-Crtc1	Bilateria
-Fkbp8	Eukaryota
-Gdf15	Bilateria
-Jund	Eukaryota
-Pde4c	Eukaryota
-Nr2f6	Bilateria
-Slc27a1	cellular organisms
-Jak3	Eukaryota
-Insl3	Boreoeutheria
-Klf2	Opisthokonta
-Sin3b	Eukaryota
-Hmgxb4	Eukaryota
-Hmox1	Opisthokonta
-Mcm5	cellular organisms
-Nr3c2	Bilateria
-Pou4f2	Opisthokonta
-Smad1	Bilateria
-Gypa	Euarchontoglires
-Smarca5	cellular organisms
-Il15	Boreoeutheria
-Ucp1	Eukaryota
-Rfx1	Opisthokonta
-Nanos3	Bilateria
-Nacc1	Eukaryota
-Lyl1	Bilateria
-Nfix	Bilateria
-Calr	Eukaryota
-Klf1	Eukaryota
-Dnase2a	Bilateria
-Mast1	Eukaryota
-Prdx2	cellular organisms
-Junb	Opisthokonta
-Mylk3	Eukaryota
-Zfp423	Bilateria
-Sall1	Opisthokonta
-Rbl2	Eukaryota
-Irx3	Eukaryota
-Irx5	Eukaryota
-Mmp2	Eukaryota
-Ces1d	cellular organisms
-Slc12a3	Eukaryota
-Herpud1	Euteleostomi
-Ccl22	Amniota
-Mmp15	Eukaryota
-Gins3	Eukaryota
-Cdh11	Bilateria
-Cdh5	Bilateria
-Ces2c	cellular organisms
-Hsf4	Eukaryota
-Nol3	Euarchontoglires
-E2f4	Eukaryota
-Hsd11b2	cellular organisms
-Agrp	Boreoeutheria
-Ctcf	Bilateria
-Nfatc3	Amniota
-Cdh1	Bilateria
-Nfat5	Bilateria
-Nqo1	cellular organisms
-Wwp2	Eukaryota
-Calb2	Eukaryota
-Ldhd	cellular organisms
-Cfdp1	Opisthokonta
-Maf	Euteleostomi
-Plcg2	Eukaryota
-Cox4i1	Opisthokonta
-Irf8	Amniota
-Foxf1	Opisthokonta
-Foxc2	Opisthokonta
-Foxl1	Opisthokonta
-Map1lc3b	Eukaryota
-Slc7a5	cellular organisms
-Banp	Euteleostomi
-Zfpm1	Opisthokonta
-Cbfa2t3	Bilateria
-Cdh15	Bilateria
-Acta1	Eukaryota
-Agt	cellular organisms
-Nrp1	Bilateria
-Col1a2	Bilateria
-Pdk4	cellular organisms
-Dlx6	Bilateria
-Dlx5	Bilateria
-Foxp2	Opisthokonta
-Tfec	Bilateria
-Cav1	Bilateria
-Met	Eukaryota
-Cftr	cellular organisms
-Kcnd2	cellular organisms
-Ptprz1	Eukaryota
-Pax4	Eukaryota
-Snd1	Eukaryota
-Lep	Amniota
-Opn1sw	Bilateria
-Irf5	Amniota
-Nrf1	cellular organisms
-Ube2h	Eukaryota
-Akr1b3	cellular organisms
-Akr1b8	cellular organisms
-Akr1b7	cellular organisms
-Cald1	Amniota
-Stra8	Euarchontoglires
-Trim24	Eukaryota
-Hipk2	Eukaryota
-Mgam	cellular organisms
-Gstk1	Bilateria
-Zyx	Eukaryota
-Ezh2	Eukaryota
-Rarres2	Boreoeutheria
-Nfe2l3	Bilateria
-Hnrnpa2b1	Eukaryota
-Hoxa1	Bilateria
-Hoxa2	Bilateria
-Hoxa3	Bilateria
-Hoxa4	Eukaryota
-Hoxa5	Bilateria
-Hoxa7	Eukaryota
-Hoxa9	Eukaryota
-Hoxa10	Eukaryota
-Hoxa11	Eukaryota
-Jazf1	Opisthokonta
-Adcyap1r1	Eukaryota
-Neurod6	Bilateria
-Abcg2	cellular organisms
-Atoh1	Bilateria
-Prdm5	Bilateria
-Mad2l1	Eukaryota
-Gadd45a	Opisthokonta
-Il12rb2	Bilateria
-Il23r	Boreoeutheria
-Fabp1	Bilateria
-Smyd1	Eukaryota
-Cd8a	Boreoeutheria
-St3gal5	Eukaryota
-Atoh8	Bilateria
-Sftpb	Amniota
-Retsat	Eukaryota
-Reg3b	Euteleostomi
-Reg3g	Amniota
-Gcfc2	Eukaryota
-Tlx2	Bilateria
-Lbx2	Eukaryota
-Wbp1	Euarchontoglires
-Actg2	Eukaryota
-Vax2	Eukaryota
-Cyp26b1	cellular organisms
-Egr4	Opisthokonta
-Add2	cellular organisms
-Mxd1	Bilateria
-Gata2	Eukaryota
-Mcm2	cellular organisms
-Klf15	Eukaryota
-Hdac11	cellular organisms
-Wnt7a	Bilateria
-Xpc	Eukaryota
-Slc6a6	cellular organisms
-Nr2c2	Bilateria
-Trh	Euteleostomi
-Arl6ip5	Eukaryota
-Mitf	Eukaryota
-Foxp1	Opisthokonta
-Il5ra	Amniota
-Itpr1	Eukaryota
-Bhlhe40	Eukaryota
-Edem1	Eukaryota
-Cav3	Bilateria
-Ogg1	cellular organisms
-Cidec	Boreoeutheria
-Vhl	Euarchontoglires
-Irak2	Eukaryota
-Syn2	Bilateria
-Pparg	Bilateria
-Raf1	Eukaryota
-Rho	Bilateria
-Alox5	cellular organisms
-Cxcl12	Tetrapoda
-Ret	Eukaryota
-Cacna1c	Eukaryota
-Kdm5a	Eukaryota
-Atp6v1e1	Eukaryota
-Bid	Amniota
-Usp18	Eukaryota
-Aicda	Theria
-Nanog	Eukaryota
-Slc2a3	cellular organisms
-Ptpn6	Eukaryota
-Atn1	Euarchontoglires
-Eno2	cellular organisms
-Cd4	Euarchontoglires
-Zfp384	Bilateria
-Ing4	Eukaryota
-Chd4	cellular organisms
-Ltbr	Boreoeutheria
-Scnn1a	Bilateria
-Vwf	Bilateria
-Kcna5	cellular organisms
-Fgf23	Euteleostomi
-Ccnd2	Eukaryota
-Tead4	Opisthokonta
-Foxm1	Opisthokonta
-Klrb1c	Amniota
-Etv6	Bilateria
-Cdkn1b	Euarchontoglires
-Grin2b	Eukaryota
-Mgp	Amniota
-Ptpro	Eukaryota
-Mgst1	Boreoeutheria
-Lmo3	Eukaryota
-Aebp2	Eukaryota
-Slco1b2	Eukaryota
-Gys2	Eukaryota
-Ldhb	cellular organisms
-St8sia1	Eukaryota
-Sox5	Eukaryota
-Bcat1	cellular organisms
-Kras	Eukaryota
-Bhlhe41	Eukaryota
-Arntl2	Eukaryota
-Pthlh	Euteleostomi
-Ghr	Amniota
-Dab2	Bilateria
-Rictor	Eukaryota
-Gdnf	Euteleostomi
-Skp2	Eukaryota
-Il7r	Euarchontoglires
-C1qtnf3	Euteleostomi
-Slc45a2	Eukaryota
-Rrm2b	cellular organisms
-Klf10	Eukaryota
-Dcstamp	Bilateria
-Zfpm2	Bilateria
-Angpt1	Bilateria
-Trps1	Opisthokonta
-Tnfrsf11b	Amniota
-Has2	Opisthokonta
-Zhx2	Euarchontoglires
-Zhx1	Eukaryota
-Fbxo32	Boreoeutheria
-Sqle	cellular organisms
-Myc	Opisthokonta
-Tg	cellular organisms
-Ndrg1	Eukaryota
-Ptk2	Eukaryota
-Adgrb1	Eukaryota
-Slurp1	Euarchontoglires
-Cyp11b2	cellular organisms
-Ly6a	Euarchontoglires
-Mafa	Euteleostomi
-Scx	Bilateria
-Hsf1	Eukaryota
-Foxh1	Opisthokonta
-Ppp1r16a	cellular organisms
-Ncf4	Eukaryota
-Il2rb	Euarchontoglires
-Rac2	Eukaryota
-Lgals1	Bilateria
-Polr2f	cellular organisms
-Sox10	Eukaryota
-Pla2g6	cellular organisms
-Cbx6	Bilateria
-Atf4	Euteleostomi
-Mchr1	Bilateria
-Ep300	Eukaryota
-Tef	Bilateria
-Xrcc6	Eukaryota
-Srebf2	Eukaryota
-Cyp2d9	cellular organisms
-Tcf20	Eukaryota
-Bik	Euarchontoglires
-Tspo	cellular organisms
-Fbln1	Eukaryota
-Wnt7b	Bilateria
-Ppara	Bilateria
-Gtse1	Euarchontoglires
-Creld2	Bilateria
-Mov10l1	cellular organisms
-Cpt1b	Opisthokonta
-Abcd2	cellular organisms
-Nell2	Eukaryota
-Hdac7	cellular organisms
-Vdr	Bilateria
-Col2a1	Euteleostomi
-Wnt1	Bilateria
-Dhh	Bilateria
-Tmbim6	Eukaryota
-Aqp2	cellular organisms
-Aqp5	cellular organisms
-Smarcd1	Eukaryota
-Atf1	Bilateria
-Tfcp2	Bilateria
-Scn8a	Opisthokonta
-Nr4a1	Bilateria
-Krt5	Bilateria
-Krt8	Bilateria
-Krt18	Bilateria
-Igfbp6	Bilateria
-Soat2	Eukaryota
-Rarg	Bilateria
-Sp7	Opisthokonta
-Sp1	Opisthokonta
-Amhr2	Eukaryota
-Pcbp2	Eukaryota
-Hoxc13	Bilateria
-Hoxc8	Eukaryota
-Hoxc6	Eukaryota
-Cbx5	Eukaryota
-Hnrnpa1	Eukaryota
 Nfe2	Bilateria
-Zfp385a	Euteleostomi
-Itga5	Bilateria
-Casp12	Bilateria
-Mmp13	Eukaryota
-Mmp12	Eukaryota
-Mmp3	Eukaryota
-Mmp1a	Eukaryota
-Mmp10	Eukaryota
-Mmp7	Eukaryota
-Birc2	Eukaryota
-Birc3	Eukaryota
-Yap1	Eukaryota
-Pgr	Bilateria
-Ubtfl1	Opisthokonta
-Zfp26	Euteleostomi
-Col5a3	Bilateria
-Dnmt1	cellular organisms
-Icam1	Boreoeutheria
-Keap1	Eukaryota
-S1pr5	Bilateria
-Cdkn2d	cellular organisms
-Ilf3	Bilateria
-Smarca4	cellular organisms
-Epor	Amniota
-Acp5	Eukaryota
-Npsr1	Bilateria
-Tbx20	Bilateria
-B3gat1	Eukaryota
-Barx2	Bilateria
-Fli1	Bilateria
-Ets1	Bilateria
-Cdon	Bilateria
-Acrv1	Boreoeutheria
-Chek1	Eukaryota
-Ei24	Eukaryota
-Robo3	Bilateria
-Nrgn	Boreoeutheria
-Panx3	Euarchontoglires
-Bsx	Eukaryota
-Pou2f3	Bilateria
-Nectin1	Bilateria
-Thy1	Amniota
-Cbl	Eukaryota
-Hinfp	Opisthokonta
-Dpagt1	cellular organisms
-Hmbs	cellular organisms
-Bcl9l	Euteleostomi
-Cxcr5	Bilateria
-Cd3d	Amniota
-Cd3e	Amniota
-Fxyd2	Boreoeutheria
-Bace1	Eukaryota
-Tagln	Eukaryota
-Apoa1	Euteleostomi
-Apoc3	Boreoeutheria
-Apoa4	Euteleostomi
-Apoa5	Euteleostomi
-Cadm1	Bilateria
-Zbtb16	Euteleostomi
-Drd2	Bilateria
-Ncam1	Bilateria
-Cryab	Bilateria
-Pou2af1	Boreoeutheria
-Atm	Eukaryota
-Npat	Euarchontoglires
-Cyp19a1	cellular organisms
-Acsbg1	cellular organisms
-Crabp1	Bilateria
-Sin3a	Eukaryota
-Cyp1a2	cellular organisms
-Cyp1a1	cellular organisms
-Arid3b	Eukaryota
-Cyp11a1	cellular organisms
-Pml	Bilateria
-Hcn4	Eukaryota
-Nr2e3	Bilateria
-Tle3	Eukaryota
-Pias1	Eukaryota
-Smad3	Bilateria
-Smad6	Bilateria
-Rasl12	Eukaryota
-Slc51b	Boreoeutheria
-Rora	Bilateria
-Gtf2a2	Eukaryota
-Ccnb2	Eukaryota
-Lipc	Bilateria
-Tcf12	Bilateria
-Onecut1	Bilateria
-Bmp5	Bilateria
-Hcrtr2	Bilateria
-Gclc	Eukaryota
-Elovl5	Eukaryota
-Gcm1	Bilateria
-Gsta1	Eukaryota
-Gsta2	Eukaryota
-Myo6	Eukaryota
-Hmgn3	Amniota
-Me1	cellular organisms
-Tbx18	Bilateria
-Nt5e	cellular organisms
-Bcl2a1d	Amniota
-Bcl2a1a	Amniota
-Morf4l1	Eukaryota
-Zic1	Opisthokonta
-Tfdp2	Eukaryota
-Zbtb38	Bilateria
-Foxl2	Opisthokonta
-Sox14	Eukaryota
-Trf	Euteleostomi
-Abhd14a	cellular organisms
-Grm2	Eukaryota
-Cish	Eukaryota
-Rhoa	Eukaryota
-Slc25a20	Eukaryota
-Celsr3	Bilateria
-Cdc25a	Eukaryota
-Map4	Boreoeutheria
-Smarcc1	Eukaryota
-Tdgf1	Bilateria
-Ltf	Euteleostomi
-Glb1	Eukaryota
-Tgfbr2	Eukaryota
-Eomes	Bilateria
-Myd88	Bilateria
-Cx3cr1	Bilateria
-Mobp	Euteleostomi
-Ctnnb1	Eukaryota
-Cck	Chordata
-Cyp8b1	cellular organisms
-Ccr9	Bilateria
-Ccr2	Bilateria
-Il7	Boreoeutheria
-Hey1	Bilateria
-Pag1	Euarchontoglires
-Pmp2	Bilateria
-Fabp4	Bilateria
-E2f5	Eukaryota
-Car1	Eukaryota
-Cyp7b1	cellular organisms
-Crh	Boreoeutheria
-Hltf	cellular organisms
-Tnfsf10	Amniota
-Slc2a2	cellular organisms
-Mecom	Bilateria
-Samd7	Bilateria
-Skil	cellular organisms
-Cldn11	Euteleostomi
-Pik3ca	Eukaryota
-Sox2	Eukaryota
-Ccna2	Eukaryota
-Il2	Boreoeutheria
-Il21	Boreoeutheria
-Fgf2	Bilateria
+Mdm2	Euteleostomi
 Spry1	Bilateria
-Plk4	Eukaryota
-Slc7a11	cellular organisms
-Noct	Eukaryota
-Elf2	Bilateria
-Mgarp	Boreoeutheria
-Setd7	Eukaryota
-Foxo1	Opisthokonta
-Postn	Eukaryota
-Smad9	Bilateria
-Rfxap	Euarchontoglires
-Ccna1	Eukaryota
-Mab21l1	Bilateria
-Wwtr1	Opisthokonta
-Rap2b	Eukaryota
-Mme	Bilateria
-Ptx3	Euteleostomi
-Shox2	Eukaryota
-Lxn	Amniota
-Il12a	Boreoeutheria
-Sis	cellular organisms
-Gria2	cellular organisms
-Tdo2	cellular organisms
-Sfrp2	Bilateria
-Tlr2	Eukaryota
-Fbxw7	Eukaryota
-Mab21l2	Bilateria
-Cd1d1	Amniota
-Cd5l	Bilateria
-Etv3	Bilateria
-Ntrk1	Eukaryota
-Hdgf	Eukaryota
-Crabp2	Bilateria
-Nes	Eukaryota
-Mef2d	Eukaryota
-Bglap3	Euteleostomi
-Bglap2	Euteleostomi
-Bglap	Euteleostomi
-Lmna	Bilateria
-Ash1l	Eukaryota
-Pklr	cellular organisms
-Muc1	Boreoeutheria
-Efna1	Bilateria
-Dcst1	Bilateria
-Dcst2	Bilateria
-Zbtb7b	Opisthokonta
-Cks1b	Eukaryota
-Shc1	Eukaryota
-Pygo2	Bilateria
-Kcnn3	Bilateria
-Il6ra	Amniota
-Creb3l4	Bilateria
-Crtc2	Tetrapoda
-Npr1	Eukaryota
-Ilf2	Bilateria
-S100a9	Amniota
-Sprr2a1	Mus
-Ivl	Euarchontoglires
-Rorc	Bilateria
-Tuft1	Tetrapoda
-Rfx5	Opisthokonta
-Setdb1	Eukaryota
-Arnt	Opisthokonta
-Ctsk	Eukaryota
-Mcl1	Amniota
-Ecm1	Euarchontoglires
-Fcgr1	Bilateria
-Txnip	Opisthokonta
-Pias3	Eukaryota
-Gja5	Euteleostomi
-Bcl9	Euteleostomi
-Notch2	Eukaryota
-Hmgcs2	cellular organisms
-Phgdh	cellular organisms
-Hsd3b4	cellular organisms
-Hsd3b6	cellular organisms
-Hsd3b1	cellular organisms
-Tbx15	Bilateria
-Ttf2	cellular organisms
-Atp1a1	cellular organisms
-Nhlh2	Bilateria
-Ngf	Euteleostomi
-Tshb	Amniota
-Ampd1	cellular organisms
-Alx3	Eukaryota
-Csf1	Euarchontoglires
-Gstm2	Eukaryota
-Sort1	Opisthokonta
-Psrc1	Boreoeutheria
-Vav3	Eukaryota
-Col11a1	Bilateria
-S1pr1	Bilateria
-Vcam1	Bilateria
-Plppr4	Eukaryota
-F3	Boreoeutheria
-Gclm	Eukaryota
-Myoz2	Boreoeutheria
-Neurog2	Bilateria
-Pitx2	Eukaryota
-Egf	Eukaryota
-Casp6	Bilateria
-Lef1	Eukaryota
-Hadh	cellular organisms
-Tet2	Bilateria
-Nfkb1	Eukaryota
-Mttp	Bilateria
-Eif4e	Eukaryota
-Bmpr1b	Eukaryota
-Gbp2	Eukaryota
-Gtf2b	cellular organisms
-Lmo4	Eukaryota
-Acadm	cellular organisms
-Plag1	Bilateria
-Penk	Boreoeutheria
-Cyp7a1	cellular organisms
-Chd7	cellular organisms
-Trp53inp1	Euarchontoglires
-Cdh17	Bilateria
-Runx1t1	Bilateria
-Ripk2	Eukaryota
-Wwp1	Eukaryota
-Prdm13	Opisthokonta
-Pou3f2	Opisthokonta
-Epha7	Eukaryota
-Map3k7	cellular organisms
-Bach2	Bilateria
-Casp8ap2	Euarchontoglires
-Cnr1	Bilateria
-Cga	Theria
-Ddx58	cellular organisms
-Sigmar1	Eukaryota
-Ccl21b	Amniota
-Ccl19	Amniota
-Ccl21a	Amniota
-Cd72	Euarchontoglires
-Creb3	Eukaryota
-Reck	Euteleostomi
-Pax5	Bilateria
-Foxe1	Opisthokonta
-Nr4a3	Bilateria
-Abca1	cellular organisms
-Tal2	Bilateria
-Klf4	Eukaryota
-Kif12	Eukaryota
-Tnfsf15	Amniota
-Tnc	Eukaryota
-Pappa	cellular organisms
-Trim32	Eukaryota
-Tlr4	Eukaryota
-Brinp1	Amniota
-Tyrp1	Bilateria
-Nfib	Bilateria
-Cer1	Tetrapoda
-Plin2	Bilateria
-Mllt3	Eukaryota
-Ifnb1	Boreoeutheria
-Ifna4	Amniota
-Ifna1	Amniota
-Ifne	Amniota
-Cdkn2a	Eukaryota
-Cdkn2b	Eukaryota
-Dmrta1	Bilateria
-Tek	Eukaryota
-Jun	Opisthokonta
-Nfia	Bilateria
-Foxd3	Opisthokonta
-Jak1	Eukaryota
-Pcsk9	cellular organisms
-Rnf11	Eukaryota
-Cdkn2c	cellular organisms
-Foxe3	Opisthokonta
-Tal1	Bilateria
-Pdzk1ip1	Boreoeutheria
-Cyp4a12a	cellular organisms
-Cyp4a12b	cellular organisms
-Dmbx1	Eukaryota
-Prdx1	cellular organisms
-Plk3	Eukaryota
-Dmap1	Eukaryota
-Med8	Bilateria
-Mpl	Amniota
-Ebna1bp2	Eukaryota
-Slc2a1	cellular organisms
-Cldn19	Euteleostomi
-Ybx1	cellular organisms
-Foxj3	Opisthokonta
-Guca2a	Euarchontoglires
-Nfyc	Eukaryota
-Rlf	Opisthokonta
-Heyl	Bilateria
-Pou3f1	Opisthokonta
-Mtf1	Bilateria
-Csf3r	Bilateria
-Stk40	Eukaryota
-Thrap3	Euarchontoglires
-Sfpq	Eukaryota
-Gja4	Euteleostomi
-Hdac1	cellular organisms
-Khdrbs1	Eukaryota
-Tinagl1	Eukaryota
-Matn1	Bilateria
-Ptpru	Eukaryota
-Oprd1	Bilateria
-Taf12	Eukaryota
-Ptafr	Bilateria
-Nr0b2	Bilateria
-Rps6ka1	Eukaryota
-Lin28a	cellular organisms
-Cd52	Murinae
-Trim63	Bilateria
-Stmn1	Amniota
-Paqr7	Eukaryota
-Tmem50a	Eukaryota
-Runx3	Bilateria
-Ncmap	Euarchontoglires
-Myom3	Bilateria
-Hmgcl	cellular organisms
-Id3	Bilateria
-E2f2	Eukaryota
-Ephb2	Eukaryota
-C1qb	Euteleostomi
-Wnt4	Bilateria
-Alpl	cellular organisms
-Ece1	Bilateria
-Eif4g3	Eukaryota
-Kif17	Eukaryota
-Pax7	Bilateria
-Epha2	Eukaryota
-Clcnkb	Eukaryota
-Zbtb17	Euteleostomi
-Spen	Eukaryota
-Pdpn	Euarchontoglires
-Mfn2	Eukaryota
-Plod1	Eukaryota
-Nppb	Euteleostomi
-Nppa	Amniota
-Mtor	Eukaryota
-Tardbp	Eukaryota
-Casz1	Bilateria
-Eno1	cellular organisms
-Rere	Bilateria
-Tnfrsf25	Boreoeutheria
-Trp73	Euteleostomi
-Prdm16	Bilateria
-Hes5	Bilateria
-Ski	Euteleostomi
-Tnfrsf4	Euteleostomi
-Tnfrsf18	Euarchontoglires
-Samd11	Bilateria
-Crem	Bilateria
-Cul2	Eukaryota
-Map3k8	cellular organisms
-Zeb1	Bilateria
-Epc1	Opisthokonta
-Rab18	Eukaryota
-Mkx	Eukaryota
-Gata6	Opisthokonta
-Npc1	Opisthokonta
-Hrh4	Bilateria
-Zfp521	Bilateria
-Taf4b	Eukaryota
-Cdh2	Bilateria
-Dsg4	Bilateria
-Dsg2	Bilateria
-Elp2	Eukaryota
-Proc	Bilateria
-Bin1	Opisthokonta
-Tslp	Euarchontoglires
-Apc	Bilateria
-Reep5	Eukaryota
-Egr1	Opisthokonta
-Pura	Eukaryota
-Hbegf	Bilateria
-Slc4a9	Eukaryota
-Cd14	Bilateria
-Hdac3	cellular organisms
-Fgf1	Bilateria
-Nr3c1	Bilateria
-Pou4f3	Opisthokonta
-Scgb3a2	Euarchontoglires
-Cdo1	cellular organisms
-Sema6a	Bilateria
-Fbn2	Eukaryota
-Cdx1	Bilateria
-Pdgfrb	Eukaryota
-Csf1r	Eukaryota
-Pde6a	Eukaryota
-Ppargc1b	Eukaryota
-Piezo2	Eukaryota
-Rax	Bilateria
-Pmaip1	Euarchontoglires
-Mc4r	Bilateria
-Cidea	Boreoeutheria
-Mc2r	Bilateria
-Tcf4	Bilateria
-Mbd2	Eukaryota
-Dcc	Bilateria
-Smad4	Bilateria
-Mbd1	Bilateria
-Smad7	Bilateria
-Smad2	Bilateria
-Pias2	Eukaryota
-Setbp1	Euarchontoglires
-Nfatc1	Amniota
-Mbp	Amniota
-Tshz1	Bilateria
-Dnmt3a	Eukaryota
-Pomc	Boreoeutheria
-Ncoa1	Bilateria
-Rhob	Eukaryota
-Sdc1	Bilateria
-Osr1	Opisthokonta
-Mycn	Bilateria
-Lpin1	Eukaryota
-Odc1	cellular organisms
-Klf11	Opisthokonta
-Id2	Bilateria
-Rnf144a	Eukaryota
-Sox11	Eukaryota
-Tpo	Eukaryota
-Lamb1	Bilateria
-Hbp1	Eukaryota
-Prkar2b	Eukaryota
-Nampt	Euarchontoglires
-Ferd3l	Bilateria
-Twist1	Bilateria
-Ahr	Bilateria
-Meox2	Bilateria
-Etv1	Bilateria
-Zfp277	Eukaryota
-Foxg1	Opisthokonta
-Nfkbia	Eukaryota
-Insm2	Bilateria
-Nkx2-1	Eukaryota
-Nkx2-9	Eukaryota
-Pax9	Bilateria
-Foxa1	Opisthokonta
-Sec23a	Eukaryota
-Pnn	Opisthokonta
-Ppm1a	Eukaryota
-Six6	Eukaryota
-Six1	Eukaryota
-Six4	Eukaryota
-Hif1a	Bilateria
-Sgpp1	Eukaryota
-Esr2	Bilateria
-Max	Eukaryota
-Arg2	cellular organisms
-Slc10a1	cellular organisms
-Slc8a3	cellular organisms
-Med6	Eukaryota
-Dpf3	Eukaryota
-Psen1	Eukaryota
-Acot1	Euarchontoglires
-Zfp410	Eukaryota
-Vsx2	Eukaryota
-Abcd4	cellular organisms
-Pgf	Euteleostomi
-Fos	Bilateria
-Jdp2	Bilateria
-Batf	Bilateria
-Tgfb3	Bilateria
-Esrrb	Bilateria
-Ngb	cellular organisms
-Gtf2a1	Eukaryota
-Calm1	Eukaryota
-Rps6ka5	Eukaryota
-Fbln5	Bilateria
-Atxn3	Eukaryota
-Gsc	Eukaryota
-Tcl1	Euarchontoglires
-Bcl11b	Opisthokonta
-Yy1	Eukaryota
-Dlk1	Eukaryota
-Ppp2r5c	Eukaryota
-Siva1	Euarchontoglires
-Akt1	Eukaryota
-Mta1	Bilateria
-Ighg2b	Euteleostomi
-Ighm	Amniota
-Sp4	Eukaryota
-Sp8	Opisthokonta
-Macc1	Euteleostomi
-Cdk6	Eukaryota
-Abcb1a	cellular organisms
-Abcb1b	cellular organisms
-Abcb4	cellular organisms
-Dmtf1	Eukaryota
-Hgf	Bilateria
-Sema3c	Bilateria
-Cd36	Eukaryota
-Napepld	cellular organisms
-Dnajc2	cellular organisms
-Reln	Eukaryota
-Nos3	cellular organisms
-Cdk5	Eukaryota
-Smarcd3	Eukaryota
-Dpp6	cellular organisms
-Paxip1	Eukaryota
-Insig1	Opisthokonta
-En2	Bilateria
-Shh	Bilateria
-Mnx1	Bilateria
-Il6	Amniota
-Tyms	cellular organisms
-Cad	cellular organisms
-Zfp513	Bilateria
-Fosl2	Amniota
-Slc5a1	cellular organisms
-Sh3bp2	Eukaryota
-Add1	cellular organisms
-Msx1	Bilateria
-Clnk	Bilateria
-Nkx3-2	Bilateria
-Cd38	Euarchontoglires
-Fgfbp1	Amniota
-Prom1	Bilateria
-Ldb2	Bilateria
-Ppargc1a	Boreoeutheria
-Sod3	Eukaryota
-Rbpj	Opisthokonta
-Klf3	Opisthokonta
-Ube2k	Eukaryota
-Phox2b	Eukaryota
-Tec	Eukaryota
-Gsx2	Bilateria
-Pdgfra	Eukaryota
-Kit	Eukaryota
-Kdr	Eukaryota
-Clock	Bilateria
-Rest	Bilateria
-Epha5	Eukaryota
-Gnrhr	Bilateria
-Sult1e1	Eukaryota
-Csn1s1	Boreoeutheria
-Csn2	Boreoeutheria
-Dck	cellular organisms
-Alb	Amniota
-Afp	Amniota
-Cxcl5	Euteleostomi
-Pf4	Amniota
-Cxcl15	Amniota
-Cxcl1	Euteleostomi
-Cxcl2	Euteleostomi
-Areg	Amniota
-Rchy1	Eukaryota
-Cxcl9	Euteleostomi
-Cxcl10	Euteleostomi
-Shroom3	Bilateria
-Ccng2	Eukaryota
-Cxcl13	Amniota
-Prdm8	Bilateria
-Hnrnpd	Eukaryota
-Nkx6-1	Eukaryota
-Aff1	Euarchontoglires
-Dspp	Euarchontoglires
-Dmp1	Boreoeutheria
-Ibsp	Amniota
-Mepe	Euarchontoglires
-Spp1	Boreoeutheria
-Gfi1	Bilateria
-Mtf2	Eukaryota
-Dr1	Eukaryota
-Pde6b	Eukaryota
-Chek2	Eukaryota
-Ung	cellular organisms
-Acacb	cellular organisms
-Foxn4	Opisthokonta
-Mvk	cellular organisms
-Hnf1a	Bilateria
-Cox6a1	Eukaryota
-Msi1	Eukaryota
-Srrm4	Euteleostomi
-Nos1	cellular organisms
-Tesc	Eukaryota
-Hrk	Euarchontoglires
-Tbx3	Bilateria
-Tbx5	Bilateria
-Ddx54	cellular organisms
-Dtx1	Bilateria
-Oas1g	Boreoeutheria
-Cux2	Eukaryota
-Myl2	Eukaryota
-Atp2a2	cellular organisms
-Il31	Euarchontoglires
-Ncor2	Eukaryota
-Scarb1	Eukaryota
-Ubc	Eukaryota
-Ran	Eukaryota
-Auts2	Euarchontoglires
-Ncf1	Eukaryota
-Gtf2i	Boreoeutheria
-Gtf2ird1	Boreoeutheria
-Eln	Boreoeutheria
-Cldn4	Euteleostomi
-Cldn3	Euteleostomi
-Mlxipl	Bilateria
-Hspb1	Bilateria
-Cux1	Eukaryota
-Serpine1	cellular organisms
-Ache	cellular organisms
-Srrt	Eukaryota
-Epo	Euteleostomi
-Mcm7	cellular organisms
-Zfp157	Euteleostomi
-Pdgfa	Euteleostomi
-Uncx	Eukaryota
-Mafk	Euteleostomi
-Nudt1	cellular organisms
-Lfng	Bilateria
-Rac1	Eukaryota
-Bhlha15	Eukaryota
-Trrap	Eukaryota
-Smurf1	Eukaryota
-Cyp3a41a	cellular organisms
-Cyp3a11	cellular organisms
-Pdx1	Bilateria
-Cdx2	Bilateria
-Flt3	Eukaryota
-Flt1	Eukaryota
-Slc7a1	cellular organisms
-Brca2	Eukaryota
-Sox17	Eukaryota
-Oprk1	Bilateria
-Rb1cc1	Euarchontoglires
-St18	Bilateria
-Mybl1	Eukaryota
-Cops5	Eukaryota
-Ncoa2	Bilateria
-Eya1	Eukaryota
-Msc	Bilateria
-Tfap2d	Bilateria
-Tfap2b	Bilateria
-Pkhd1	Eukaryota
-Il17a	Boreoeutheria
-Il17f	Boreoeutheria
-Mcm3	cellular organisms
-Npas2	Bilateria
-Il1rl1	Bilateria
-Il18r1	Bilateria
-Slc9a2	cellular organisms
-Pou3f3	Opisthokonta
-Fhl2	Eukaryota
-Nck2	Eukaryota
-Col3a1	Euteleostomi
-Col5a2	Bilateria
-Slc40a1	Eukaryota
-Slc39a10	Eukaryota
-Stat4	Eukaryota
-Stat1	Eukaryota
-Nab1	Bilateria
-Mstn	Bilateria
-Satb2	Bilateria
-Cflar	Bilateria
-Casp8	Bilateria
-Bmpr2	cellular organisms
-Ctla4	Amniota
-Icos	Boreoeutheria
-Nrp2	Eukaryota
-Klf7	Opisthokonta
-Creb1	Bilateria
-Crygd	Euteleostomi
-Idh1	cellular organisms
-Map2	Boreoeutheria
-Myl1	Eukaryota
-Ikzf2	Opisthokonta
-Fn1	Bilateria
-Xrcc5	Eukaryota
-Igfbp2	Euteleostomi
-Igfbp5	Bilateria
-Tnp1	Boreoeutheria
-Tns1	Eukaryota
-Cxcr2	Bilateria
-Slc11a1	cellular organisms
-Cyp27a1	cellular organisms
-Wnt10a	Bilateria
-Cdk5r2	Bilateria
-Ihh	Bilateria
-Des	Bilateria
-Inha	Bilateria
-Epha4	Eukaryota
-Pax3	Eukaryota
-Serpine2	cellular organisms
-Irs1	Bilateria
-Ccl20	Amniota
-Ptma	Boreoeutheria
-Inpp5d	Eukaryota
-Sag	Bilateria
-Ugt1a6a	cellular organisms
-Gbx2	Bilateria
-Hes6	Bilateria
-Per2	Bilateria
-Twist2	Bilateria
-Hdac4	cellular organisms
-Pdcd1	Euarchontoglires
-Phlpp1	Eukaryota
-Bcl2	Euteleostomi
-Serpinb5	cellular organisms
-Serpinb2	cellular organisms
-Tfcp2l1	Bilateria
-Gli2	Eukaryota
-Ptpn4	Eukaryota
-Dbi	Eukaryota
-Steap3	Euarchontoglires
-En1	Bilateria
-Acmsd	Eukaryota
-Lct	cellular organisms
-Mcm6	cellular organisms
-Cxcr4	Bilateria
-Cd55	Bilateria
-Pigr	Bilateria
-Il24	Amniota
-Il10	Amniota
-Ctse	Eukaryota
-Mdm4	Euteleostomi
-Kiss1	Euarchontoglires
-Ren1	Eukaryota
-Btg2	Eukaryota
-Adora1	Bilateria
-Myog	Bilateria
-Adipor1	Eukaryota
-Elf3	Bilateria
-Csrp1	Eukaryota
-Zfp281	Bilateria
-Nr5a2	Bilateria
-Ptprc	Eukaryota
-Lhx9	Eukaryota
-Cdc73	Eukaryota
-Pla2g4a	Eukaryota
-Ptgs2	Eukaryota
-Tpr	Opisthokonta
-Rnf2	Eukaryota
-Nmnat2	cellular organisms
-Rgs16	Eukaryota
-Glul	cellular organisms
-Lhx4	Eukaryota
-Nphs2	cellular organisms
-Abl2	Eukaryota
-Rc3h1	Bilateria
-Prdx6	cellular organisms
-Fasl	Amniota
-Fmo3	cellular organisms
-Prrx1	Eukaryota
-Sele	Bilateria
-Sell	Bilateria
-Selp	Bilateria
-Slc19a2	Eukaryota
-Atp1b1	Bilateria
-Tbx19	Bilateria
-Pou2f1	Bilateria
-Lmx1a	Eukaryota
-Pbx1	Eukaryota
-Rgs4	Bilateria
-Ddr2	Eukaryota
-Atf6	Eukaryota
-Fcgr2b	Boreoeutheria
-Fcgr3	Boreoeutheria
-Mpz	Euteleostomi
-Nr1i3	Bilateria
-Fcer1g	Boreoeutheria
-Nectin4	Bilateria
-Usf1	Eukaryota
-Nhlh1	Bilateria
-Pea15a	Euarchontoglires
-Crp	Boreoeutheria
-Fcer1a	Euteleostomi
-Ifi204	Euarchontoglires
-Ifi202b	Euarchontoglires
-Grem2	Euteleostomi
-Zbtb18	Opisthokonta
-Kif26b	Eukaryota
-Tfb2m	cellular organisms
-Parp1	Eukaryota
-Lin9	Eukaryota
-Mixl1	Eukaryota
-Lefty1	Bilateria
-Capn2	Eukaryota
-Hlx	Eukaryota
-Tgfb2	Bilateria
-Esrrg	Bilateria
-Prox1	Bilateria
-Batf3	Euteleostomi
-Atf3	Bilateria
-Irf6	Amniota
-Cd34	Euarchontoglires
-Cr2	Bilateria
-Tfb1m	cellular organisms
-Slc22a1	cellular organisms
-Tcp1	cellular organisms
-Sod2	cellular organisms
-Smoc2	Bilateria
-Thbs2	Bilateria
-Dll1	Eukaryota
-Tbp	cellular organisms
-Chd1	cellular organisms
-Fpr1	Bilateria
-Zfp13	Boreoeutheria
-Zscan10	Euteleostomi
-Tnfrsf12a	Euarchontoglires
-Abca3	cellular organisms
-E4f1	Bilateria
-Pkd1	cellular organisms
-Clcn7	Eukaryota
-Ube2i	Eukaryota
-Cacna1h	Eukaryota
-Sox8	Eukaryota
-Axin1	Bilateria
-Dusp1	Eukaryota
-Nkx2-5	Bilateria
-Bak1	Euteleostomi
-Hmga1	Euarchontoglires
-Spdef	Bilateria
-Uhrf1bp1	Eukaryota
-Zfp523	Opisthokonta
-Ppard	Bilateria
-Fkbp5	cellular organisms
-Mapk14	Eukaryota
-Cdkn1a	Bilateria
-Glp1r	Bilateria
-Abcg1	cellular organisms
-Tff2	Boreoeutheria
-Pknox1	Eukaryota
-Cryaa	Eukaryota
-Notch3	cellular organisms
-Brd4	Eukaryota
-Angptl4	Bilateria
-Daxx	Bilateria
-Tapbp	Amniota
-H2-K1	Amniota
-Rxrb	Bilateria
-Col11a2	Bilateria
-H2-Oa	Euteleostomi
-H2-DMa	Euteleostomi
-H2-DMb1	Euteleostomi
-Tap1	cellular organisms
-Tap2	cellular organisms
-H2-Ob	Euteleostomi
-H2-Ab1	Euteleostomi
-H2-Aa	Euteleostomi
-H2-Eb1	Euteleostomi
-Notch4	Eukaryota
-Pbx2	Eukaryota
-Ager	Bilateria
-Cyp21a1	cellular organisms
-Cfb	Bilateria
-Ehmt2	cellular organisms
-Hspa1b	cellular organisms
-Apom	Euarchontoglires
-Prrc2a	Eukaryota
-Aif1	Eukaryota
-Ltb	Boreoeutheria
-Tnf	Boreoeutheria
-Pou5f1	Eukaryota
-Tcf19	Euarchontoglires
-Mdc1	Opisthokonta
-Zfp57	Bilateria
-Pgk2	cellular organisms
-Crisp3	Eukaryota
-Pla2g7	Opisthokonta
-Cyp39a1	cellular organisms
-Runx2	Bilateria
-Vegfa	Euteleostomi
-Srf	Eukaryota
-Ptcra	Boreoeutheria
-Prph2	Amniota
-Ccnd3	Eukaryota
-Trem1	Boreoeutheria
-Nfya	Eukaryota
-Satb1	Bilateria
-Kat2b	Eukaryota
-Ebi3	Amniota
-Sh3gl1	Eukaryota
-Plin4	Boreoeutheria
-Plin5	Bilateria
-Uhrf1	Eukaryota
-Rfx2	Opisthokonta
-Lama1	Bilateria
-Zbtb14	Bilateria
-Myom1	Bilateria
-Srd5a2	Eukaryota
-Eif2ak2	cellular organisms
-Cebpz	Eukaryota
-Cyp1b1	cellular organisms
-Slc8a1	cellular organisms
-Six3	Eukaryota
-Six2	Eukaryota
-Prkce	Eukaryota
-Epas1	Bilateria
-Atp6v1e2	Eukaryota
-Epcam	Bilateria
-Lhcgr	Bilateria
-Fshr	Bilateria
-Akr1c18	cellular organisms
-Klf6	Opisthokonta
-Pitrm1	Eukaryota
-Ggps1	cellular organisms
-Gli3	Eukaryota
-Rala	Eukaryota
-Elmo1	Eukaryota
-Gpx5	cellular organisms
-Prl	Euteleostomi
-Sox4	Eukaryota
-E2f3	Eukaryota
-Agtr1a	Bilateria
-Irf4	Amniota
-Foxq1	Opisthokonta
-Foxc1	Opisthokonta
-Bmp6	Bilateria
-Tfap2a	Bilateria
-Gcm2	Bilateria
-Nedd9	Eukaryota
-Edn1	Boreoeutheria
-Sirt5	cellular organisms
-Jarid2	Eukaryota
-Id4	Bilateria
-Barx1	Bilateria
-Phf2	Eukaryota
-Nfil3	Bilateria
-Msx2	Bilateria
-Drd1	Bilateria
-Fgfr4	Eukaryota
-Nsd1	Eukaryota
-Mxd3	Bilateria
-F12	Bilateria
-Pitx1	Eukaryota
-Neurog1	Bilateria
-Il9	Euarchontoglires
-Lect2	Bilateria
-Smad5	Bilateria
-Hnrnpk	Eukaryota
-Dapk1	Eukaryota
-Fbp2	cellular organisms
-Fbp1	cellular organisms
-Fancc	Boreoeutheria
-Ptch1	Opisthokonta
-Ctsl	Eukaryota
-Ptdss1	Eukaryota
-Adamts16	Bilateria
-Slc6a3	cellular organisms
-Tert	Eukaryota
-Slc6a19	cellular organisms
-Nkd2	Bilateria
-Slc9a3	cellular organisms
-Sdha	cellular organisms
-Pcsk1	cellular organisms
-Glrx	cellular organisms
-Nr2f1	Bilateria
-Mef2c	Eukaryota
-Edil3	Eukaryota
-Dhfr	cellular organisms
-Bhmt	cellular organisms
-Otp	Eukaryota
-Polk	cellular organisms
-Hmgcr	cellular organisms
-Foxd1	Opisthokonta
-Map1b	Bilateria
-Ocln	Bilateria
-Taf9	Eukaryota
-Ccnb1	Eukaryota
-Pik3r1	Eukaryota
-Htr1a	Bilateria
-Kif2a	Eukaryota
-Depdc1b	Euteleostomi
-Il6st	Bilateria
-Esm1	Euteleostomi
-Isl1	Eukaryota
-Fgf10	Bilateria
-Hmgcs1	cellular organisms
-Zfp131	Bilateria
-Cpt1a	Opisthokonta
-Lrp5	Bilateria
-Tcirg1	cellular organisms
-Gstp1	Eukaryota
-Gstp2	Eukaryota
-Coro1b	Eukaryota
-Kdm2a	Eukaryota
-Pcx	cellular organisms
-Npas4	Bilateria
-Catsper1	Bilateria
-Fosl1	Euteleostomi
-Ovol1	Bilateria
-Kat5	Eukaryota
-Rela	Bilateria
-Fam89b	Boreoeutheria
-Batf2	Eukaryota
-Men1	Boreoeutheria
-Sf1	Eukaryota
-Esrra	Bilateria
-Bad	Euarchontoglires
-Vegfb	Euteleostomi
-Rcor2	Opisthokonta
-Slc3a2	cellular organisms
-Mta2	Bilateria
-Scgb1a1	Boreoeutheria
-Asrgl1	cellular organisms
-Fth1	Eukaryota
-Best1	Bilateria
-Cd5	Boreoeutheria
-Ms4a2	Boreoeutheria
-Tle4	Eukaryota
-Psat1	cellular organisms
-Aldh1a1	cellular organisms
-Aldh1a7	cellular organisms
-Klf9	Opisthokonta
-Fxn	Eukaryota
-Dmrt1	Bilateria
-Dmrt3	Bilateria
-Dmrt2	Bilateria
-Smarca2	cellular organisms
-Kcnv2	cellular organisms
-Rfx3	Opisthokonta
-Glis3	Eukaryota
-Jak2	Eukaryota
-Pdcd1lg2	Boreoeutheria
-Il33	Euarchontoglires
-Dkk1	Amniota
-Pten	Eukaryota
-Acta2	Eukaryota
-Fas	Amniota
-Ch25h	Eukaryota
-Ankrd1	cellular organisms
-Ide	cellular organisms
-Hhex	Eukaryota
-Cyp26a1	cellular organisms
-Rbp4	Amniota
-Cyp2c29	cellular organisms
-Sorbs1	Eukaryota
-Entpd1	Eukaryota
-Blnk	Bilateria
-Dntt	Eukaryota
-Ankrd2	cellular organisms
-Nkx2-3	Bilateria
-Abcc2	cellular organisms
-Scd1	Eukaryota
-Wnt8b	Bilateria
-Pax2	Bilateria
-Tlx1	Bilateria
-Lbx1	Eukaryota
-Fgf8	Bilateria
-Kcnip2	Eukaryota
-Ldb1	Eukaryota
-Elovl3	Eukaryota
-Pitx3	Eukaryota
-Nfkb2	Eukaryota
-Sufu	Euarchontoglires
-Cyp17a1	cellular organisms
-Ins1	Bilateria
-Mxi1	Bilateria
-Smc3	cellular organisms
-Gpam	cellular organisms
-Tcf7l2	Opisthokonta
-Casp7	Bilateria
-Slc18a2	Opisthokonta
-Emx2	Bilateria
-Prdx3	cellular organisms
-Zfp263	Amniota
-Crebbp	Eukaryota
-Glis2	Opisthokonta
-Hmox2	Opisthokonta
-Ciita	Boreoeutheria
-Socs1	Amniota
-Prm2	Murinae
-Tnfrsf17	Euarchontoglires
-Mpv17l	Eukaryota
-Myh11	Eukaryota
-Abcc1	cellular organisms
-Snai2	Bilateria
-Cebpd	Bilateria
-Igll1	Amniota
-Mapk1	Eukaryota
-Gsc2	Bilateria
-Prodh	Eukaryota
-Dgcr8	Boreoeutheria
-Txnrd2	cellular organisms
-Tbx1	Bilateria
-Cldn5	Euteleostomi
-Igf2bp2	cellular organisms
-Etv5	Bilateria
-Adipoq	Bilateria
-Sst	Amniota
-Bcl6	Bilateria
-Trp63	Euteleostomi
-Ostn	Euarchontoglires
-Hes1	Bilateria
-Apod	cellular organisms
-Pcyt1a	cellular organisms
-Slc51a	Eukaryota
-Zfp148	Bilateria
-Mylk	Eukaryota
-Fam162a	Bilateria
-Cd86	Boreoeutheria
-Hcls1	Eukaryota
-Gsk3b	Eukaryota
-Nr1i2	Bilateria
-Cox17	Eukaryota
-Cd80	Boreoeutheria
-Gap43	Amniota
-Zbtb20	Opisthokonta
-Retnla	Boreoeutheria
-Cd47	Boreoeutheria
-Nfkbiz	Eukaryota
-Cpox	cellular organisms
-Riox2	cellular organisms
-Pou1f1	Eukaryota
-Robo1	Bilateria
-Robo2	Bilateria
-Nrip1	Euarchontoglires
-Cxadr	Bilateria
-Gabpa	Bilateria
-App	Bilateria
-Adamts1	Bilateria
-Bach1	Bilateria
-Olig2	Bilateria
-Olig1	Bilateria
-Rcan1	Bilateria
-Runx1	Bilateria
-Sim2	Bilateria
-Ripply3	Euteleostomi
-Dyrk1a	Eukaryota
-Erg	Bilateria
-Ets2	Bilateria
-Pcp4	Boreoeutheria
-Fam3b	Euteleostomi
-Gata3	Eukaryota
-Pfkfb3	cellular organisms
-Il2ra	Boreoeutheria
-Vim	Bilateria
-Mrc1	Bilateria
-Bmi1	Eukaryota
-Spag6	Eukaryota
-Ptf1a	Bilateria
-Il1rn	Boreoeutheria
-Pax8	Bilateria
-Ehmt1	cellular organisms
-Nrarp	Eukaryota
-Ndor1	cellular organisms
-Grin1	cellular organisms
-Ptgds	Amniota
-Lcn5	Amniota
-Lhx3	Eukaryota
-Notch1	Eukaryota
-Dbh	Bilateria
-Rxra	Bilateria
-Col5a1	Euteleostomi
-Gfi1b	Bilateria
-Tsc1	Euarchontoglires
-Barhl1	Bilateria
-Ttf1	Opisthokonta
-Odf2	Bilateria
-Prrx2	Eukaryota
-Ptges	Boreoeutheria
-Abl1	Eukaryota
-Dnm1	Eukaryota
-Lcn2	Amniota
-Ptges2	Euteleostomi
-Cdk9	cellular organisms
-Angptl2	Bilateria
-Lmx1b	Eukaryota
-Hspa5	cellular organisms
-Lhx6	Eukaryota
-Ptgs1	Eukaryota
-Lhx2	Eukaryota
-Nr5a1	Bilateria
-Zeb2	Bilateria
-Rnd3	Eukaryota
-Rif1	Opisthokonta
-Kcnj3	Bilateria
-Nr4a2	Bilateria
-Itgb6	Bilateria
-Tank	Boreoeutheria
-Tbr1	Bilateria
-Gcg	Amniota
-Ifih1	cellular organisms
-Stk39	cellular organisms
-Nostrin	Eukaryota
-G6pc2	Euteleostomi
-Abcb11	cellular organisms
-Ppig	cellular organisms
-Ssb	Eukaryota
-Sp5	Opisthokonta
-Gad1	cellular organisms
-Dlx1	Bilateria
-Dlx2	Eukaryota
-Itga6	Eukaryota
-Pdk1	cellular organisms
-Cdca7	Boreoeutheria
-Sp3	Opisthokonta
-Sp9	Opisthokonta
-Atf2	Eukaryota
-Hoxd13	Opisthokonta
-Hoxd11	Eukaryota
-Hoxd3	Bilateria
-Hoxd4	Bilateria
-Hoxd1	Bilateria
-Nfe2l2	Bilateria
-Prkra	cellular organisms
-Itga4	Eukaryota
-Neurod1	Bilateria
-Frzb	Bilateria
-Calcrl	Bilateria
-Smtnl1	Eukaryota
-Prg2	Euarchontoglires
-Rapsn	Bilateria
-Spi1	Bilateria
-Nr1h3	Bilateria
-Ddb2	Eukaryota
-Mdk	Tetrapoda
-Creb3l1	Eukaryota
-Mapk8ip1	Bilateria
-Cry2	cellular organisms
-Alx4	Eukaryota
-Rag2	Euteleostomi
-Rag1	Opisthokonta
-Slc1a2	cellular organisms
-Cd44	Amniota
-Pdhx	cellular organisms
-Ehf	Bilateria
-Elf5	Bilateria
-Cat	cellular organisms
-Lmo2	Eukaryota
-Wt1	Opisthokonta
-Pax6	Opisthokonta
-Fshb	Amniota
-Bdnf	Euteleostomi
-Grem1	Euteleostomi
-Gjd2	Euteleostomi
-Actc1	Eukaryota
-Meis2	Eukaryota
-Thbs1	Bilateria
-Rad51	cellular organisms
-Dll4	Eukaryota
-Mga	Bilateria
-Epb42	Amniota
-Trp53bp1	Opisthokonta
-Map1a	Bilateria
-Ell3	Bilateria
-Duox2	Eukaryota
-Myef2	Eukaryota
-Fgf7	Bilateria
-Gabpb1	cellular organisms
-Dusp2	cellular organisms
-Adra2b	Bilateria
-Kcnip3	Eukaryota
-Bub1	Eukaryota
-Bcl2l11	Euarchontoglires
-Mertk	Eukaryota
-Slc20a1	cellular organisms
-Il1a	Boreoeutheria
-Il1b	Boreoeutheria
-Pdyn	Boreoeutheria
-Nop56	cellular organisms
-Oxt	Amniota
-Avp	Amniota
-Mavs	Euarchontoglires
-Prnp	Amniota
-Prnd	Boreoeutheria
-Pcna	cellular organisms
-Mcm8	cellular organisms
-Bmp2	Bilateria
-Jag1	Eukaryota
-Pcsk2	cellular organisms
-Bfsp1	Amniota
-Ovol2	Opisthokonta
-Insm1	Bilateria
-Nkx2-2	Eukaryota
-Pax1	Bilateria
-Foxa2	Opisthokonta
-Thbd	Bilateria
-Gzf1	Euteleostomi
-Acss1	cellular organisms
-Vsx1	Eukaryota
-Srxn1	Eukaryota
-Trib3	Eukaryota
-Id1	Bilateria
-Bcl2l1	Bilateria
-Plagl2	Euteleostomi
-Asxl1	Bilateria
-Dnmt3b	Eukaryota
-E2f1	Eukaryota
-Pxmp4	Boreoeutheria
-Itch	Eukaryota
-Ncoa6	Euarchontoglires
-Acss2	cellular organisms
-Myh7b	Eukaryota
-Gdf5	Bilateria
-Myl9	Eukaryota
-Sla2	Bilateria
-Rbl1	Eukaryota
-Src	Eukaryota
-Nnat	Boreoeutheria
-Mafb	Euteleostomi
-Zhx3	Bilateria
-Mybl2	Eukaryota
-Hnf4a	Bilateria
-Rbpjl	Opisthokonta
-Pltp	Eukaryota
-Zfp335	Bilateria
-Mmp9	Eukaryota
-Slc12a5	Eukaryota
-Ncoa5	Euarchontoglires
-Cd40	Amniota
-Eya2	Eukaryota
-Ncoa3	Bilateria
-Kcnb1	cellular organisms
-Snai1	Opisthokonta
-Cebpb	Bilateria
-Ptpn1	Eukaryota
-Nfatc2	Boreoeutheria
-Atp9a	cellular organisms
-Sall4	Opisthokonta
-Zfp64	Bilateria
-Cyp24a1	cellular organisms
-Tfap2c	Bilateria
-Bmp7	Bilateria
-Ctcfl	Euteleostomi
-Pck1	cellular organisms
-Nelfcd	Bilateria
-Gata5	Eukaryota
-Mrgbp	Opisthokonta
-Tcfl5	Euarchontoglires
-Dido1	Eukaryota
-Bhlhe23	Bilateria
-Sox18	Eukaryota
-Sry	Eukaryota
-Foxp3	Opisthokonta
-Syp	Boreoeutheria
-Tfe3	Eukaryota
-Eras	Eukaryota
-Gata1	Eukaryota
-Suv39h1	Eukaryota
-Maoa	Eukaryota
-Ndp	Boreoeutheria
-Timp1	Bilateria
-Elk1	Bilateria
-Upf3b	Eukaryota
-Rhox5	Murinae
-Zbtb33	Opisthokonta
+Vhl	Euarchontoglires
+Hsd11b2	cellular organisms
 Mcts1	cellular organisms
-Xiap	Eukaryota
-Sh2d1a	Bilateria
-Elf4	Bilateria
-Gpc4	Bilateria
-Rbmx	Eukaryota
-Zic3	Opisthokonta
-Atp11c	cellular organisms
-Fmr1	Bilateria
-Ids	cellular organisms
-Gabre	Bilateria
-Cetn2	Eukaryota
-L1cam	Bilateria
-Hcfc1	Eukaryota
-Irak1	Eukaryota
-Mecp2	Eukaryota
-Dmd	Eukaryota
-Nr0b1	Bilateria
-Arx	Bilateria
-Pola1	cellular organisms
-Zfx	Euteleostomi
-Heph	Eukaryota
-Ar	Bilateria
-Arr3	Bilateria
-Foxo4	Opisthokonta
-Nono	Eukaryota
-Cdx4	Bilateria
-Rlim	Eukaryota
-Fgf16	Bilateria
-Tlr13	Eukaryota
-P2ry10	Bilateria
-Itm2a	Amniota
-Pou3f4	Opisthokonta
-Dach2	Bilateria
-Nox1	cellular organisms
-Btk	Eukaryota
-Cldn2	Euteleostomi
-Tsc22d3	Bilateria
-Acsl4	cellular organisms
-Dcx	Eukaryota
-Htr2c	Bilateria
-Kdm5c	Eukaryota
-Gpr143	Euarchontoglires
-Klf8	Eukaryota
-Phex	Bilateria
-Rs1	Eukaryota
-Txlng	Amniota
-Siah1b	Eukaryota
+Hand2	Bilateria
+Dmrt1	Bilateria
+Zfp26	Euteleostomi
+Mrgbp	Opisthokonta
+Nmnat2	Eukaryota
+Hnrnpa2b1	Eukaryota
+Lrp1	Bilateria
+Stmn1	Amniota
+Glp1r	Bilateria
+Hspa1b	cellular organisms
+Myf5	Bilateria
+Sult1e1	Eukaryota
+Srebf2	Eukaryota
+Lbx2	Eukaryota
+Tshz3	Bilateria
+Il1rl1	Bilateria
+Brd4	Eukaryota
+Lct	cellular organisms
+Calcrl	Bilateria
+Cdkn2b	Eukaryota
+Rap2b	Eukaryota
+Calr	Eukaryota
+Bcat1	cellular organisms
+Tgfb2	Bilateria
+Nr5a1	Bilateria
+Acot1	Euarchontoglires
+Atp9a	cellular organisms
+Fxyd5	Boreoeutheria
+Stard5	Bilateria
+St3gal5	Eukaryota
+Notch3	cellular organisms
+Wisp1	Amniota
+Irak2	Eukaryota
+Kdm6b	Eukaryota
+Rel	Bilateria
+Angptl2	Bilateria
+Dll3	Eukaryota
+Mmp14	Eukaryota
+Cyp21a1	cellular organisms
+Ptgs2	Eukaryota
+Khdrbs1	Eukaryota
+Suz12	Eukaryota
+Nanog	Eukaryota
+Vtn	Bilateria
+Epb42	Amniota
+Ddb2	Eukaryota
+Mapk8	cellular organisms
+Rnf144a	Eukaryota
+Cd38	Euarchontoglires
+Ivl	Euarchontoglires
+Srd5a2	Eukaryota
+Fxyd2	Boreoeutheria
+Egf	Eukaryota
+Ggps1	cellular organisms
+Zfp513	Bilateria
+Trp53bp1	Bilateria
+Tfap2c	Bilateria
+Six5	Bilateria
+Tlx2	Bilateria
+Ccl2	Amniota
+Mnx1	Bilateria
+Tnp1	Boreoeutheria
+Sod2	cellular organisms
+Foxg1	Opisthokonta
+Lyl1	Bilateria
+Irf7	Amniota
+Med8	Bilateria
+Clu	Boreoeutheria
+Adora1	Bilateria
+Capn2	Eukaryota
+Dpagt1	cellular organisms
+Hoxd4	Bilateria
+Dido1	Eukaryota
+Mecp2	Euarchontoglires
+Timp3	Bilateria
+Ovol2	Bilateria
+Il27	Euarchontoglires
+Cyp24a1	cellular organisms
+Cyp4a12a	cellular organisms
+Rps6ka1	Eukaryota
+Rfx3	Opisthokonta
+Cdk5r2	Bilateria
+Id4	Bilateria
+Klf5	Opisthokonta
+Pax1	Bilateria
+Lbx1	Eukaryota
+Ifitm5	Euarchontoglires
+Gsta2	Eukaryota
+Ung	cellular organisms
+Egfr	Eukaryota
+Ldb1	Bilateria
+Bmp7	Bilateria
+Irx5	Eukaryota
+Tbx6	Bilateria
+Ppard	Bilateria
 Vegfd	Euteleostomi
-Ofd1	Euteleostomi
+Tcf12	Bilateria
+Oscar	Boreoeutheria
+Sgcg	Boreoeutheria
+B4galnt1	Euarchontoglires
+Zfp488	Euarchontoglires
+Cish	Eukaryota
+Zeb2	Bilateria
+Gabpa	Bilateria
+Neurod1	Bilateria
+Pitx3	Eukaryota
+Cdk6	Eukaryota
+Dlx3	Bilateria
+Pou5f1	Bilateria
+Taf12	Eukaryota
+Crtc2	Tetrapoda
+Aldh1a1	cellular organisms
+Dusp6	Eukaryota
+Casp3	Bilateria
+Dnmt3a	Eukaryota
+Vegfa	Euteleostomi
+Cyp27a1	cellular organisms
+Mcm2	cellular organisms
+Cyp2b10	cellular organisms
+Myom1	Bilateria
+Plod1	Eukaryota
+Smoc2	Boreoeutheria
+Acta1	Eukaryota
+Mvk	Eukaryota
+Mxd1	Bilateria
+Pea15a	Euarchontoglires
+Klkb1	Bilateria
+Rps6kb1	Eukaryota
+Sigmar1	Eukaryota
+Eif4e	Eukaryota
+Fpr1	Bilateria
+Sox17	Eukaryota
+Cidea	Boreoeutheria
+Yap1	Eukaryota
+Ppig	cellular organisms
+Mtf2	Eukaryota
+Dmd	Eukaryota
+Mtf1	Bilateria
+Entpd1	Eukaryota
+Gtse1	Euarchontoglires
+Bmp2	Bilateria
+Sp2	Opisthokonta
+Mxd3	Bilateria
+Mpz	Tetrapoda
+Neurog3	Bilateria
+Pou2f1	Bilateria
+Klf3	Opisthokonta
+Trp53inp1	Euarchontoglires
+Samd7	Bilateria
+Dlk1	Eukaryota
+Mmp10	Eukaryota
+Jmjd1c	Eukaryota
+Tet2	Bilateria
+Cldn5	Euteleostomi
+Cox17	Eukaryota
+Crh	Boreoeutheria
+Sema3c	Bilateria
+Bsx	Eukaryota
+Hbb-y	Euteleostomi
+Elp2	Eukaryota
+Glrx	cellular organisms
+Ncf4	Eukaryota
+H2-DMb1	Euteleostomi
+Taf9	Eukaryota
+Aatk	Eukaryota
+Pecam1	Bilateria
+Bmi1	Eukaryota
+Hmbs	cellular organisms
+Gli2	Eukaryota
+Hmgcr	cellular organisms
+Hlx	Eukaryota
+Bcr	Eukaryota
+Ctgf	Amniota
+Banp	Euteleostomi
+Col1a2	Bilateria
+Fasn	cellular organisms
+Serpine1	cellular organisms
+Myocd	Boreoeutheria
+Shroom3	Bilateria
+Ptafr	Bilateria
+Timp1	Bilateria
+Ube2i	Eukaryota
+Sfpq	Eukaryota
+Ddx58	cellular organisms
+Mnt	Bilateria
+Ehmt2	cellular organisms
+Krt5	Bilateria
+Rarres2	Boreoeutheria
+Phex	Bilateria
+Sema6a	Bilateria
+Sp1	Opisthokonta
+Herpud1	Euteleostomi
+Cox4i1	Opisthokonta
+Star	Bilateria
+Setbp1	Euarchontoglires
+Kif26b	Eukaryota
+Gata3	Eukaryota
+Aqp5	cellular organisms
+Dcx	Eukaryota
+Ppp2ca	Eukaryota
+Sox10	Eukaryota
+Mgp	Amniota
+Etv5	Bilateria
+Mesp2	Bilateria
+Lep	Amniota
+Per1	Bilateria
+Fgf23	Euteleostomi
+Actc1	Eukaryota
+Rhox5	Murinae
+Itgb4	Eukaryota
+S100a9	Amniota
+Adora2a	Bilateria
+Fgf8	Bilateria
+Il13	Boreoeutheria
+Phox2b	Eukaryota
+Cd47	Boreoeutheria
+Ppm1a	Eukaryota
+Jund	Eukaryota
+Cyp17a1	cellular organisms
+Il33	Euarchontoglires
+Gh	Euteleostomi
+Stra8	Euarchontoglires
+Rapsn	Bilateria
+Batf	Euteleostomi
+Eya2	Eukaryota
+Nrgn	Boreoeutheria
+Il7	Boreoeutheria
+Foxp3	Opisthokonta
+Ilf3	Bilateria
+Phb	Eukaryota
+Itm2a	Amniota
+Hoxb2	Bilateria
+Gzmb	Bilateria
+Wnt5a	Bilateria
+Tyrp1	Bilateria
+Smyd1	Eukaryota
+Barx2	Bilateria
+Pld2	Eukaryota
+Rbpjl	Opisthokonta
+Nfya	Eukaryota
+Hnf1b	Euteleostomi
+Csn1s1	Boreoeutheria
+Smarca5	cellular organisms
+Gypa	Euarchontoglires
+Lgals4	Bilateria
+Cidec	Boreoeutheria
+Cpt1b	Opisthokonta
+Aif1	Eukaryota
+Lrrc10	Eukaryota
+Sall2	Opisthokonta
+Scgb3a1	Euarchontoglires
+Cxcl11	Euteleostomi
+Fosl2	Amniota
+Opn1sw	Bilateria
+Adamts16	Bilateria
+Serpine2	cellular organisms
+Dnmt3b	Eukaryota
+Ifngr1	Boreoeutheria
+Abcc2	cellular organisms
+Aldh3a2	cellular organisms
+Zeb1	Bilateria
+Atn1	Euarchontoglires
+Xpc	Eukaryota
+Ell3	Bilateria
+Cpt1a	Opisthokonta
+Gfi1	Bilateria
+E2f2	Eukaryota
+Adora2b	Bilateria
+Pirb	Boreoeutheria
+Bak1	Euteleostomi
+Wnt9a	Bilateria
+Ciita	Boreoeutheria
+Ikzf1	Opisthokonta
+Gclm	Eukaryota
+Il6st	Bilateria
+Sirt1	cellular organisms
+Cd1d1	Amniota
+Sim2	Bilateria
+Il12b	Amniota
+Ddit4	Bilateria
+Mdm4	Euteleostomi
+Lmo3	Bilateria
+Ifi202b	Euarchontoglires
+B3gat1	Eukaryota
+Nlrp2	Eukaryota
+Hadh	cellular organisms
+Dbh	Bilateria
+Rag2	Euteleostomi
+Alx4	Eukaryota
+Aes	Bilateria
+Xrcc6	Eukaryota
+Irf2	Amniota
+Tgfb1	Bilateria
+Clcn7	Eukaryota
+Lama4	Bilateria
+Bcl9l	Euteleostomi
+Sox8	Eukaryota
+Cdk4	Eukaryota
+Cdx2	Bilateria
+Ch25h	Eukaryota
+Zfp57	Bilateria
+C1qbp	Opisthokonta
+Alx3	Eukaryota
+Abcd2	cellular organisms
+Pde3b	Eukaryota
+Bub3	Eukaryota
+Abl2	Eukaryota
+H2-Ob	Euteleostomi
+E4f1	Bilateria
+Pdgfra	Eukaryota
+Jak1	Eukaryota
+Lin28a	cellular organisms
+Scarb1	Eukaryota
+Cflar	Bilateria
+Klf4	Opisthokonta
+Slc5a1	cellular organisms
+Ikbkb	cellular organisms
+Angpt2	Bilateria
+Gadd45b	Boreoeutheria
+Tmbim6	Eukaryota
+Acsl4	cellular organisms
+Relb	Bilateria
+Ube2k	Eukaryota
+Ccl11	Amniota
+Fhl2	Eukaryota
+E2f4	Eukaryota
+Rrm2b	cellular organisms
+Bin1	Opisthokonta
+Epha7	Eukaryota
+Gdf5	Bilateria
+Bsg	Bilateria
+Jak3	Eukaryota
+Hey2	Bilateria
+Fam89b	Boreoeutheria
+Nectin4	Bilateria
+Mab21l2	Bilateria
+Nrp1	Bilateria
+Elf4	Bilateria
+Celsr3	Bilateria
+Clcnkb	Eukaryota
+Dkk3	Amniota
+Prl	Euteleostomi
+Ep300	Eukaryota
+Zfpm2	Bilateria
+Mef2d	Eukaryota
+Hcfc1	Eukaryota
+Zic3	Opisthokonta
+Mertk	Eukaryota
+Htr2c	Bilateria
+Gfi1b	Bilateria
+Nphs2	cellular organisms
+Batf3	Euteleostomi
+Lgals1	Bilateria
+Dntt	Eukaryota
+Aire	Eukaryota
+Tardbp	Eukaryota
+Vsx1	Eukaryota
+Kcnip3	Eukaryota
+Atp6v1e1	Eukaryota
+Abcb1a	cellular organisms
+Gtf2h1	Eukaryota
+Pdgfrb	Eukaryota
+Dmrt3	Bilateria
+Syt1	Eukaryota
+Edil3	Eukaryota
+Tph1	cellular organisms
+Cdk2	Eukaryota
+Slc5a2	cellular organisms
+Trps1	Opisthokonta
+Irs1	Bilateria
+Notum	Eukaryota
+Zfp148	Bilateria
+Pbrm1	Eukaryota
+Mecom	Bilateria
+Hoxb1	Bilateria
+Snd1	Eukaryota
+Tgfb1i1	Eukaryota
+Ptpro	Eukaryota
+Mapk8ip1	Bilateria
+Bace1	Eukaryota
+Ogg1	cellular organisms
+Mapk3	Eukaryota
+E2f3	Eukaryota
+Lpin1	Eukaryota
+Ager	Bilateria
+Col11a2	Bilateria
+Mllt3	Eukaryota
+Rxra	Bilateria
+Cyp19a1	cellular organisms
+Fgf18	Bilateria
+Robo2	Bilateria
+Fgfr2	Eukaryota
+Cdh15	Bilateria
+Tlx1	Bilateria
+Smarcd3	Eukaryota
+Hdgf	Eukaryota
+Acmsd	Eukaryota
+Riox2	cellular organisms
+Sirt6	cellular organisms
+Ctcf	Bilateria
+Itga2b	Eukaryota
+Hoxa11	Eukaryota
+Icam2	Boreoeutheria
+Etv6	Bilateria
+Nono	Eukaryota
+Ldhb	cellular organisms
+Mgmt	cellular organisms
+Mc2r	Bilateria
+Atf4	Euteleostomi
+Atp2a2	cellular organisms
+Ephb2	Eukaryota
 Amelx	Theria
+Gpr143	Euarchontoglires
+Slc7a5	cellular organisms
+Fcgr3	Boreoeutheria
+Akr1b7	cellular organisms
+Dmbx1	Eukaryota
+Ripk2	Eukaryota
+Neurod4	Bilateria
+Stat5b	Eukaryota
+Mta1	Bilateria
+Hes1	Bilateria
+Furin	cellular organisms
+Mov10l1	cellular organisms
+Lhx9	Eukaryota
+Tinagl1	Eukaryota
+Nr0b1	Bilateria
+Csf1r	Eukaryota
+Cebpb	Bilateria
+Neurod6	Bilateria
+Itpr1	Eukaryota
+Mybbp1a	Opisthokonta
+Mixl1	Eukaryota
+Mpl	Euarchontoglires
+Cdc73	Eukaryota
+Tead2	Opisthokonta
+Tob1	Eukaryota
+Hspb1	Bilateria
+Bid	Amniota
+Il9	Euarchontoglires
+Pdcd1lg2	Boreoeutheria
+Rbpj	Opisthokonta
+Il21	Boreoeutheria
+Cxcl13	Amniota
+Fcgr2b	Boreoeutheria
+Slc1a2	cellular organisms
+Bub1	Eukaryota
+Ins2	Euteleostomi
+Abca3	cellular organisms
+Bmp5	Bilateria
+Casp7	Bilateria
+Kdr	Eukaryota
+Hic1	Bilateria
+Klrb1c	Eukaryota
+Zim1	Euteleostomi
+Setdb1	Eukaryota
+Csf3r	Bilateria
+Top3a	cellular organisms
+Plppr4	Eukaryota
+Nppa	Amniota
+Bcl2l1	Euteleostomi
+Wnt11	Bilateria
+Kcnn4	Bilateria
+Itga7	Eukaryota
+Crabp1	Bilateria
+Dnmt3l	Amniota
+Sufu	Euarchontoglires
+Zfp131	Bilateria
+Ldhd	cellular organisms
+Cdh2	Bilateria
+Ptprc	Eukaryota
+Il2rb	Euarchontoglires
+Csrp1	Eukaryota
+Mmp1a	Eukaryota
+Zfp385a	Euteleostomi
+Fbn2	Bilateria
+Ntrk1	Eukaryota
+Odf2	Bilateria
+Akr1b3	cellular organisms
+Fli1	Bilateria
+Il10	Amniota
+Hrk	Euarchontoglires
+Adcyap1r1	Bilateria
+Pemt	Eukaryota
+Ncmap	Euarchontoglires
+Mast1	Eukaryota
+Tal1	Bilateria
+Nox1	Eukaryota
+Nkx2-5	Bilateria
+Alpl	cellular organisms
+Chrna7	cellular organisms
+Hoxb6	Eukaryota
+Cyp1b1	cellular organisms
+Rbl2	Eukaryota
+Prnd	Boreoeutheria
+Hrh4	Bilateria
+Pou3f4	Opisthokonta
+Asah1	Eukaryota
+Myh11	Eukaryota
+Epha5	Eukaryota
+Tbp	cellular organisms
+Fn1	Bilateria
+Ptgs1	Eukaryota
+Insr	Eukaryota
+Cops5	Eukaryota
+Cxadr	Euteleostomi
+Vax2	Eukaryota
+C1qtnf3	Euteleostomi
+Nepn	Eukaryota
+Junb	Opisthokonta
+Mcl1	Amniota
+Ifng	Amniota
+Cald1	Amniota
+Igfbp5	Euteleostomi
+Gria2	Eukaryota
+Ewsr1	Eukaryota
+Csf2	Boreoeutheria
+Cfb	Bilateria
+Calb2	Eukaryota
+Twist2	Bilateria
+Insm2	Bilateria
+Ncam1	Bilateria
+Ncoa3	Bilateria
+Il11	Euarchontoglires
+Tcfl5	Euarchontoglires
+Cyp3a11	cellular organisms
+Max	Eukaryota
+Ttf2	cellular organisms
+Ing4	Eukaryota
+Tslp	Euarchontoglires
+Sh3gl1	Eukaryota
+Kdm5c	Eukaryota
+Nr4a3	Bilateria
+Myef2	Eukaryota
+Pex11a	Eukaryota
+Lhb	Amniota
+Il4	Boreoeutheria
+Ccl9	Amniota
+Wwp2	Eukaryota
+Rfx1	Opisthokonta
+Cox6a1	Eukaryota
+Pik3ca	Eukaryota
+Pik3r1	Eukaryota
+Sh2d1a	Bilateria
+Thy1	Amniota
+Parg	Eukaryota
+Cdx1	Bilateria
+Bach2	Bilateria
+Unc5b	Bilateria
+Shc1	Eukaryota
+Ins1	Euteleostomi
+Lcn2	Amniota
+Pitx2	Eukaryota
+Vcam1	Bilateria
+Tnnc1	Eukaryota
+Cd40	Amniota
+Ehf	Bilateria
+Flt4	Eukaryota
+Pcgf2	Eukaryota
+Mesp1	Bilateria
+Irf8	Amniota
+Nedd9	Eukaryota
+Tnfsf13b	Euarchontoglires
+Lpar2	Bilateria
+Dyrk1a	Eukaryota
+Hr	Eukaryota
+Ngfr	Amniota
+Ndp	Boreoeutheria
+Nfatc1	Amniota
+Pklr	cellular organisms
+Csrp2	Eukaryota
+App	Bilateria
+Ihh	Bilateria
+Fgf16	Bilateria
+Cyp1a2	cellular organisms
+Amh	Bilateria
+Mttp	Bilateria
+Spdef	Bilateria
+Pitx1	Eukaryota
+Ptgds	Amniota
+Meis2	Eukaryota
+Rab18	Eukaryota
+Sp7	Opisthokonta
+Hif1a	Bilateria
+Upp1	cellular organisms
+Il12rb2	Bilateria
+Id2	Bilateria
+Ldb2	Bilateria
+Cyp2a4	cellular organisms
+Pola1	cellular organisms
+Dlc1	Eukaryota
+Zfp819	Euteleostomi
+Tk1	cellular organisms
+Ptma	Boreoeutheria
+Aldh3a1	cellular organisms
+Il6ra	Amniota
+Mkl1	Boreoeutheria
+Foxj1	Opisthokonta
+Eya1	Eukaryota
+Smad5	Bilateria
+Ugt1a6a	cellular organisms
+Ncf1	Eukaryota
+Hnf1a	Bilateria
+Nfkbiz	Eukaryota
+Adam8	Opisthokonta
+Pnmt	Bilateria
+Egr4	Opisthokonta
+Dmap1	Eukaryota
+Sstr2	Bilateria
+Rac2	Eukaryota
+Tgfbr2	Eukaryota
+Lpl	Bilateria
+Slc39a10	Eukaryota
+Plaur	Boreoeutheria
+Ctla4	Amniota
+Igf1	Euteleostomi
+Insig1	Opisthokonta
+Casz1	Bilateria
+Hmga1	Euarchontoglires
+Zbtb2	Bilateria
+Bdnf	Euteleostomi
+Smarca2	cellular organisms
+Gata6	Opisthokonta
+Cdkn2a	Eukaryota
+Gjd2	Euteleostomi
+Pltp	Eukaryota
+Slc25a20	Eukaryota
+Ncoa5	Euarchontoglires
+Hoxc6	Eukaryota
+Fus	Eukaryota
+Sp3	Opisthokonta
+Pias3	Eukaryota
+Hbb-b1	Euteleostomi
+Otx2	Eukaryota
+Cxcr2	Bilateria
+H2-Aa	Euteleostomi
+Ptdss1	Eukaryota
+Trib3	Eukaryota
+Pias1	Eukaryota
+Nfkbib	cellular organisms
+Panx3	Euarchontoglires
+Clock	Bilateria
+Slc1a4	cellular organisms
+Creb3	Eukaryota
+Ltc4s	Boreoeutheria
+Gja5	Euteleostomi
+Kcna5	cellular organisms
+Irf5	Amniota
+Map1b	Bilateria
+Sp8	Opisthokonta
+Cks1b	Eukaryota
+Tlr13	Eukaryota
+Vezf1	Bilateria
+Dpf3	Eukaryota
+Notch2	Eukaryota
+Ocln	Tetrapoda
+Ncor1	Eukaryota
+Inpp5d	Eukaryota
+Oprm1	Bilateria
+Slc9a3	cellular organisms
+Tff2	Boreoeutheria
+Myo6	Eukaryota
+Comp	Eukaryota
+Emx2	Bilateria
+Nfil3	Bilateria
+Tapbp	Amniota
+Jun	Opisthokonta
+Pou2af1	Boreoeutheria
+Kif12	Eukaryota
+Atf1	Bilateria
+Bcl2a1d	Amniota
+Ache	cellular organisms
+Txnip	Opisthokonta
+Pitrm1	Eukaryota
+Steap3	Euarchontoglires
+Lmo7	Eukaryota
+Nupr1	Euarchontoglires
+Havcr2	Euarchontoglires
+Il5ra	Amniota
+Adra2b	Bilateria
+Ikzf2	Opisthokonta
+Sox6	Eukaryota
+Ccr7	Bilateria
+Sox5	Eukaryota
+Edem1	Eukaryota
+Trim24	Eukaryota
+Hdac3	cellular organisms
+Fgf9	Bilateria
+Dspp	Euarchontoglires
+Cdkn1a	Euarchontoglires
+Bcl6	Bilateria
+Map2	Boreoeutheria
+Elmo1	Eukaryota
+Ddit3	Boreoeutheria
+Stat3	Eukaryota
+Kat5	Eukaryota
+Prdm5	Euteleostomi
+Tank	Euarchontoglires
+Ing1	Eukaryota
+Src	Eukaryota
+AI467606	Euarchontoglires
+Cdh17	Bilateria
+Prdm1	Bilateria
+Arg2	cellular organisms
+Cebpg	Bilateria
+Phlpp1	Eukaryota
+Cfdp1	Opisthokonta
+Etv2	Bilateria
+Pck1	cellular organisms
+Fgf20	Bilateria
+Wt1	Opisthokonta
+Car1	Eukaryota
+Anpep	cellular organisms
+Il1a	Boreoeutheria
+Scn8a	Opisthokonta
+Sult1a1	Eukaryota
+Sftpb	Amniota
+Cxcr4	Bilateria
+Adcy4	Eukaryota
+Ccnd2	Eukaryota
+Wwp1	Eukaryota
+Slc15a1	cellular organisms
+Lhx2	Eukaryota
+Reg3g	Amniota
+Hras	Eukaryota
+Cbx6	Bilateria
+Ash1l	Eukaryota
+Axin2	Bilateria
+Acp5	Eukaryota
+Ucp1	Eukaryota
+Stat2	Eukaryota
+Wwtr1	Opisthokonta
+Tfcp2l1	Bilateria
+Kat2b	Eukaryota
+Egr3	Opisthokonta
+Ctf1	Euarchontoglires
+Slc8a3	cellular organisms
+Scnn1a	Bilateria
+Cadm1	Bilateria
+Slc10a1	cellular organisms
+Rara	Bilateria
+Pf4	Amniota
+Prkce	Eukaryota
+Npat	Euarchontoglires
+Stat5a	Eukaryota
+Plk3	Eukaryota
+Runx1t1	Bilateria
+Tcf21	Bilateria
+Hdac2	cellular organisms
+Sost	Amniota
+Smad1	Bilateria
+Nodal	Bilateria
+Rnd2	Eukaryota
+Nqo1	cellular organisms
+Fbxo32	Boreoeutheria
+Pcp4	Boreoeutheria
+Nab1	Bilateria
+Muc5ac	Bilateria
+Gtf2a2	Eukaryota
+St18	Bilateria
+Lama1	Bilateria
+Tbx5	Bilateria
+Rnf2	Eukaryota
+Chek2	Eukaryota
+Gcgr	Bilateria
+Sox15	Eukaryota
+Fam161a	Tetrapoda
+Hinfp	Opisthokonta
+Plagl2	Euteleostomi
+Ccna2	Eukaryota
+Ctcfl	Euteleostomi
+Dsg4	Bilateria
+Epc1	Opisthokonta
+Kctd13	Eukaryota
+Ppp1r16a	cellular organisms
+Uhrf1	Eukaryota
+Grin2b	Eukaryota
+Il17f	Boreoeutheria
+Slc51b	Boreoeutheria
+Slc25a4	Eukaryota
+Cacna1h	Eukaryota
+Zfp13	Boreoeutheria
+Pnn	Opisthokonta
+Cdc6	cellular organisms
+Xiap	Eukaryota
+Foxe1	Opisthokonta
+Mrc1	Bilateria
+Foxa1	Opisthokonta
+Rag1	Opisthokonta
+Vegfc	Euteleostomi
+Il31	Euarchontoglires
+Eif4g3	Eukaryota
+Prdm13	Opisthokonta
+Pet1	Bilateria
+Sqle	cellular organisms
+Zfp42	Eukaryota
+Map4	Boreoeutheria
+Wnt8b	Bilateria
+Pknox1	Eukaryota
+Nkx2-3	Bilateria
+Cryaa	Bilateria
+Ostm1	Euarchontoglires
+Trrap	Eukaryota
+Fcer2a	Euteleostomi
+Tfap2b	Bilateria
+Auts2	Euarchontoglires
+Nefl	Bilateria
+Add2	cellular organisms
+Ppp1r13l	Eukaryota
+Paqr7	Eukaryota
+Phf12	Eukaryota
+Mafg	Euteleostomi
+Eed	Eukaryota
+Klf1	Eukaryota
+Cd8a	Boreoeutheria
+Cdk5r1	Bilateria
+Pcsk9	cellular organisms
+Foxn1	Opisthokonta
+Eno1	cellular organisms
+Pth	Amniota
+Rif1	Opisthokonta
+Ern1	cellular organisms
+Kiss1	Euarchontoglires
+Pml	Boreoeutheria
+Ebf3	Bilateria
+Eln	Boreoeutheria
+Arr3	Bilateria
+Abcb4	cellular organisms
+Elf1	Euteleostomi
+Spp1	Boreoeutheria
+Mbp	Amniota
+Tlr11	Bilateria
+Rad51	cellular organisms
+Me1	Bilateria
+Ccl21b	Amniota
+Hcn4	Eukaryota
+Rax	cellular organisms
+Rs1	Euarchontoglires
+Phf2	Eukaryota
+Aldh1a7	cellular organisms
+Cnr1	Bilateria
+Grin1	cellular organisms
+Psap	Eukaryota
+F3	Amniota
+Adamts1	Bilateria
+Cdh1	Eukaryota
+Ang2	Euteleostomi
+Spag6	Eukaryota
+Bax	Euteleostomi
+Prdx6	cellular organisms
+Gjc1	Euteleostomi
+Tnc	Eukaryota
+F11	Bilateria
+Grip1	Bilateria
+Sag	Eukaryota
+Ghr	Boreoeutheria
+Sf1	Bilateria
+Arx	Bilateria
+Tal2	Bilateria
+Sst	Amniota
+Elf3	Eukaryota
+Nat2	cellular organisms
+Sox21	Eukaryota
+Slc7a1	cellular organisms
+Lor	Eukaryota
+Gcm1	Bilateria
+Crp	Bilateria
+Ran	Eukaryota
+Ptges	Boreoeutheria
+Cck	Amniota
+Rgs16	Bilateria
+Ms4a2	Boreoeutheria
+Elk3	Bilateria
+Zfp36	Eukaryota
+Tpr	Eukaryota
+Dcc	cellular organisms
+Pvr	Bilateria
+Rlf	Boreoeutheria
+Add1	Eukaryota
+Duox2	Eukaryota
+Lif	Boreoeutheria
+Birc3	Eukaryota
+Hlf	Bilateria
+Cr2	Bilateria
+Raf1	Amniota
+Tpt1	Eukaryota
+Tcf3	Bilateria
+Ccr9	Bilateria
+Tpo	Euarchontoglires
+Sis	Boreoeutheria
+Mitf	Boreoeutheria
+Ubc	Eukaryota
+Ski	Euteleostomi
+Spic	Bilateria
+Dusp4	Eukaryota
+H2-K1	Amniota
+Rbmx	Eukaryota
+Prox1	Bilateria
+Csl	cellular organisms
+Bach1	Bilateria
+Met	Eukaryota
+Cad	cellular organisms
+Prg2	Eukaryota
+Klf16	Opisthokonta
+Trf	Euteleostomi
+Pcp2	Eukaryota
+Rbp4	Amniota
+Lcn5	Amniota
+Rho	Bilateria
+Pdx1	Bilateria
+Tns1	Euteleostomi
+Pgf	Boreoeutheria
+Birc2	Eukaryota
+Osr1	Opisthokonta
+Selp	Euteleostomi
+Erf	Bilateria
+Polk	Eukaryota
+P2ry10	Bilateria
+Cer1	Tetrapoda
+Syp	Eukaryota
+Dmp1	Boreoeutheria
+Fas	cellular organisms
+Myc	Opisthokonta
+Hgf	Bilateria
+Cga	Boreoeutheria
+Mafa	Euteleostomi
+Sprr2a1	Eukaryota
+Epo	Euteleostomi
+Chd7	cellular organisms
+Fbp1	cellular organisms
+Ngb	cellular organisms
+Med1	Eukaryota
+Pkd1	cellular organisms
+Cd36	Eukaryota
+Peg3	Eukaryota
+Agt	cellular organisms
+Fbp2	cellular organisms
+Hsd3b4	cellular organisms
+Csn2	Boreoeutheria
+Hdac4	cellular organisms
+Ar	Amniota
+Ptx3	Euteleostomi
+Pag1	cellular organisms
+Mia	Amniota
+Mga	Bilateria
+Id3	Bilateria
+Deaf1	Bilateria
+Tcf4	Opisthokonta
+Elk1	Bilateria
+Nrl	Amniota
+Sp5	Boreoeutheria
+Dbp	Bilateria
+Blk	Eukaryota
+Tg	cellular organisms
+Nos2	cellular organisms
+Tec	Eukaryota
+Srebf1	Eukaryota
+Mip	cellular organisms
+Mme	Eukaryota
+Nos3	cellular organisms
+Kdm2a	Eukaryota
+Zfp64	Euteleostomi
+Tbx1	Bilateria
+Gck	Eukaryota
+Vdr	Bilateria
+Nrf1	Bilateria
+Cat	Eukaryota
+Pdk1	cellular organisms
